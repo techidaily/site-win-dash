@@ -1,7 +1,7 @@
 ---
 title: "Brother's MFC-L2690DW Printer: Download the Most Recent Driver Update Today"
-date: 2024-08-06 11:50:38
-updated: 2024-08-07 11:22:29
+date: 2024-08-06T09:53:47.437Z
+updated: 2024-08-07T09:53:47.437Z
 tags:
   - win11
   - win10
@@ -22,6 +22,9 @@ If you’re right here with this post, you’re probably looking for the correct
 1. [**Download the latest driver from KODAK website manually**](https://tools.techidaily.com/drivereasy/download/)
 2. **[Update KODAK printer driver via Driver Easy automatically](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 1: Download the latest driver from KODAK website manually
 
  1) Go to[KODAK drivers download](https://support.en.kodak.com/app/answers/list/c/890/selected/true) website.  
@@ -32,14 +35,23 @@ If you’re right here with this post, you’re probably looking for the correct
 
 3) Click the result title.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964547a6e797.png)
 
  4) Click**Download** .
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59646b49d2a5f.png)
 
  5) After it’s done, double-click the downloaded .exe file. Go on to follow the on-screen instructions to install the driver on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2: Update KODAK printer driver via Driver Easy automatically
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **Driver Easy** .
@@ -52,10 +64,16 @@ If you’re right here with this post, you’re probably looking for the correct
 
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59645009b2fe2.jpg)
 
 3) C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59644712ce2ca.jpg)
 
  Note: You can do it for free if you like, but it’s partly manual.

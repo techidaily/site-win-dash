@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Updating Your Synaptics PS/2 Touchpad Driver Made Simple"
-date: 2024-08-03 19:11:13
-updated: 2024-08-06 10:20:32
+date: 2024-08-06T09:53:56.347Z
+updated: 2024-08-07T09:53:56.347Z
 tags:
   - win11
   - win10
@@ -43,10 +43,16 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-226.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-226.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Synaptics PS/2 Port Touchpad driver for now, simply click the**Update** button next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-227.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -59,6 +65,10 @@ OR
 
  If you feel like updating your Synaptics PS/2 Port Touchpad driver manually, here’s the simple and useful guide for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Update your driver via official websites
 
  Synaptics have made an announcement on their official website that the corresponding drivers for TouchPad devices are “customized and supported by notebook manufacturers to meet specific driver requirements for their individual products.” So if you want to download the driver from official websites and then install it by yourself, you’ll need to visit the site of your notebook manufacturer. For instance, if you’re using a Dell laptop, you should go directly to Dell’s website and download the driver from it.
@@ -71,14 +81,23 @@ Here’re the steps to update your driver via Device Manager:
 
  1) Press the**Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Then type **devmgmt.msc**  and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13.png)
 
  2) Here comes the window of**Device Manager** . Double-click on the**Mice and other pointing devices** category to expand its drop-down list. Then right-click**Synaptics PS/2 Port Touchpad** .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-230.png)
 
  3) In the context menu of Synaptics PS/2 Port Touchpad, select**Update driver** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-231.png)
 
  4) Click**Search automatically for updated driver software** .

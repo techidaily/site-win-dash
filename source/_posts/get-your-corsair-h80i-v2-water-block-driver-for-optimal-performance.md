@@ -1,7 +1,7 @@
 ---
 title: Get Your Corsair H80I-V2 Water Block Driver for Optimal Performance
-date: 2024-08-04 12:31:52
-updated: 2024-08-07 12:51:20
+date: 2024-08-06T09:53:43.276Z
+updated: 2024-08-07T09:53:43.276Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ As you probably know, it is very important to keep the drivers up-to-date. For o
 
  If you are looking**the drivers for your Acer Predator Helios 300 gaming laptop** , you’ve come to the right place! In this post, we are showing you 2 methods to help you get the latest Acer Predator Helios 300 drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 options to update Acer Predator Helios 300 drivers
 
  There are two ways you can update the drivers for your Acer Predator Helios 300 laptop:
@@ -31,6 +34,9 @@ As you probably know, it is very important to keep the drivers up-to-date. For o
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Update Acer Predator Helios 300 drivers automatically
 
  If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -55,6 +61,10 @@ As you probably know, it is very important to keep the drivers up-to-date. For o
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Option 2: Update Acer Predator Helios 300 drivers manually
 
  Acer keeps updating drivers. To get them, you need to go to Acer’s official website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
@@ -63,16 +73,25 @@ Here’s how to do it:
 
  1) Go to **[Acer’s official website](https://www.acer.com/ac/en/US/content/home)**  , hover your mouse over**SUPPORT** and click**Drivers and Manuals** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-688-1024x347.png)
 
  2) Under**Identify your Acer Device** section, type**Predator G3-571** , then**Predator Helios 300 > Predator G3-571** will pop up as a prediction result, select on**Predator Helios 300 > Predator G3-571** .
 
 **Predator Helios 300** is listed as**Predator G3-571** in Acer’s official website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-690.png)
 
  3) On the drivers page, make sure the right OS is selected, then browse the drivers list and choose the ones that need updating to download.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-691-1024x645.png)
 
  4) Double click on the downloaded file and follow the on-screen wizard to finish the install.

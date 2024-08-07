@@ -1,7 +1,7 @@
 ---
 title: Download Corsair K70 Mouse Drivers & Software - Latest Version Available
-date: 2024-08-06 15:21:16
-updated: 2024-08-07 11:14:16
+date: 2024-08-06T09:53:52.961Z
+updated: 2024-08-07T09:53:52.961Z
 tags:
   - win11
   - win10
@@ -19,12 +19,18 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
  One day when you were playing games, your Corsair K70 RGB mechanical gaming keyboard stopped working, it could be frustrating. To make your K70 work again, you can download and install the latest iCUE driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What’s iCUE driver?  
 
  iCUE drive stands for Intelligent Corsair Utility Engine. It’s a powerful software that connects all your compatible Corsair products together in a single interface. You can use it to control the performance of your Corsair devices, such as Corsair keyboards, mice, headsets. For keyboard, you can control the lighting and custom actions and macros.  
 
  If your K70 gaming keyboard doesn’t work properly, for example, the lighting doesn’t work, you can reinstall the iCUE driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download and install iCUE driver  
 
  You can go to Corsair’s website to download and install the iCUE driver. Note the steps may be different if the design on the website was changed.  
@@ -33,14 +39,23 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
  2) Select**GAMING KEYBOARDS** from the drop-down menu of**SELECT CATEGORY** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-81.png)
 
  3)**Enter ‘k70’** in the SEARCH box, and press**Enter** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-82.png)
 
  4) Click the download button next to iCUE to download the driver software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-83.png)
 
  5) Double-click on the downloaded file and follow the on-screen instructions to install the software.  
@@ -57,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
  3) Click the**Update** button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).

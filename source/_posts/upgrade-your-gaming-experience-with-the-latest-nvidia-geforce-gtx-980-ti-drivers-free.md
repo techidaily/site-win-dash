@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Gaming Experience with the Latest Nvidia GeForce GTX 980 Ti Drivers - Free
-date: 2024-08-05 13:48:49
-updated: 2024-08-07 12:47:54
+date: 2024-08-06T09:53:38.230Z
+updated: 2024-08-07T09:53:38.230Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
 It’s always important to**update your graphics driver to its latest version** so as to get the most out of the graphics card (like improving screen resolution, reducing lag, preventing system crashes etc.). In this post, we’re going to show you 2 easy ways to get the latest **Nvidia** **GeForce RTX 2080 Ti** driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## To update**Nvidia** **GeForce RTX 2080 Ti driver in Windows**
 
 [**Option 1 – Automatically (Recommended)**](https://www.drivereasy.com/knowledge/geforce-rtx-2080-ti-driver-download-update-for-your-better-gaming-experience/#O1) –  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
@@ -27,6 +30,9 @@ It’s always important to**update your graphics driver to its latest version** 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Option 1: Update GeForce RTX 2080 Ti **driver**  automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -39,6 +45,9 @@ It’s always important to**update your graphics driver to its latest version** 
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-2.png)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -55,10 +64,19 @@ It’s always important to**update your graphics driver to its latest version** 
 
 1. Go to **[NVIDIA’s GeForce Driver Download](https://tools.techidaily.com/drivereasy/download/)**  .
 2. Under **Manual Driver Search** , select **GeForce** , **GeForce RTX 20 Series** ,   **GeForce RTX 2080 Ti**  accordingly. In the 4th drop-down menu, select your **variant of Windows operating system** (**Windows 10** , **64-bit**  in my case). Then click **START SEARCH** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd022aaae4b3.jpg)
 3. You’ll see a list of results pop up right under. Click **the first result**   to make sure you download the latest driver release.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023054e8a3.jpg)
 4. Click **DOWNLOAD** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd02334521ec.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 6. **Restart** your computer for the changes to take effect even if you’re not asked to.

@@ -1,7 +1,7 @@
 ---
 title: "Solved: USB Connection Issue with 260Ci Wi-Fi Adapter Drivers"
-date: 2024-08-04 15:37:50
-updated: 2024-08-07 11:36:37
+date: 2024-08-06T09:54:07.997Z
+updated: 2024-08-07T09:54:07.997Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
 ## USB Connectivity Woes? Resolve Your 260Ci WiA Driver Problem Today
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/260.jpg)
 
  If you’re having an issue with your **260ci WIA driver** in your computer, such as there’s a yellow exclamation point besides, don’t worry. We’ll help you fix the 260ci WIA driver issue in your Windows computer.
@@ -25,11 +28,17 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 2. Type **devmgmt.msc** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Right-click that device and choose**Disable** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/disable.jpg)
 4. Refresh it. You should be fine now.
 
  If you want to keep your this device in good condition and get the best possible experience, you should update your 260ci WIA driver(USB) to the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to download and update 260ci WIA driver
 
  As you should know, 260ci WIA driver is not available to download in the download center, and the manufacturer doesn’t support the driver for this product any longer. But don’t worry. There’s a workaround to fix this problem. Try these methods:
@@ -39,12 +48,18 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
 **Note** : the screenshots below come from Windows 10, and fixes apply to Windows 8.1 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Download and update 260ci WIA driver manually
 
  You can update your 260ci WIA driver via Device Manager where you can view and manage hardware devices and software drivers in your computer. Here’s what you need to do:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the **Run** box.
 2. Type **devmgmt.msc** and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Double click **Imaging devices** to expand the category.
 4. Right-click on your **260ci WIA driver** (it may be displayed as **Unknown device** ), and click **Update** **driver** .
@@ -62,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click **Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/11.jpg)
 3. Click the **Update** button next to the flagged CSR8510 A10 device to automatically download the correct version of their driver (you can do this with the **FREE** version). Then install it in your computer.  
 

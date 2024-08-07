@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Updating Your Synaptics Touchpad Drivers"
-date: 2024-08-05 10:21:42
-updated: 2024-08-07 12:36:44
+date: 2024-08-06T09:53:44.668Z
+updated: 2024-08-07T09:53:44.668Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 1: Automatically update your  
 
  Synaptics PS/2 Port Touchpad driver (recommended)
@@ -47,6 +50,9 @@ OR
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Synaptics PS/2 Port Touchpad driver for now, simply click the**Update** button next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-227.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -55,6 +61,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Option 2: Manually update your Synaptics PS/2 Port Touchpad driver
 
  If you feel like updating your Synaptics PS/2 Port Touchpad driver manually, here’s the simple and useful guide for you.
@@ -63,6 +72,9 @@ OR
 
  Synaptics have made an announcement on their official website that the corresponding drivers for TouchPad devices are “customized and supported by notebook manufacturers to meet specific driver requirements for their individual products.” So if you want to download the driver from official websites and then install it by yourself, you’ll need to visit the site of your notebook manufacturer. For instance, if you’re using a Dell laptop, you should go directly to Dell’s website and download the driver from it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Update your driver via Device Manager
 
  One of the most commonly used methods to update your driver is downloading and installing it from Device Manager. However, you should note that sometimes Windows may **fail to detect the latest (and even necessary) driver for your device** . In this way, you’ll have to search for the correct driver online or simply turn to[**Option 1**](https://tools.techidaily.com/drivereasy/download/) .
@@ -75,6 +87,9 @@ Here’re the steps to update your driver via Device Manager:
 
  2) Here comes the window of**Device Manager** . Double-click on the**Mice and other pointing devices** category to expand its drop-down list. Then right-click**Synaptics PS/2 Port Touchpad** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-230.png)
 
  3) In the context menu of Synaptics PS/2 Port Touchpad, select**Update driver** .
@@ -83,6 +98,9 @@ Here’re the steps to update your driver via Device Manager:
 
  4) Click**Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-232.png)
 
 5) Wait till the download and installation process finishes.

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Upgrade Guide: Modernizing Your SATA AHCI Controller Drivers"
-date: 2024-08-06 15:29:24
-updated: 2024-08-07 10:29:29
+date: 2024-08-06T09:53:55.946Z
+updated: 2024-08-07T09:53:55.946Z
 tags:
   - win11
   - win10
@@ -28,16 +28,37 @@ If you want to update the sound driver to fix computer no sound issues, you can 
 
 1. On your keyboard, press the**Win+R** (the Windows logo key and the R key) at the same time to invoke the run box.
 2. Type**devmgmt.msc** in the run box and click the**OK** button to open Device Manager.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a29b2e1392.png)
 3. Expand the category**Sound, video and game controllers** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a29e4b1d05.jpg)
 4. Right-click on the sound device and select**Update Driver Software** (in Windows 10, this could be**Update driver** ). The common sound device is Realtek High Definition Audio. In the example below, we update the Realtek High Definition Audio driver.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2a26e1bb4.jpg)
 5. Click**Search automatically for updated driver software** .  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2a8a55799.jpg)  
  Then Windows will search for the new driver, then automatically install it. The process just takes a few seconds.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2a7e19276.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Method 2: Download and update the audio drivers automatically
 
  If you can’t update the sound driver successfully via Device Manager, or if you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -46,6 +67,9 @@ If you want to update the sound driver to fix computer no sound issues, you can 
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Launch Driver Easy and click the **Scan Now** button. Driver Easy will detect all problem drivers instantly and provide you with new drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2aaed7a8e.jpg)
 3. Click the **Update** button next to the audio driver (for example, the Realtek audio driver), then download and install the correct version of this driver.  
 

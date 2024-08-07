@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solutions for LG Device USB Connection on PCs Running Windows 11/8/7
-date: 2024-08-06 10:55:18
-updated: 2024-08-07 10:24:21
+date: 2024-08-06T09:53:35.458Z
+updated: 2024-08-07T09:53:35.458Z
 tags:
   - win11
   - win10
@@ -44,6 +44,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  4) Click **Offline Scan** . Then select **Offline Scan (on the computer without Internet access)** and click **Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-175.png)
 
  5) Click **Browse…** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
@@ -60,6 +63,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  9) Run Driver Easy and click **Tools** in the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
  10) Click **Offline Scan** . Then select **Upload Offline Scan File (on the computer with Internet access)** and click **Continue** .
@@ -68,10 +74,16 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  11) Click **Browse…**  to locate the offline scan file. Then click **Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
 
  12) Click the **Download** button next to your network adapter driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-181.png)
 
  13) Wait until the computer completes. When it does, save the downloaded file to your USB drive and transfer it to the target computer.
@@ -89,8 +101,14 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 **Important** : If you can’t access the Internet, you might have to download the driver on an network-equipped computer first and then transfer the file to the target computer to install.
 
 1. On the keyboard of the target computer, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b50135d9ffd2.jpg)
 2. Locate and double-click on **Network adapters** to retrieve**the brand** and**model** of your network adapter.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b501322334d1.jpg)
 3. On the computer with Internet, go to the brand manufacturer’s official website and check out the**Support** section for driver downloads.
 4. Search the model of your graphics card, click the right download link for your Windows 7 OS. Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.

@@ -1,7 +1,7 @@
 ---
 title: "Latest Intel Iris Plus 655 Graphics Card Drivers: Windows 10 and 11 Supported"
-date: 2024-08-05 20:51:31
-updated: 2024-08-07 10:35:12
+date: 2024-08-06T09:53:48.831Z
+updated: 2024-08-07T09:53:48.831Z
 tags:
   - win11
   - win10
@@ -17,11 +17,17 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 It’s always important to update your Intel HD Graphics 630 driver to make sure your graphics card is working properly and improve the overall computer performance. In this post, we’re going to show you 2 easy ways to update your**Intel HD Graphics 630**  driver.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Update **Intel HD Graphics 630**  driver in Windows
 
 1. [**Update Intel HD Graphics 630 driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/update-intel-hd-graphics-630-driver-easily/#O1)
 2. [**Update Intel HD Graphics 630 driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Update**Intel HD Graphics 630 driver** automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -32,6 +38,9 @@ It’s always important to update your Intel HD Graphics 630 driver to make sure
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install**Driver Easy** .
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. Click **Update All** to automatically download and install the correct version of**All** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afd081b5fc79.jpg)
@@ -45,9 +54,18 @@ It’s always important to update your Intel HD Graphics 630 driver to make sure
  Make sure you’re using**Windows 10, 64-bit** opertating system. Because it’s the only supported Windows variant for the **Intel HD Graphics 630** .
 
 1. Go to **[Intel Download center](https://downloadcenter.intel.com/)**  .
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 2. Type **Intel HD Graphics 630**  in the search box, and click **Intel® HD Graphics 630** as it pops up as a predicted result. Then click on the **search icon ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afcfdc0ec4e1.png)**  .  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afcfce094e06.jpg)
 3. Click**the first** result in the table to make sure you download the most recent release (in my case, **Intel® Graphics Driver for Windows® 10** ).  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afcff46da7d1.jpg)
 4. Click the **.exe** file to download. Then double-click on the downloaded file and follow the on-screen instructions to finish the install.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afd23fd6d2e5.jpg)

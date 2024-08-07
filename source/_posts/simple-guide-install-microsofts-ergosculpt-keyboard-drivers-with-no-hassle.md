@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Install Microsoft's ErgoSculpt Keyboard Drivers with No Hassle"
-date: 2024-08-03 22:21:24
-updated: 2024-08-06 10:23:51
+date: 2024-08-06T09:53:49.476Z
+updated: 2024-08-07T09:53:49.476Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 
 If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found the function keys and specialty keys didn’t work, you may need to update the driver to fix it. Don’t worry, this post is going to show you how to update driver and set up as you want.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Why you need Microsoft Ergonomic keyboard 4000 drivers?
 
  Drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
@@ -25,6 +28,9 @@ If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found th
 
  That’s why when you meet problems, you need to download the related driver to solve it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download Microsoft Ergonomic keyboard 4000 drivers?
 
  There are two ways you can update your driver: manually and automatically.
@@ -40,6 +46,9 @@ OR
  You need to go to[Microsoft official website](https://www.microsoft.com/accessories/en-ca/d/natural-ergonomic-keyboard-4000) to search for the model.  
  Select the operating system you’re using and download the correct driver for your keyboard. Download and install it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/4000.jpg)
 
 #### **Option 2 – Automatically update drivers**
@@ -52,9 +61,16 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd1-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/400.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 

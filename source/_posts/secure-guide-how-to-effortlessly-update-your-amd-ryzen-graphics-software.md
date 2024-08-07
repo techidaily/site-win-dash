@@ -1,7 +1,7 @@
 ---
 title: "Secure Guide: How to Effortlessly Update Your AMD Ryzen Graphics Software"
-date: 2024-08-05 18:15:35
-updated: 2024-08-07 12:41:15
+date: 2024-08-06T09:53:39.497Z
+updated: 2024-08-07T09:53:39.497Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
  If you are wondering how and where to**update your Lenovo power management driver** , look no further! In this article, we are offering you two options to get it done, in a jiffy.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## 2 options to update Lenovo Power Management Drivers
 
  There are two ways you can update your Lenovo power management driver in Windows.
@@ -47,6 +50,9 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-48.png)
 
 4) Restart your computer for the changes to take effect.
@@ -55,6 +61,9 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Update Lenovo power management drivers manually
 
  Lenovo keeps updating drivers. To get them, you need to go to the Lenovo’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -67,6 +76,9 @@ Here is a step-by-step walkthrough:
 
  2) Scroll down to**Popular Resources** section and under Drivers & Software, click Get Downloads.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-50-1024x218.png)
 
  3) In the pop-up window, enter the model of your Lenovo laptop and press Enter. (Here Yoga 12 is used as an example)
@@ -75,10 +87,17 @@ Here is a step-by-step walkthrough:
 
  4) In the**Manual Update** tab, locate**Power Management** and click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-52-1024x645.png)
 
 5) Choose the right driver file to download.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-53.png)
 
  6) Double-click on the downloaded file and follow the on-screen instructions for the driver to install.

@@ -1,7 +1,7 @@
 ---
 title: "Updating Your Lenovo Docking Station: A Step-by-Step Guide"
-date: 2024-08-05 21:26:53
-updated: 2024-08-06 11:14:17
+date: 2024-08-06T09:53:32.275Z
+updated: 2024-08-07T09:53:32.275Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Locate and double-click on   **Display adapters** (aka.   **graphics card** ,   **video card** ) to expand it.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f6019606a8.jpg)
 
  3) Right-click on **Radeon RX 580 Series**  and click **Update driver** .
@@ -52,6 +55,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
 6) You see the following result.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f663142d70.jpg)
 
  It means Windows can’t find you an up-to-date **Radeon RX 580 Series**  driver. You might need to check other methods  to get it since Windows can be slow in keeping up with manufacturers’ drivers.
@@ -72,6 +78,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  4) Click on**your OS** to unfold the corresponding driver package.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-21-1024x311.png)
 
  5) Click**DOWNLOAD** to begin downloading the driver file.
@@ -80,6 +89,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  7) Restart your computer for the changes to take effect even if you’re not asked to.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Update**AMD RX 580**  driver automatically(Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -92,10 +104,21 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
  3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**   – you’ll be prompted to upgrade when you click _**Update All**_ ).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f734af3268.jpg)
 
  You can also click Update to do it for free if you like, but it’s partly manual.

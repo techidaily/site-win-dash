@@ -1,7 +1,7 @@
 ---
 title: "Fresh Release: Upgraded Canon TR4520 Printer Drivers for Microsoft Windows Systems"
-date: 2024-08-05 23:12:32
-updated: 2024-08-06 11:38:22
+date: 2024-08-06T09:53:31.761Z
+updated: 2024-08-07T09:53:31.761Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 
  Check out the 2 methods below and you’ll have the latest**Atheros** driver installed in no time! 😉
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Choose the way you prefer
 
  Both methods below work in**Window 10** ,**8.1** and**7** . You may not have to try both; just browse through the list and take your pick:
@@ -26,12 +29,18 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 1. **[Update your Atheros drivers manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your Atheros drivers automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Update your Atheros drivers manually
 
  If you’re looking to update your**Atheros** **network adpater** /**Wi-Fi** adapter driver but**WITHOUT** proper Internet, you might first have to download the driver on a computer with workable network and then transfer the file to the target computer to install. But if you do have Internet access, do all the steps on the same(target) computer.
 
  The whole manual**Atheros** driver download & update process  needs time, patience and certain levels of computer skills. If you’re not comfortable playing  with device drivers, or worrying about any risks in the process, jump to **[Method 2](https://tools.techidaily.com/drivereasy/download/)**  to do it automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
@@ -40,6 +49,9 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 
  3) Click **Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60227d330f0.png)
 
 4) Depending on whether Windows provides you a driver update:
@@ -61,6 +73,13 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Method 2: Update your Atheros drivers automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the drivers for your**Atheros** devices  manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,6 +94,9 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 
  2) Run Driver Easy and click **Scan Now** .  Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b19bf43ece.jpg)
 
  3) You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.

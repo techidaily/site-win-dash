@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Download & Installation of Drivers for HP ENVY 5660
-date: 2024-08-05 19:46:22
-updated: 2024-08-07 10:16:27
+date: 2024-08-06T09:53:48.034Z
+updated: 2024-08-07T09:53:48.034Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  If you’re seeking compatible drivers for your **[ASUS ROG STRIX Z370-E Gaming Motherboard](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-E-GAMING/)**  , then this post is written for you. No matter what components you have on the motherboard, you’ll be able to find the correct drivers for them with a few simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to update your ASUS Z370-E drivers
 
  First of all, you should know that there’s no particular driver for a motherboard, but there are drivers for motherboard devices. For more details of what motherboard is and how to update motherboard drivers, you may take a look at **[this post](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,8 +43,17 @@ Here we recommend you two ways to update the drivers.
  ASUS keeps updating drivers for the ASUS ROG STRIX Z370-E gaming motherboard. To get them, you need to visit the **[download website of ASUS](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-E-GAMING/HelpDesk%5FDownload/)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the drivers manually. Here’s what you’re supposed to do:
 
 1. Go to the **[download webpage](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-E-GAMING/HelpDesk%5FDownload/)**  of ASUS ROG STRIX Z370-E gaming motherboard.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 2. On the pop-up page, click the**down arrow button** to the right of**Please select OS** to expand its drop-down list, as illustrated below. Then select your version of the Windows operating system.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-272.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. Then you’ll be presented with a list of drivers available for download.**Note** that not all of them are drivers; some are just useful pieces of software which you may download as well.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-275.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 4. When you decide to download a certain kind of driver, say the audio driver, simply click the**DOWNLOAD** button next to it. You can find more versions (if there’s any) of the desired driver by clicking**See All Downloads** . Then choose one of them to download based on your own situations.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-274.png)
 5. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 6. **Reboot** your computer for the changes to take effect even if you’re not asked to.
@@ -59,8 +71,14 @@ Here we recommend you two ways to update the drivers.
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-276.png)
 3. Click the**Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-277.png)
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here if we can help.

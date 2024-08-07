@@ -1,7 +1,7 @@
 ---
 title: Latest Canon MX490 Driver Update & Download Instructions for Windows Users
-date: 2024-08-04 21:13:43
-updated: 2024-08-07 11:29:22
+date: 2024-08-06T09:53:43.907Z
+updated: 2024-08-07T09:53:43.907Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
 ## Step-by-Step Instructions for Downloading Your Canon MG3620 Drivers - Safe & Sound
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-298.png)
 
  This article will show you how to download the latest Canon MG3620 driver to keep your printer driver updated at all times.
@@ -24,12 +27,18 @@ There are 2 ways you can do this:
 * **[Option 1 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
 * **[Option 2 – Automatically update the Canon MG3620 driver (Recommended)](https://www.drivereasy.com/knowledge/download-canon-pixma-mg-3620-driver/#b)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### **Option 1 – Download and install the driver manually**
 
  Canon keeps updating the Canon MG3620 driver. To get the latest one, you need to go to the **[Canon support website](https://www.canon-europe.com/support/)**  , find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Option 2 – Automatically update**  Canon MG3620 **driver**
 
  If you don’t have the time, patience or computer skills to update the Canon MG3620 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,16 +51,34 @@ There are 2 ways you can do this:
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 **3)**  Click **Update** next to the**Canon PIXMA MG3620 driver** . Or, click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-583.png)
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Why I need the Canon MG3620 driver?
 
  The printer driver runs on your operating system, and enables it to communicate with the printer you use. Your printer won’t fully function if its driver hasn’t been properly installed on your computer. Also, printer issues such as blank page printing, error code messages, etc. occur when your printer driver is corrupted or outdated. It’s essential that you have the latest correct driver for your printer at all times.

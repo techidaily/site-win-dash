@@ -1,7 +1,7 @@
 ---
 title: Get & Install Updated Intel UHD Graphics Software - Win10/Win11 Support
-date: 2024-08-05 11:14:35
-updated: 2024-08-07 10:48:44
+date: 2024-08-06T09:54:06.375Z
+updated: 2024-08-07T09:54:06.375Z
 tags:
   - win11
   - win10
@@ -22,16 +22,25 @@ It is common knowledge that updated printer drivers keep your printer run at its
 1. [Download HP LaserJet Pro P1102w printer driver from HP Support](https://tools.techidaily.com/drivereasy/download/)
 2. [Download & Update HP LaserJet Pro P1102w printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 1: Download HP LaserJet Pro P1102w printer driver from HP Support
 
 **NOTE** : The printer driver for LaserJet Pro P1102w is also adaptable to P1560 and P1600 series of HP LaserJet printers.
   
  1) First, type**HP Printer Support** into the search box of the preferred searching engine. Then go to the support webpage of HP Printers.
   
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd96658ae2b.png)
 
  2) You can either type the model of your printer in the search box here, or use the navigation here so it can lead you to the correct web page for your printer driver. We go with the later option here. Choose**Laser Jet Printers** .
   
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd989eac56d.jpg)
   
  3) Then choose**LaserJet P1000** .
@@ -40,6 +49,9 @@ It is common knowledge that updated printer drivers keep your printer run at its
   
  4) You should be able to see the Pro P1102 printer listed here. Click to see more details.  
   
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98d05d78f.jpg)
   
  5) Choose**Software and Drivers** on the left side, then click**Go** to go to the driver page.
@@ -54,6 +66,9 @@ It is common knowledge that updated printer drivers keep your printer run at its
   
 **NOTE** : You might need to refer to the instruction documentation if you have an problems during the driver installation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Option 2: Download & Update HP LaserJet Pro P1102w printer driver automatically
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -70,6 +85,9 @@ It is common knowledge that updated printer drivers keep your printer run at its
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd7369cc2f3.jpg)
 
 * [HP](https://tools.techidaily.com/drivereasy/download/)

@@ -1,7 +1,7 @@
 ---
 title: Latest Canon MF85^_^T Printer Drivers for Windows (Windows 7 / 8.1/10)
-date: 2024-08-06 12:56:50
-updated: 2024-08-07 11:47:32
+date: 2024-08-06T09:53:59.438Z
+updated: 2024-08-07T09:53:59.438Z
 tags:
   - win11
   - win10
@@ -22,6 +22,9 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 1. **[Manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Automatically (recommended)](https://www.drivereasy.com/knowledge/konica-minolta-printer-drivers-download-and-install-guide/#option2)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  Konica Minolta keeps updating drivers for its series of printers. You can go to its website, find the latest driver that corresponds with your operating system, and then download it. This process is a little time-consuming and error-prone, but we’ll show you how to do this step by step.
@@ -30,10 +33,16 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
 **2)** Select your product model.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-1-1200x169.jpg)
 
 **3)** Click**Drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-2-1200x203.jpg)
 
 **4)** Select your operating system from the list.
@@ -42,6 +51,9 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
 **5)** Select the driver you want and click the**download icon** next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-4-2-1200x270.jpg)
 
  Once you finished downloading the right driver, double-click the downloaded file. Then, launch the setup file and follow the on-screen instructions to install it.
@@ -50,6 +62,9 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 2 – Automatically install the Konica Minolta printer drivers (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Konica Minolta printer drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,6 +85,9 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2.jpg)
 
  You can do it for free if you like, but it’s partly manual.

@@ -1,7 +1,7 @@
 ---
 title: "GTX 1660 Graphics Card: Fast and Simple Drivers Update Guide"
-date: 2024-08-03 23:48:10
-updated: 2024-08-06 11:41:11
+date: 2024-08-06T09:53:44.533Z
+updated: 2024-08-07T09:53:44.533Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  1) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
  2) Locate and double-click on   **Display adapters** (aka.   **graphics card** ,   **video card** ) to expand it.
@@ -43,6 +46,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  4) Click **Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f62d14e6b0.jpg)
 
  5) Your Windows will try its best to find the latest **Radeon RX 580 Series**  driver available for your computer. Then wait a bit and see if you’re provided a driver update:
@@ -56,6 +62,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  It means Windows can’t find you an up-to-date **Radeon RX 580 Series**  driver. You might need to check other methods  to get it since Windows can be slow in keeping up with manufacturers’ drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Update**AMD RX 580**  driver manually
 
  If method 1 fails you, you can always get the latest version all by yourself. But it’ll need time, patience and certain computer knowledge. If you’re not comfortable playing  with device drivers, or worrying about any risks in the process, you can jump to **[Method 3](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -64,6 +73,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Click**DRIVERS** **& SUPPORT** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-19.png)
 
  3) In**or select your product from the list** , choose**Graphics** \>**Radeon 600 Series** \>**Radeon RX 500 Series** \>**Radeon RX 580** accordingly. Then click**SUBMIT** .
@@ -80,6 +92,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  7) Restart your computer for the changes to take effect even if you’re not asked to.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Update**AMD RX 580**  driver automatically(Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -92,6 +107,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
  3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**   – you’ll be prompted to upgrade when you click _**Update All**_ ).

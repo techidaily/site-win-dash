@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Issues for Realtek RTL8723BE Driver
-date: 2024-08-05 10:11:22
-updated: 2024-08-07 12:21:21
+date: 2024-08-06T09:53:31.723Z
+updated: 2024-08-07T09:53:31.723Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 1. [**Update network adapter driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/network-adapter-driver-download-in-windows-7/#M1)
 2. **[Update network adapter driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Update network adapter driver automatically (Recommended)
 
  If you donâ€™t have the time, patience or computer skills to update the driver for your network adapter manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -40,6 +43,9 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 
  3) Run Driver Easy and click Tools in the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
  4) Click **Offline Scan** . Then select **Offline Scan (on the computer without Internet access)** and click **Continue** .
@@ -48,10 +54,16 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 
  5) Click **Browseâ€¦** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-176.png)
 
  6) A window will pop up telling you that the offline scan file has been saved. Click **OK**  to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-177.png)
 
  7) Open the folder where youâ€™ve saved the offline scan file. Then **save** the file in a USB flash drive and transfer it to another computer with Internet connection.
@@ -60,6 +72,9 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 
  9) Run Driver Easy and click **Tools** in the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
  10) Click **Offline Scan** . Then select **Upload Offline Scan File (on the computer with Internet access)** and click **Continue** .
@@ -91,6 +106,9 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 1. On the keyboard of the target computer, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b50135d9ffd2.jpg)
 2. Locate and double-click on **Network adapters** to retrieve**the brand** and**model** of your network adapter.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b501322334d1.jpg)
 3. On the computer with Internet, go to the brand manufacturerâ€™s official website and check out the**Support** section for driver downloads.
 4. Search the model of your graphics card, click the right download link for your Windows 7 OS. Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.
