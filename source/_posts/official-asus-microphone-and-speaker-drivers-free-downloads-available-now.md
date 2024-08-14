@@ -1,0 +1,150 @@
+---
+title: "Official ASUS Microphone and Speaker Drivers: Free Downloads Available Now"
+date: 2024-08-13T13:44:43.214Z
+updated: 2024-08-14T13:44:43.214Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverDownload
+description: "This Article Describes Official ASUS Microphone and Speaker Drivers: Free Downloads Available Now"
+excerpt: "This Article Describes Official ASUS Microphone and Speaker Drivers: Free Downloads Available Now"
+thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
+---
+
+## Get Your Corsair Mouse Ready - Free Tutorial and Downloads Available
+
+You have a Corsair gaming mouse but it doesn’t work properly. It could be frustrating, especially when you’re playing games. To make it work again, you can download and install the latest iCUE driver.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+## What’s the iCUE?
+
+ iCUE (Intelligent Corsair Utility Engine) is a Corsair interface. It’s a powerful, intelligent software which can connect all your compatible products together and let you control almost everything in a single interface.  
+ You can use iCUE to control RGB lighting effects on your mouse and fan speeds, temperature monitoring in the other compatible products.
+
+ If your gaming mouse doesn’t work properly, for example, the lighting doesn’t work, you can reinstall the iCUE driver.  
+
+There are two ways to download iCUE.
+
+1. [Download and install iCUE through the homepage](https://tools.techidaily.com/drivereasy/download/)
+2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Download and install iCUE through the homepage  
+
+1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
+2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Download iCUE from the product page
+
+ According to the Corsair gaming mouse you have, you can download related iCUE by your product’s model name.  
+
+1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
+2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
+3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+## What to do if your mouse still has issues?
+
+ After reinstalling iCUE driver, if your gaming mouse still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.
+
+**[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing drivers.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ 3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+**Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+---
+
+ Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.[](https://tools.techidaily.com/drivereasy/download/)
+
+* [Drivers](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-sweet-snack-snapshot-review-deep-insight/"><u>[New] Sweet Snack Snapshot Review Deep Insight</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-webcam-recording-for-slideshows/"><u>[Updated] In 2024, Mastering Webcam Recording for Slideshows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-chatgpt-powered-poetic-compositions/"><u>A Guide to ChatGPT-Powered Poetic Compositions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976045043-bottles-could-potentially-break-if-not-handled-with-care-or-placed-too-roughly-on-the-table-causing-liquid-to-spill-out/"><u>Bottles Could Potentially Break if Not Handled with Care or Placed Too Roughly on the Table, Causing Liquid to Spill Out.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/corsair-liquid-cpu-cooler-h115i-driver-compatibility-fixes-for-w8-w10-w11-systems/"><u>Corsair Liquid CPU Cooler H115i – Driver Compatibility Fixes for W8-W10-W11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-free-asrock-ab350-pro4-graphics-card-drivers-for-windows-instantly/"><u>Download Free ASRock AB350 Pro4 Graphics Card Drivers for Windows - Instantly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-nvidia-geforce-rtx-3090-driver-for-multiple-windows-versions/"><u>Download NVIDIA GeForce RTX 3090 Driver for Multiple Windows Versions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-download-of-updated-mpow-drivers-for-enhanced-bluetooth-connectivity-on-windows-platforms/"><u>Easy Download of Updated MPOW Drivers for Enhanced Bluetooth Connectivity on Windows Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962020826-easy-guide-to-fixing-hps-beat-audio-drivers-for-windows-11-8-and-7-no-more-headaches/"><u>Easy Guide to Fixing HP's Beat Audio Drivers for Windows 11, 8 & 7 - No More Headaches</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-guide-installing-nvidia-1080-drivers-for-windows-11-users/"><u>Effortless Guide: Installing Nvidia 1080 Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-gameplay-upgrading-with-asus-rog-strix-geforce-rtx-3080-ti/"><u>Enhance Your Gameplay: Upgrading with ASUS ROG Strix GeForce RTX 3080 Ti</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-newest-netgear-wi-fi-adapter-drivers-downloaded-here/"><u>Ensure Optimal Performance with Newest NETGEAR Wi-Fi Adapter Drivers Downloaded Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/esd-files-demystified-creating-iso-versions-for-windows-systems/"><u>ESD Files Demystified: Creating ISO Versions for Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-tips-on-how-to-refresh-and-update-webcam-software-in-windows-11/"><u>Expert Tips on How to Refresh and Update Webcam Software in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-logitech-g29-racing-wheel-driver-software-compatible-with-windows-7-8-and-10/"><u>Free Logitech G29 Racing Wheel Driver Software - Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-pci-driver-software-downloads-compatible-with-windows-11-10-8-and-7/"><u>Free PCI Driver Software Downloads Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-brother-mfc-7360n-drivers-and-easy-compatibility-with-windows-1087/"><u>Get the Latest Brother MFC-7360N Drivers & Easy Compatibility with Windows 10/8/7!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-software-epson-tm-n88v-driver-version-for-windows-pcs/"><u>Get the Latest Software: EPSON TM-N88v Driver Version for Windows PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-magicard-rio-pro-driver-game-for-your-window-10-8-cuisine-and-7-machine-download-here/"><u>Get the Newest Magicard Rio Pro Driver Game for Your Window 10, 8. Cuisine, and 7 Machine: Download Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722953061215-get-your-thinkpad-t420s-running-smoothly-on-windows-n-with-updated-drivers/"><u>Get Your ThinkPad T420s Running Smoothly on Windows N with Updated Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-google-devices-by-drfone-android/"><u>How to Reset Gmail Password on Google Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-the-severe-dev-error-in-modern-warfare-and-warzone/"><u>How To: Troubleshoot and Correct the Severe Dev Error in Modern Warfare and Warzone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-sefrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 SEFRP Lock</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-radeon-rx-6700-xt-graphics-driver-update-available-compatible-with-win11-10-and-7/"><u>Latest AMD Radeon RX 6700 XT Graphics Driver Update Available: Compatible with Win11, 10 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-downloads-await-with-ft232rs-user-friendly-usb-uart-driver/"><u>Speedy Downloads Await with FT232R's User-Friendly USB UART Driver</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fixes-for-your-realtek-rtl8811au-network-adapter-driver-problems/"><u>Step-by-Step Fixes for Your Realtek RTL8811AU Network Adapter Driver Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-with-smart-modding-tips/"><u>Transform Your Gaming Experience with Smart Modding Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-free-download-package-for-focusrite-scarlett-2i2-platinum-win-setup-and-drivers-included/"><u>Ultimate Free Download Package for Focusrite Scarlett 2I2 Platinum - Win Setup and Drivers Included</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos-for-2024/"><u>Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-and-download-amd-ryzen-chipset-drivers-today-step-by-step-tutorial/"><u>Update & Download AMD Ryzen Chipset Drivers Today – Step-by-Step Tutorial</u></a></li>
+</ul></div>
