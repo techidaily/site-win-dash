@@ -1,7 +1,7 @@
 ---
 title: Bacterial Self-Healing Involves Using Bacteria Within the Concrete that Produce Limestone as a Byproduct when Activated by Moisture Ingress
-date: 2024-08-06T09:53:58.893Z
-updated: 2024-08-07T09:53:58.893Z
+date: 2024-08-19T09:24:00.572Z
+updated: 2024-08-20T09:24:00.572Z
 tags:
   - win11
   - win10
@@ -85,3 +85,49 @@ thumbnail: https://thmb.techidaily.com/927eab612ca9394a8dc7ea238a2f885f7ea9117fa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-creating-impressive-slideshows-with-video-delays-in-snapchat/"><u>[New] In 2024, Creating Impressive Slideshows with Video Delays in Snapchat</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-sync-vimeo-videos-with-powerpoint-a-step-by-step-approach/"><u>[New] In 2024, Sync Vimeo Videos with PowerPoint  A Step-by-Step Approach</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-your-gaming-world-with-steams-switch-controller-for-2024/"><u>[New] Navigate Your Gaming World with Steam's Switch Controller for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-tiktok-mastery-a-2023-elements-compendium/"><u>[Updated] 2024 Approved  TikTok Mastery  A 2023 Elements Compendium</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exploring-alternatives-the-10-best-non-vimeo-video-tools/"><u>[Updated] Exploring Alternatives  The 10 Best Non-Vimeo Video Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-battery-life-to-final-cut-a-drone-editors-journey/"><u>[Updated] From Battery Life to Final Cut  A Drone Editor's Journey</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-learn-the-best-monitors-for-xbox-series-x-here/"><u>[Updated] Learn The Best Monitors for Xbox Series X Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023-guide-to-affordable-laptop-dvd-players/"><u>2023 Guide to Affordable Laptop DVD Players</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>2024 Approved  Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>2024 Approved  Reflect Your Vision  Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-v30-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme V30 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-failure-heres-how-to-restore-its-functionality/"><u>Corsair Keyboard Failure? Here's How to Restore Its Functionality!</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-a-bulletproof-fb-privacy-framework-for-youngsters/"><u>Creating a Bulletproof FB Privacy Framework for Youngsters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-video-experience-on-your-phone-os/"><u>Cutting Edge Video Experience on Your Phone OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-epson-es-400-scandriver-on-windows-step-by-step-guide/"><u>Download & Install Epson ES-400 ScanDriver on Windows: Step by Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-updates-intel-hd-and-igp-graphics-655-iris-plus-driver-for-windows-1011-systems/"><u>Download Latest Updates: Intel® HD & IGP Graphics 655 (Iris Plus) Driver for Windows 10/11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-access-to-new-asus-laptop-drivers-for-optimal-performance-and-compatibility/"><u>Easy Access to New ASUS Laptop Drivers for Optimal Performance and Compatibility</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-fresh-samsung-printer-drivers-for-windows-users-free/"><u>Easy Installation Guide: Fresh Samsung Printer Drivers for Windows Users [Free]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-guide-to-downloading-the-newest-driver-update-for-your-canoscan-lide-120/"><u>Effective Guide to Downloading the Newest Driver Update for Your CanoScan LiDE-120</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pc-geforce-rtx-3080-ti-driver-downloads-for-windows-versions-10-8-and-7/"><u>Enhance Your PC: GeForce RTX 3080 Ti Driver Downloads for Windows Versions 10, 8 & 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-systems-audio-performance-on-windows-11-a-step-by-step-guide/"><u>Enhancing Your System's Audio Performance on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/enjoy-every-frame-the-ultimate-guide-to-recording-netflix-on-os-x-for-2024/"><u>Enjoy Every Frame  The Ultimate Guide to Recording Netflix on OS X for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-arduino-mega-asteroid-download-fast-and-efficiently/"><u>Get Your Arduino Mega Asteroid Download Fast & Efficiently</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-asus-paddriver-installed-downloads-and-guide-for-windows-users/"><u>Get Your ASUS PadDriver Installed: Downloads & Guide for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-workforce-ds-30-driver-installed-in-windows-8-or-7/"><u>Get Your Epson WorkForce DS 30 Driver Installed in Windows 8 or 7</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-honor-play-8t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor Play 8T in Minutes | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-glitch-effect-tools-the-ultimate-online-collection/"><u>In 2024, Free Glitch Effect Tools The Ultimate Online Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-insights-new-folder-formation-in-windows-11/"><u>Innovative Insights: New Folder Formation in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-iris-plus-gvt-2398-graphics-card-latest-drivers-installed-fast/"><u>Intel Iris Plus GVT-2398 Graphics Card - Latest Drivers Installed Fast</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976170495-intel-raid-driver-download-and-update-windows-11-10-8-7/"><u>Intel RAID Driver Download & Update - Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-the-track-with-logitech-g29-racing-wheel-free-download-instructions-for-windows-users-on-versions-7810/"><u>Master the Track with Logitech G29 Racing Wheel: FREE Download Instructions for Windows Users on Versions 7/8/10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-your-stage-faster-simple-guide-to-download-the-pioneer-dj-ddj-sx2-software/"><u>Master Your Stage Faster: Simple Guide to Download the Pioneer DJ DDJ-SX2 Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963714569-new-and-improved-install-your-scansnap-s1100s-updated-drivers-today/"><u>New and Improved, Install Your Scansnap S1100's Updated Drivers Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolved-lack-of-default-printer-and-scanner-support-on-windows-10/"><u>Resolved: Lack of Default Printer & Scanner Support on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-driver-problems-on-your-hp-officejet-pro-6978/"><u>Resolving Driver Problems on Your HP OfficeJet Pro ✨ 6978</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-the-arduino-unos-drivers-in-windows-a-step-by-step-guide/"><u>Troubleshooting the Arduino Uno's Drivers in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ultimate-index-ranked-6-fb-lite-downloads-for-2024/"><u>Ultimate Index  Ranked 6 FB Lite Downloads for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unleash-maximum-potential-with-intels-latest-download-now-z270-gaming-pro-carbon-motherboard/"><u>Unleash Maximum Potential with Intel's Latest: [Download Now]: Z270 Gaming Pro Carbon Motherboard</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970537692-update-your-intel-nuc-drives-with-ease-and-enhance-your-computers-speed/"><u>Update Your Intel NUC Drives with Ease and Enhance Your Computer's Speed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-razer-devices-compatible-drivers-for-windows-xp-vista-7-8-and-10-available-now/"><u>Update Your Razer Devices: Compatible Drivers for Windows XP, Vista, 7, 8, and 10 Available Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-wacom-intuos-graphics-tablet-fast-and-simple-setup-process/"><u>Update Your Wacom Intuos Graphics Tablet - Fast & Simple Setup Process</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-graphics-nvidias-rtx-3090-drivers-for-enhanced-performance-on-windows-1187/"><u>Upgrade Your Graphics: NVIDIA's RTX 3090 Drivers for Enhanced Performance on Windows 11/8/7</u></a></li>
+</ul></div>
