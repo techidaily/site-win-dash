@@ -1,7 +1,7 @@
 ---
 title: "How to Manage Excel Bookmark Alternatives: A Clever Hack You Need"
-date: 2024-08-28 12:30:15
-updated: 2024-08-29 11:42:24
+date: 2024-08-28T01:34:21.784Z
+updated: 2024-08-29T01:34:21.784Z
 tags:
   - excel
 categories:
@@ -34,12 +34,18 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
  However, to do the same thing (and more) in an Excel workbook, you have to take a different route.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Set and Locate a Bookmark (Name) in Excel
 
  In Excel, bookmarks are called—somewhat unimaginatively—**names**, accessible through the **name box** in the top-left corner of your workbook. In fact, every cell already has its own bookmark, or name, which you can see by selecting any cell and looking at the name box.
 
 ![An Excel worksheet with the name box highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/name-box.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To jump to a cell within the active worksheet—useful if you have hundreds of rows or columns within that sheet—type the column-row reference, such as E7, into the name box and press Enter. If you have other active tabs in your workbook, you can jump to any cell within any of the worksheets by typing the tab name, followed by an exclamation mark, and then the cell reference. For example,
 
 Sheet2!G5
@@ -80,6 +86,9 @@ R:R
 
 ![The Insert Hyperlink dialog box in Excel, with 'Place In This Document' highlighted and the list of names displayed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/hyperlink-to-a-named-reference.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Naming a Formatted Table (It's Slightly Different)
 
  If you use a table within your workbook, we recommend that you format it properly [using Excel's built-in table formatter](https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y56-5g-by-drfone-android/). Then, if you add additional columns or rows to your table, the name you have given to your array will extend to include the new data. Importantly, after formatting your table, you need to use a different name box, which means you'll be able to reference the table in formulas later on. We will discuss this more in the final section of this article. 
@@ -98,6 +107,9 @@ R:R
 
  When you're done managing the names in your workbook, click "Close" in the bottom right-hand corner of the window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Other Reasons for Using the Name Box
 
  Now that you've assigned names to cells within your workbook, let's look at other name box gems.
@@ -128,12 +140,18 @@ R:R
 
 ![An Excel worksheet with a named table and column showing in the automatic options in a formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/reference-a-name-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
  Double-click the column name, close the square parenthesis, and close the formula parenthesis, before pressing Enter.
 
 =sum(Employee_Pay[Total Pay])
 
  This will successfully sum all values in that column, and will also pick up changes or additions to the values in the column because you've named the table. We would then go ahead and use the same technique to complete the other totals and averages in our accounting table.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Create Names for Columns in Tables
 
  Finally, if you have a large table of data, you might want to create a bookmark for an important row or column that you want to access quickly.
@@ -142,10 +160,16 @@ R:R
 
 ![A table in Excel with the 'Create From Selection' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/create-from-selection.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can then choose which names you want to create and click "OK." In our example, if we choose "Top Row," this will result in the column names being added to the name list for easier access later on.
 
 ![Excel's 'Create From Selection' dialog box open with 'Top Row' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/create-from-selection-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ---
 
  If you have a particularly large spreadsheet, you may not remember which names refer to which ranges. In this case, you can [generate a list of names and their associated cell ranges](https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/) you can reference as you type your formulas for that spreadsheet.
@@ -164,3 +188,47 @@ R:R
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-must-watch-global-journey-vids-on-youtube/"><u>[New] Top 10 Must-Watch Global Journey Vids on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-video-content-in-zoom-with-custom-filters/"><u>[Updated] Streamlining Video Content in Zoom With Custom Filters</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1992-unforgiven-with-eastwood-as-william-munny-an-aging-former-gunfighter-who-is-persuaded-to-go-out-for-one-last-job-to-take-revenge-against-a-prostitute-a179/"><u>1992 - Unforgiven, with Eastwood as William Munny, an Aging Former Gunfighter Who Is Persuaded to Go Out for One Last Job: To Take Revenge Against a Prostitute and Her Boss. The Film Was Based on David Webb Peoples' Screenplay ''The Cut-Whore Killings.'</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-astonishing-critique-and-substitutes-guide/"><u>2024 Approved  Astonishing Critique & Substitutes Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-gain-traction-comprehensive-guide-to-youtubes-featured-placement/"><u>2024 Approved  Channel Gain Traction  Comprehensive Guide to YouTube's Featured Placement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foremost-recommendations-audio-customization-pros/"><u>2024 Approved  Foremost Recommendations  Audio Customization Pros</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-proven-strategies-to-amplify-zoomed-participants-in-google-meet/"><u>2024 Approved  Proven Strategies to Amplify Zoomed Participants in Google Meet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-rapid-response-sharing-plays-with-pizzazz/"><u>2024 Approved  Rapid Response  Sharing Plays with Pizzazz</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/achieve-seamless-trackpad-operation-download-and-enhance-synaptics-drivers/"><u>Achieve Seamless Trackpad Operation: Download & Enhance Synaptics Drivers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparative-analysis-of-tablet-computers-based-on-processor-quality/"><u>Comparative Analysis of Tablet Computers Based on Processor Quality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-with-windows-71n11-get-your-free-logitech-driving-force-gt-wheel-software-download-now/"><u>Compatible with Windows 7/1N/11: Get Your Free Logitech Driving Force GT Wheel Software Download Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-updating-hp-officejet-pro-6970-windows-drivers/"><u>Complete Guide to Downloading & Updating HP OfficeJet Pro 6970 Windows Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-intel-hd-plus-graphics-drivers-on-windows-10-11/"><u>Download & Install Intel HD + Graphics Drivers on Windows 10 / 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-windows-systems/"><u>Download and Install Atheros Network Adapter Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-intel-processor-drivers-instantly-simple-guide/"><u>Download Intel Processor Drivers Instantly - Simple Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-realtek-sound-card-drivers-compatible-with-windows-11-10-and-7/"><u>Download the Latest Realtek Sound Card Drivers Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-newest-hd-graphics-drivers-by-amd-for-your-pc-running-on-windows-os/"><u>Download the Newest HD Graphics Drivers by AMD for Your PC Running on Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-download-of-epson-workforce-ds-30-printer-software-for-windows-users-windows-10-8-and-7/"><u>Easy Download of Epson WorkForce DS 30 Printer Software for Windows Users (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-hp-envy-5660-drivers-quick-download-and-easy-installation-guide/"><u>Effortless HP Envy 5660 Drivers: Quick Download and Easy Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-of-new-surface-driver-software/"><u>Effortless Installation of New Surface Driver Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-downloads-compatible-drivers-for-your-epson-scanning-device/"><u>Free Downloads: Compatible Drivers for Your Epson Scanning Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-techkey-bluetooth-receiver-software-for-pcs-windows/"><u>Get the Latest Techkey Bluetooth Receiver Software for PCs (Windows)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-canon-mg3000-drivers-installed-today-easy-download-guide/"><u>Get the Newest Canon MG3000 Drivers Installed Today – Easy Download Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-universal-printer-drivers-on-pc-with-ease/"><u>Get Your HP Universal Printer Drivers on PC with Ease</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inside-a-virtual-reality-device-a-basic-overview/"><u>In 2024, Inside a Virtual Reality Device  A Basic Overview</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-your-rtx-groove-smooth-update-graphics-card-drivers-for-windows-10-and-11/"><u>Keep Your RTX Groove Smooth: Update Graphics Card Drivers for Windows 10 and 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-and-fastest-gtx-er-1650-super-graphics-card-driver-update-windows-10-and-11-supported/"><u>Latest & Fastest GTX Er 1650 Super Graphics Card Driver Update: Windows 10 and 11 Supported</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-3070-ti-drivers-compatible-with-windows-11-8-and-7/"><u>Latest GeForce RTX 3070 Ti Drivers - Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/netgear-a6100-wifi-card-drivers-download-and-installation-guide-on-windows-1087/"><u>Netgear A6100 WiFi Card Drivers Download & Installation Guide on Windows 10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/perfect-wacom-intuos-3-driver-setup-for-windows-systems-a-step-by-step-success-tutorial/"><u>Perfect Wacom Intuos 3 Driver Setup for Windows Systems: A Step-by-Step Success Tutorial!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-address-and-correct-days-gone-not-starting-up-on-windowspc/"><u>Resolved! How To Address and Correct Days Gone Not Starting Up on Windows/PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-infinix-smart-8-plus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Smart 8 Plus Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revitalizing-your-usb-to-serial-adapters-communication-pathway-software/"><u>Revitalizing Your USB-to-Serial Adapter's Communication Pathway Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-printing-with-hp-officejet-3830-download-and-install-windows-drivers-today/"><u>Seamless Printing with HP OfficeJet 3830 - Download & Install Windows Drivers Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-the-ultimate-guide-to-correcting-your-windows-10s-bluetooth-drivers/"><u>Solved: The Ultimate Guide to Correcting Your Windows 10'S Bluetooth Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-accessing-newest-amd-vega-driver-software-for-optimized-gaming-performance/"><u>Step-by-Step Guide to Accessing Newest AMD Vega Driver Software for Optimized Gaming Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successfully-add-toshiba-print-drivers-to-windows-a-comprehensive-guide/"><u>Successfully Add Toshiba Print Drivers to Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-guide-solving-common-graphics-card-driver-problems/"><u>Troubleshooting Guide: Solving Common Graphics Card Driver Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-to-the-latest-download-and-setup-for-scansnap-s1300i-drivers/"><u>Upgrade to the Latest: Download and Setup for ScanSnap S1300i Drivers</u></a></li>
+</ul></div>

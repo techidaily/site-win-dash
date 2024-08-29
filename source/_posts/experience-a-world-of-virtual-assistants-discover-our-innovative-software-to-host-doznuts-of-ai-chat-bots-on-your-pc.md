@@ -1,7 +1,7 @@
 ---
 title: Experience a World of Virtual Assistants - Discover Our Innovative Software to Host Doznuts of AI Chat Bots on Your PC!
-date: 2024-08-26 20:41:24
-updated: 2024-08-29 12:44:30
+date: 2024-08-28T01:31:19.040Z
+updated: 2024-08-29T01:31:19.040Z
 tags:
   - windows
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Unlike common cloud-based solutions, LM Studio prioritizes privacy, security, and constant accessibility of your data. Ready to elevate your Windows experience without relying on the cloud? Here's how to get started with LM Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  LM Studio Is Your New AI Playground
 
  You might already be familiar with popular AI tools like OpenAI's ChatGPT, Google's Gemini, or Microsoft's Copilot. LM Studio is another powerful tool, that runs right on your Windows PC, without needing a remote server. Best of all, it's free to download and install.
@@ -49,8 +52,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The LM Studio home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-home.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can use this search box to browse for various models, like Facebook's Llama 3, Mistral AI's model, Google Gemma, Phi 2, and so many more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Choose Your AI Model
 
  LM Studio offers a wide array of AI models for you to explore. To find and download an LLM, enter the name in the search bar at the top, then click the corresponding download button on the right-hand side. Note how many variants are available for Llama 3 alone. 
@@ -61,10 +70,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The search results for Qwen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/qwen-ai-model-search-lmstudio.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  For example, Llama 3 powers the "Messenger AI" feature on Facebook and matches the intelligence of tools like ChatGPT and Google Gemini.
 
 ![LM Studio giving me advice.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-advice.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
  Google Gemma is another excellent choice. This collection of smart models powers Google’s Gemini tool, catering to various needs. CodeGemma can help you write computer code, while RecurrentGemma is a fast, versatile chat model. Just search for "Gemma" on LM Studio and download the one that suits your needs.
 
 ![LM Studio writing a poem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-poem.jpg) 
@@ -79,6 +96,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Selecting the AI Chat button in LM Studio.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-ai-chat-button-lm-studio.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
  In the chat window, press the big purple button that says "Select a model," and choose the model you want to interact with—like Llama 3, Gemma, or Mistral — and start your conversation.
 
 ![Choosing the LM Studio model.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-choose-model.png) 
@@ -93,6 +113,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If concerns about the privacy implications of technologies like Co-Pilot, ChatGPT, and Gemini weigh on you, LM Studio offers a secure alternative that keeps your interactions private.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How I Use LM Studio
 
  I use LM Studio for several purposes, and one of the most useful is to automate my daily setup on Windows 11\. I've developed a PowerShell script with LM Studio that launches my preferred applications—Firefox, Windows Terminal, Ghostwriter (my favorite writing tool), Spotify, and others when I want to get to work. This automation skips the hassle of opening each program individually and helps me jump straight into my tasks.
@@ -117,3 +140,43 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-be-a-guest-in-the-digital-arena-tips-for-live-viewers/"><u>[New] 2024 Approved  Be a Guest in the Digital Arena  Tips for Live Viewers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-understanding-and-assessing-cloud-cost-variability/"><u>[New] Understanding & Assessing Cloud Cost Variability</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-content-extraction-mastered-discover-the-5-apps-for-2024/"><u>[Updated] FB Content Extraction Mastered - Discover the #5 Apps for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[Updated] In 2024, Gamers’ Sound Selection  Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-phone-video-and-image-capturing-best-apps-for-iphones-and-android/"><u>[Updated] Prime Phone Video & Image Capturing  Best Apps for iPhones and Android</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1995-absolute-power-with-eastwood-as-luther-whitney-a-renowned-thief-who-witnesses-the-murder-of-an-influential-washington-lobbyist-by-his-young-protege-the207/"><u>1995 - Absolute Power, with Eastwood as Luther Whitney, a Renowned Thief Who Witnesses the Murder of an Influential Washington Lobbyist by His Young Protégé. The Film Was Based on Irwin Wagman's Novel ''The Charm School Murders''.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-leveraging-youtube-for-seamless-facebook-sharing/"><u>2024 Approved  Leveraging YouTube for Seamless Facebook Sharing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/achieve-next-level-control-and-comfort-with-steelseries-engine-on-windows-11-start-your-free-download-now/"><u>Achieve Next-Level Control & Comfort with SteelSeries Engine on Windows 11 - Start Your Free Download Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971722744-download-asus-monitor-drivers-quickly-and-easily/"><u>Download | ASUS Monitor Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-hp-envy-5660-drivers-fast-step-by-step-guide-to-hassle-free-installation/"><u>Download HP Envy 5660 Drivers Fast! Step-by-Step Guide to Hassle-Free Installation.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976294784-download-updated-drivers-for-your-eveo-bluetooth-adapter-today/"><u>Download Updated Drivers for Your Eveo Bluetooth Adapter Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-your-nvidia-geforce-940mx-drivers-today/"><u>Download Your NVIDIA GeForce 940MX Drivers Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-setup-for-asus-tuf-gaming-z370-w-motherboard-drivers-and-tools/"><u>Easy Setup for Asus TUF Gaming Z370-W Motherboard Drivers & Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhancement-update-installation-of-basic-peripheral-drivers-in-windows-11-now-possible/"><u>Enhancement Update: Installation of Basic Peripheral Drivers in Windows 11 Now Possible</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-seamless-printing-with-the-latest-hp-officejet-pro-9015-drivers-download/"><u>Ensure Seamless Printing with the Latest HP Officejet Pro 9015 Drivers Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-guide-addressing-hp-officejet-pro-6978-driver-troubles-effectively/"><u>Expert Guide: Addressing HP OfficeJet Pro 6978 Driver Troubles Effectively</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-common-problems-with-the-realtek-universal-video-driver-easily/"><u>Fixing Common Problems with the Realtek Universal Video Driver Easily!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-xbox-accessory-controller-drivers-in-windows-10-8-and-7/"><u>Fixing Xbox Accessory Controller Drivers in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961606629-get-the-newest-rtx-3080-graphics-driver-on-windows-1187-free-download-now/"><u>Get the Newest RTX 3080 Graphics Driver on Windows 11/8/7 - Free Download Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-narzo-60-pro-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-update-your-toshiba-mini-nettops-drivers-on-a-windows-machine/"><u>How to Download & Update Your Toshiba Mini Nettop's Drivers on a Windows Machine</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-new-drivers-for-your-lenovo-webcam-on-windows-er-7/"><u>How to Install New Drivers for Your Lenovo Webcam on Windows Er 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-v30t-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme V30T Lock Screen Password</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-download-the-official-pioneer-dj-ddj-sx2-software/"><u>Instant Access: Download the Official Pioneer DJ DDJ-SX2 Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-setup-for-your-ms-ergo-keyboard-4000-driver-download-tutorial/"><u>Instant Setup for Your MS Ergo Keyboard 4000 - Driver Download Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-geforce-rtx-2070-driver-download-for-windows-11-8-7/"><u>Latest Geforce RTX 2070 Driver Download for Windows 11, 8, 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-hp-networking-drivers-for-windows-operating-systems-win10-win7-win8/"><u>Latest HP Networking Drivers for Windows Operating Systems: Win10, Win7, Win8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-geforce-rtx-3070-drivers-download-and-update-for-windows-1011/"><u>Latest NVIDIA GeForce RTX 3070 Drivers Download & Update for Windows 10/11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-ideapad-100-windows-11-drivers-download-and-update-guide-for-enhanced-functionality/"><u>Lenovo IdeaPad 100 Windows 11 Drivers: Download & Update Guide for Enhanced Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/most-recent-generic-bluetooth-driver-version-for-windows-operating-system-downloads/"><u>Most Recent Generic Bluetooth Driver Version for Windows Operating System Downloads</u></a></li>
+<li><a href="https://facebook.techidaily.com/personalizing-perspectives-on-facebooks-platform/"><u>Personalizing Perspectives on Facebook's Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-pc-sound-selector-for-2024/"><u>Premium PC Sound Selector for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-get-the-newest-asus-bluetooth-driver-software-right-now/"><u>Quick Fix: Get the Newest ASUS Bluetooth Driver Software Right Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/safe-installation-of-corsair-keyboard-drivers-for-pc-users-download-guide/"><u>Safe Installation of Corsair Keyboard Drivers for PC Users - Download Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976932074-step-by-step-driver-installation-for-asus-z370-e-fast-and-simple/"><u>Step-by-Step Driver Installation for ASUS Z370-E - Fast & Simple!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-troubleshooting-your-logitech-f710-mouse-on-various-windows-operating-systems/"><u>Step-by-Step Guide to Troubleshooting Your Logitech F710 Mouse on Various Windows Operating Systems</u></a></li>
+</ul></div>

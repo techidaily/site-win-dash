@@ -1,7 +1,7 @@
 ---
 title: "Experience Report: Navigating the Road with a Windows Clone PC Every Day"
-date: 2024-08-27 15:59:11
-updated: 2024-08-29 11:30:31
+date: 2024-08-28T01:32:22.305Z
+updated: 2024-08-29T01:32:22.305Z
 tags:
   - windows
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
  ReactOS warns that the project isn’t ready to be a daily driver yet, and that I should only use it for testing and evaluation. _But_ I love retro computers, and I was determined not to let a few blue screens stand in the way (unfortunately, they did). Here’s the whole story.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Installing ReactOS
 
  I don’t recommend installing ReactOS on your main computer for two reasons: ReactOS needs very few resources and modern hardware is overkill for it. Second, it can be unstable and buggy. If you have an old laptop or PC lying around, it’s the best hardware to install ReactOS on. You can also run it inside a virtual machine.
@@ -53,8 +56,14 @@ Close
 
 ![ReactOS task manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_05_13_40.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Even though it doesn’t look much like the recent versions, Windows users will feel right at home with the ReactOS UI.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Can You Do On ReactOS
 
  Now let’s test how well it runs. This is where the rubber meets the road.
@@ -63,12 +72,18 @@ Close
 
 ![ReactOS application manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_03_09_11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
  I started by testing the app we all use the most: the web browser. ReactOS has a built-in version of [Internet Explorer](https://screen-video-capture.techidaily.com/2024-approved-free-video-capture-test-apowersoft-and-more/) called the WineInternetExplorer. It couldn’t load most websites because of security certificate errors.
 
  So I installed Mozilla Firefox and the installation went smoothly. Sadly, Mozilla has dropped support for old versions of Windows. So I could only get version 52.0 working. Google Chrome and Chromium (the open-source project powering Google Chrome and many other browsers) kept crashing the OS. I also found a bunch of obscure browsers in the ReactOS store. K-meleon browser, MyPal, NewMoon, and a few others.
 
 ![K-meleon running on ReactOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_05_50_18.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Even though the older version of Firefox almost worked, it didn’t work with Google Docs (my primary document editor) or load YouTube (where I listen to music while editing said documents). Google Docs loaded but it was lagging horribly. I wouldn’t recommend using any of these outdated browsers because they’re riddled with security and privacy vulnerabilities.
 
 Close 
@@ -83,6 +98,9 @@ Close
 
 ![Running Chicken Invaders on ReactOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_03_11_25.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ---
 
  As much as I’d like it to be, ReactOS is not a real alternative to Windows (yet). The OS is still in the first stages of development, and it’ll be a long time before it can be a daily driver. I managed to get some work done on it and played a game or two, but the OS kept crashing on me. On top of that, I had to reinstall it a couple of times because it couldn’t recover from the crashes. That said, it’s a delight to test a project like this, especially if you love retro computing.
@@ -101,3 +119,52 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>[New] Canvas Mastery  Streamlining Edges and Enhancing Visuals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>[New] Capture Stunning Colors  Top 11 Methods for Professional Grading & Correction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-enhance-ipad-recording-simpler-approaches-revealed/"><u>[New] Enhance iPad Recording  Simpler Approaches Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-consolechronicle-critique/"><u>[New] In 2024, ConsoleChronicle Critique</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-join-the-jamboree-top-10-giggle-worthy-tiktok-challenges/"><u>[New] In 2024, Join the Jamboree  Top 10 Giggle-Worthy TikTok Challenges</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capturing-attention-striking-shots-for-youtube-success-for-2024/"><u>[Updated] Capturing Attention  Striking Shots for YouTube Success for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-battle-for-asgard-the-ragnarok-chronicles/"><u>2024 Approved  Battle for Asgard  The Ragnarök Chronicles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusing-imagery-montage-mastery-essentials/"><u>2024 Approved  Fusing Imagery  Montage Mastery Essentials</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/8-ways-language-learning-reimagines-your-worldview/"><u>8 Ways Language Learning Reimagines Your Worldview</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966902576-a-decision-must-cause-harm-to-someone/"><u>A Decision Must Cause Harm to Someone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-470-drivers-upgrade-step-by-step-guide-for-a-smooth-graphics-performance/"><u>AMD Radeon RX 470 Drivers Upgrade - Step-by-Step Guide for a Smooth Graphics Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-performance-now-overclock-the-nvidia-rtx-3090-for-ultimate-gaming-thrills/"><u>Boost Performance Now: Overclock the NVIDIA RTX 3090 for Ultimate Gaming Thrills</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-installing-focusrite-scarlett-2i4-drivers-for-windows-computers/"><u>Complete Guide to Downloading & Installing Focusrite Scarlett 2I4 Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-fixing-intel-vga-driver-problems-for-windows-users/"><u>Comprehensive Guide: Fixing Intel VGA Driver Problems for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/delaying-microsoft-edge-tabs-a-win11-guide/"><u>Delaying Microsoft Edge Tabs: A Win11 Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-ch340g-serial-port-drivers-for-windows-11/"><u>Download & Update CH340G Serial Port Drivers for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-cutting-edge-steelseries-driver-software-today/"><u>Download and Install Cutting-Edge SteelSeries Driver Software Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978110006-download-m-audio-fast-track-drivers-compatible-with-windows-117881-get-your-audio-setup-ready/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 11/7/8/8.1 – Get Your Audio Setup Ready!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-wf-7720-compatible-printer-driver-version-update-guide-windows-edition/"><u>Epson WF-7720 Compatible Printer Driver Version Update Guide - Windows Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-epson-xp-440-drivers-instantly-a-step-by-step-guide/"><u>Get the Latest Epson XP-440 Drivers Instantly – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978284224-get-your-sound-blaster-audigy-latest-drivers-available-here/"><u>Get Your Sound Blaster Audigy - Latest Drivers Available Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-update-and-repair-intel-hd-graphics-card-drivers-in-windows/"><u>How to Successfully Update and Repair Intel HD Graphics Card Drivers in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-scanjet-drivers-update-enhanced-functionality-for-windows-users-download/"><u>HP Scanjet Drivers Update: Enhanced Functionality for Windows Users [Download]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-lava-storm-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Lava Storm 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-comprehensive-guide-to-creating-movies-not-just-youtube/"><u>In 2024, The Comprehensive Guide to Creating Movies, Not Just YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-right-epson-stylus-nx420-printer-driver-on-windows-7-8-or-10-expert-tips-and-tricks/"><u>Install the Right Epson Stylus NX420 Printer Driver on Windows 7, 8 or 10: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-your-audio-game-strong-updating-corsair-headset-drivers-on-windows/"><u>Keep Your Audio Game Strong: Updating Corsair Headset Drivers on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-techniques-for-enhancing-wi-fi-connectivity-with-driver-updates-in-windows-1110/"><u>Latest Techniques for Enhancing Wi-Fi Connectivity with Driver Updates in Windows 11/10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-logitech-driver-setup-top-methods-for-windows-operating-systems/"><u>Seamless Logitech Driver Setup – Top Methods for Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-update-of-canon-printerscanner-drivers-on-microsoft-windows-tips-and-tricks/"><u>Seamless Update of Canon Printer/Scanner Drivers on Microsoft Windows: Tips and Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/shield-personal-data-dont-use-these-3-suspect-apps/"><u>Shield Personal Data: Don't Use These 3 Suspect Apps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solutions-for-troubleshooting-and-resolving-hp-officejet-pro-6978-printer-drivers/"><u>Solutions for Troubleshooting and Resolving HP Officejet Pro 6978 Printer Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-driver-problems-with-your-hp-officejet-pro-6978-printer/"><u>Solving Driver Problems with Your HP OfficeJet Pro 6978 Printer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-setting-up-sony-vaio-drivers-for-windows-computers/"><u>Step-by-Step Guide to Downloading and Setting Up Sony VAIO Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-upgrading-your-amd-radeon-hd-amoji-7850-graphics-card-driver-for-windows-11/"><u>Step-by-Step Guide: Upgrading Your AMD Radeon HD Amoji 7850 Graphics Card Driver for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-perfect-walkthrough-to-download-and-install-soundmax-for-windows-users/"><u>The Perfect Walkthrough to Download and Install SoundMax for Windows Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-for-enthusiasts-on-screenshotting-with-zd-software-for-2024/"><u>The Ultimate Guide for Enthusiasts on Screenshotting with ZD Software for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-solution-for-downloading-and-installing-asus-wifi-drivers/"><u>The Ultimate Solution for Downloading and Installing ASUS WiFi Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-notch-passport-pictures-create-and-save-with-our-free-tool/"><u>Top-Notch Passport Pictures - Create and Save with Our Free Tool</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toshiba-satellite-drivers-download-and-update-in-windows/"><u>Toshiba Satellite Drivers Download and Update in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-5-methods-ai-assists-in-advancing-cybercriminal-activities/"><u>Unveiling 5 Methods AI Assists in Advancing Cybercriminal Activities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-razer-devices-easily-with-compatible-drivers-in-windows-os-10-8-7-xp-and-vista/"><u>Update Your Razer Devices Easily with Compatible Drivers in Windows OS (10, 8, 7, XP & Vista)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-driver-pack-for-hp-deskjet-inkjet-2700-series-free-downloads-and-installation-guide/"><u>Updated Driver Pack for HP DeskJet Inkjet 2700 Series: Free Downloads & Installation Guide</u></a></li>
+</ul></div>

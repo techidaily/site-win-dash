@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Basics: Step-by-Step Guide to Finding Mean Values with MS Excel"
-date: 2024-08-27 17:26:23
-updated: 2024-08-29 10:51:45
+date: 2024-08-28T01:30:43.892Z
+updated: 2024-08-29T01:30:43.892Z
 tags:
   - windows
 categories:
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
  Let's explore these in more detail.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Use AVERAGE in Excel
 
  To calculate the average in Excel, use the following syntax:
@@ -44,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores will be calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As you can see, Student C scored 0 and Student F has yet to take the exam. As a result, we want Excel to work out the scores of those who have taken the exam (all students except for Student F).
 
  To do this, we would type the following formula into cell D2:
@@ -72,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In cell D5, we would type the following formula:
 
 =AVERAGEA(B2:B8)
@@ -104,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
 
  To work out the average scores of all students over 12 years of age, we would use the following formula:
@@ -120,6 +132,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Use AVERAGEIFS in Excel
 
  The AVERAGEIFs function allows you to include several criteria to assess before calculating the average. It works using the following syntax:
@@ -132,6 +147,9 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To do this, we would use the following formula:
 
 =AVERAGEIFS(B2:B8,C2:C8,"Green",D2:D8,">10")
@@ -165,3 +183,45 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creating-continuous-viewing-pleasure-on-television-for-2024/"><u>[New] Creating Continuous Viewing Pleasure on Television for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-maximizing-obs-broadcasts-to-facebook-feed/"><u>[New] In 2024, Maximizing OBS Broadcasts to Facebook Feed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-budding-creators-set-up-a-profitable-youtube-chanel/"><u>[Updated] 2024 Approved  Budding Creators  Set Up a Profitable YouTube Chanel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-essential-hashtag-analyzers-facebook-twitter-and-instagram-edition/"><u>[Updated] In 2024, Essential Hashtag Analyzers  Facebook, Twitter & Instagram Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-gadget-guidance-getting-into-googles-video-conference/"><u>[Updated] In 2024, Gadget Guidance  Getting Into Google's Video Conference</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-next-level-immersion-top-10-innovative-pc-vr-headsets-for-360-views/"><u>2024 Approved  Next-Level Immersion  Top 10 Innovative PC VR Headsets for 360 Views</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-htc-u23-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked HTC U23 Phone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966902576-a-decision-must-cause-harm-to-someone/"><u>A Decision Must Cause Harm to Someone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-470-drivers-upgrade-step-by-step-guide-for-a-smooth-graphics-performance/"><u>AMD Radeon RX 470 Drivers Upgrade - Step-by-Step Guide for a Smooth Graphics Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-performing-8-recording-software-picks/"><u>Best Performing 8 Recording Software Picks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-performance-now-overclock-the-nvidia-rtx-3090-for-ultimate-gaming-thrills/"><u>Boost Performance Now: Overclock the NVIDIA RTX 3090 for Ultimate Gaming Thrills</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-installing-focusrite-scarlett-2i4-drivers-for-windows-computers/"><u>Complete Guide to Downloading & Installing Focusrite Scarlett 2I4 Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-fixing-intel-vga-driver-problems-for-windows-users/"><u>Comprehensive Guide: Fixing Intel VGA Driver Problems for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-ch340g-serial-port-drivers-for-windows-11/"><u>Download & Update CH340G Serial Port Drivers for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978110006-download-m-audio-fast-track-drivers-compatible-with-windows-117881-get-your-audio-setup-ready/"><u>Download M-Audio Fast Track Drivers Compatible with Windows 11/7/8/8.1 – Get Your Audio Setup Ready!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-epson-xp-440-drivers-instantly-a-step-by-step-guide/"><u>Get the Latest Epson XP-440 Drivers Instantly – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978284224-get-your-sound-blaster-audigy-latest-drivers-available-here/"><u>Get Your Sound Blaster Audigy - Latest Drivers Available Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-update-and-repair-intel-hd-graphics-card-drivers-in-windows/"><u>How to Successfully Update and Repair Intel HD Graphics Card Drivers in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-k11-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo K11 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-scanjet-drivers-update-enhanced-functionality-for-windows-users-download/"><u>HP Scanjet Drivers Update: Enhanced Functionality for Windows Users [Download]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10-indispensable-fcp-enhancing-plugins/"><u>In 2024, 10 Indispensable FCP-Enhancing Plugins</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-which-ones-right-for-you-obs-or-twitch-studio-reviewed/"><u>In 2024, Which One's Right for You? - OBS or Twitch Studio Reviewed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-right-epson-stylus-nx420-printer-driver-on-windows-7-8-or-10-expert-tips-and-tricks/"><u>Install the Right Epson Stylus NX420 Printer Driver on Windows 7, 8 or 10: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-techniques-for-enhancing-wi-fi-connectivity-with-driver-updates-in-windows-1110/"><u>Latest Techniques for Enhancing Wi-Fi Connectivity with Driver Updates in Windows 11/10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-milestones-unveiling-top-sources-for-harmonious-opens/"><u>Melodic Milestones  Unveiling Top Sources for Harmonious Opens</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-snapshots-to-masterpieces-best-online-photo-and-video-collage-creators/"><u>New In 2024, From Snapshots to Masterpieces Best Online Photo and Video Collage Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fix-update-your-windows-10-drivers-with-these-simple-steps/"><u>Quick Fix: Update Your Windows 10 Drivers with These Simple Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-logitech-driver-setup-top-methods-for-windows-operating-systems/"><u>Seamless Logitech Driver Setup – Top Methods for Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-update-of-canon-printerscanner-drivers-on-microsoft-windows-tips-and-tricks/"><u>Seamless Update of Canon Printer/Scanner Drivers on Microsoft Windows: Tips and Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-driver-problems-with-your-hp-officejet-pro-6978-printer/"><u>Solving Driver Problems with Your HP OfficeJet Pro 6978 Printer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-perfect-walkthrough-to-download-and-install-soundmax-for-windows-users/"><u>The Perfect Walkthrough to Download and Install SoundMax for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toshiba-satellite-drivers-download-and-update-in-windows/"><u>Toshiba Satellite Drivers Download and Update in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-data-analysis-with-these-6-techniques-using-chatgpt/"><u>Transform Your Data Analysis with These 6 Techniques Using ChatGPT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/standing-and-proficiently-implementing-cc-copyrights-for-2024/"><u>Understanding and Proficiently Implementing CC Copyrights for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft-for-2024/"><u>Unlocking the Secrets to Effective Screen Capturing with Apeaksoft for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-razer-devices-easily-with-compatible-drivers-in-windows-os-10-8-7-xp-and-vista/"><u>Update Your Razer Devices Easily with Compatible Drivers in Windows OS (10, 8, 7, XP & Vista)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/video-talk-with-ease-how-to-utilize-whatsapp-web-on-your-notebook/"><u>Video Talk with Ease  How to Utilize WhatsApp Web on Your Notebook</u></a></li>
+</ul></div>

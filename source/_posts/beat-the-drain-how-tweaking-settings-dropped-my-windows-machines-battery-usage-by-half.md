@@ -1,7 +1,7 @@
 ---
 title: "Beat the Drain: How Tweaking Settings Dropped My Windows Machine’s Battery Usage by Half"
-date: 2024-08-27 19:51:16
-updated: 2024-08-29 10:37:49
+date: 2024-08-28T01:32:07.401Z
+updated: 2024-08-29T01:32:07.401Z
 tags:
   - windows
 categories:
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  As a Windows laptop user, you know the frustration of searching for a charging spot because your laptop's battery life is short. The problem is worse if your laptop is older, since batteries lose capacity over time. Luckily, you can change some Windows settings to improve your laptop's battery life..
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Modify the Power Plan Settings
 
  Link State Power Management is a feature on your Windows computer that saves battery life by controlling the connection between the [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) and devices connected through the PCI Express (PCIe) slots. It works alongside Active State Power Management (ASPM) and offers three modes to configure — "Off," "Moderate Power Savings," and "Maximum Power Savings."
@@ -39,12 +42,18 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![Change Advanced Power Settings option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-advanced-power-settings-option-in-the-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
  In the Power Options window, double-click the "PCI Express" option and the "Link State Power Management" option. From the On battery drop-down menu, select "Maximum Power Savings." Then, choose "Moderate Power Savings" from the Plugged In dropdown menu.
 
 ![PCI Express option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pci-express-option-in-the-control-panel.jpg) 
 
  Click "Apply" and "OK" to save the changes. After that, restart your laptop to see the impact on battery performance.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Change Video Playback Settings
 
  Many [UWP apps and third-party applications](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/) use the video platform built into Windows 11\. You can control the video playback settings for these apps when your device is on battery to reduce battery consumption compared to before.
@@ -53,16 +62,27 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![Video playback option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/video-playback-option-in-the-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  Choose the "Optimize for Battery Life" option from the Battery Options menu. Then, check the "Play video at a lower resolution when on battery" option.
 
 ![Optimize for battery life option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/optimize-for-battery-life-option-in-the-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ##  Apply the Energy Recommendations Changes
 
  Windows 11 has an Energy recommendations option in the Settings menu that shows all the minor changes you can make on your device to [improve battery life](https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/). To apply these changes, open the Settings app, select "System" from the left sidebar, and click "Power & Battery" on the right.
 
 ![Power & battery option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-battery-option-in-the-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select the "Energy Recommendations" option.
 
 ![Energy Recommendation option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/energy-recommendation-option-in-the-settings-app.jpg) 
@@ -85,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![Power Saving option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-saving-option-in-the-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Disable the RGB Lighting
 
  If your laptop has a backlit keyboard or you have an external keyboard with RGB lighting attached, you can improve your battery life by [disabling the RGB lighting](https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/). Different laptop and keyboard brands use different key combinations to turn off the lighting.
@@ -97,6 +120,11 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  This is because an LCD screen uses a backlight to illuminate the entire screen, regardless of the color displayed. Therefore, enabling dark mode will have a negligible impact. On the other hand, OLED screens have pixels that produce their own light and when you switch to dark mode the black pixel get turned off by default. Since the display doesn't need to light up those pixels, it uses less battery compared to light mode. However, keep in mind that the impact will still be quite small.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ##  Reduce the Maximum Processor State
 
  This tip not only helped me reduce the power consumption of my laptop but also [fixed its heating issue](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). So, when you reduce the Maximum processor state on your Windows laptop, you're actually limiting the maximum processing power that your CPU can use.
@@ -113,10 +141,16 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![Command to view duplicate power scheme in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-to-view-duplicate-power-scheme-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  Type **powercfg /changename <Power Scheme GUID> "Customized Power Saving"** and hit Enter.
 
 ![Customized Power Saving command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-power-saving-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
  To reduce CPU max clock speed of efficiency cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX 99** and hit Enter.
 
 ![Command for efficiency cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-efficiency-cores-in-cmd.jpg) 
@@ -149,3 +183,51 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-achieving-ideal-mac-resized-instagram-video-content/"><u>[New] In 2024, Achieving Ideal Mac-Resized Instagram Video Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-achieving-excellence-in-android-video-production-using-obs/"><u>[Updated] Achieving Excellence in Android Video Production Using OBS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-amplify-visual-narratives-with-audio-in-premiere-pro-for-2024/"><u>[Updated] Amplify Visual Narratives with Audio in Premiere Pro for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-quick-quirks-lasting-impact-fast-track-to-fame-with-9gag-memes/"><u>[Updated] Quick Quirks, Lasting Impact  Fast Track to Fame with 9GAG Memes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>[Updated] Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1995-absolute-power-with-eastwood-as-luther-whitney-a-renowned-thief-who-witnesses-the-murder-of-an-influential-washington-lobbyist-by-his-young-protege-the207/"><u>1995 - Absolute Power, with Eastwood as Luther Whitney, a Renowned Thief Who Witnesses the Murder of an Influential Washington Lobbyist by His Young Protégé. The Film Was Based on Irwin Wagman's Novel ''The Charm School Murders''.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-superior-video-recording-apps-on-mac-not-bandicam/"><u>2024 Approved  Superior Video Recording Apps on Mac, Not Bandicam</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-compact-guide-to-creating-viral-music-on-youtube/"><u>2024 Approved  The Compact Guide to Creating Viral Music on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/approach-discuss-the-advantages-over-linear-methods/"><u>Approach: Discuss the Advantages over Linear Methods.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/detailed-walkthrough-to-successfully-update-asus-pce-ac56-drivers-in-recent-windows-versions-winsolved/"><u>Detailed Walkthrough to Successfully Update ASUS PCE-AC56 Drivers in Recent Windows Versions [WINSOLVED]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971722744-download-asus-monitor-drivers-quickly-and-easily/"><u>Download | ASUS Monitor Drivers | Quickly & Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-wacom-drivers-in-a-flash-a-comprehensive-guide/"><u>Download and Update Wacom Drivers in a Flash – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-samsung-c460-drivers-in-a-flash-steps-inside/"><u>Download Samsung C460 Drivers in a Flash – Steps Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-your-nvidia-geforce-940mx-drivers-today/"><u>Download Your NVIDIA GeForce 940MX Drivers Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-unite-multiple-spotify-playlists-into-a-single-collection/"><u>Easy Steps to Unite Multiple Spotify Playlists Into a Single Collection</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhancement-update-installation-of-basic-peripheral-drivers-in-windows-11-now-possible/"><u>Enhancement Update: Installation of Basic Peripheral Drivers in Windows 11 Now Possible</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-printing-downloading-the-correct-epson-xp-245-driver-for-windows-7-8-or-10/"><u>Ensure Smooth Printing: Downloading the Correct Epson XP-245 Driver for Windows 7, 8 or 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-common-problems-with-the-realtek-universal-video-driver-easily/"><u>Fixing Common Problems with the Realtek Universal Video Driver Easily!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-xbox-accessory-controller-drivers-in-windows-10-8-and-7/"><u>Fixing Xbox Accessory Controller Drivers in Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-csr-bluetooth-module-drivers-download-guide/"><u>Free CSR Bluetooth Module Drivers: Download Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961606629-get-the-newest-rtx-3080-graphics-driver-on-windows-1187-free-download-now/"><u>Get the Newest RTX 3080 Graphics Driver on Windows 11/8/7 - Free Download Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-software-for-your-corsair-k55-fresh-driver-downloads-here/"><u>Get the Newest Software for Your Corsair K55: Fresh Driver Downloads Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-started-fast-installation-of-the-latest-wacom-intuos-driver-version/"><u>Getting Started: Fast Installation of the Latest Wacom Intuos Driver Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-update-your-toshiba-mini-nettops-drivers-on-a-windows-machine/"><u>How to Download & Update Your Toshiba Mini Nettop's Drivers on a Windows Machine</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-new-drivers-for-your-lenovo-webcam-on-windows-er-7/"><u>How to Install New Drivers for Your Lenovo Webcam on Windows Er 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-latest-geforce-210-graphics-driver-update-on-your-windows-10-device/"><u>How to Install the Latest GeForce 210 Graphics Driver Update on Your Windows 10 Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-msi-b350-toms-hardware-graphics-card-on-windows-117-driver-downloads-inside/"><u>How to Update Your MSI B350 TOM'S Hardware Graphics Card on Windows 11/7 - Driver Downloads Inside!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-12-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi 12 to Roku | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rgb-to-srgb-transition-what-it-means-for-visual-media/"><u>In 2024, Rgb to Srgb Transition  What It Means for Visual Media</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-to-essential-asus-monitor-drivers-effortless-download-awaits/"><u>Instant Access to Essential ASUS Monitor Drivers - Effortless Download Awaits!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-download-the-official-pioneer-dj-ddj-sx2-software/"><u>Instant Access: Download the Official Pioneer DJ DDJ-SX2 Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-geforce-rtx-3070-drivers-download-and-update-for-windows-1011/"><u>Latest NVIDIA GeForce RTX 3070 Drivers Download & Update for Windows 10/11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-toshiba-laptop-driver-updates-how-to-install-on-windows/"><u>Latest Toshiba Laptop Driver Updates: How to Install on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-15-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 15 Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-get-the-newest-asus-bluetooth-driver-software-right-now/"><u>Quick Fix: Get the Newest ASUS Bluetooth Driver Software Right Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fixes-for-bcm2045a0-driver-troubles-resolved/"><u>Quick Fixes for BCM2045A0 Driver Troubles - Resolved!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976932074-step-by-step-driver-installation-for-asus-z370-e-fast-and-simple/"><u>Step-by-Step Driver Installation for ASUS Z370-E - Fast & Simple!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-troubleshooting-your-logitech-f710-mouse-on-various-windows-operating-systems/"><u>Step-by-Step Guide to Troubleshooting Your Logitech F710 Mouse on Various Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/streamlined-process-get-and-install-new-canon-drivers-on-windows-easily/"><u>Streamlined Process: Get & Install New Canon Drivers on Windows Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-animated-logo-creators-for-stunning-brand-identities/"><u>Top 10 Free Animated Logo Creators for Stunning Brand Identities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-the-newest-geforce-rtx-3090-drivers-compatible-with-multiple-windows-versions/"><u>Update to the Newest GeForce RTX 3090 Drivers - Compatible with Multiple Windows Versions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updating-your-intel-riser-driver-to-enhance-system-performance-in-windows-111087/"><u>Updating Your Intel Riser Driver to Enhance System Performance in Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-c-compatibility-essential-drivers-for-windows-11-users/"><u>USB-C Compatibility: Essential Drivers for Windows 11 Users</u></a></li>
+</ul></div>

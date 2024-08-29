@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cell Counts: A Beginner's Guide to Utilizing the COUNT Formula in Excel"
-date: 2024-08-27 11:11:49
-updated: 2024-08-29 11:34:39
+date: 2024-08-28T01:33:27.171Z
+updated: 2024-08-29T01:33:27.171Z
 tags:
   - excel
 categories:
@@ -30,6 +30,10 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
 
  There are variations of the COUNT function such as [COUNTIF for counting cells with certain criteria](https://win-forum.techidaily.com/complete-tutorial-clearing-out-windows-10-memory-dump-data/) and also [COUNTBLANK for empty cells](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/). Be sure to check out our how-tos for these variations as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Use the COUNT Function in Excel
 
  To get started, open your workbook and head to the sheet you want to use in Excel. Go to the cell where you want to display the result of the formula. You can then use the Count Numbers option in the Sum list or enter the formula manually.
@@ -38,6 +42,9 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
 
 ![Count Numbers in the SUM button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountNumbers-ExcelCOUNT.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This method works great for basic counts like one cell range. For more complicated situations, you can enter the formula containing the function.
 
  The syntax for the function is
@@ -62,22 +69,40 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
 
 ![COUNT for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Numbers-ExcelCOUNT.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  If that same range of cells contains text in five of the 10 cells, the formula's result is 5.
 
 ![COUNT for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Numbers-ExcelCOUNT.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
  To obtain the count for nonadjacent cell ranges A2 through A6 and B6 through B11, you would use this formula:
 
 =COUNT(A2:A6,B6:B11)
 
 ![COUNT for two cell ranges](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/NonadjacentRanges-ExcelCOUNT.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  You can include even more cell ranges, if necessary, with the COUNT function. This formula counts the cells in A2 through A11, C2 through C11, and E2 through E11.
 
 =COUNT(A2:A11,C2:C11,E2:E11)
 
 ![COUNT for mutliple cell ranges](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleRanges-ExcelCOUNT.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For other ways to obtain counts in Microsoft Excel, take a look at how to [count colored cells](https://facebook-video-recording.techidaily.com/new-2024-approved-the-cryptic-collection-of-2023-auction-for-anonymity-artifacts/) or how to [count cells with text](https://buynow-tips.techidaily.com/family-fun-on-wheels-holy-stone-rc-cartoon-race-car-evaluation/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |  |
@@ -100,3 +125,55 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-top-11-youtube-video-rippers-to-download-youtube-videos/"><u>[New] 2024 Approved  Top 11 YouTube Video Rippers to Download YouTube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-list-screen-recorders-for-expert-users/"><u>[New] A-List Screen Recorders for Expert Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-broadcast-excellence-incorrante-video-loops-into-television-for-2024/"><u>[New] Broadcast Excellence  Incorrante Video Loops Into Television for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sound-symphony-music-within-whatsapp-statuses/"><u>[Updated] 2024 Approved  Sound Symphony  Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-beauty-brows-to-perfect-portraits-crafting-your-cosmetic-chanel-for-2024/"><u>[Updated] From Beauty Brows to Perfect Portraits  Crafting Your Cosmetic Chanel for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-speedy-fortnite-cover-art-creation/"><u>[Updated] Speedy Fortnite Cover Art Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapseed-essentials-conquering-image-enhancement/"><u>2024 Approved  Snapseed Essentials  Conquering Image Enhancement</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-flight-fun-with-holy-stone-hs170-predator-mini-quadcopter-ultimate-reviews-and-insights/"><u>Affordable Flight Fun with Holy Stone HS1,70 Predator Mini Quadcopter – Ultimate Reviews & Insights!</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-guide-the-initial-tasks-for-your-fresh-laptop-setup/"><u>Beginner's Guide: The Initial Tasks for Your Fresh Laptop Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-pcs-performance-how-to-update-the-gtx-1660-ti-drivers/"><u>Boost Your PC's Performance: How to Update the GTX 지판 1660 Ti Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/cavitation-typically-occurs-at-high-flow-rates-where-low-pressure-zones-are-created-potentially-causing-damage-to-the-impeller/"><u>Cavitation Typically Occurs at High Flow Rates Where Low-Pressure Zones Are Created, Potentially Causing Damage to the Impeller.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976475732-easy-access-to-amd-gpio-drivers-start-your-free-download-here/"><u>Easy Access to AMD GPIO Drivers: Start Your Free Download Here!</u></a></li>
+<li><a href="https://facebook.techidaily.com/empowering-players-with-a-unified-online-identity-for-xbox/"><u>Empowering Players with a Unified Online Identity for Xbox</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967336310-enhance-gameplay-with-the-latest-geforce-rtx-2080-ti-drivers-update-now/"><u>Enhance Gameplay with the Latest GeForce RTX 2080 Ti Drivers - Update Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pc-performance-with-nvidia-geforce-210-drivers-for-windows-10/"><u>Enhance Your PC Performance with NVIDIA GeForce 210 Drivers for Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-printing-experience-download-updated-epson-wf-3620-drivers-for-windows-os-1087/"><u>Enhance Your Printing Experience: Download Updated Epson WF-3620 Drivers for Windows OS 10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-advice-how-to-refresh-the-software-for-your-audio-technica-sound-equipment/"><u>Expert Advice: How to Refresh the Software for Your Audio Technica Sound Equipment</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-and-simple-guide-amd-smbus-driver-installation-and-updates/"><u>Fast and Simple Guide: AMD Smbus Driver Installation and Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-the-cannot-play-issue-solution-for-error-code-22403/"><u>Fixing the 'Cannot Play' Issue: Solution for Error Code 22403</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-best-performance-download-hp-printer-drivers-now/"><u>Get the Best Performance: Download HP Printer Drivers Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-right-amd-graphics-software-updated-now/"><u>Get the Right AMD Graphics Software Updated Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/highly-efficient-at-transferring-large-amounts-of-heat-with-small-temperature-differences/"><u>Highly Efficient at Transferring Large Amounts of Heat with Small Temperature Differences</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-the-most-recent-hp-printer-driver-for-your-laserjet-p1007/"><u>How to Download the Most Recent HP Printer Driver for Your LaserJet P1007</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-download-new-brother-mfc-7860dw-driver-software-for-pcs/"><u>How to Find and Download New Brother MFC-7860DW Driver Software for PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-105-classic-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia 105 Classic to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-upgrade-to-windows-1n-11-v2004-with-updated-conexant-support/"><u>How to Upgrade to Windows 1N 11 - v2004 with Updated Conexant Support</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-laserjet-groove-with-these-printer-drivers-for-windows-11-10-and-8-downloads/"><u>HP LaserJet Groove with These Printer Drivers for Windows 11, 10 and 8 Downloads!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-8620-driver-update-and-download-instructions-for-windows-users/"><u>HP OfficeJet Pro 8620 Driver Update and Download Instructions for Windows Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chromatic-mastery-bridging-theory-and-art/"><u>In 2024, Chromatic Mastery  Bridging Theory and Art</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-prevent-and-mend-live-stream-glitches-fb/"><u>In 2024, How to Prevent & Mend Live Stream Glitches (FB)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-x100-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo X100 Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-ten-youtube-regulations-to-abide-by/"><u>In 2024, Top Ten YouTube Regulations to Abide By</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-canons-latest-printing-tools-find-the-official-mf74-cdw-drivers-for-windows/"><u>Install Canon's Latest Printing Tools: Find the Official MF74지오당 도움말 CDW Drivers for Windows!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kobo-libra-h2o-review-digital-reading-made-easy-and-waterproof/"><u>Kobo Libra H2O Review: Digital Reading Made Easy and Waterproof</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-technology-graphic-tablet-drivers-upgrade-to-a-new-experience-with-wacom/"><u>Latest Technology Graphic Tablet Drivers - Upgrade to a New Experience with Wacom!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-mfplatdll-file-not-found-a-step-by-step-troubleshooting-guide/"><u>Resolving 'mfplat.dll' File Not Found: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revamping-your-microsoft-mouse-experience-with-a-fresh-driver-update-on-windows/"><u>Revamping Your Microsoft Mouse Experience with a Fresh Driver Update on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-hp-laserjet-1020-drivers-errors-on-windows-quickly-and-efficiently/"><u>Solve HP LaserJet 1020 Drivers Errors on Windows Quickly and Efficiently</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-configuring-windows-devices-with-offline-driver-installation-techniques/"><u>Step-by-Step Tutorial on Configuring Windows Devices with Offline Driver Installation Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967839431-the-best-way-to-obtain-and-install-samsung-c460-printer-drivers-no-hassle/"><u>The Best Way to Obtain & Install Samsung C460 Printer Drivers - No Hassle</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-secure-your-epson-xp-410-printer-driver-downloads-for-windows-computers/"><u>The Ultimate Walkthrough: Secure Your Epson XP-410 Printer Driver Downloads for Windows Computers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-challenges-in-sending-presents-via-apple-devices/"><u>Top 5 Challenges in Sending Presents via Apple Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-for-your-260ci-wireless-internet-adaptors-usb-connectivity-issues/"><u>Troubleshooting Tips for Your 260Ci Wireless Internet Adaptor's USB Connectivity Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/turbulence-intensity-enhances-fuel-air-mixing-but-must-be-balanced-to-avoid-knocking/"><u>Turbulence Intensity Enhances Fuel-Air Mixing but Must Be Balanced to Avoid Knocking.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11-compatible-free-download-intel-usb-30-device-drivers/"><u>Windows 11 Compatible - Free Download: Intel USB 3.0 Device Drivers</u></a></li>
+</ul></div>
