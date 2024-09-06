@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Install New Microsoft Drivers on Windows 11, 8 & 7 Systems
-date: 2024-08-28T01:42:09.513Z
-updated: 2024-08-29T01:42:09.513Z
+date: 2024-09-05T09:50:27.881Z
+updated: 2024-09-06T09:50:27.881Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d
 
 ![amd rx 6800 driver](https://images.drivereasy.com/wp-content/uploads/2020/12/feature-image-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Got a shiny new AMD RX 6800 graphics card and expect an ultimate gaming experience and flawless graphics display? If so, you need to keep your GPU driver up-to-date at all times. In this tutorial, you’ll explore two safe ways to update the AMD RX 6800 driver easily:
 
 **[Method 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**
@@ -39,12 +45,30 @@ If you have no idea how to do this, simply follow the steps below.
 2. Scroll down to the search section, and choose**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6800 Series** \>**AMD Radeon 6800** . Then, click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/a.jpg)
 3. Select the correct operating system and click the**Download** button next to the driver or software.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/b.jpg)
 4. Double-click the downloaded file and follow the on-screen instructions to install the driver.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Reboot your computer for the changes to take effect.
 
  If the process of manual driver update is too complex for you, there is an easier option below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2 – Download and install the driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your AMD RX 6800 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,10 +81,22 @@ If you have no idea how to do this, simply follow the steps below.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click the **Update**  button next to the flagged AMD Radeon RX 6800 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -142,9 +178,3 @@ If you have no idea how to do this, simply follow the steps below.
 <li><a href="https://win-dash.techidaily.com/update-to-intels-hd-graphics-4400-drivers-now-free-and-easy-to-get/"><u>Update to Intel's HD Graphics 4400 Drivers Now - Free & Easy to Get!</u></a></li>
 <li><a href="https://win-dash.techidaily.com/updated-sapphire-driver-software-how-to-install-on-your-windows-system/"><u>Updated Sapphire Driver Software: How to Install on Your Windows System</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
