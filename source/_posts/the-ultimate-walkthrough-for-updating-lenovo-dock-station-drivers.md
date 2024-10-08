@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough for Updating Lenovo Dock Station Drivers
-date: 2024-09-10T16:49:21.651Z
-updated: 2024-09-11T16:49:21.651Z
+date: 2024-10-02T17:08:52.290Z
+updated: 2024-10-08T17:05:39.964Z
 tags:
   - win11
   - win10
@@ -19,20 +19,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  Are you trying to update your Lenovo Thunderbolt 3 Dock driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to update the Lenovo Thunderbolt 3 Dock driver
 
 To update the Lenovo Thunderbolt 3 Dock driver, you have two options:
@@ -44,20 +30,6 @@ OR
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your driver this way, because you need to find exactly the right driver online, download it and install it step by step.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Option 1 – Automatically update the driver
 
@@ -71,24 +43,7 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Lenovo Thunderbolt 3 Dock driver for now, simply click the**Update**  button next to it.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-52-17.jpg)
-
-
-
-
 
 <!-- affiliate ads begin -->
 <a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
@@ -97,14 +52,18 @@ OR
 <img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 2 – Update the driver manually
 
@@ -114,39 +73,21 @@ OR
 2. In the upper left corner, select the version of your Windows operating system.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-28-26.jpg)
 3. Expand the list of**Software and Utilities** and select**Thunderbolt 3 Graphics Dock Driver** from the results. To download this driver, simply click the down arrow button below**Download** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-32-54.jpg)
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 5. **Reboot** your PC for the changes to take effect.
 
@@ -163,8 +104,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +111,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ensemble-dynamics-crafting-collaborative-content-for-musicians/"><u>[Updated] 2024 Approved Ensemble Dynamics Crafting Collaborative Content for Musicians</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tasty-trailblazers-culinary-youtube-icons/"><u>[Updated] In 2024, Tasty Trailblazers Culinary YouTube Icons</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-proven-strategies-elevating-your-mobile-capture-game-with-mobizens-expertise/"><u>[Updated] Proven Strategies Elevating Your Mobile Capture Game with Mobizen's Expertise</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-best-pfr-rate-to-elevate-sluggish-video-flow/"><u>2024 Approved Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/breakthrough-techniques-for-enhancing-video-quality-in-meet-for-2024/"><u>Breakthrough Techniques for Enhancing Video Quality in Meet for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-logitech-brio-webcam-software-downloads-for-windows-os/"><u>Compatible Logitech BRIO Webcam Software Downloads for Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-update-and-download-enhanced-hp-deskjet-ink-advantage-3700-printer-drivers/"><u>Free Update & Download: Enhanced HP Deskjet Ink Advantage 3700 Printer Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-usb-c-devices-ready-with-the-perfect-driver-on-windows-10/"><u>Get Your USB-C Devices Ready with the Perfect Driver on Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y100t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y100t</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-issues-with-lg-monitor-drivers-in-windows-11-8-and-7-a-step-by-step-guide/"><u>Resolving Issues With LG Monitor Drivers in Windows 11, 8, and 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-get-the-newest-driver-for-logitech-c920-camera-on-windows-systems-win11108/"><u>Step-by-Step Guide to Get the Newest Driver for Logitech C920 Camera on Windows Systems (Win11/10/8)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-securely-getting-and-setting-up-epson-es-400-scanner-software-in-windows/"><u>Step-by-Step Tutorial for Securely Getting and Setting Up Epson ES-400 Scanner Software in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/thrustmasters-t300-steering-wheel-drivers-fresh-download-options-for-win11-and-win10-users/"><u>Thrustmaster's T300 Steering Wheel Drivers: Fresh Download Options for Win11 and Win10 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-making-hey-siri-function-properly-on-ios-devices/"><u>Troubleshooting Tips: Making 'Hey Siri' Function Properly on iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deals-on-affordable-motherboards-for-games/"><u>Unbeatable Deals on Affordable Motherboards for Games</u></a></li>
+</ul></div>
 

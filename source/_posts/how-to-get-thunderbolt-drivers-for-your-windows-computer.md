@@ -1,7 +1,7 @@
 ---
 title: How to Get Thunderbolt Drivers for Your Windows Computer
-date: 2024-09-10T16:49:21.121Z
-updated: 2024-09-11T16:49:21.121Z
+date: 2024-10-07T21:27:31.502Z
+updated: 2024-10-08T18:32:24.831Z
 tags:
   - win11
   - win10
@@ -18,26 +18,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/11293_03_RX5700XT_Nitro_Plus_8GBGDDR6_C02_374x265-1.png)
 
  Need to update your Sapphire drivers on Windows? In this article, we’ll walk you through 3 simple ways to get it done in seconds. Read on and choose the way you like to get your driver updated.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## 3 ways to download the latest Sapphire drivers
 
@@ -56,79 +36,34 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_18-30-17.jpg)
 3. Under**Display adapters** , right-click your graphics card then click**Update Driver** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-42-25.jpg)
 4. Click**Search automatically for drivers** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-45-34.jpg)
 5. Windows will scan for updates of the graphics driver for you, and install it if there’s any available.
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
-
 
 Restart your PC to let the new driver take effect.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### 2: Manual download from the manufacturer’s website
 
@@ -142,22 +77,15 @@ Restart your PC to let the new driver take effect.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -176,8 +104,6 @@ Restart your PC to let the new driver take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +111,19 @@ Restart your PC to let the new driver take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elevating-media-output-xml-to-text-to-speech-srt-format/"><u>[New] In 2024, Elevating Media Output XML to Text-To-Speech (SRT) Format</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-screen-capture-with-irecorder/"><u>[New] In 2024, Mastering Screen Capture with iRecorder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/certain-systemic-diseases-like-diabetes-mellitus-can-indirectly-contribute-to-aaa-development/"><u>Certain Systemic Diseases Like Diabetes Mellitus Can Indirectly Contribute to AAA Development.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-fixes-for-dell-mouse-driver-download-issues-a-comprehensive-solution/"><u>Easy Fixes for Dell Mouse Driver Download Issues - A Comprehensive Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968594047-fresh-off-the-shelf-newest-driver-updates-for-your-dell-2330d-and-2330dn-printers-revealed/"><u>Fresh Off The Shelf: Newest Driver Updates For Your Dell 2330D & 2330DN Printers Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-csr-bluetooth-chip-drivers-here/"><u>Get Your CSR Bluetooth Chip Drivers Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-gigabyte-ethernet-controller-drivers-here/"><u>Get Your Gigabyte Ethernet Controller Drivers Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-12-mini-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 12 mini to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-detecting-imitation-gpt-3-services-within-the-apple-ecosystem/"><u>Guide: Detecting Imitation GPT-3 Services Within the Apple Ecosystem</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-connectivity-with-the-latest-tp-link-usb-400-bluetooth-drivers-and-firmware/"><u>Improve Connectivity with the Latest TP-Link USB 400 Bluetooth Drivers and Firmware</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dive-into-dynamic-youtube-discussions/"><u>In 2024, Dive Into Dynamic YouTube Discussions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-latest-software-for-your-epson-v600-scanner/"><u>Install the Latest Software for Your Epson V600 Scanner</u></a></li>
+</ul></div>
 
