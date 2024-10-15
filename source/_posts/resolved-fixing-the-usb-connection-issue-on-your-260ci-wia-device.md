@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the USB Connection Issue on Your 260Ci WIA Device"
-date: 2024-09-10T16:49:26.203Z
-updated: 2024-09-11T16:49:26.203Z
+date: 2024-10-10T23:29:46.801Z
+updated: 2024-10-15T04:23:25.549Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Updating your printer driver can:
 
  So it’s**ALWAYS** recommended to update our printer driver whenever possible.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  Both methods below work in**Windows 10** ,**8** and**7** .  And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
@@ -53,56 +60,17 @@ Before heading to download the latest driver package from**Epson**‘s official 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R** at the same time. Then copy & paste **devmgmt.msc**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 2. Double-click on **Printer queues** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on**your Epson printer**  and click **Uninstall device** .
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Now let’s get started with the manual Epson driver download & install procedure:
 
@@ -114,22 +82,23 @@ Before heading to download the latest driver package from**Epson**‘s official 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb839f55c7e4.jpg)
 5. Double-click on the downloaded file and follow the instructions on the wizard to finish the install.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 6. **Restart** your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update my Epson printer driver automatically (Recommended)
 
@@ -144,40 +113,8 @@ Before heading to download the latest driver package from**Epson**‘s official 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b09636ab48.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb83b9f0aa46.jpg)  
 You can also click **Update**  to do it for free if you like, but it’s partly manual.
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. **Restart** your computer for the changes to take effect.
 
@@ -193,8 +130,6 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +137,22 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nderstanding-t-series-youtube-business-model-for-2024/"><u>[New] Understanding T-Series YouTube Business Model for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-art-of-crafting-gopro-time-lapses/"><u>[Updated] In 2024, The Art of Crafting GoPro Time-Lapses</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>2024 Approved Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-ati-radeon-hd-3450-driver-download-and-update-easily/"><u>AMD ATI Radeon HD 3450 Driver Download & Update Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-460-freshest-drivers-available-for-immediate-download/"><u>AMD Radeon RX 460 - Freshest Drivers Available for Immediate Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-walkthrough-get-the-latest-version-of-the-epson-et-3760-driver-for-microsoft-windows-systems/"><u>Comprehensive Walkthrough: Get the Latest Version of the Epson ET-3760 Driver for Microsoft Windows Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/directors-academy-youtube-channels-for-cinematic-innovation/"><u>Directors Academy YouTube Channels for Cinematic Innovation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-lenovo-t420-drivers-seamlessly-for-a-smooth-windows-experience/"><u>Download Updated Lenovo T420 Drivers Seamlessly for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-solve-unavailable-dts-audio-issue-with-specific-output-devices/"><u>How to Solve 'Unavailable DTS Audio' Issue with Specific Output Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978293501-hp-all-in-one-printer-compatibility-with-windows-free-drivers-available/"><u>HP All-in-One Printer Compatibility with Windows - Free Drivers Available!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unmatched-hdds-for-enhanced-xbox-experience/"><u>In 2024, Unmatched HDDs for Enhanced Xbox Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-vita-video-edit-a-detailed-2024-guide-and-review/"><u>Mastering Vita Video Edit A Detailed 2024 Guide & Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/next-level-mini-smart-speaker-insights-in-depth-look-at-the-third-gen-echo-dot-and-its-alexa-integration/"><u>Next-Level Mini Smart Speaker Insights: In-Depth Look at the Third Gen Echo Dot and Its Alexa Integration</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-130-music-video-recovery-recover-deleted-videos-from-nokia-130-music-by-fonelab-android-recover-video/"><u>Nokia 130 Music Video Recovery - Recover Deleted Videos from Nokia 130 Music</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978477059-streamlined-dell-monitor-driver-update-fresh-installation-tips-and-tricks/"><u>Streamlined Dell Monitor Driver Update - Fresh Installation Tips & Tricks!</u></a></li>
+</ul></div>
 
