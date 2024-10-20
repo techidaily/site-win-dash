@@ -1,7 +1,7 @@
 ---
 title: "Quickly Move & Edit Your Android Images on Windows 11: A Simple Guide"
-date: 2024-08-28T01:31:39.995Z
-updated: 2024-08-29T01:31:39.995Z
+date: 2024-10-17T18:15:31.086Z
+updated: 2024-10-20T16:22:54.065Z
 tags:
   - windows
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
  Windows 11 now allows you to instantly transfer photos and screenshots from your Android phone the moment you take them. With a bit of setup, you won't have to use any cables or third-party apps to transfer photos. You can start editing the transferred photos on your Windows desktop right away.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Connecting Your Android Phone to Your Windows PC
 
  To set up this feature, you'll need to [connect your Android phone to your Windows PC](https://desktop-recording.techidaily.com/in-2024-zoom-savvy-key-techniques-for-clear-and-confident-remote-conversations/) using the [Link to Windows app](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003101/https://play.google.com/store/apps/details?id=com.microsoft.appmanager) on the Play Store.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
 ![An example of the Bluetooth device settings being displayed on a Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turn on the "Allow this PC to access your mobile devices" option. Then, on the right of "Mobile Devices," go to "Manage Devices."
 
 ![Different mobile devices options being displayed in the settings menu on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-4.png) 
@@ -45,8 +59,12 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 ![An example of a prompt on Windows asking you to choose a Microsoft account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After that, you should see a new window when you press the "Manage Devices" button again. This time, you need to add a device. For that, press the "Add Device" button.
 
 ![The option to add a mobile device to your Windows PC is being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-3.png) 
@@ -55,23 +73,28 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
 ![You are given a QR code for connecting your mobile device to your Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  After scanning the QR code, you'll see a new window revealing a secret code.
 
 ![A one time code being displayed that must be entered on the Link to Windows app to connect the phone to PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On your phone, you should be prompted to enter this code on the Link to Windows app. Type in the code and then press the "Continue" button.
 
 ![A prompt on the Link to Windows app on your phone to type in the verification code from your Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-verification-code-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now return to your PC. Go to Settings > Bluetooth & Devices > Mobile Devices. Open the "Manage Devices" settings again. You should see your Android device model there. Toggle the button on the right of your device name to enable it if it's not already enabled. You should also see a new setting called "Get New Photo Notifications." Toggle that button to turn it on.
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
@@ -84,27 +107,25 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Once you tap the notification, the photo will open in the [Snipping Tool](https://fox-direct.techidaily.com/updated-2024-approved-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/). From there, you can edit the photo, open it in Paint, [copy it to your clipboard](https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-c55-to-computer-for-iphone-and-android-drfone-by-drfone-android/), use the [Text Actions feature](https://fox-hovers.techidaily.com/updated-2024-approved-mastering-time-warp-in-video-editing/), or share it with others.
 
 ![An example of an Android photo opened in the Snipping Tool on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-opened-in-the-snipping-tool.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you accidentally miss the notification, you can still find it in the notification center. You can tap the date and time on the menu bar or press Windows+N to open the notification center.
 
 ![The Windows notification center displaying the Android photo notification](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-in-the-notification-panel-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another cool thing I found about this feature is that if you're on mobile data and not connected to the Wi-Fi on your phone, you can still use this feature. To do so, open the Link to Windows app. Go to Settings. Toggle the "Sync Over Mobile Data" button.
 
 ![Different settings of the Link to Windows app displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-transferred-on-mobile-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now turn off the Wi-Fi and turn on your mobile data. Take a photo and see if you receive a notification on Windows.
 
 ##  Troubleshooting Common Issues You May Face
@@ -120,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 7. Disconnecting and reconnecting the devices also helped.
 8. If you're unable to find the "Get New Photo Notifications" feature on your Windows PC, make sure you've installed the latest Windows updates and then try again.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Instant Photos at Your Fingertips
 
  There are many ways to [transfer photos from your Android phone to your Windows PC](https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-s17-to-pc-detailed-steps-drfone-by-drfone-android/). But this neat feature makes it so fast and easy once you've done the initial setup. If you need to edit a photo on your desktop, you don't need to transfer it manually via cables or extra apps. Currently, it only works for Android devices. If you're an iPhone user, there are other ways to [transfer photos from the iPhone to a Windows PC](https://video-capture.techidaily.com/new-expertly-selected-top-7-internet-voice-recorders-2023-for-2024/).
@@ -133,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +158,24 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-customize-your-youtube-view-adjust-speed-settings/"><u>[New] Customize Your YouTube View Adjust Speed Settings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-discovering-the-advantages-of-multi-angle-recording/"><u>[New] Discovering the Advantages of Multi-Angle Recording</u></a></li>
+<li><a href="https://win-forum.techidaily.com/year-say-goodbye-to-free-windows-10-updates-consider-these-replacement-operating-systems/"><u>[Year] - Say Goodbye to Free Windows 10 Updates; Consider These Replacement Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974110265-dell-wd19-drivers-download-and-installation/"><u>Dell WD19 Drivers - Download and Installation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961545297-download-and-update-amd-smbus-drivers-simple-steps-for-a-swift-upgrade/"><u>Download and Update AMD SMBus Drivers: Simple Steps for a Swift Upgrade!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-writing-automation-with-cutting-edge-hix-ai-enhanced-by-gpt/"><u>Effortless Writing Automation With Cutting-Edge HIX AI, Enhanced by GPT-^</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-guide-updating-and-downloading-dell-wd19-drivers-with-precision/"><u>Expert Guide: Updating & Downloading Dell WD19 Drivers with Precision</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/first-impressions-matter-why-godfall-falls-short-for-the-playstation-5/"><u>First Impressions Matter: Why Godfall Falls Short for the PlayStation 5</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-usb-30-drivers-for-windows-step-by-step-download-and-setup/"><u>Get the Latest USB 3.0 Drivers for Windows - Step-by-Step Download and Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-software-for-your-epson-xp-310-driver-downloads-and-tips/"><u>Get the Most Recent Software for Your Epson XP-310: Driver Downloads and Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978997864-hassle-free-installation-obtain-your-hp-stream-driver-packages-now/"><u>Hassle-Free Installation: Obtain Your HP Stream Driver Packages Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-visual-fidelity-and-speed-in-gaming-by-refreshing-dell-g3-drivers/"><u>Improve Visual Fidelity and Speed in Gaming by Refreshing Dell G3 Drivers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-affordable-strategies-for-engaging-youtube-opening-and-end-titles/"><u>In 2024, Affordable Strategies for Engaging YouTube Opening & End Titles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-alarm-issues-tips-and-tricks/"><u>Solving iPhone Alarm Issues: Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-roblox-outages-are-they-universal-or-personal/"><u>Understanding Roblox Outages: Are They Universal or Personal?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-final-cut-pros-finest-10-iconic-movies/"><u>Updated 2024 Approved Final Cut Pros Finest 10 Iconic Movies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-logitech-brio-webcam-drivers-for-win11-win8win7-free-download-links/"><u>Updated Logitech Brio Webcam Drivers for Win11, Win8/Win7 - Free Download Links</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Cybersecurity Habits That IT Teams Desire
-date: 2024-08-28T01:32:58.567Z
-updated: 2024-08-29T01:32:58.567Z
+date: 2024-10-18T16:26:12.226Z
+updated: 2024-10-20T16:50:00.802Z
 tags:
   - windows
 categories:
@@ -32,25 +32,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your work IT colleagues probably seem a bit grumpy sometimes, and there's a reason: They're always busy working behind the scenes to keep you secure from hackers and other digital threats. You can make them less grumpy (and improve your own online security outside the office too) by following these tips.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Don't Open Links in Emails That Lead to a Login Screen
 
  It's pretty common to receive an email with a link or a button that leads to a login screen, but you shouldn't use them. It's all too easy for a scammer to create their own fake login screen, email you a convincing looking email with a link, and then steal your password using it.
 
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  You should always use a unique password for every website, service, or app you use, and [make sure they are strong](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/).
@@ -59,9 +57,6 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
@@ -77,8 +72,18 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  The most effective way to do this is to create [separate user accounts](https://remote-screen-capture.techidaily.com/updated-screen-recording-mastery-with-lenovo-gear-for-2024/) on your computer. You can also use [Firefox Containers](https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/) or Safari Profiles, or isolate different activities by using a different browser for each.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Set a Passcode On All Of Your Devices
 
  Your phone, tablet, and laptop all contain sensitive information, and they provide access to your bank accounts, credit cards, and other financial tools. If one of them is lost or stolen, whoever gets hold of it can do a lot of damage in a short amount of time.
@@ -86,6 +91,13 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
  That's why it's important to set a secure passcode for all of your devices, so that if it leaves your control, it can't be used by anyone else. You can set a passcode on your [iPhone or iPad](https://driver-download.techidaily.com/compatible-with-windows-1087-logitech-brio-webcam-installation-software-and-driver-downloads/), or your [Windows](https://fox-http.techidaily.com/expert-strategies-pcmobile-filters-for-professional-results/) or [Android](https://android-location-track.techidaily.com/top-9-realme-note-50-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/) devices.
 
  If your device is stolen, you should remotely wipe it if it is supported on your [iOS](https://facebook-record-videos.techidaily.com/video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks-for-2024/) or [Android](https://some-techniques.techidaily.com/incor-writes-photo-kinetic-vibrance-for-2024/) device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  If Someone Asks For Something Out Of The Usual, Check In With Them
 
@@ -99,26 +111,40 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  If you receive an email with a strange or unexpected attachment, don't open it, and confirm that the sender is trusted and intentionally sent the attachment. And, under no circumstances should you run macros from a Microsoft Office document emailed to you: They're almost never something people use outside of work, and if you're at work, your IT department should manage which macros are trusted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use Antivirus and Stay Up-To-Date
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Learn How to use Windows and Your Other Software And Devices
 
  Your life will be easier if you know how to use your phone, tablet, and laptop properly. It might take a bit of a time investment, but it'll pay off: you'll be able to do things faster, make less mistakes, and you'll know when something isn't working properly. When you can tell that something isn't quite working as it should, you can investigate by running a virus scan, or seek expert help to resolve the problem.
 
  If there's something tech related you aren't sure about, you can search our [thousands of articles](https://desktop-recording.techidaily.com/2024-approved-ace-the-art-of-game-recordings-in-windows-11/) and find the answer from one of our experts. You can also [subscribe to our newsletter](https://fox-that.techidaily.com/effective-solutions-to-reactivate-your-imessage-on-an-iphone/) to stay up to date with all the latest gadgets, apps, and feature updates.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don't Panic!
 
 ![Photo illustration of a man reacting to spam coming from his monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/spam_guy.jpg) 
@@ -135,8 +161,6 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +168,21 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-sns-hdr-pros-value-and-comparisons/"><u>[Updated] Evaluating SNS HDR Pro's Value & Comparisons</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-superior-image-quality-the-power-of-youtubes-av1-settings/"><u>[Updated] In 2024, Superior Image Quality The Power of YouTube's AV1 Settings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-best-budget-friendly-closer-tutorials-top-6-edition-for-2024/"><u>[Updated] The Best Budget-Friendly Closer Tutorials Top 6 Edition for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/practices-in-youtube-thumbnail-sizes-and-ratios-for-2024/"><u>Best Practices in YouTube Thumbnail Sizes and Ratios for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-insignia-wireless-headset-bluetooth-drivers-for-pc/"><u>Download & Update Insignia Wireless Headset Bluetooth Drivers for PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-ways-to-refresh-your-pcs-audio-driver-on-windows-versions-11-10-and-7/"><u>Easy Ways to Refresh Your PC's Audio Driver on Windows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-efficiently-connect-and-use-a-wd-ses-external-disk-via-new-usb-drivers-windows-2011plus/"><u>How to Efficiently Connect and Use a WD SES External Disk via New USB Drivers (Windows 2011+)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-narzo-60-pro-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme Narzo 60 Pro 5G Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-play-7t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Play 7T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-razr-40-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Razr 40? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/samsung-m2070-printer-driver-instant-download-and-installation-guide/"><u>Samsung M2070 Printer Driver: Instant Download and Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-for-obtaining-the-newest-surface-book-2-driver-version/"><u>Step-by-Step Guide for Obtaining the Newest Surface Book 2 Driver Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-steps-installing-the-dell-mouse-driver-with-ease/"><u>Successful Steps: Installing the Dell Mouse Driver with Ease</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-phantom-v-fold-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Phantom V Fold FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
 

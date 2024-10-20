@@ -1,7 +1,7 @@
 ---
 title: "Revamp Your Work: Top 12 Solutions for Repairing Malfunctioning Excel Formulas"
-date: 2024-08-28T01:33:42.856Z
-updated: 2024-08-29T01:33:42.856Z
+date: 2024-10-13T17:33:34.888Z
+updated: 2024-10-20T18:03:29.768Z
 tags:
   - excel
 categories:
@@ -28,9 +28,23 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  Excel formulas can be magical things, saving you time and combining vast arrays of data to speed up your number crunching. However, sometimes, the smallest error within your formula can frustratingly limit the quality and validity of your results. Let's take a look at the ways you can overcome these errors.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. Check You've Used "="
 
  The first [part of an Excel formula](https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s18-pro-drfone-by-drfone-virtual-android/) must contain the "equals" symbol. This tells Excel that you are creating a calculation within your spreadsheet. If you don't use "=", Excel thinks that you're simply inputting data into the cell you're typing in, so it won't perform any calculations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. Use the Correct Number Formatting
 
@@ -67,23 +81,14 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  These steps will tell Excel that you want it to recalculate if you change the data referred to in your formula.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  5\. Avoid Formatting Within Your Formula
 
  As we stated in point 2, by default, if you're creating a formula that references a cell with a pre-defined number format, like a currency or a percentage, your formula will automatically copy the number formatting.
 
 ![Excel formula containing dollar symbols incorrectly added as formatting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/formatting-within-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  In the example above, the person typing the formula wants to add two monetary values together within their formula. This can cause problems as certain symbols have certain functions within formulas. Instead of typing the currency symbols within their formula, they should [use the accounting number format](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/) in the cell that they are typing, as this will automatically format their result to include the dollar symbols.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  6\. Review Your Formula for Extra Characters
 
  This might sound obvious, but simply reviewing your formula manually can often highlight any issues straightaway. Look out for extra characters that shouldn't be there, spaces within cell references, or numbers that you might have typed accidentally when constructing your formula.
@@ -94,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  This will highlight most problems with your formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. Close All Parentheses
 
  If you have a formula with several arguments, you will have used several opening parentheses.
@@ -102,28 +114,20 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  In this formula that we have started to type, there are five opening parentheses. As a result, we need to ensure that each argument created by an opening parenthesis is completed, so we would need five closing parentheses to ensure our formula is correctly constructed.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  8\. Check Your Referenced Cells
 
  Does your formula's result appear incorrect? If so, check that you have referenced the correct cells.
 
 ![Excel sheet showing the cells referenced in a formula, and highlighting one incorrect reference.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/target-cells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you double-click on the cell containing your formula, Excel will color code the references within the formula. By doing this, we can quickly see if any of the cell references are incorrect. To fix this, simply drag the colored cell reference to the correct cell, and the formula will automatically update.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Use Excel's Function Guide
 
@@ -131,16 +135,24 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
 ![Excel sheet showing how to find the 'Insert Function' option via the 'Formulas' tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/insert-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  In the dialog box that opens, you can either type the name of the function you're looking to use in the "Search For A Function" box, or select from the list below. Once you've found the correct function, click 'OK', and Excel will take you through the steps to ensure your formula is correctly input.
 
 ![Excel sheet with the 'Insert Function' dialog box open and showing the options available.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/insert-function-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Only Use Double Quotes for Text
 
  If you include double quotes within your formula, Excel will see this as text to include in the result.
@@ -150,9 +162,26 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 ![Excel formula using the IF function and highlighting the use of double quotes to create text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/double-quotes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In this example, if cell S9 is equal to 2, the formula will return the word "Yes". If it's not equal to 2, the formula will return "No". This is because we have used double quotes around these two words to [tell Excel to add text to the cell containing the formula](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/). So, if your formula doesn't work, make sure you have not used double quotes accidentally. 
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  11\. Don't Nest More Than 64 Functions
 
@@ -164,10 +193,6 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  Excel allows a maximum of 64 nested functions within one formula. If you use more, the formula will not work.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ##  12\. Don't Try to Divide by 0
 
  Have you ever tried to use a calculator to divide by zero? If so, you'll know that it returns an error. This is because it's impossible to divide by 0\. If you try to do this in Excel, you'll see
@@ -178,9 +203,6 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
 ![Dividing by 0-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dividing-by-0-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  To get around this, you would [use the IFERROR function to hide the error](https://facebook-clips.techidaily.com/how-to-view-facebook-content-on-your-home-theater/) and insert an alternative value or return a blank cell.
 
 ---
@@ -193,8 +215,6 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +222,19 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-tips-for-easy-documentation-of-youtube-videos/"><u>[New] 2024 Approved Tips for Easy Documentation of YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-explore-creativity-the-top-8-iphone-drawing-apps-uncovered/"><u>[New] In 2024, Explore Creativity The Top 8 iPhone Drawing Apps Uncovered</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-lens-legends-cutting-edge-camera-choices-1-10-for-2024/"><u>[New] Lens Legends Cutting-Edge Camera Choices #1-10 for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-streamlining-your-workflow-adding-descriptive-elements-to-photos-on-windowsmacos/"><u>[New] Streamlining Your Workflow Adding Descriptive Elements to Photos on Windows/MacOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-worlds-a-deep-dive-into-vr-developments/"><u>2024 Approved Bridging Worlds A Deep Dive Into VR Developments</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-drivers-hp-laserjet-m506-all-in-one-printer/"><u>Download and Update Drivers: HP LaserJet M506 All-in-One Printer</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/effective-strategies-for-resolving-a-disabled-icloud-backup-function-discover-how/"><u>Effective Strategies for Resolving a Disabled iCloud Backup Function – Discover How!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722964370469-get-your-m-audio-fast-track-driver-for-windows-107881-free-download-now/"><u>Get Your M-Audio Fast Track Driver for Windows 10/7/8/8.1 - Free Download Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-csr8510-a10-chipset-drivers-on-windows-comprehensive-guide/"><u>How to Fix CSR8510 A10 Chipset Drivers on Windows - Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-canon-mg6350-series-drivers-on-windows-1187/"><u>How to Install Canon MG6350 Series Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/recording-powerhouse-tactics-for-windows-10-aficionados-for-2024/"><u>Recording Powerhouse Tactics for Windows 10 Aficionados for 2024</u></a></li>
+</ul></div>
 

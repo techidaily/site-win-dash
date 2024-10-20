@@ -1,7 +1,7 @@
 ---
 title: Falsified Excel Skills on Your CV? Master These 8 Essential Concepts Immediately
-date: 2024-08-28T01:33:18.834Z
-updated: 2024-08-29T01:33:18.834Z
+date: 2024-10-17T18:38:40.168Z
+updated: 2024-10-20T16:28:04.255Z
 tags:
   - excel
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Can you explain what a ribbon is? Do you know the three types of cell references? Do you know how to convert a number to a currency? If not, then look no further, as we take you through some key Excel features you need to know to show your expertise.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Excel Interface
 
  First, let's take a look at what Excel looks like, what its key elements are called, and what each of those elements do.
@@ -36,10 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 4. **The formula bar**—When you type a formula into a cell, the formula bar is where you'll see what you have typed and, if needed, edit your formula. Essentially, the cells show you the final product, and the formula bar shows you the formula you have used to create it.
 5. **Columns and rows**—The columns (A, B, C, and so on) run vertically in your sheet, while the rows (1, 2, 3, etc.) go across.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ##  Order of Operations
 
  Remember your math lessons in school when you were told that you had to follow a certain order to make sure your equations worked correctly? Well, because Excel doubles up as an advanced calculator, it also has a particular order that it follows when dealing with your formulas, and it's important to know what this order is so that you know what to expect when performing calculations.
@@ -49,17 +52,12 @@ The ultimate burning program for all your needs!</a>
  There are other elements in a formula that Excel has to follow (including cell references, percentages, and logical operators), but knowing PEMDAS will be enough to show you understand how Excel's calculation process works.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Cell References
 
  A cell reference is the name of a cell or range of cells in your Excel workbook, and you can use these in formulas. For example, if you click cell A1 and type
@@ -87,8 +85,12 @@ The ultimate burning program for all your needs!</a>
  If you were to type **$12** into a cell, Excel would see the dollar symbol and automatically change the data type to Currency. Likewise, if you typed **Apr 14**, Excel would read this as a date. If Excel doesn't identify the correct data type, you can change it manually using this drop-down list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Key Data Analysis Formulas
 
  On top of the most basic formulas, such as [SUM](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/) and [AVERAGE](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/), some of Excel's formulas are particularly handy for data analysis. Here are some that you might need to know if asked about important Excel formulas:
@@ -110,24 +112,24 @@ The ultimate burning program for all your needs!</a>
 
 ![The Filter option in Excel is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/filter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  This will create a filter button at the top of each column in your data, which you can click to filter or sort your data.
 
  Another way to filter and sort your data is by formatting your data into a table. Select all your data (including the header row), and click "Format As Table" in the Home tab on the ribbon.
 
 ![The Format As Table icon is highlighted in an Excel worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/format-as-table-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Then, choose an appropriate table style, and make sure you check the "My Table Has Headers" box in the dialog box that appears. When you click "OK," your data will be formatted in a table with a filter button running across the header row of your table.
 
  Finally, you can sort and filter a specific series of data by selecting and right-clicking your data. Then, choose between the Filter and Sort options in the menu that appears.
 
 ![An Excel spreadsheet with data selected, and the Filter and Sort options displayed by right-clicking the selected data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/filter-and-sort-range.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Pivot Tables
 
@@ -138,10 +140,12 @@ The ultimate burning program for all your needs!</a>
 ![An Excel sheet containing data, and the PivotTable option in the Insert tab on the ribbon is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/insert-pivot-table.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once created, a sidebar appears to the right of your screen, where you can manipulate and choose the data you want to analyze in your table.
 
 ##  Macros and VBAs
@@ -165,8 +169,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +176,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-amazon-prime-videos-social-stardom-on-twitter-for-2024/"><u>[New] Amazon Prime Video's Social Stardom on Twitter for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/deal-watchlist-for-asmr-fans/"><u>[New] Ideal Watchlist for ASMR Fans</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-sky-in-spectacue-prime-platforms-showcasing-hdr-imagery-for-2024/"><u>[New] Sky in Spectacue - Prime Platforms Showcasing HDR Imagery for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-logitech-keyboard-software-for-windows-11/"><u>Effortless Installation: Logitech Keyboard Software for Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finding-the-z-axis-in-your-text-art-for-2024/"><u>Finding the Z-Axis in Your Text Art for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-and-instant-access-to-updated-acer-wireless-drivers/"><u>Free & Instant Access to Updated Acer Wireless Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-laptops-audio-jack-up-and-running-expert-advice-for-a-quick-fix/"><u>Get Your Laptop's Audio Jack Up and Running: Expert Advice for a Quick Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-3700-series-all-in-one-printer-driver-download-and-updates-guide/"><u>HP 3700 Series All-in-One Printer: Driver Download & Updates Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-most-recent-drivers-for-nvidias-geforce-rtx-2080-on-windows-os/"><u>Install the Most Recent Drivers for Nvidia's GeForce RTX 2080 on Windows OS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-unleash-your-creativity-best-free-3d-animation-apps-for-android-and-ios/"><u>New 2024 Approved Unleash Your Creativity Best Free 3D Animation Apps for Android & iOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unmatched-8-visual-effects-for-smooth-live-videos/"><u>Unmatched 8 Visual Effects for Smooth Live Videos</u></a></li>
+</ul></div>
 

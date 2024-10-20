@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Consolidating Full Names Using Microsoft Excel Functions"
-date: 2024-08-28T01:33:47.253Z
-updated: 2024-08-29T01:33:47.253Z
+date: 2024-10-19T17:10:10.354Z
+updated: 2024-10-20T18:16:43.735Z
 tags:
   - excel
 categories:
@@ -26,8 +26,12 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
  Do you want to bring the first and last names that are in [separate cells into a single cell](https://facebook-clips.techidaily.com/new-elevate-your-facebook-profile-with-these-11-superior-tools/)? Combining text is easy in Excel, and we'll show you five different ways to combine names.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Method 1: Use Flash Fill
 
 [Flash Fill is an Excel feature](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) that automatically fills your cells by recognizing the fill pattern. You manually fill a cell with the kind of data you want, and the feature senses that data and fills all your selected cells accordingly. No formula is necessary with Flash Fill.
@@ -49,8 +53,19 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Merged first and last names.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/7-flash-fill-merged-names.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 2: Use the & (Ampersand) Symbol
 
  If you prefer to use an [Excel formula](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) to combine names, a simple method for [bringing multiple cells' content into a single cell](https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/) is to use the `&` (ampersand) operator. This operator combines the content of your specified cells, allowing you to merge all the cell data you want.
@@ -69,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Combined names.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/2-enter-combine-name-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  To [copy this formula for all your records](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/), from the bottom-right corner of the cell where you've entered the formula, click and drag downwards covering all your records.
 
  If you have a middle name or initial in a separate column and you'd like to merge that as well, add that cell as an argument to the formula. Here, we'll combine the contents of the cell `B2` , `C2` , and `D2` (in that order), with each cell content separated by a space.
@@ -84,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 3: Use the CONCAT Function
 
  Excel's `CONCAT` function works just like the `&` operator and lets you combine multiple cells' content into a single cell. Using a function instead of an operator can sometimes make your formula easier for others to read and understand.
@@ -93,8 +112,12 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-merge-names-choose-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the selected cell, enter the following function and press Enter. In this function, replace `B2` with your cell that has the first name and `C2` with the cell that contains the last name. Note that we've separated the first and the last name with a space in this function.
 
 =CONCAT(B2," ",C2)
@@ -103,9 +126,6 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 
 ![Merged name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/4-excel-concat-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  If you'd like to merge the middle name or initial as well, use the function as follows. Here, `C2` denotes the middle name cell, while `D2` contains the last name.
 
 =CONCAT(B2," ",C2," ",D2)
@@ -115,6 +135,13 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 =CONCAT(D2,", ",B2," ",C2)
 
  And that's it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 4: Use the TEXTJOIN Function
 
@@ -126,9 +153,6 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 
 ![Merge names with TEXTJOIN.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/8-textjoin-merge-names.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your dataset has first name, middle name, and last name in the `B2` , `C2` , and `D2` cells, respectively, then you can join them using the following function:
 
 =TEXTJOIN(" ",FALSE,B2,C2,D2)
@@ -141,9 +165,6 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 
 ![Choose Data > From Table/Range.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/9-excel-data-from-table-range.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  In the "Create Table" box, ensure the correct dataset range is specified. If your dataset has column headers, enable the "My Table Has Headers" option. Then, select "OK."
 
 ![Verify the data range and select "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/10-excel-create-table.png) 
@@ -152,9 +173,6 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 
 ![Select "Merge Columns" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/11-excel-merge-columns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  On the "Merge Columns" window, click the "Separator" drop-down menu and choose "Space." Optionally, in the "New Column Name" field, enter the name of the column that'll have your merged names. Then, select "OK."
 
 ![Customize merging and select "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/12-excel-name-separator.png) 
@@ -164,8 +182,12 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 ![Select "Close & Load" at the top-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/13-excel-apply-power-query.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In your workbook, Power Query has added a new worksheet that contains your merged names.
 
 ![Merged columns with Power Query.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/14-excel-merged-columns.png) 
@@ -180,8 +202,6 @@ Related: [How to Combine Data From Spreadsheets in Microsoft Excel](https://extr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +209,26 @@ Related: [How to Combine Data From Spreadsheets in Microsoft Excel](https://extr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-expert-video-grabbing-extras-fb-and-firefox-edition/"><u>[New] 2024 Approved Expert Video Grabbing Extras FB & Firefox Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-high-tech-vr-handhelds-our-top-10-list/"><u>[New] 2024 Approved High-Tech VR Handhelds Our Top 10 List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exclusive-catalogue-free-to-use-stock-media-sites/"><u>[New] Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-final-act-steps-for-permanent-instagram-account-removal-for-2024/"><u>[New] The Final Act Steps for Permanent Instagram Account Removal for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elusive-story-viewers-mobile-hacks/"><u>[Updated] In 2024, Elusive Story Viewers' Mobile Hacks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-notch-mac-visual-archiver/"><u>[Updated] In 2024, Top-Notch Mac Visual Archiver</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-ultimate-10-filter-combos-making-tiktoks-pop-up/"><u>[Updated] In 2024, Ultimate 10 Filter Combos Making TikToks Pop Up</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-z170-motherboard-freshest-drivers-for-windows-10-8-and-eb-quick-guide-and-downloads/"><u>ASUS Z170 Motherboard - Freshest Drivers for Windows 10, 8 & Eb: Quick Guide and Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971642348-canon-pixma-ts3322-obtain-new-driver-version-now/"><u>Canon PIXMA TS3322 - Obtain New Driver Version Now!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/digital-media-seeker/"><u>Digital Media Seeker</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-guide-updated-epson-wf-3620-driver-for-modern-operating-systems-windows-11-8-and-7/"><u>Easy Install Guide: Updated Epson WF-3620 Driver for Modern Operating Systems - Windows 11, 8 & 7</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhanced-user-experience-with-smart-cookiebot-technology/"><u>Enhanced User Experience with Smart Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-seamless-bluetooth-connectivity-updated-mpow-drivers-for-windows-users-windows-1187/"><u>Ensure Seamless Bluetooth Connectivity: Updated MPOW Drivers for Windows Users (Windows 11/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-optimizing-your-pc-with-new-ati-graphics-card-drivers-on-windows/"><u>Guide to Optimizing Your PC with New ATI Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-connectivity-update-samsung-usb-drivers-for-smartphones/"><u>Improve Connectivity: Update Samsung USB Drivers for Smartphones</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-geforce-rtx-3080-ti-windows-drivers-compatible-with-windows-10-8-and-7-download-now/"><u>Latest GeForce RTX 3080 Ti Windows Drivers: Compatible with Windows 10, 8 & 7 – Download Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/new-magicard-rio-pro-driver-update-now-available-for-modern-windows-systems/"><u>New Magicard Rio Pro Driver Update Now Available for Modern Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-why-your-pc-cant-find-the-wireless-adapter-tl-wn722n/"><u>Troubleshooting: Why Your PC Can't Find the Wireless Adapter (TL-WN722N)</u></a></li>
+</ul></div>
 

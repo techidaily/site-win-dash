@@ -1,7 +1,7 @@
 ---
 title: "Discover How to Pinpoint Extreme Values: A Guide to Finding Min/Max Numbers with Excel"
-date: 2024-08-28T01:33:02.101Z
-updated: 2024-08-29T01:33:02.101Z
+date: 2024-10-17T16:56:34.450Z
+updated: 2024-10-20T17:16:04.618Z
 tags:
   - excel
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
  Using these two Excel functions, you aren't limited to only finding the smallest or largest number in a cell range. You can also locate the second smallest, third smallest, or fifth largest. For a quick way to find the number you want, here's how to use the SMALL and LARGE [functions in Excel](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ##  Use the SMALL Function
 
  The syntax for the function is 
@@ -52,8 +48,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![SMALL function for the first smallest number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Smallest-ExcelSMALLLARGE.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  As another example, we'll find the second smallest number in that same cell range. Here's the formula:
 
 =SMALL(B2:E13,2)
@@ -61,12 +61,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![SMALL function for the first smallest number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Smallest-ExcelSMALLLARGE.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use the LARGE Function
 
  The LARGE function works the same way as the SMALL function, only providing you with the biggest number. The syntax is `LARGE(range, position)` with both arguments required and representing the same data as the SMALL function.
@@ -77,11 +77,31 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![LARGE function for the first largest number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Largest-ExcelSMALLLARGE.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To locate the third largest number in that same cell range, we can use this formula:
 
 =LARGE(B2:E13,3)
 
 ![LARGE function for the first largest number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Largest-ExcelSMALLLARGE.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Limitation to Note
 
@@ -93,16 +113,10 @@ Related: [How to Highlight Duplicates in Microsoft Excel](https://youtube-zero.t
 
 ![LARGE function for the first largest number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Largest-ExcelSMALLLARGE.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But, if we look for the second largest number in that same cell range, our result is also 1,800\. This is because 1,800 appears twice, making it both the largest and second largest number.
 
 ![LARGE function for the first largest number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Largest-ExcelSMALLLARGE.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Consider this limitation when searching for various positions in your cell range.
 
  If you want to quickly find the lowest five sales totals in your product sheet or the highest three monthly bills in [your budget](https://tech-revival.techidaily.com/top-9-benefits-of-switching-to-chatgpt-plus-enhance-your-ai-experience/), keep the SMALL and LARGE functions in mind.
@@ -115,8 +129,6 @@ Related: [How to Highlight Duplicates in Microsoft Excel](https://youtube-zero.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +136,20 @@ Related: [How to Highlight Duplicates in Microsoft Excel](https://youtube-zero.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-to-updating-startech-drivers-for-seamless-performance-on-multiple-windows-versions/"><u>Comprehensive Guide to Updating StarTech Drivers for Seamless Performance on Multiple Windows Versions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-moto-g04-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Moto G04.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-download-realtek-audio-interface-drivers-for-windows-10-systems/"><u>Effortless Download: RealTek Audio Interface Drivers for Windows 10 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-sound-blaster-audigy-latest-drivers-available-here/"><u>Get Your Sound Blaster Audigy - Latest Drivers Available Here!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-silent-buttons-in-your-fortnight-battle-royale-experience/"><u>Guide to Fixing Silent Buttons in Your Fortnight Battle Royale Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-v30-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo V30 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-x23-1st-generation-drivers-quick-download-options-to-optimize-performance/"><u>Lenovo X23 1St Generation Drivers - Quick Download Options to Optimize Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-xbox-one-controller-connectivity-with-updated-xp-pen-drivers/"><u>Master Xbox One Controller Connectivity with Updated XP-Pen Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fresh-install-of-epson-xp-440-printer-drivers-on-windows/"><u>Step by Step: Fresh Install of Epson XP-440 Printer Drivers on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-note-30-vip-racing-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Note 30 VIP Racing Edition to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/willow/"><u>Willow</u></a></li>
+</ul></div>
 

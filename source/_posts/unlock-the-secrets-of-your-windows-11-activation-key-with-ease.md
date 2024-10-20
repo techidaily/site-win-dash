@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Your Windows 11 Activation Key with Ease
-date: 2024-08-28T01:31:04.690Z
-updated: 2024-08-29T01:31:04.690Z
+date: 2024-10-13T17:59:03.284Z
+updated: 2024-10-20T16:50:52.362Z
 tags:
   - windows
 categories:
@@ -16,6 +16,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [What Is a Windows Product Key?](https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-n3-pattern-lock-screen-by-drfone-android/)
 * [Find an OEM Product Key With Command Prompt](https://facebook-videos.techidaily.com/2024-approved-beam-your-best-achieving-hd-quality-with-fb-live/)
 * [Show a Retail Product Key Using ShowKeyPlus](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,8 +43,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Regardless of what kind of key you have, product keys are 25 characters long and composed of a mixture of capital letters and numbers.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Find an OEM Product Key With Command Prompt
 
  If your PC has an OEM license—in other words, if you purchased a computer that came with Windows preinstalled—you can find the license key using Command Prompt, or PowerShell. The command is the same in both programs. 
@@ -54,12 +65,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Command prompt displaying key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Right_Size_Console-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Show a Retail Product Key Using ShowKeyPlus
 
  If you purchased and installed Windows yourself, [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv) is a good way to find your product key. ShowKeyPlus is a free application available on the Microsoft Store.
@@ -69,17 +74,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![In start menu, type "Microsoft Store", then click open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-09_12h19_00.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once the Microsoft Store is open, go to the top of the page and enter **ShowKeyPlus** into the search bar, and hit enter.
 
 !["ShowKeyPlus" in a red box in the search bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/IntoMicrosoft-store.png) 
@@ -89,15 +89,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Click install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Points_To_Install.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  ShowKeyPlus displays the currently installed key and the OEM key.
 
 ![ShowKeyPlus Image1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ShowKeyPlus-Image1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you're using an OEM copy of Windows 11, both the green and blue boxes display your product key. If you installed a version of Windows 11 you purchased yourself, the green box is the key currently in use.
 
  Once you have the key you can write it down or save it to a file on your computer. Be careful not to share it online. Retail licenses can be used on multiple devices (though not simultaneously), so someone may attempt to steal your product key to activate Windows.
@@ -110,8 +111,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +118,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-10-strategies-to-make-money-on-youtube-shorts-easily/"><u>[Updated] 10 Strategies to Make Money on YouTube Shorts Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strike-gold-on-youtube-peak-hours-guide/"><u>[Updated] Strike Gold on YouTube Peak Hours Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-level-clarity-convert-high-res-videos/"><u>2024 Approved Apex-Level Clarity Convert High-Res Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hue-adjustments-making-your-gopro-footage-pop/"><u>2024 Approved Hue Adjustments Making Your GoPro Footage Pop</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-6900-xt-graphics-card-drivers-free-download-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6900 XT Graphics Card Drivers: Free Download for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-powerhouse-in-depth-analysis-of-the-steelseries-apex-pro-mini-keyboard-for-gamers-tech-insights/"><u>Compact Powerhouse: In-Depth Analysis of the SteelSeries Apex Pro Mini Keyboard for Gamers | Tech Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-version-of-killer-wireless-drivers-v1535-now-fixed/"><u>Download the Latest Version of Killer Wireless Drivers v1535 – Now Fixed!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965776733-get-the-newest-nvidia-geforce-rtx-letease-3070-drivers-for-your-windows-pc-upgrade-and-update-now/"><u>Get the Newest NVIDIA GeForce RTX Letease 3070 Drivers for Your Windows PC - Upgrade & Update Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969564011-get-your-realtek-graphics-card-software-update-for-windows-11-now/"><u>Get Your Realtek Graphics Card Software Update for Windows 11 Now!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-understanding-google-podcasts-app/"><u>In-Depth Analysis Understanding Google Podcasts App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-up-with-technology-the-definitive-guide-to-update-your-webcam-drivers-in-windows-11/"><u>Keep Up with Technology: The Definitive Guide to Update Your Webcam Drivers in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/pests/"><u>Pests</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-to-restore-backlight-on-your-keyboard-in-macoswindows-environments/"><u>Solutions to Restore Backlight on Your Keyboard in macOS/Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-stop-windows-from-misidentifying-audio-device/"><u>Techniques to Stop Windows From Misidentifying Audio Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-broadcom-netlink-gigabit-ethernet-issues-in-windows-10/"><u>Troubleshooting & Fixing Broadcom NetLink Gigabit Ethernet Issues in Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/untangling-veiled-feedback-mechanisms-in-video-sites/"><u>Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-pro-ebr-9015-drivers-free-download-available-now/"><u>Update Your HP Officejet Pro Ebr 9015 Drivers - Free Download Available Now!</u></a></li>
+</ul></div>
 

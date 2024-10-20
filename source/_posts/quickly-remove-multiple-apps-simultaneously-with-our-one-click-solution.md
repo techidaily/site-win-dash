@@ -1,7 +1,7 @@
 ---
 title: Quickly Remove Multiple Apps Simultaneously with Our One-Click Solution!
-date: 2024-08-28T01:31:41.208Z
-updated: 2024-08-29T01:31:41.208Z
+date: 2024-10-15T16:42:43.057Z
+updated: 2024-10-20T17:12:59.247Z
 tags:
   - windows
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Clean Up Leftovers](https://youtube-stream.techidaily.com/in-2024-step-by-step-crafting-youtube-content-in-sony-vegas/)
 
  Windows doesn’t let you batch uninstall apps. But the default Windows uninstall manager is not the only way to remove apps from your PC. If you frequently wish you could uninstall multiple items at once so you don't have to wait while doing them sequentially, we've got the tool for you. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Everything the Default Windows Uninstaller Can’t Do
 
@@ -49,8 +56,12 @@ winget install -e --id Klocman.BulkCrapUninstaller
 ![Installing BCU via Winget command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240615-152652.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  BCU will be automatically installed.
 
 ##  How to Mass Uninstall Apps
@@ -61,21 +72,22 @@ winget install -e --id Klocman.BulkCrapUninstaller
 
 ![Creating a system restoring point using BCU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240613-120600.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  What Do the Labels and Filters Mean
 
  On the first launch, BCU will automatically find, load, and color-code uninstallers. For the most part, you don’t need to worry about what the colors mean. But keep an eye out for apps highlighted with orange or gray.
 
 ![Explaining BCU color codes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240615-153022.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Orange apps are unregistered, meaning the app exists on your computer, but Windows Registry hasn’t picked it up. These apps might not show up in the built-in Windows uninstall manager. Gray apps have missing uninstallers which BCU will try to replace.
 
  BCU also has pretty advanced filtering to find the exact batch of apps you need to remove. Once again, you won’t need to worry about filtering apps unless you have a lot of installed apps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Normal Uninstall
 
@@ -84,8 +96,12 @@ winget install -e --id Klocman.BulkCrapUninstaller
 ![Running a batch uninstallation task in normal mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240613-123445.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the next screen, you can decide how BCU handles the uninstallation job. BCU will automate the uninstallation process, so you don’t have to interact with the uninstallation wizards. It’s best to leave everything on default, except the Max Number of Running Uninstallers, which you can increase to save time. Click “Next.” Double-check the info listed and click “Begin Uninstallation.”
 
 Close 
@@ -94,9 +110,6 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ###  Quiet Uninstall
 
  If you want to batch uninstall apps with very minimal input, try a quiet uninstallation. Once again, select the apps you want to remove, but this time click “Uninstall Quietly.” Make sure you’ve selected the right apps and click “Continue” twice. And then hit “Begin Uninstallation.” It automatically deletes the apps without further input from you.
@@ -107,9 +120,6 @@ Close
 
  Some apps might not play nice with the quiet uninstaller, and you will have to restart them in normal mode. BCU will report failed quiet uninstallations in the logs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Clean Up Leftovers
 
  Now that you’re using BCU to uninstall apps, junk files won’t pollute your disks. But what about junk files that were already there before you got BCU? You can remove them too, using BCU.
@@ -130,8 +140,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +147,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-best-music-players-software-for-windows/"><u>[New] In 2024, Best Music Players Software for Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-streamline-social-sharing-integrate-your-fb-story/"><u>[New] In 2024, Streamline Social Sharing Integrate Your FB Story</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-industries-with-immersive-virtual-reality/"><u>[New] Innovating Industries with Immersive Virtual Reality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-intelligent-cpu-drives-swiftly-and-simply/"><u>Download Intelligent CPU Drives Swiftly and Simply</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-nvidia-1080-graphics-card-drivers-on-windows-11-simple-steps/"><u>Download NVIDIA 1080 Graphics Card Drivers on Windows 11 - Simple Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-epson-perfection-v39-driver-downloads-for-windows-users/"><u>Easy Install: Epson Perfection V39 Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-update-free-insignia-driver-software-for-windows-pcs/"><u>Effortless Update: Free Insignia Driver Software for Windows PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-perfect-printing-with-up-to-date-hp-driver-downloads-for-modern-windows-operating-systems/"><u>Ensure Perfect Printing with Up-to-Date HP Driver Downloads for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-prime-listening-guide-to-youtube-standards/"><u>In 2024, The Prime Listening Guide to YouTube Standards</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-vocal-variations-in-free-fire-gaming/"><u>In 2024, Vocal Variations in Free Fire Gaming</u></a></li>
+<li><a href="https://fox-making.techidaily.com/section-2a-explanation-of-sensitivity-in-dental-materials/"><u>Section 2A: Explanation of Sensitivity in Dental Materials</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlock-the-potential-of-paid-endorsements-with-these-tips/"><u>Unlock the Potential of Paid Endorsements with These Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11s-new-feature-built-in-driver-support-for-scanners-and-printers/"><u>Windows 11'S New Feature: Built-In Driver Support for Scanners and Printers</u></a></li>
+</ul></div>
 

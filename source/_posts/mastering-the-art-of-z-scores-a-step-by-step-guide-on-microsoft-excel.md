@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Z-Scores: A Step-by-Step Guide on Microsoft Excel"
-date: 2024-08-28T01:33:39.733Z
-updated: 2024-08-29T01:33:39.733Z
+date: 2024-10-17T16:46:19.820Z
+updated: 2024-10-20T16:31:19.848Z
 tags:
   - excel
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 * [Calculating the Z-Score without using 'Helper' Cells](https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g24-drfone-by-drfone-virtual-android/)
 
  A Z-Score is a statistical value that tells you how many standard deviations a particular value happens to be from the mean of the entire data set. You can use AVERAGE and STDEV.S or STDEV.P formulas to calculate the mean and standard deviation of your data and then use those results to determine the Z-Score of each value.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What is a Z-Score and what do the AVERAGE, STDEV.S, and STDEV.P functions do?
 
@@ -46,16 +53,10 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  First, we will calculate the mean of the values using the "AVERAGE" function. Select the cell where you will store the result of the "AVERAGE" function.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-02.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type in the following formula and press enter -or- use the "Formulas" menu.
 
 =AVERAGE(E2:E13)
@@ -64,24 +65,14 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  In the Function Arguments window, select all of the cells in the "Values" column as the input for the "Number1" field. You don't need to worry about the "Number2" field.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  Now press "OK."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-05-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, we need to calculate the standard deviation of the values using either the "STDEV.S" or "STDEV.P" function. In this example, we will show you how to calculate both values, starting with "STDEV.S." Select the cell where the result will be stored.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-06.png) 
@@ -98,14 +89,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-08.png) 
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now press "OK."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-09.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Next, we will calculate the standard deviation using the "STDEV.P" function. Select the cell where the result will be stored.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-10.png) 
@@ -118,6 +118,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the Function Arguments window, select all of the cells in the "Values" column as the input for the "Number1" field. Again, you won't need to worry about the "Number2" field.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-12.png) 
@@ -127,8 +134,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now that we have calculated the mean and standard deviation of our data, we have all we need to calculate the Z-Score. We can use a simple formula that references the cells containing the results of the "AVERAGE" and "STDEV.S" or "STDEV.P" functions.
 
  Select the first cell in the "Z-Score" column. We will use the result of the "STDEV.S" function for this example, but you could also use the result from "STDEV.P."
@@ -151,34 +162,41 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-15.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Z-Score has been calculated for the first value. It is 0.15945 standard deviations below the mean. To check the results, you can multiply the standard deviation by this result (6.271629 \* -0.15945) and check that the result is equal to the difference between the value and the mean (499-500). Both results are equal, so the value makes sense.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-16.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let's calculate the Z-Scores of the rest of the values. Highlight the whole 'Z-Score' column starting with the cell containing the formula.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-17.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press Ctrl+D, which copies the formula in the top cell down through all the other selected cells.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Excel-Z-Score-18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  Now the formula has been 'filled-down' to all of the cells, and each will always reference the correct "AVERAGE" and "STDEV.S" or "STDEV.P" cells because of the "$" characters. If you get errors, go back and make sure the "$" characters are included in the formula you entered.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Calculating the Z-Score without using 'Helper' Cells
 
  Helper cells store a result, like the ones storing the results of the "AVERAGE," "STDEV.S," and "STDEV.P" functions. They can be useful but aren't always necessary. You can skip them altogether when calculating a Z-Score by using the following generalized formulas, instead.
@@ -203,8 +221,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +228,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-enthralling-evaluation-and-secondary-recommendations-for-2024/"><u>[New] Enthralling Evaluation & Secondary Recommendations for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-groupgaze-video-extractor/"><u>[Updated] 2024 Approved GroupGaze Video Extractor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-foray-into-video-fidelity-an-initialists-perspective/"><u>[Updated] Foray Into Video Fidelity An Initialist's Perspective</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-experience-beyond-reality-choosing-the-premier-10-headsets-for-360-video-on-pc/"><u>2024 Approved Experience Beyond Reality Choosing the Premier 10 Headsets for 360 Video on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exhaustive-explanation-whats-behind-google-podcast/"><u>Exhaustive Explanation What's Behind Google Podcast?</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-a34-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy A34 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/from-capture-to-share-reviewing-the-newest-sprout-version/"><u>From Capture to Share Reviewing the Newest Sprout Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-toshiba-drivers-and-upgrades-on-your-windows-pc-easily/"><u>Get the Newest Toshiba Drivers and Upgrades on Your Windows PC Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/realtek-rtl8188cu-wifi-driver-installation-ideal-for-windows-107-users/"><u>Realtek RTL8188CU WiFi Driver Installation - Ideal for Windows 10/7 Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-to-updating-your-sata-ahci-controllers-software/"><u>Simple Steps to Updating Your SATA AHCI Controller's Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/step-by-step-live-tweeting-tactics-for-2024/"><u>Step-by-Step Live Tweeting Tactics for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-asus-atk0100-acpi-drivers/"><u>Step-by-Step Tutorial: Downloading and Setting Up ASUS ATK0100 ACPI Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unveiling-the-solution-wn722n-detected-after-previously-going-unseen-by-windows/"><u>Unveiling the Solution: WN722N Detected After Previously Going Unseen by Windows</u></a></li>
+</ul></div>
 

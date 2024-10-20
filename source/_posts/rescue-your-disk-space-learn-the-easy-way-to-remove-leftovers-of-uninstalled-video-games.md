@@ -1,7 +1,7 @@
 ---
 title: Rescue Your Disk Space! Learn the Easy Way to Remove Leftovers of Uninstalled Video Games
-date: 2024-08-28T01:31:43.551Z
-updated: 2024-08-29T01:31:43.551Z
+date: 2024-10-13T16:34:56.464Z
+updated: 2024-10-20T16:29:04.627Z
 tags:
   - windows
 categories:
@@ -35,16 +35,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The "Browse Local Files" option in the Steam Library tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/localfiles.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you prefer to do things manually, you can find your local Steam files yourself by going to the file explorer and selecting your main drive under "This PC." From there, navigate to Program Files (x86) > Steam > Steamapps > Common and find the folder for the game in question.
 
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Remove Extra Files from Non-Steam Games
 
  Sometimes you get a game on PC from a storefront other than Steam, like Epic Games, GOG, or the publisher directly, in which case the process is very similar to locating Steam files manually. Simply go to your file explorer and find the main directory of the drive you use to install games like before.
@@ -54,8 +55,12 @@ Close
  In general, save data is secured either on an external account or outside of the main file directory for games, so you usually don't need to worry about deleting your progress by accident. However, it may still be a good idea to check the files before deleting them to make sure there is nothing you would want to lose like screenshots, captures, or other data.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Don't Forget About the Mods
 
  If you've installed mods for the game you're trying to clean up after, it might be a good idea to clean those up too, since they sometimes take up even more space than the game's base files. The process of doing this will differ depending on how you installed them, though, since mod managers have their own directories in some cases.
@@ -63,15 +68,16 @@ Close
 ![A screenshot showing which option to choose to delete an individual mod in Vortex Mod Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/vortex_article-6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you use a mod manager, you more than likely already know how to enable and disable mods, and removing them is as simple as selecting them and choosing that option from the manager's menus. If you want to remove them manually, though, they are often found in the game's main directory, and you can replace them later if you want to.
 
  This is perhaps even more important than simply removing the game files. Mods are already external add-ons that can cause conflicts even when first installing them, so removing them after uninstalling a game is usually a good idea. That way, if you do plan to play it again at some point in the future and decide to mod it, again you don't have to worry about your old mods introducing compatibility problems.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##  Make Sure to Empty the Trash
 
  This might seem obvious to most, but you also want to make sure the files are actually removed from your PC and not just the folders from which they came. Sometimes you can delete them outright from within the file explorer, but much of the time you'll need to open your "Recycle Bin" and manually remove them permanently.
@@ -81,8 +87,12 @@ Close
 ![The "Empty Recycle Bin" option on the Windows Recycle Bin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/recyclebin.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you're still concerned with your PC's storage after removing your extra files, see about [how you can use your old internal hard drive](https://on-screen-recording.techidaily.com/in-2024-record-review-repeat-unveiling-top-5-browser-screen-recorders/)or consider looking into [cloud storage options](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/) for your personal files or photos.. If you're removing files to make way for a fresh install to mod your games, check out how you can[improve your game's graphical fidelity and framerate](https://instagram-video-recordings.techidaily.com/new-turning-tape-backwards-instagrams-video-trickery/) with mods.
 
 <ins class="adsbygoogle"
@@ -91,8 +101,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +108,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-breathing-new-life-into-anime-with-impactful-tiktoks-for-2024/"><u>[New] Breathing New Life Into Anime with Impactful TikToks for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-post-strategy-with-these-top-8-ios-and-android-planners-for-2024/"><u>[New] Enhance Post Strategy with These Top 8 iOS & Android Planners for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed-for-2024/"><u>[Updated] Audio Artistry in a Download Top 7 Vocal Transformation Apps Reviewed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-steps-for-efficiently-storing-whatsapp-audio-transcripts/"><u>2024 Approved Steps for Efficiently Storing WhatsApp Audio Transcripts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-x6-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco X6 Phone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-and-download-of-canon-imageclass-mf4800-drivers/"><u>Easy Installation Guide & Download of Canon ImageCLASS MF4800 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-guide-and-free-downloads-for-realtek-pc-card-readers-on-windows-10-systems/"><u>Easy Setup Guide & Free Downloads for Realtek PC Card Readers on Windows 10 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-expert-guide-to-mastering-your-corsair-gaming-mouse/"><u>Free Download: Expert Guide to Mastering Your Corsair Gaming Mouse</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-capture-slow-motion-videos-with-gopro-hero-10/"><u>How to Capture Slow Motion Videos with GoPro Hero 10?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-and-install-sas-drivers-on-your-pc-running-windows-1087/"><u>How to Update and Install SAS Drivers on Your PC Running Windows 10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-quailcom-mobile-device-driver-download-for-windows-operating-systems-win111087/"><u>Latest [Quailcom Mobile Device] Driver Download for Windows Operating Systems (Win11/10/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newest-hp-printer-software-for-windows-10-and-11-downloads-and-updates-available/"><u>Newest HP Printer Software for Windows 10 and 11 - Downloads & Updates Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-integration-of-hp-envy-series-5660-drivers-download-and-setup-tutorials/"><u>Seamless Integration of HP Envy Series 5660 Drivers - Download & Setup Tutorials</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+</ul></div>
 

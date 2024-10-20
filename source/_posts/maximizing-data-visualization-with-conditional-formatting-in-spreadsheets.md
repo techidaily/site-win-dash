@@ -1,7 +1,7 @@
 ---
 title: Maximizing Data Visualization with Conditional Formatting in Spreadsheets
-date: 2024-08-28T01:35:18.294Z
-updated: 2024-08-29T01:35:18.294Z
+date: 2024-10-19T16:18:56.683Z
+updated: 2024-10-20T16:27:02.561Z
 tags:
   - excel
 categories:
@@ -31,12 +31,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I'm not going to run through _every_ use of conditional formatting, as there are hundreds! Instead, I want to share with you a few practical uses that you can apply to everyday tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ##  Conditional Formatting Can Highlight Certain Values
 
  Among its many uses, Excel is best known for its ability to present and organize data for you to use and analyze. To make the analysis process much easier, you can use conditional formatting to highlight cells containing certain values, unique or duplicated cells, highest and lowest values within a data set, and in many other similar scenarios.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Highlighting Cells Containing Certain Values
 
@@ -48,16 +52,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Excel New Formatting Rule dialog box, with 'Format Only Cells That Contain,' 'Specific Text,' and 'Containing' highlighted. Then, 'Steak' is typed into the empty text field, and 'Format' and 'OK' are highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cells-containing-specific-text.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  Now, all cells containing "Steak" will be highlighted in yellow.
 
 ![An Excel spreadsheet with conditional formatting applied to cells containing the word 'Steak' in column C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/conditional-formatting-applied-to-specific-text.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Highlighting Unique or Duplicated Cells
 
  You can use conditional formatting to easily identify duplicates or anomalies in a data set. This is a really effective way of efficiently cleaning up your spreadsheet. I use this tool all the time on my vacation packing list. As I'm always adding to it and accessing it both on my computer and [on the move through OneDrive](https://data-wizards.techidaily.com/videofix-pro-revive-mp4-and-mov-files/), I sometimes accidentally add items that are already there.
@@ -68,25 +73,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Excel New Formatting Rule dialog box, with 'Format Only Unique Or Duplicate Values,' and 'Duplicate' highlighted. Then, 'the 'Format' and 'OK' buttons are also highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cells-containing-duplicates.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is how my vacation packing list looks when I apply this tool.
 
 ![An Excel spreadsheet with conditional formatting applied to cells containing duplicates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/conditional-formatting-applied-to-duplicates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  I can now go and delete one of each item that is duplicated. And because the conditional formatting is adaptable, as soon as I delete a duplicate, the other also loses its formatting (as it's no longer a duplicate). As a result, I'll end up with a nice, tidy spreadsheet.
 
  You can also do the same with unique cells—that is, cells that contain data different to the rest of the array. Simply click "Unique" instead of "Duplicate" in the relevant drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ###  Highlighting the Highest and Lowest Values
 
  As an avid football fan, I like to rate players based on their performance in each game, and then easily see who has played consistently well. To do this, I make Excel [automatically highlight the highest](https://hardware-updates.techidaily.com/1722966983711-ultimate-solution-to-get-your-epson-et-4550-up-and-running-on-windows-with-proven-techniques/) two ratings for each game.
@@ -94,6 +102,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  First, select the data range you want to evaluate. In my case, it will be the first column containing data. I don't want to select _all_ the data in my table, as then that will highlight the highest two ratings across all games, whereas I want to do this for each game individually.
 
 ![An Excel table containing players' numerical ratings across three games.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/player-ratings-across-three-games.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, in the Conditional Formatting menu, click "New Rule." In the dialog box, click "Format Only Top Or Bottom Ranked Values," and in the drop-down option, select "Top" (or click "Bottom" if you want to highlight the lowest values). Next, in the number field, type the parameters of your conditions. For example, if you click "1", this will highlight the single top value in your data. Also check the "%" box if you want to state your parameters as a percentage. Create the formatting you want for these cells, and once you're done, click "OK."
 
@@ -104,9 +119,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An Excel spreadsheet with conditional formatting applied to the top values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/conditional-formatting-applied-to-top-values.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, you should [use the Format Painter to apply the same conditions](https://android-location-track.techidaily.com/top-9-asus-rog-phone-7-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/) to the next column, and then change the formatting of the values meeting your criteria, so that it's distinguishable from the first column.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Conditional Formatting Works With Changing Data
 
@@ -116,9 +142,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel table containing several household jobs and the family members assigned to each across three days.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/household-jobs-in-the-family.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To do this, first select all the data you want to search. Then, in the Conditional Formatting menu, click "New Rule." In the dialog box, click "Format Only Cells That Contain," and in the first drop-down option, select "Cell Value." Next, in the second drop-down field, click "Equal To." Then, click the text field, before clicking the cell that you're going to use as your variable parameter. In our case, that's B1\. Finally, create the formatting you want for these cells, and click "OK."
 
 ![The Excel New Formatting Rule dialog box, with 'Format Only Cells That Contain' highlighted. 'Cell Value' and 'Equal To' are selected in the drop-down box, and then the value in cell B1 is selected as the parameter. Then, the 'Format' and 'OK' buttons are highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cells-containing-value-equal-to-another-cell.png) 
@@ -127,9 +150,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A table in Excel with several cells highlighted based on the value of the cell at the top. In this case, 'Paul' is typed into the cell at the top, and all cases of 'Paul' in the table are highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/conditional-formatting-applied-to-data-based-on-other-cell-value.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You could also choose the variable value from a [drop-down list you create in Excel](https://hardware-updates.techidaily.com/download-and-install-the-newest-version-of-corsair-k55-drivers-today/).
 
 ##  You Can Compare Data Easily
@@ -146,9 +166,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A table in Excel with data bars conditional formatting applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/data-bars-conditional-formatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Things to Note
 
  If you do, indeed, get the conditional formatting bug and find that you use it in most of your spreadsheets as I do, then there are a few small things to note.
@@ -167,8 +184,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +191,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-experts-choice-best-free-video-tools-listing/"><u>[New] 2024 Approved Expert's Choice Best Free Video Tools Listing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-audio-pioneers-the-power-of-crossfading/"><u>[New] In 2024, Audio Pioneers The Power of Crossfading</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-art-of-capturing-content-on-vimeo/"><u>[New] In 2024, The Art of Capturing Content on Vimeo</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-speaking-through-slides-total-ppt-tutorial/"><u>[Updated] 2024 Approved Speaking Through Slides Total PPT Tutorial</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-click-through-rates-with-three-distinct-writing-models-for-ads/"><u>[Updated] Enhancing Click-Through Rates with Three Distinct Writing Models for Ads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-catch-up-effective-methods-for-skipping-edgenuity-courses/"><u>2024 Approved Quick Catch-Up Effective Methods for Skipping Edgenuity Courses</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/androids-best-cloud-space-solutions/"><u>Android's Best Cloud Space Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-epson-gt-s50-driver-for-windows-os-windows-7810/"><u>Download and Install Epson GT S50 Driver for Windows OS (Windows 7/8/10)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-windows-experience-with-latest-bluetooth-dongle-driver-download-and-update-guide/"><u>Enhance Windows Experience with Latest Bluetooth Dongle Driver – Download and Update Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fast-and-efficient-conversion-of-mkv-files-to-hevc-h265-tips-and-techniques/"><u>Fast and Efficient Conversion of MKV Files to HEVC H.265: Tips & Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-the-issue-how-to-resolve-when-your-igfxem-module-stops-functioning/"><u>Fixing the Issue: How to Resolve When Your igfxEM Module Stops Functioning</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-gigabyte-wb867d-i-graphics-card-drivers-here/"><u>Get the Latest Gigabyte WB867D-I Graphics Card Drivers Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-overcome-xbox-accessories-driver-compatibility-issues-on-multiple-windows-platforms-1087/"><u>Guide to Overcome Xbox Accessories Driver Compatibility Issues on Multiple Windows Platforms (10/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-fps-and-compatibility-download-cutting-edge-geforce-drivers-for-windows-gamers/"><u>Improve FPS and Compatibility - Download Cutting-Edge GeForce Drivers for Windows Gamers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsofts-ultimate-ergonomic-keyboard-4000-setup-guide-and-driver-downloads/"><u>Microsoft's Ultimate Ergonomic Keyboard 4000 Setup Guide & Driver Downloads</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-battleye-initialization-failure-due-to-driver-loading-problems/"><u>Step-by-Step Solution for BattlEye Initialization Failure Due to Driver Loading Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steps-to-update-amd-drivers-on-pcs-running-windows-10117/"><u>Steps to Update AMD Drivers on PCs Running Windows 10/11/7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-digital-resources-for-mastering-prompt-engineering-techniques/"><u>Top Digital Resources for Mastering Prompt Engineering Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-instructions-for-lenovo-thinkpad-laptop-docking-station-with-thunderbolt-3-connection/"><u>Update Instructions for Lenovo ThinkPad Laptop Docking Station with Thunderbolt 3 Connection</u></a></li>
+</ul></div>
 

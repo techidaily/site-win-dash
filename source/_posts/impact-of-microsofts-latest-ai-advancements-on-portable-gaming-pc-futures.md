@@ -1,7 +1,7 @@
 ---
 title: Impact of Microsoft's Latest AI Advancements on Portable Gaming PC Futures
-date: 2024-08-28T01:30:35.179Z
-updated: 2024-08-29T01:30:35.179Z
+date: 2024-10-19T16:37:38.847Z
+updated: 2024-10-20T17:24:52.263Z
 tags:
   - windows
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * ARM chips like the Snapdragon X Elite could power future handheld gaming PCs with promising efficiency.
 
  Microsoft is all in on AI after a recent push for “AI PCs,” is a joint venture with Intel, AMD, and Qualcomm. One of the specs for the upcoming “AI PCs” lists Neural Processing Unit (NPU) performance of at least 45 TOPS. This could be bad news for Steam Deck and the gang. Here’s why.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  A Focus on AI Tech Means Less Cache and Lower Gaming Performance
 
@@ -50,8 +57,12 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -61,9 +72,12 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
@@ -71,8 +85,18 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -83,9 +107,6 @@ Intel
 
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.
@@ -108,8 +129,6 @@ Qualcomm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +136,20 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>[New] In 2024, Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-highpoint-rocket-1608a-expansion-unit-amplified-drive-capacity-and-enhanced-performance/"><u>Comprehensive Analysis of HighPoint Rocket 1608A Expansion Unit: Amplified Drive Capacity & Enhanced Performance</u></a></li>
+<li><a href="https://facebook.techidaily.com/connect-and-conquer-why-a-group-matters-on-social-media/"><u>Connect and Conquer: Why a Group Matters on Social Media</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-and-secure-corsair-keyboard-driver-download-for-windows-users/"><u>Free and Secure Corsair Keyboard Driver Download for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969746136-hassle-free-access-ultimate-downloads-for-lenovo-x220-device-drivers-today/"><u>Hassle-Free Access: Ultimate Downloads for Lenovo X220 Device Drivers Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S23 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-preserving-your-nintendo-switch-experiences-a-guide/"><u>In 2024, Preserving Your Nintendo Switch Experiences A Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961705984-intel-dptf-driver-failure-heres-how-you-can-overcome-installation-woes/"><u>Intel DPTF Driver Failure? Here’s How You Can Overcome Installation Woes!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-1080-driver-update-for-windows-11-get-them-instantly/"><u>Latest NVIDIA 1080 Driver Update for Windows 11: Get Them Instantly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/metaverses-most-social-spaces-for-friends-for-2024/"><u>Metaverse's Most Social Spaces for Friends for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-design-with-chatgpts-methodology/"><u>Revolutionize Your Site Design with ChatGPT’s Methodology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-updating-your-brother-hl-l2300d-printer-driver-download/"><u>Step by Step Guide to Updating Your Brother HL-L2300D Printer Driver Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-resolving-samsung-blu-ray-player-malfunctions/"><u>Troubleshooting Tips: Resolving Samsung Blu Ray Player Malfunctions</u></a></li>
+</ul></div>
 

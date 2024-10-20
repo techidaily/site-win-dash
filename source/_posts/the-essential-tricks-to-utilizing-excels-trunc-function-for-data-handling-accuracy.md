@@ -1,7 +1,7 @@
 ---
 title: The Essential Tricks to Utilizing Excel's TRUNC Function for Data Handling Accuracy
-date: 2024-08-28T01:34:53.080Z
-updated: 2024-08-29T01:34:53.080Z
+date: 2024-10-16T18:43:59.904Z
+updated: 2024-10-20T16:49:23.744Z
 tags:
   - excel
 categories:
@@ -31,8 +31,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
  The number is the value you want to truncate. Digits are the number of numerals you want to truncate the value to. The digits portion is optional, and if not answered, TRUNC will remove all decimal places.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Use the TRUNC Function
 
  Let's look at examples of the TRUNC function with some sample data. The below example uses the following TRUNC function.
@@ -43,6 +47,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![First TRUNC function example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/first-example.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can see with the value in cell A2 that the TRUNC function does not apply any rounding. It simply truncates the number to 411.
 
  Let's see another example. This time we will reduce the values to two decimal places.
@@ -51,9 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![TRUNC function to two decimal places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/two-decimal-places.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  The TRUNC function will not display extra decimals if you ask it to show more than you have.
 
  Take the following example, and let's truncate it to two decimal places.
@@ -62,12 +70,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![No extra decimals shown by TRUNC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/no-extra-decimals.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The value in cell A4 is reduced to two decimal places, but the values in A2 and A3 stay as they are because they have less than two decimal places already.
 
  If you want to display the two decimals, the cells will need to be formatted to be forced to show them.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Remove the Time from a Date-Time Stamp
 
@@ -77,18 +89,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Date and time sample data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/date-and-time-data.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The following formula will work to remove the time.
 
 =TRUNC(A2)
@@ -96,13 +96,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Time removed from a date in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/time-removed.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Although the time is removed, the resulting cells will still need to be formatted as a date only.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Use TRUNC to Shorten Numbers
 
  This is a rare technique, but it is worth knowing that the TRUNC function will also accept negative numbers for the digits argument. When you use a negative number, the formula truncates the numbers to the left of the decimal point. However, it does not change the number of digits. It will replace them with zeroes.
@@ -125,8 +126,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +133,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-the-path-of-adobe-presenter-video-creation/"><u>[New] 2024 Approved Navigating the Path of Adobe Presenter Video Creation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-screenshot-options-for-windows-users/"><u>[New] In 2024, Advanced Screenshot Options for Windows Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>[Updated] 2024 Approved The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/blueprint-for-buzz-elevating-your-profile-on-fb/"><u>Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-mpow-bluetooth-drivers-for-windows-1187-easy-guide/"><u>Download and Update MPOW Bluetooth Drivers for Windows 11/8/7: Easy Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-the-ultimate-creative-webcam-driver-guide-for-windows-users/"><u>Download and Update: The Ultimate Creative Webcam Driver Guide for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-windows-8-radeon-hd-graphics-drivers-for-free-amd/"><u>Download Windows 8 Radeon HD Graphics Drivers For Free - AMD</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-setup-guide-downloading-and-installing-brother-mfc-9130cw-drivers/"><u>Easy Setup Guide: Downloading and Installing Brother MFC-9130CW Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-hp-network-adapter-drivers-for-windows-10-7-and-8-download-now/"><u>Free HP Network Adapter Drivers for Windows 10, 7 & 8 - Download Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962075455-get-your-canon-mf7e3cdw-drivers-on-windows-free-and-instant-access/"><u>Get Your Canon MF7e3CDW Drivers on Windows - Free and Instant Access</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975187452-grab-your-gigabyte-audio-drivers-for-free/"><u>Grab Your Gigabyte AUDIO Drivers for FREE</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-ensure-seamless-operation-with-updated-zebra-printer-drivers-on-windows/"><u>How to Ensure Seamless Operation with Updated Zebra Printer Drivers on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-change-proton-vpn-account-info-plus-unveiling-the-truth-behind-chatgpt-windows-applications/"><u>How to Safely Change Proton VPN Account Info + Unveiling the Truth Behind ChatGPT Windows Applications</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-safely-get-and-install-zebra-technologies-zp450-printer-drivers-a-comprehensive-tutorial/"><u>How to Safely Get and Install Zebra Technologies ZP450 Printer Drivers - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-lightning-leap-into-facebook-id-sleuthing/"><u>In 2024, Lightning Leap Into Facebook ID Sleuthing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-bypass-tools-to-bypass-lock-screen-lava-blaze-2-by-drfone-android-unlock-android-unlock/"><u>Lava Bypass Tools to Bypass Lock Screen(Lava Blaze 2)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfect-your-posts-instagram-video-edits-with-borders/"><u>Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-an-ai-prompt-injection-assault-on-tech-systems/"><u>The Inner Workings of an AI Prompt Injection Assault on Tech Systems</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transforming-office-documents-into-interactive-ebooks-with-tables-of-contents-using-flipbuilder/"><u>Transforming Office Documents Into Interactive Ebooks With Tables of Contents Using FlipBuilder</u></a></li>
+</ul></div>
 

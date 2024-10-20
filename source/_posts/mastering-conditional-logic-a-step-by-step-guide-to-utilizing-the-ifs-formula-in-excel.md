@@ -1,7 +1,7 @@
 ---
 title: "Mastering Conditional Logic: A Step-by-Step Guide to Utilizing the IFS Formula in Excel"
-date: 2024-08-28T01:35:10.828Z
-updated: 2024-08-29T01:35:10.828Z
+date: 2024-10-14T18:31:48.286Z
+updated: 2024-10-20T18:48:25.017Z
 tags:
   - excel
 categories:
@@ -38,8 +38,12 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
  Let's look at a few basic examples.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Return Cell Reference Values
 
  Here, the condition looks at the ID number in cell C2\. When the formula finds the matching condition, 1 through 5, it returns the corresponding name.
@@ -50,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 ![IFS function with cell reference value results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/CellReferenceValue-ExcelIFSFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  If you were to use a nested IF statement instead of the IFS function, your formula would look like this:
 
 =IF(C2=1,A2,IF(C2=2,A3,IF(C2=3,A4,IF(C2=4, A5,IF(C2=5,A6)))))
@@ -63,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube-docs.techidaily.com/n-2024-automate-playlist-retrieval-from-youtube-directly/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ###  Return Numbers
 
  For another IFS example, we'll apply bonuses to our salespeople based on their sales totals. Here's the formula:
@@ -77,8 +75,12 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
 ![IFS function with number results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Number-ExcelIFSFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can use the fill handle to [copy the same IFS formula](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/) to adjacent cells.
 
  To compare again, here is what the formula looks like as a nested IF statement instead:
@@ -90,12 +92,12 @@ Related: [The Basics of Structuring Formulas in Microsoft Excel](https://youtube
 ![Nested IF statement for number results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NumberNested-ExcelIFSFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Return Text Values
 
  In this next example, we have a list of employees who haven't finished their training. We'll display [a text result](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/) based on the percent complete in cell B2\. Note that the text values must be in quotes.
@@ -107,8 +109,12 @@ No advertising on the website.
 ![IFS function with text results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TextValue-ExcelIFSFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  For one more comparison, here is what the nested IF statement looks like to obtain the same result:
 
 =IF(B2<50,"Less than half",IF(B2=50,"Half",IF(B2>50,"More than half")))
@@ -137,8 +143,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +150,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-discover-12-cutting-edge-flip-screen-cams-for-video-content-for-2024/"><u>[New] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-breakdown-of-steps-perfecting-idevice-video-features-on-youtube/"><u>[New] In 2024, Breakdown of Steps Perfecting iDevice Video Features on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-android-techniques-old-to-new-video-format/"><u>2024 Approved Android Techniques Old to New Video Format</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-videography-6-tips-for-making-macro-video/"><u>2024 Approved Videography 6 Tips for Making Macro Video</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-logitech-driver-set-for-pc-windows-7-8-and-10-support/"><u>Get Your Logitech Driver Set for PC: Windows 7, 8 and 10 Support</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-resolve-windows-11s-bluetooth-drivers-glitches-expert-advice-fixed/"><u>How to Easily Resolve Windows 11'S Bluetooth Drivers Glitches – EXPERT ADVICE [FIXED]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-asus-mousepad-support-on-a-windows-machine/"><u>How to Install ASUS Mousepad Support on a Windows Machine</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-upgrade-your-amd-graphics-drivers-on-windows-10-and-11-easy-guide/"><u>How to Upgrade Your AMD Graphics Drivers on Windows 10 & 11 | Easy Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-zoom-for-impactful-youtube-livestream-presentations/"><u>In 2024, Harnessing Zoom for Impactful YouTube Livestream Presentations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-wireless-wifi-6-ax200-driver-download-plus-upgrade-guide-for-windows-1110/"><u>Intel Wireless WiFi 6 AX200 Driver Download + Upgrade Guide for Windows 11/10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/master-guide-to-finding-cheap-transcript-extractors-for-2024/"><u>Master Guide to Finding Cheap Transcript Extractors for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-future-of-smartphones-whats-coming-with-the-next-gen-oneplus-n-price-drops-and-feature-speculations-ahead/"><u>Unveiling the Future of Smartphones – What's Coming with the Next Gen OnePlus N: Price Drops & Feature Speculations Ahead</u></a></li>
+</ul></div>
 

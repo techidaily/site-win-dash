@@ -1,7 +1,7 @@
 ---
 title: "Beginners Guide: Understanding Money Management with Microsoft Excel"
-date: 2024-08-28T01:34:01.150Z
-updated: 2024-08-29T01:34:01.150Z
+date: 2024-10-19T18:40:55.621Z
+updated: 2024-10-20T17:33:47.274Z
 tags:
   - excel
 categories:
@@ -25,13 +25,17 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 
  Microsoft wants to make managing your finances easier. Money in Excel allows you to connect your financial, bank, and credit card accounts, view transactions, and budget your money. We'll help you get started!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  UPDATE: 5/31/22
 
  Microsoft has [announced it will shut down "Money in Excel"](https://screen-recording.techidaily.com/new-2024-approved-bifrost-betrayal-gods-at-war/) after June 2023.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is Money in Excel?
 
  Money is a dynamic template and add-in for Excel that you can download and start using in just a few minutes. It provides all-inclusive financial management in an application you already use daily.
@@ -53,36 +57,36 @@ thumbnail: https://thmb.techidaily.com/1a7d3ca8fe6d970809b1b434e9e4a753777f17419
 
 ![Click Download for Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/DownloadMoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  A pane should appear at the right of the Excel sheet. If it doesn't, click "Money in Excel" in the ribbon on the "Home" tab. In the pane, you'll see an explanation of the add-in from the Office Store. Click "Trust This Add-In" to continue.
 
 ![Click Trust Add-in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/TrustAddin-MoneyInExcel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Sign In," and then follow the prompts to sign in to your Microsoft account and enable the add-in.
 
 ![Click Trust Add-in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/TrustAddin-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The "Money in Excel" pane will appear. Click "Get Started" and "Sign In" once more.
 
 ![Click Get Started and Sign In](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/GetStartedSignIn-MoneyInExcel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click "Add an Account," and then click "Continue" to select your first financial institution. If you don't see the location you want, you can use the Search box at the top to locate it.
 
 ![Click Continue and Select Your Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/ContinueSelectBank-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Type your credentials to log into your financial service, and then click "Submit."
 
 ![Sign In To Your Bank](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/SignInToBank-MoneyInExcel.png) 
@@ -93,9 +97,6 @@ No advertising on the website.
 
  The Money in Excel pane on the right of your workbook is the backbone of the tool. The tabs at the bottom are where you'll find your financial information.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  The "Money in Excel" Pane
 
  To see all your connected institutions, click the "Accounts" tab. Depending on the types of accounts you connect, you'll see them listed under "Cash," "Credit," "Loans," and "Investments." There's also a link at the top to "Add an Account" if you want to connect additional services.
@@ -103,12 +104,12 @@ No advertising on the website.
 ![Accounts Pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/AccountsPane-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To give an account a nickname, hide, or edit it, click the three vertical dots to the right of the account card.
 
 ![Click More Options to Edit Account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/AccountsPaneEdit-MoneyInExcel.png) 
@@ -117,14 +118,24 @@ No advertising on the website.
 
 ![Settings Pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/SettingsPane-MoneyInExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To update the information from your accounts, click "Update" at the top of the pane any time (just make sure you have an internet connection).
 
 ![Click Update in the Pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/UpdatePane-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  The Money in Excel Tabs
 
  For a summary of the Money in Excel features, or to find answers to any questions you might have about the setup process, click the "Welcome" or "Instructions" tab in the workbook.
@@ -132,8 +143,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Welcome Tab in Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/WelcomeTab-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click the "Snapshot" tab to see graphs, charts, and tables that show breakdowns of your financials.
 
 ![Snapshot Tab in Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/SnapshotTab-MoneyInExcel.png) 
@@ -147,17 +162,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Categories Tab in Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/CategoriesTab-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Save Your Money in Excel Workbook
 
  The last important part of setting up Money in Excel is to save your workbook. (Remember, the file you download from Microsoft is just a template). To do so, click File > Save As, give your new financial master a meaningful name, and then save it in your preferred location.
 
 ![Save Your Workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/SaveWorkbook-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Notes on Using Money in Excel
 
  When you're just setting up Money in Excel, here are a few things to keep in mind:
@@ -173,8 +195,6 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +202,22 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieving-pristine-video-quality-on-youtube/"><u>[New] 2024 Approved Achieving Pristine Video Quality on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-essential-knowledge-for-hosting-effective-split-screen-events-on-facebook-for-2024/"><u>[New] Essential Knowledge for Hosting Effective Split Screen Events on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>[New] Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-streamline-your-online-listening-experience-with-direct-capture/"><u>[Updated] 2024 Approved Streamline Your Online Listening Experience with Direct Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>2024 Approved Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/automated-mealtime-mastery-the-petsafe-auto-feeder-delivers-6-evenly-spaced-serves/"><u>Automated Mealtime Mastery: The PetSafe Auto Feeder Delivers 6 Evenly Spaced Serves</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-latest-updates-for-razer-devices-on-windows-11-8-7-xp-and-vista/"><u>Download & Latest Updates for Razer Devices on Windows 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-finding-and-updating-your-asus-notebooks-drivers/"><u>Easy Guide: Finding and Updating Your ASUS Notebook's Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-updating-epson-xp-640-printer-driver-on-windows-machines/"><u>Easy Guide: Updating Epson XP-640 Printer Driver on Windows Machines</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-intel-825n-vga-graphics-card-drivers-quick-setup-for-optimal-performance/"><u>Free Intel 825N VGA Graphics Card Drivers: Quick Setup for Optimal Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-address-xbox-accessory-driver-problems-on-windows-operating-systems/"><u>How to Address Xbox Accessory Driver Problems on Windows Operating Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-spark-10-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Spark 10 Pro Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-obtaining-latest-amd-smbus-drivers-with-ease/"><u>Quick Guide to Obtaining Latest AMD SMBus Drivers with Ease</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-installation-guide-broadcom-gige-networking-drivers-for-windows-10-no-more-issues/"><u>Successful Installation Guide: Broadcom GigE Networking Drivers for Windows 10 - No More Issues!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-visual-delight-with-the-65-inch-lg-oled-c9-smart-tv-an-in-depth-review/"><u>The Ultimate Visual Delight with the 65-Inch LG OLED C9 Smart TV: An In-Depth Review</u></a></li>
+</ul></div>
 

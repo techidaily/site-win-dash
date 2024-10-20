@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity: Top 12 Advanced Excel Setup Adjustments Revealed!"
-date: 2024-08-28T01:34:03.720Z
-updated: 2024-08-29T01:34:03.720Z
+date: 2024-10-15T18:23:11.516Z
+updated: 2024-10-20T16:21:48.702Z
 tags:
   - excel
 categories:
@@ -44,8 +44,12 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 ![Excel Options window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/FileOptionsGeneral-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  1\. Quick Access Toolbar
 
  One of the best settings to have a look at when you use Excel is the setup for the [Quick Access Toolbar](https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/). This handy spot is ideal for getting things done quickly. For instance, you might want a button for Save As instead of just Save or a fast way to email the file.
@@ -56,9 +60,6 @@ Related: [How to Customize the Quick Access Toolbar in Microsoft Office Apps](ht
 
 ![Quick Access Toolbar settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/QuickAccessToolbar-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  2\. Font Style and Size
 
  Another good default setting to change if you have a font preference is the style and size. You may prefer a [specific font](https://article-posts.techidaily.com/2024-approved-crafting-an-elite-home-computer-for-professional-4k-editing/) style or are required to use a certain size with each new workbook you open.
@@ -70,8 +71,12 @@ Related: [How to Set the Default Font and Font Size for New Workbooks in Excel](
 ![Font style and size settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/FontStyleSize-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  3\. View for New Sheets
 
  While maybe not as common as changing the default font, the view you use in Excel might be something you need to adjust. Maybe you always work in Page Layout View or just want to open new sheets in Page Break View.
@@ -80,12 +85,6 @@ Related: [How to Set the Default Font and Font Size for New Workbooks in Excel](
 
 ![View settings for new Excel sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/View-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. Workbook to Open
 
  Do you almost always open the same workbook in Excel? You can make a change so that the workbook you need opens automatically when you launch Excel.
@@ -107,8 +106,12 @@ Related: [How to Open Certain Workbooks Automatically When You Start Excel](http
 ![Number of recent workbooks to display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/RecentWorkbooks-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  6\. Number of Sheets
 
  When you create a new workbook, you may prefer to [start with a specific number of sheets](https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortless-capture-and-storage-pro-guide-to-digital-sound-recording/). Rather than add them as you go, you can open new workbooks with a certain number of spreadsheets.
@@ -118,8 +121,12 @@ Related: [How to Open Certain Workbooks Automatically When You Start Excel](http
 ![Number of sheets for new Excel workbooks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/NumberSheets-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  7\. Ruler Units
 
  While the ruler defaults to the [unit measurement](https://discord-videos.techidaily.com/mastering-discord-speaking-tts-basics-guide-for-2024/) for your region, you might want to change this to Inches, Centimeters, or Millimeters. This may be especially useful if you collaborate with international colleagues.
@@ -141,11 +148,12 @@ Related: [How to Change the Behavior of the Enter Key in Excel](https://visual-s
 ![Enter key settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EnterKeyDirection-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  9\. Decimal Places
 
  If you work with decimals a lot in your Excel sheets and are always [changing the decimal places](https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/), you can adjust this default as well.
@@ -154,9 +162,6 @@ Related: [How to Change the Behavior of the Enter Key in Excel](https://visual-s
 
 ![Decimal place settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DecimalPlaces-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  10\. Calculation Method
 
  By default, calculations in Excel workbooks are automatic. This is another setting you might want to change if you prefer to do them [manually](https://screen-activity-recording.techidaily.com/detailed-guide-to-screen-record-skype-via-obs-for-2024/) or only automatically for everything except data tables.
@@ -167,9 +172,6 @@ Related: [How to Manually Calculate Only the Active Worksheet in Excel](https://
 
 ![Calculation method setting in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Calculation-ExcelChangeDefaultSettings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  11\. File Format When Saving
 
  If you need a specific file format other than the [default Excel format](https://visual-screen-recording.techidaily.com/in-2024-gamers-eden-record-without-paying-in-24/), [XLSX](https://ai-vdieo-software.techidaily.com/updated-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/), you can change this too. This saves you time from changing the Save As file type for new workbooks.
@@ -177,6 +179,26 @@ Related: [How to Manually Calculate Only the Active Worksheet in Excel](https://
  Select "Save" and go to the Save Workbooks section. Next to Save Files in This Format, choose the format from the drop-down list. You'll see options like older Excel versions, [CSV](https://instagram-video-files.techidaily.com/updated-from-followers-to-fans-a-guide-to-thriving-instagram-presence/), text, and many more. Click "OK" to save your change.
 
 ![Default file format options in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/SaveFileFormat-ExcelChangeDefaultSettings.png) 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  12\. Pivot Table Layout
 
@@ -193,8 +215,12 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 ![Default layout settings for Pivot Tables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/PivotTableLayout-ExcelChangeDefaultSettings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click "OK" in the small window and Excel Options window to save your changes.
 
  Save a little time from adjusting the same settings every time you open Excel by changing the defaults instead. And remember, if you change your mind later, simply return to the same spot in the Excel Options and revert the setting.
@@ -207,8 +233,6 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +240,18 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-silent-voices-in-the-social-media-arena-ig-live-edition/"><u>[New] Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-detailed-analysis-lg-bp350-picture-quality-and-settings-for-2024/"><u>[Updated] Detailed Analysis LG BP350 Picture Quality & Settings for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-tutorial-how-to-refresh-and-update-processor-drivers-in-windows/"><u>Easy Tutorial: How to Refresh and Update Processor Drivers in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-the-latest-toshibe-device-drivers-on-your-windows-machine/"><u>Ensure Optimal Performance with the Latest Toshibe Device Drivers on Your Windows Machine.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-determine-if-the-aol-mail-service-is-down-or-just-glitches-on-your-end/"><u>How to Determine If the AOL Mail Service Is Down or Just Glitches on Your End</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-latest-logitech-unifying-receiver-on-your-windows-device/"><u>How to Install the Latest Logitech Unifying Receiver on Your Windows Device</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713950530912-its-always-a-cool-thing-to-use-a-3d-intro-maker-to-create-intro-videos-for-your-clips-this-post-will-introduce-you-4-of-the-best-intro-video-makers-to-help-/"><u>Its Always a Cool Thing to Use a 3D Intro Maker to Create Intro Videos for Your Clips. This Post Will Introduce You 4 of the Best Intro Video Makers to Help You Improve Your Video for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-drivers-and-firmware-upgrade-downloading-for-canon-all-in-one-pixma-ts3220/"><u>Latest Drivers & Firmware Upgrade - Downloading for Canon All-in-One PIXMA TS3220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207639385-overcome-google-chromes-critical-error-menace-a-users-survival-guide-against-scams/"><u>Overcome Google Chrome's Critical Error Menace: A User’s Survival Guide Against Scams</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-solutions-to-prevent-game-failures-and-enhance-pc-performance/"><u>Step-by-Step Solutions to Prevent Game Failures and Enhance PC Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-viewing-star-wars-saga-sequentially-on-disneyplus-stream/"><u>The Ultimate Guide: Viewing Star Wars Saga Sequentially on Disney+ Stream</u></a></li>
+</ul></div>
 

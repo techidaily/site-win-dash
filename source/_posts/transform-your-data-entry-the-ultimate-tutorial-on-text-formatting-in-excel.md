@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Data Entry: The Ultimate Tutorial on Text Formatting in Excel"
-date: 2024-08-28T01:34:56.735Z
-updated: 2024-08-29T01:34:56.735Z
+date: 2024-10-18T17:44:30.439Z
+updated: 2024-10-20T17:43:44.638Z
 tags:
   - excel
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/40e0889241e76e5d59eca7143e9d07b55913d6df3
 
 ![Enter the UPPER function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2-excel-uppercase-function.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't have your text in a cell, specify the text directly in the function as follows. In this function, replace `My Text` with the text you want to turn to uppercase.
 
 =UPPER("My Text")
@@ -53,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/40e0889241e76e5d59eca7143e9d07b55913d6df3
 
 Related: [5 Ways to Convert Text to Numbers in Microsoft Excel](https://facebook-videos.techidaily.com/2024-approved-unlock-laughter-traps-20-quirky-fb-detention-anecdotes-for-amusement/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Convert Text to Lowercase Using the LOWER Function
 
  To [make all the letters of your text lowercase](https://review-topics.techidaily.com/oppo-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/), utilize Excel's `LOWER` function as follows.
@@ -64,19 +68,12 @@ Related: [5 Ways to Convert Text to Numbers in Microsoft Excel](https://facebook
 
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/4-excel-lowercase-choose-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  In the selected cell, enter the following function and press Enter. In this function, replace `B3` with the cell where your text is located.
 
 =LOWER(B3)
 
 ![Use the LOWER function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/5-excel-lowercase-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  To specify the text directly in the function, use the function as follows. Here, replace `Your Text` with your own text.
 
 =LOWER("Your Text")
@@ -84,6 +81,13 @@ Related: [5 Ways to Convert Text to Numbers in Microsoft Excel](https://facebook
  You'll see the resulting lowercase text in your current cell.
 
 ![Lowercase text in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/6-excel-lowercase-result.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that's it.
 
@@ -97,9 +101,6 @@ Related: [How to Fix a Block of Text That's In All Caps](https://review-topics.t
 
 ![Click a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/7-excel-proper-case-click-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  In the chosen cell, enter the following function and press Enter. Here, replace `B3` with the cell that has the text you want to turn to proper case.
 
 =PROPER(B3)
@@ -107,8 +108,12 @@ Related: [How to Fix a Block of Text That's In All Caps](https://review-topics.t
 ![Type the PROPER function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/8-excel-proper-case-function.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you'd like to use the text directly in the function, use the function below. Here, you'll replace `our text` with your own text.
 
 =PROPER("our text")
@@ -118,8 +123,12 @@ Related: [How to Fix a Block of Text That's In All Caps](https://review-topics.t
 ![Proper case text in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/9-excel-proper-case-result.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And that's how you use [Excel's various text functions](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/) to capitalize, uppercase, and lowercase your content. Happy working with text in your spreadsheets!
 
 Related: [9 Useful Microsoft Excel Functions for Working With Text](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/)
@@ -130,8 +139,6 @@ Related: [9 Useful Microsoft Excel Functions for Working With Text](https://vide
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +146,24 @@ Related: [9 Useful Microsoft Excel Functions for Working With Text](https://vide
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-instantly-impress-followers-with-an-updated-tiktok-bio-and-pics/"><u>[New] 2024 Approved Instantly Impress Followers with an Updated TikTok Bio & Pics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-jestjungle-your-gateway-to-universal-comedy-for-2024/"><u>[New] JestJungle Your Gateway to Universal Comedy for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-easy-to-use-free-instagram-to-mp4-converters-for-all-oss-for-2024/"><u>[Updated] Easy-to-Use Free Instagram to MP4 Converters for All OSs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>[Updated] Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-connected-world-sharing-twitter-media-in-whatsapp-chat-for-2024/"><u>[Updated] The Connected World Sharing Twitter Media in WhatsApp Chat for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-your-go-to-list-for-immersive-sandboxes-for-2024/"><u>[Updated] Your Go-To List for Immersive Sandboxes for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-self-care-how-to-step-away-from-fb/"><u>Digital Self-Care: How to Step Away From FB</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-geforce-gtx-770-graphics-card-drivers-for-windows-operating-systems/"><u>Download GeForce GTX 770 Graphics Card Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ease-of-use-free-downloads-available-for-eveos-bluetooth-device-drivers/"><u>Ease of Use: Free Downloads Available for Eveo's Bluetooth Device Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-fix-with-acers-bluetooth-driver-download-here/"><u>Fast Fix with Acer's Bluetooth Driver - Download Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-version-of-sapphire-gpu-drivers-for-windows-pcs/"><u>Get the Latest Version of Sapphire GPU Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-out-of-your-system-update-amd-radeon-hd-3450-drivers-with-this-step-by-step-guide/"><u>Get the Most Out of Your System: Update AMD Radeon HD 3450 Drivers with This Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-latest-windows-driver-for-your-epson-et-2750-printer/"><u>Installing the Latest Windows Driver for Your Epson ET-2750 Printer</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-playstation-account/"><u>Optimizing Your PlayStation Account</u></a></li>
+<li><a href="https://blog-min.techidaily.com/schutzstrategien-fur-disney-filme-aus-kopierschutzvorgaben-auf-pcs/"><u>Schutzstrategien Für Disney-Filme Aus Kopierschutzvorgaben Auf PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961506721-step-by-step-tutorial-getting-your-corsair-void-pro-drivers-installed-on-windows/"><u>Step-by-Step Tutorial: Getting Your Corsair Void Pro Drivers Installed on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-refresh-the-drivers-of-your-usb-serial-communication-controller/"><u>The Ultimate Walkthrough to Refresh the Drivers of Your USB Serial Communication Controller</u></a></li>
+</ul></div>
 

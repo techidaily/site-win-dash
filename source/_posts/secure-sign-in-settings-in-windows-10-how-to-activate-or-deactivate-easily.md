@@ -1,7 +1,7 @@
 ---
 title: "Secure Sign-In Settings in Windows 10: How to Activate or Deactivate Easily"
-date: 2024-08-28T01:31:45.972Z
-updated: 2024-08-29T01:31:45.972Z
+date: 2024-10-13T16:38:14.817Z
+updated: 2024-10-20T17:40:16.104Z
 tags:
   - windows
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 * [Enable or Disable Secure Sign-in Using the Registry](https://visual-screen-recording.techidaily.com/2024-approved-build-a-fortified-mc-base-plan-6-10/)
 * [Enable or Disable Using the Local Security Policy](https://fox-friendly.techidaily.com/new-scripting-temporal-disruption-scenes/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Secure Sign-In removes login fields until you type a string of keys, helping to thwart malware that may spoof the login screen.
@@ -26,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
  Windows is the most targeted operating system on the planet. That means you should fortify your PC's defenses to stay safe both online and offline. This guide shows you how to enable or disable Secure Sign-In for Windows 10 and Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  What is Secure Sign-in?
 
  Secure Sign-In is an additional component on the Windows 10 login screen. It doesn’t prevent anyone from accessing your PC if they have your credentials. Instead, Windows 10 removes the login fields until you type a string of keys. After that, enter your password or PIN as usual.
@@ -36,18 +40,18 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  This feature aims to thwart malware. Malicious code could reside in the background and spoof the Windows 10 or Windows 11 login screen to capture your credentials. Because apps and programs typically don’t have access to the Ctrl+At+Del command, you can bypass the fake login screen by using Secure Sign-In that's activated by typing this three-key command.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Enable or Disable Secure Sign-In Using the Netplwiz Command
 
  To start, launch the Run command by pressing the "Windows" and "R" keys simultaneously (Windows+R). A small pop-up window will appear. Type **netplwiz** in the text field and then click the “OK” button (or press the Enter key) to continue.
 
 ![Enter "netplwiz" into a Run box or the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-netplwiz-run.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  Alternatively, you can access the User Accounts panel by typing **netplwiz** into the taskbar’s search field and selecting the resulting Run command.
 
  The User Accounts panel will appear onscreen. Click the “Advanced” tab (if it’s not loaded by default). Locate the “Require Users to Press Ctrl+Alt+Delete” option listed under “Secure Sign-In.” Check to enable or uncheck to disable.
@@ -55,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
  Click the “Apply” button and then the “OK” button to finish.
 
 ![Click the box next to "Require Users to Press Ctrl+Alt+Delete" in the User Accounts window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-enable-secure-sign-in.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Enable or Disable Secure Sign-in Using the Registry
 
@@ -64,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/21dc09642e8b9d9182830cb6498f509afd60ef4fb
 
 ![Launch regedit through a Run box or the Start Menu search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-regedit.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also access the Registry Editor by typing **regedit** into the taskbar’s search field and selecting the resulting desktop app.
 
  Type or paste the following path into Registry Editor's address bar:
@@ -80,6 +88,13 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogo
 
 ![Double-click "Disable CAD."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-disable-cat.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Edit DWORD (32-bit) Value" pop-up box, change the Value Data with one of these values:
 
 * Enable = **0**
@@ -89,16 +104,17 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogo
 
 ![Change the value to 1 or 0, depending on your preference.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-value.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  If you don’t see a "DisableCad" entry in the "Winlogon" settings, right-click on "Winlogon," select “New” in the pop-up menu, and then click “DWORD (32-bit) Value" in the next list. Name this new DWORD **DisableCAD** and change its value.
 
 ![Create a new DWORD for disableCAD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-create-val.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Enable or Disable Using the Local Security Policy
 
  Here’s another method that’s somewhat busier than following the User Accounts instructions. Use this method if you want to take the scenic route but avoid the Windows registry.
@@ -116,8 +132,12 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogo
 ![Navigate to Local Policies, then to Security Options, then click 'Interactive logon: Do Not Require CTRL+ALT+DEL.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The entry’s Properties panel appears onscreen with the "Local Security Setting" tab displayed by default. Click a radio button to enable or disable this feature. Finish by clicking the “Apply” button and then the “OK” button.
 
 ## 
@@ -132,8 +152,6 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +159,19 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-best-online-destinations-for-sparkling-and-metallic-letters-for-2024/"><u>[Updated] Best Online Destinations for Sparkling and Metallic Letters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-video-creation-check-out-the-top-12-flip-cam-gear/"><u>[Updated] In 2024, Elevate Your Video Creation - Check Out the Top 12 Flip Cam Gear</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-in-visuals-learning-to-soften-specific-areas/"><u>[Updated] Precision in Visuals Learning to Soften Specific Areas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-cybernetic-video-capture-tools/"><u>[Updated] Top Cybernetic Video Capture Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-how-to-install-amd-ryzen-5-2600-graphics-drivers/"><u>Easy Guide: How To Install AMD Ryzen 5 2600 Graphics Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-update-your-asus-monitor-drivers-for-optimal-performance/"><u>Easy Steps to Update Your ASUS Monitor Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-hp-deskjet-3700-printer-driver-downloads-and-firmware-upgrades/"><u>Essential HP Deskjet 3700 Printer Driver Downloads and Firmware Upgrades</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-tips-for-fixing-your-logitech-g433-mic-when-it-stops-working-properly/"><u>Expert Tips for Fixing Your Logitech G433 Mic When It Stops Working Properly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fresh-installation-how-to-obtain-new-nvidia-drivers-quickly/"><u>Fresh Installation: How to Obtain New Nvidia Drivers Quickly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-c51-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme C51 Phone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-hp-spectre-x360-reviewed-striking-a-fine-line-between-design-performance-and-battery-life/"><u>The HP Spectre X360 Reviewed: Striking a Fine Line Between Design, Performance, and Battery Life</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-understanding-the-true-significance-behind-bsod-errors/"><u>Unraveling the Mystery: Understanding the True Significance Behind BSOD Errors</u></a></li>
+</ul></div>
 

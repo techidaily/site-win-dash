@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating an MS Excel Spreadsheet Into Your Website"
-date: 2024-08-28T01:33:53.719Z
-updated: 2024-08-29T01:33:53.719Z
+date: 2024-10-18T16:15:37.714Z
+updated: 2024-10-20T18:33:12.862Z
 tags:
   - excel
 categories:
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  You can then make the adjustments described below to customize the code.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Customize the Code
 
  Regardless of which method you use above, you'll see the same options for customizing the code. These options appear on the left side of the screen with a preview on the right so that you can see how your changes affect the sheet.
@@ -51,23 +48,34 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![Customize code window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/CustomizeCode-ExcelEmbedCode.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **What to Show**: You can choose the entire workbook, a specific range, a chart, table, or other option that you see.
 
 ![Customize What To Show](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/WhatToShow-ExcelEmbedCode.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Appearance**: Check the boxes for hiding the grid lines or headers, and optionally to include a download link.
 
 ![Customize Appearance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Appearance-ExcelEmbedCode.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Interaction**: Check the boxes to let others sort and filter or enter data in the cells. Note that if you allow the second option, changes they make are not saved. You can also enter a specific cell to start with or click a cell in the Preview to set the active cell.
 
 ![Customize Interaction](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Interaction-ExcelEmbedCode.png) 
@@ -77,8 +85,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Customize Dimensions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Dimensions-ExcelEmbedCode.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Preview**: As mentioned, you'll see any changes you apply on the left side to the preview on the right side. If you're sharing the whole workbook, you can move through each sheet using the tabs.
 
  If you adjusted the dimensions for the workbook, you can use the View Actual Size link to open the size that will display in a new browser tab.
@@ -89,13 +101,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Workbook actual size and toolbar options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/ActualSizeToolbar-ExcelEmbedCode.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Embed Code or JavaScript**: On the bottom left is a box containing the code that you'll copy after making your adjustments and reviewing the preview. You can choose Embed Code or [JavaScript](https://tech-haven.techidaily.com/navigate-through-these-6-common-autogpt-configuration-snags-successfully/) per your preference.
 
 ![Embed code for an Excel file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Code-ExcelEmbedCode.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Place your cursor inside the box to select all of the code. Then either right-click and pick "Copy" or use the keyboard shortcut Ctrl+C on Windows or Command+C on Mac.
 
 ![Copy in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Copy-ExcelEmbedCode.png) 
@@ -112,8 +128,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +135,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/download-qualcomm-usb-driver-for-windows-111087/"><u>[DOWNLOAD] Qualcomm USB Driver for Windows 11/10/8/7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-use-movie-maker-on-windows-11/"><u>[New] In 2024, How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-fixes-enhance-dull-iphone-hdri-expert-tips-for-premiere-pro-users/"><u>[Updated] [Professional Fixes] Enhance Dull iPhone HDRI Expert Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-building-confidence-against-youtube-critiques/"><u>[Updated] 2024 Approved Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-climbing-the-youtube-search-rankings-key-seo-strategies-unveiled/"><u>[Updated] 2024 Approved Climbing the YouTube Search Rankings Key SEO Strategies Unveiled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-professional-level-youtube-content-via-adobe-premiere/"><u>[Updated] 2024 Approved Professional-Level YouTube Content via Adobe Premiere</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visual-narratives-unleashed-top-5-filmmaking-skills/"><u>[Updated] Visual Narratives Unleashed Top 5 Filmmaking Skills</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-block-spontaneous-youtube-video-triggers/"><u>2024 Approved Block Spontaneous YouTube Video Triggers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-xonar-dgx-driver-download/"><u>ASUS Xonar DGX Driver Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automated-password-inclusion-in-windows-file-management/"><u>Automated Password Inclusion in Windows File Management</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-fresh-install-and-upgrade-of-huion-graphics-tablet-software-for-windows-users/"><u>Comprehensive Guide: Fresh Install and Upgrade of Huion Graphics Tablet Software for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-troubleshoot-broadcom-gigabit-ethernet-drivers-compatible-with-windows-11/"><u>Download & Troubleshoot Broadcom Gigabit Ethernet Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-hp-officejet-4655-printer-drivers-compatible-software-updates/"><u>Download the Latest HP OfficeJet 4655 Printer Drivers: Compatible Software Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-download-of-validity-fingerprint-driver-step-by-step-tutorial/"><u>Effortless Download of Validity Fingerprint Driver - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-ultimate-gaming-experience-free-download-steelseries-engine-on-windows-10/"><u>Get Your Ultimate Gaming Experience: [Free Download] SteelSeries Engine on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-free-download-compatible-drivers-for-realtek-cards-on-windows-11/"><u>Latest [Free Download]: Compatible Drivers for Realtek Cards on Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-m510-support-the-ultimate-guide-to-updating-your-device-drivers/"><u>Logitech M510 Support - The Ultimate Guide to Updating Your Device Drivers</u></a></li>
+<li><a href="https://techidaily.com/solving-the-dark-display-issue-repairing-a-black-screen-problem-in-windows-11-pre-and-post-login/"><u>Solving the Dark Display Issue: Repairing a Black Screen Problem in Windows 11 Pre and Post Login</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-s23-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy S23 Device</u></a></li>
+</ul></div>
 

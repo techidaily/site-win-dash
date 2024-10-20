@@ -1,7 +1,7 @@
 ---
 title: "Effortless Column Expansion: How to Insert New Rows Using Excel's QuickKeys"
-date: 2024-08-28T01:33:11.741Z
-updated: 2024-08-29T01:33:11.741Z
+date: 2024-10-14T18:05:34.741Z
+updated: 2024-10-20T17:36:58.759Z
 tags:
   - excel
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/f69988e77f104bb45c90c9e2b34f1257506e2bba3
 
  Today’s Question & Answer session comes to us courtesy of SuperUser—a subdivision of Stack Exchange, a community-driven grouping of Q&A web sites.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Question
 
  SuperUser reader jstricker wants to know how to insert new rows in Excel using a keyboard instead of a mouse:
@@ -29,8 +36,12 @@ thumbnail: https://thmb.techidaily.com/f69988e77f104bb45c90c9e2b34f1257506e2bba3
  Is there an easy way to insert new rows in Excel using a keyboard?
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Answer
 
  SuperUser contributors jstricker, ATG, KRyan, BillOer, and assylias have the answer for us. First up, jstricker:
@@ -79,8 +90,12 @@ thumbnail: https://thmb.techidaily.com/f69988e77f104bb45c90c9e2b34f1257506e2bba3
 > ![how-do-i-insert-a-new-row-in-excel-via-the-keyboard-01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/01/how-do-i-insert-a-new-row-in-excel-via-the-keyboard-01.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
  Have something to add to the explanation? Sound off in the comments. Want to read more answers from other tech-savvy Stack Exchange users? [Check out the full discussion thread here](http://superuser.com/questions/869946/how-do-i-insert-a-new-row-in-excel-via-the-keyboard).
@@ -91,8 +106,6 @@ thumbnail: https://thmb.techidaily.com/f69988e77f104bb45c90c9e2b34f1257506e2bba3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +113,20 @@ thumbnail: https://thmb.techidaily.com/f69988e77f104bb45c90c9e2b34f1257506e2bba3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-apeak-recording-examined-quality-and-features-decoded/"><u>[New] 2024 Approved Apeak Recording Examined Quality and Features Decoded</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-drive-more-traffic-effective-strategies-for-youtube-outros/"><u>[New] 2024 Approved Drive More Traffic Effective Strategies for YouTube Outros</u></a></li>
+<li><a href="https://win-dash.techidaily.com/a-comprehensive-walkthrough-keeping-your-pcs-cpu-drivers-updated-under-windows/"><u>A Comprehensive Walkthrough: Keeping Your PC's CPU Drivers Updated Under Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-validity-of-chatgpts-health-recommendations-is-it-trustworthy/"><u>Assessing the Validity of ChatGPT's Health Recommendations: Is It Trustworthy?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-solutions-for-elgato-hd60-driver-problems-get-started-now/"><u>Effortless Solutions for Elgato HD60 Driver Problems - Get Started Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-windows-update-setup-and-management-tips/"><u>Hassle-Free Windows Update Setup and Management Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-spark-20-proplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Spark 20 Pro+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-driver-enhancements-for-lenovo-cameras-on-microsofts-os-7-and-vista/"><u>Latest Driver Enhancements for Lenovo Cameras on Microsoft's OS 7 & Vista</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-conditional-formulas-with-isxl-functions-in-excel/"><u>Navigating Through Conditional Formulas with ISXL Functions in Excel</u></a></li>
+<li><a href="https://facebook.techidaily.com/sidestep-facebook-snares-learn-about-these-14-frequent-frauds/"><u>Sidestep Facebook Snares: Learn About These 14 Frequent Frauds</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-and-user-friendly-setup-of-epson-et-4550-drivers-for-windows-computers/"><u>Speedy and User-Friendly Setup of Epson ET-4550 Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-c-compatibility-on-windows-11-secure-your-driver-downloads-today/"><u>USB-C Compatibility on Windows 11 - Secure Your Driver Downloads Today!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/watch-the-one-where-friends-reunion-streaming-platforms-and-availability-guide/"><u>Watch The One Where Friends Reunion: Streaming Platforms & Availability Guide</u></a></li>
+</ul></div>
 

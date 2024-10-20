@@ -1,7 +1,7 @@
 ---
 title: Top 6 Techniques to Optimize Your Windows 11 Search Capabilities
-date: 2024-08-28T01:32:44.795Z
-updated: 2024-08-29T01:32:44.795Z
+date: 2024-10-15T16:23:05.032Z
+updated: 2024-10-20T16:15:55.437Z
 tags:
   - windows
 categories:
@@ -42,6 +42,13 @@ settings:Bluetooth
 
  This will filter out all the other categories and only show you the relevant settings that match the word "Bluetooth."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Use the Web to Find Specific Information
 
  As long as you have [connected your Windows computer to the internet](https://some-techniques.techidaily.com/updated-explore-free-options-10-leading-mac-artists-preferences/), you can use Search to quickly find specific information. This includes the time, weather, definitions, random statistics, or currency conversions.
@@ -50,14 +57,25 @@ settings:Bluetooth
 
 ![Checking the weather in California on using Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/weather-search-windows-11-search.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  If you wanted to find the definition of ubiquitous, you'd type **ubiquitous definition** and get a preview of what the word means.
 
 ![Checking the definition of a word in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/definition-search-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For more expansive results, you can click "Open Results in Browser" at the bottom.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Enable Cloud Search for Your Microsoft Account
 
@@ -67,16 +85,17 @@ settings:Bluetooth
 
 ![Turning on cloud search in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cloud-search-option-windows-11-search-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  In the "Cloud Content Search" section, turn on the "Microsoft Account" toggle.
 
 ![Turning on cloud search for Microsoft account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cloud-search-microsoft-account-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you have a work or school account, you can turn on the "Work or School Account" toggle as well.
 
 ##  4\. Enable Enhanced Search
@@ -91,25 +110,16 @@ settings:Bluetooth
 
 ![Turning on enhanced search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enable-enhanced-search-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Below, you'll see a section called Exclude Folders From Enhanced Search. That means Search will look in every folder on your PC except for the excluded ones.
 
  To add a folder, click "Add an Excluded Folder." Then, select the folder you want to exclude from the enhanced search.
 
 ![Adding an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enhanced-search-exclude-folder-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To remove a folder from the excluded list, click the three-dot icon next to it and select "Remove" from the menu.
 
 ![Removing an excluded folder on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/remove-excluded-folder-enhanced-search-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Remember, the more folders you add, the slower your search will be, and vice versa.
 
 ##  5\. Modify the Indexing Options
@@ -120,16 +130,34 @@ settings:Bluetooth
 
 ![The "Indexing Options" result in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/search-index-options-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Before indexing the folders, if you have some custom file types that Search doesn't include in the search results, now is your chance to add them to the index. Click the "Advanced" button.
 
 ![The "Advanced" button in Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/indexing-options-advanced-button-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select the "File Types" tab. Then, at the bottom where it says "Add New Extension to the List," enter the file extension in the text box, and click "Add."
 
 ![Adding a file type in Advanced Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/adding-file-type-indexing-options-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, click "OK" to apply and save the changes
 
@@ -139,9 +167,6 @@ settings:Bluetooth
 
 ![Ticking folders in Indexing Options on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/ticking-folders-indexing-options-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click "OK" and wait for your computer to finish indexing the folders you've ticked.
 
 ##  6\. Rebuild Your Search Index
@@ -152,9 +177,6 @@ settings:Bluetooth
 
 ![Rebuidling the index on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/rebuild-index-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click "OK" on the prompt telling you that indexing might take a long time. Now, wait for the process to finish.
 
 ---
@@ -167,8 +189,6 @@ settings:Bluetooth
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +196,26 @@ settings:Bluetooth
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/free-download-official-windows-compatible-msi-gs65-drivers-get-them-now/"><u>[Free Download] Official Windows-Compatible MSI GS65 Drivers - Get Them Now!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ditching-vimeo-the-ultimate-list-of-excellent-alternatives/"><u>[New] Ditching Vimeo The Ultimate List of Excellent Alternatives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-game-changer-gear-on-youtube/"><u>[New] The Ultimate Game Changer - Gear on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-visionary-studio-guide-detailed-xreviewers-digest-for-2024/"><u>[New] The Visionary Studio Guide Detailed XReviewer's Digest for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-updating-your-meet-name-easy-steps-for-pc-and-mobile/"><u>[Updated] 2024 Approved Updating Your Meet Name Easy Steps for PC & Mobile</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tactics-to-maximize-vimeo-viewership/"><u>[Updated] In 2024, Tactics to Maximize Vimeo Viewership</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meet-the-system-and-hardware-needs-of-big-sur-os/"><u>[Updated] Meet the System & Hardware Needs of Big Sur OS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-skyline-artistry-review-studio-25-in-focus-2023/"><u>2024 Approved Skyline Artistry Review Studio 25 in Focus, 2023</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-latest-updates-for-canoscan-lide-220-scanner-software/"><u>Download and Latest Updates for CanoScan LiDE 220 Scanner Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-intelligent-connectivity-install-intel-centrino-advanced-n-6205-drivers/"><u>Download Intelligent Connectivity: Install Intel Centrino Advanced-N 6205 Drivers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-good-to-great-elevating-your-ads-facebook-impact/"><u>In 2024, From Good to Great Elevating Your Ads' Facebook Impact</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-corsair-k70-keyboard-complete-driver-and-utility-setup-guide/"><u>Install Corsair K70 Keyboard: Complete Driver & Utility Setup Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-new-asus-dvd-driver-software-with-ease-download-guide/"><u>Install New ASUS DVD Driver Software with Ease - Download Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-guide-latest-drivers-and-updates-for-your-hp-officejet-eb-4655-printer/"><u>Installation Guide: Latest Drivers and Updates for Your HP Officejet Eb 4655 Printer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974377004-instant-connection-with-your-xbox-gamepad-secure-your-controller-drivers-today/"><u>Instant Connection with Your Xbox Gamepad - Secure Your Controller Drivers Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-steps-to-improve-your-dell-g7-performance-with-driver-updates/"><u>Quick Steps to Improve Your Dell G7 Performance with Driver Updates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ynergy-between-youtube-and-creative-commons-licensinas/"><u>The Synergy Between YouTube and Creative Commons Licensinas</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-fixes-and-tips-for-downloading-the-most-recent-rndis-driver-updates-on-your-windows-system/"><u>Ultimate Fixes and Tips for Downloading the Most Recent RNDIS Driver Updates on Your Windows System</u></a></li>
+</ul></div>
 

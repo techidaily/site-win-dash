@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel Slicers: A Comprehensive Tutorial on Crafting Dynamic Data Segmentation Tools"
-date: 2024-08-28T01:34:28.198Z
-updated: 2024-08-29T01:34:28.198Z
+date: 2024-10-19T17:45:11.169Z
+updated: 2024-10-20T17:37:40.734Z
 tags:
   - excel
 categories:
@@ -28,8 +28,12 @@ Related: [What Is a Slicer in Google Sheets, and How Do You Use It?](https://scr
  This slicer always remains on your screen, so you or anyone else who opens the spreadsheet knows exactly how your data is filtered. Slicers are customizable and you can apply different color schemes and sizes to them, as we'll explain below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Make a Slicer in Microsoft Excel
 
  To start the slicer-making process, first, open your spreadsheet with Microsoft Excel. Then click the table in which you want to filter data using a slicer.
@@ -39,36 +43,37 @@ Related: [What Is a Slicer in Google Sheets, and How Do You Use It?](https://scr
 ![Select the "Insert" tab at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/1-excel-insert-tab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the "Insert" tab, in the "Filters" section, click "Slicer" to add a slicer.
 
 ![Choose "Slicer" on the "Insert" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2-add-slicer-excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll see an "Insert Slicers" window displaying your table's fields. Here, choose the fields which you want to filter using a slicer, then click "OK" at the bottom.
 
 ![Select fields and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/3-select-slicer-fields.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Excel will add a slicer for each selected field. To start filtering your data, select an option in one of these slicers and the data in your table will adjust accordingly.
 
  If you'd like to apply multiple filters in a single slicer, you can select multiple options by holding down the Ctrl (Windows) or Command (Mac) key.
 
 ![Filter data with slicers in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/4-filter-data-with-slicers-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  To reset a slicer's filter, then in that slicer's top-right corner, click the "Clear Filter" option.
 
 ![Select "Clear Filter" at the top-right corner of a slicer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/5-reset-slicer-filter-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  And that's it.
 
 ##  Customize a Slicer in Microsoft Excel
@@ -79,13 +84,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Access the "Slicer" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/6-excel-slicer-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll now find various options to change how your slicers look in your spreadsheet. For example, to change your slicer's color, you can pick a new color scheme from the "Slicer Styles" section.
 
 ![Choose a color from "Slicer Styles."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/7-change-slicer-color.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Similarly, to resize your slicer, you can use the "Height" and "Width" boxes at the top. Another way to resize a slicer is to click it and then drag its dot icons.
 
 ![Drag the corners to resize the slicer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/8-resize-slicer-excel.png) 
@@ -104,8 +113,6 @@ Related: [How to Sort and Filter Data in Excel](https://facebook-video-share.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +120,26 @@ Related: [How to Sort and Filter Data in Excel](https://facebook-video-share.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-access-hidden-social-media-recommendations/"><u>[New] 2024 Approved How to Access Hidden Social Media Recommendations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[New] In 2024, Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-audio-preservation-for-academics-on-apple-systems/"><u>[Updated] In 2024, Audio Preservation for Academics on Apple Systems</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/challenge-accepted-how-twitter-x-checkmarks-stack-up-and-chatgpts-biggest-flaws-uncovered-by-a-tech-visionary/"><u>Challenge Accepted: How Twitter X Checkmarks Stack Up and ChatGPT's Biggest Flaws Uncovered by a Tech Visionary</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970671670-compatible-with-windows-71011-get-brother-hl-2280dw-printer-software-here/"><u>Compatible with Windows 7/10/11 – Get Brother HL-2280DW Printer Software Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-hp-deskjet-ink-advantage-3755-all-in-one-driver-package-available-for-windows-1011-users/"><u>Complete HP Deskjet Ink Advantage 3755 All-in-One Driver Package Available for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-gameplay-enhancements-season-8s-frame-rate-improvements-revealed/"><u>Fortnite Gameplay Enhancements: Season 8'S Frame Rate Improvements Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977944762-free-download-and-installation-guide-for-dell-latitude-e6430-windows-drivers-problem-solved/"><u>Free Download and Installation Guide for Dell Latitude E6430 Windows Drivers - Problem Solved</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/guide-facile-pour-corriger-lerreur-bsod-0xc000021a-sous-windows-11/"><u>Guide Facile Pour Corriger L'erreur BSOD 0Xc000021a Sous Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-your-hp-docking-station-g2-running-downloads-of-firmware-and-software-for-120w-and-230w-models/"><u>How to Get Your HP Docking Station G2 Running: Downloads of Firmware & Software for 120W and 230W Models</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-laserjet-pro-mfp-m127fn-driver-download-best-practices-and-tips/"><u>HP LaserJet Pro MFP M127FN Driver Download: Best Practices and Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-hp-officejet-pro-8610-drivers-for-windows-operating-systems-11-8-7-and-xp-supported/"><u>Latest HP Officejet Pro 지속성 8610 Drivers for Windows Operating Systems: 11, 8, 7 & XP Supported</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-transformer-ape-en-une-solution-de-sauvegarde-numerique-gratuite-et-facile/"><u>Movavi : Transformer APE en Une Solution De Sauvegarde Numérique Gratuite Et Facile !</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamlessly-update-to-the-perfect-amd-driver-with-simple-one-click-solution/"><u>Seamlessly Update to the Perfect AMD Driver with Simple One-Click Solution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-process-acquire-and-set-up-newest-evga-drivers-in-windows-environment/"><u>Step-by-Step Process: Acquire & Set Up Newest EVGA Drivers in Windows Environment</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-on-installing-the-latest-logitech-m310-drivers/"><u>The Ultimate Tutorial on Installing the Latest Logitech M310 Drivers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-asus-rog-phone-7-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Asus ROG Phone 7 Android SIM Unlock APK</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

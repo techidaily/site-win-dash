@@ -1,7 +1,7 @@
 ---
 title: "Review: Lenovo ThinkPad Z13 Gen 2 with AMD - The New Epitome of Portability and Performance"
-date: 2024-08-28T01:30:52.265Z
-updated: 2024-08-29T01:30:52.265Z
+date: 2024-10-19T17:23:08.536Z
+updated: 2024-10-20T16:43:19.240Z
 tags:
   - windows
 categories:
@@ -139,8 +139,12 @@ Close
  The laptop's base houses the large 10keyless chiclet keyboard, which also includes a customizable TrackPoint button. The keyboard takes up about 60% of the surface area, and right below it is a 2.79 by 4.72-inch glass-surface touchpad.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Ports: Two Good Ones... and Nothing Else
 
  By way of ports, this Z13 doesn't offer much to write home about. However, the two ports included are USB4 with a 40Gbps speed. (In case you're unaware of [what USB4 is](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/), it's basically an upgraded version of a standard USB-C port, comparable to Thunderbolt 4, though in some arguments, USB-4 isn't _quite_ as good as this counterpart due to specific limitations).
@@ -152,6 +156,13 @@ Close
  The USB4 ports served me well for my purposes, but I was sorely missing a USB-A port, as many of my cables are USB-A. Yep, it's one of the most common [problems people face with a USB-C-only laptop](https://fox-links.techidaily.com/2024-approved-transform-your-smartphone-photography-with-iphones-hdr/). I had to use a USB-A to USB-C dongle to plug in devices like my Phillips digital recorder and, when I needed a posture change, my Bluetooth keyboard. If I were to buy the Z13 for myself, I would invest in a [USB-C hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/), which I should probably do anyway since this problem will never go away unless I switch out all my cables.
 
  I also had one tiny gripe worth mentioning—the power button below the USB4 port on the right side is tiny and relatively hard to push and hold down if you want to manually turn off the laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Inputs: The Keyboard, Touchpad, and Touchscreen
 
@@ -169,9 +180,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _BBC Earth_
@@ -186,19 +194,20 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  My model came with the AMD Ryzen 7 Pro 7840U processor, which handled many tasks with ease alongside the 32GB of RAM, but I found that the CPU commonly lacked the speeds I was hoping to find. Starting up the Z13 took longer than other similar ThinkPads and several product downloads took longer than I anticipated. This isn't to say the Z13 was slow by any means, but it wasn't as fast as other Lenovos I've worked with that also had 32GB of memory. For instance, the Z13 began to lag in speed when I had about 20 browser tabs open (with one playing a movie on Peacock), as well as a few office programs, the Xbox app, and the Microsoft store. I should note that you can upgrade the Z13's memory to 64GB, which would make the speed faster for multitasking purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Gaming Performance: Only Good for a Small Amount of Casual Gaming
 
@@ -223,22 +232,34 @@ Close
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### 
+
 ### 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-### 
 
 ##  Battery and Charging: Long-Lasting Battery Life
 
 ![The Lenovo Z13 Gen 2 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-lenovo-z13-gen-2-with-its-chargerjpg_53480870670_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  The battery life for the Z13 Gen 2 is sitting somewhere between average and above average, and it charges relatively fast, too, so if you're on the go, it's not a laptop that will drain so quickly you'll be plugging in every hour, but you will need to charge up at least once per day if you use it longer than three hours at a time. On average, the battery drained 0.38% every minute, or about 22.8% per hour (about 100% drain in two hours and 36 minutes. It charged up quickly, averaging 1.04% battery gain per minute, which equals a 62.4% charge in one hour.
@@ -246,9 +267,12 @@ Sergio Rodriguez / How-To Geek
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
@@ -261,9 +285,6 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -278,8 +299,6 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +306,20 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-instagram-magic-with-professional-edits/"><u>[New] Crafting Instagram Magic with Professional Edits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-charting-a-course-through-yts-creative-space/"><u>[Updated] Charting a Course Through YT's Creative Space</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-expert-tips-for-crafting-engaging-instagram-stories/"><u>[Updated] In 2024, Expert Tips for Crafting Engaging Instagram Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-edit-with-ease-embracing-smoothness-on-the-latest-chip-technology/"><u>2024 Approved Edit with Ease Embracing Smoothness on the Latest Chip Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-wf-2650-printer-driver-download-for-windows/"><u>Epson WF-2650 Printer Driver Download for Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-guide-choosing-and-downloading-high-quality-sound-drivers-for-win7/"><u>Expert Guide: Choosing & Downloading High-Quality Sound Drivers for Win7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-brio-webcam-software-downloads-supporting-windows-1187/"><u>Latest Logitech BRIO Webcam Software Downloads Supporting Windows 11/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-update-your-broadcom-ethernet-driver-on-windows-10-problems-solved/"><u>Step-by-Step Tutorial to Update Your Broadcom Ethernet Driver on Windows 10 - Problems Solved</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722964623440-successful-installation-of-mouse-drivers-on-windows-7-a-step-by-step-guide/"><u>Successful Installation of Mouse Drivers on Windows 7 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/symptomatic-vs-asymptomatic/"><u>Symptomatic vs Asymptomatic</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-downloads-of-hp-laserjet-1018-printer-software-and-firmware-updates/"><u>Ultimate Downloads of HP LaserJet #1018 Printer Software & Firmware Updates</u></a></li>
+<li><a href="https://article-tips.techidaily.com/wallet-friendly-action-cam-gems-under-100-budget-for-2024/"><u>Wallet-Friendly ACTION Cam Gems Under $100 Budget for 2024</u></a></li>
+</ul></div>
 

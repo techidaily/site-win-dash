@@ -1,7 +1,7 @@
 ---
 title: Moving On to Windows 11 but Can't Forget My Favorite Windows 10 Functions!
-date: 2024-08-28T01:31:29.285Z
-updated: 2024-08-29T01:31:29.285Z
+date: 2024-10-17T17:18:53.336Z
+updated: 2024-10-20T17:30:22.102Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ Lucas Gouveia / How-To Geek
 
 ![In your UEFI's "Security" menu, look for "TPM" and "Enabled."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/tpm_enabled.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benj Edwards / How-To Geek
 
  One of the things I had to do to even get Windows 11 to recognize my machine was to enable TPM 2.0 (which was disabled by default on my system). TPM 2.0 is supposed to [make the system more secure](https://support.microsoft.com/en-us/topic/what-is-tpm-705f241d-025d-4470-80c5-4feeb24fa1ee). I knew my chip (being a current-generation AMD Ryzen) had TPM 2.0 on it, I just had to find out [how to enable TPM 2.0 on a UEFI system.](https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-c12-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
@@ -35,13 +42,6 @@ Benj Edwards / How-To Geek
 
  The rest of the process was a lot easier once I got access to the BIOS, but even then, it took me a few tries to find the exact setting on my BIOS screen (since it was different from other walkthrough screens). After about an hour of fiddling, I finally got it sorted out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  Start Menu and Taskbar Layout Are Too Limited
 
 ![Taskbar Personalization Menu (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taskbar-personalization-menu-light.png) 
@@ -59,8 +59,12 @@ No advertising on the website.
 ![Windows 11 context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/context.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You know what makes me feel bad? Having to click twice on a pop-up menu to get a single thing done. It's a waste of time, and the truncated context menus in Windows 11 are good examples of this. I sort of see what Microsoft was going for here, based on the design, however.
 
  For most of Windows' history, designers have been torn between making a super-simplistic system for the non-tech-savvy and making a functional system for users who know what they're doing. Sadly, this design choice doesn't help either party. In fact, it makes the job of tech support people who have to walk people through things even more difficult.
@@ -68,8 +72,12 @@ No advertising on the website.
  Back in Windows 10, when you right-clicked a file, you got a simple drop-down menu that outlined _all_ your potential options. It was a context menu that actually gave you context. The new Windows 11 context menu hides context from the user, making it seem like they tried to please everyone and ended up pleasing no one. Luckily, there are [ways to restore the old context menu system in Windows 11](https://fox-boxes.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences-for-2024/), so it's not a dealbreaker.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Sorting Options Are All Wonky
 
 ![Sort By Options (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sort-by-options-light.png) 
@@ -80,16 +88,17 @@ No advertising on the website.
 
  Windows 11 has shifted its file arrangement system from something that almost anyone can use to something that even the most skilled power users have a hard time wrapping their heads around. On the bright side, once you set up a sorting schedule for a particular folder, it keeps that sorting. There are small wins here and there, at least.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The "Action Center" Is No More
 
 ![No Action Center (light)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/no-action-center-light.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Most Windows 10 users like myself have gotten used to the Action Center. Not only is it a good way to keep track of notifications from important applications, [but it is highly customizable](https://win-dash.techidaily.com/download-and-update-tp-link-usb-400-bluetooth-adapter-drivers-faster-pairing/). Windows 11 says we no longer need an Action Center and has tossed it out.
 
  Now, instead of easily being able to get to sound settings and wireless networks at a single click, we have to right-click and then open a new settings menu. What's worse, tablet users are going to have a really hard time getting to their settings now.
@@ -98,9 +107,6 @@ No advertising on the website.
 
 ![Laptop with Windows 10 on the left, and laptop with Windows 11 on the right, with an update icon in the center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/laptop-with-windows-10-on-the-left-and-laptop-with-windows-11-on-the-right-with-an-update-icon-in-the-center.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lucas Gouveia / Hannah Stryker / How-To Geek
 
  While I have a laundry list of issues with Windows 11, it's not a bad operating system. Windows 10 support is coming to an end, so upgrading to Windows 11 is going to be the only way to stay ahead in the security arms race. 
@@ -113,8 +119,6 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +126,22 @@ Lucas Gouveia / Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-restore-lost-facebook-watch-thumbnail/"><u>[New] Restore Lost Facebook Watch Thumbnail</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-standout-nintendo-switch-fighting-games-index-max-156/"><u>[Updated] 2024 Approved Standout Nintendo Switch Fighting Games Index (Max 156)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streaming-success-starts-here-your-channel-gear-guide/"><u>[Updated] 2024 Approved Streaming Success Starts Here Your Channel Gear Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-tiktok-macpc-interface-guide/"><u>[Updated] In 2024, Mastering TikTok Mac/PC Interface Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-gt-neo-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme GT Neo 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bluetooth-driver-solutions-for-a-smoother-windows-11-experience/"><u>Bluetooth Driver Solutions for a Smoother Windows 11 Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-display-screen-drivers-step-by-step-guide/"><u>Download and Update Lenovo Display Screen Drivers - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-official-logitech-g29-game-controller-software-for-various-versions-of-windows/"><u>Free Download: Official Logitech G29 Game Controller Software for Various Versions of Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-qualcomm-atheros-ar3011-bluetooth-30-driver-here-step-by-step-installation-guide-and-compatibility-tips/"><u>Get Your Free Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here: Step-by-Step Installation Guide and Compatibility Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola Moto G84 5G FRP?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-poco-m6-pro-4g-by-drfone-android/"><u>How to Bypass FRP from Poco M6 Pro 4G?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-set-up-epson-wf-series-drivers-on-windows-operating-systems-7-81-and-10/"><u>How to Download and Set Up Epson WF Series Drivers on Windows Operating Systems 7, 8.1 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolved-get-your-wireless-card-1535-drivers-downloaded-now/"><u>Resolved: Get Your Wireless Card 1535 Drivers Downloaded Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-7-superior-bots-for-twitch-channels/"><u>The Ultimate List: 7 Superior Bots for Twitch Channels</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Google Pixel 7a | Dr.fone</u></a></li>
+</ul></div>
 

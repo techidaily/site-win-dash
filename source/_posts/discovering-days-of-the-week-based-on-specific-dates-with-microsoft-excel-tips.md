@@ -1,7 +1,7 @@
 ---
 title: Discovering Days of the Week Based on Specific Dates with Microsoft Excel Tips
-date: 2024-08-28T01:34:10.575Z
-updated: 2024-08-29T01:34:10.575Z
+date: 2024-10-17T17:10:56.025Z
+updated: 2024-10-20T16:06:36.735Z
 tags:
   - excel
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  The third method re-formats your actual dates and displays them as the names of the day of week, like Sunday, Monday, and so on. If you use this method, you do not need a separate column to display the days, as your existing date is overwritten.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Find the Day of the Week as a Number
 
  To find the day of the week as a number, use Excel's `WEEKDAY` function as follows. The count starts from Sunday, where it is numbered 1\. However, you can make the [function](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) count from any chosen day (like Monday), as we'll explain below.
@@ -36,11 +43,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Select a cell in an Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-select-cell-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the selected cell, type the following `WEEKDAY` function and press Enter. In this function, replace `B2` with the cell where you have your date.
 
 =WEEKDAY(B2)
 
 ![Enter the WEEKDAY function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-enter-weekday-function.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you'd like to use the date directly in the function, type the following `WEEKDAY` function with your date in it and press Enter. Keep double quotes around your date.
 
@@ -48,25 +69,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Enter the WEEKDAY function with direct values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-direct-values-weekday-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And in the selected cell, you will see the day of the week for your date as a number.
 
 ![The result of the WEEKDAY function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-weekday-function-result.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To make the function count days so that Monday is number 1, modify the function as follows. The number `2` in the function argument tells it to start counting from Monday.
 
 =WEEKDAY(B2,2)
 
 ![Type the custom WEEKDAY function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-custom-weekday-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Here's how your result now looks like:
 
 ![The result of the custom WEEKDAY function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-custom-weekday-function-result.png) 
@@ -77,9 +96,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recording.techidaily.com/updated-2024-approved-economical-pc-playback-devices/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ##  Find the Day of the Week as a Name
 
  To display a date's day of the week as the day name, like Monday, use Excel's `TEXT` function. In this function, you tell Excel to [format your date](https://video-capture.techidaily.com/new-from-playback-to-printout-top-five-methods-of-documenting-minecraft-on-a-mac-for-2024/) in the day format. You can choose the shortened day name (like Mon) or full day name (like Monday).
@@ -88,9 +104,6 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
 
 ![Click a cell in an Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/8-choose-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the selected cell, type the following `TEXT` function and press Enter. In this function, replace `B2` with the cell where your date is.
 
 =TEXT(B2,"dddd")
@@ -104,15 +117,16 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
 ![Type the custom TEXT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-custom-text-function.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And you now have the shortened day name in your selected cell.
 
 ![The result of the custom TEXT function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/11-text-function-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Depending on how you like to style your sheets, you may want to [format your dates using periods in Excel](https://youtube-videos.techidaily.com/diy-delights-in-motion-personalized-animation-artistry-for-2024/).
 
 ##  Convert Dates to Days of the Week
@@ -123,31 +137,42 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
 
 ![Select the date cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/12-select-dates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In [Excel's ribbon at the top](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-play-40c-to-mac-drfone-by-drfone-android/), click the "Home" tab.
 
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/13-excel-home-tab.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the "Home" tab, from the "Number" section, select "Number Format" (an arrow icon).
 
 ![Select &quot;Number Format&quot; in the &quot;Home&quot; tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/14-excel-number-format.png) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A "Format Cells" window will open. On this window, from the "Category" list on the left, select "Custom."
 
 ![Select &quot;Custom&quot; on the &quot;Format Cells&quot; window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/15-custom-number-format.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the right, click the "Type" box and enter "dddd" (without quotes) for full day names (like Monday) or "ddd" for shortened day names (like Mon). Then, at the bottom, click "OK."
 
 ![Specify the date format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/16-enter-number-format.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Excel will turn your selected dates into days of the week.
 
 ![Dates turned into days of week.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/17-number-format-result.png) 
@@ -166,8 +191,6 @@ Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidai
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +198,24 @@ Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-guide-to-saving-instagram-videos-with-maximum-convenience/"><u>[New] In 2024, Guide to Saving Instagram Videos with Maximum Convenience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-equipment-guide-for-dynamic-documentary-making/"><u>[Updated] 2024 Approved Equipment Guide for Dynamic Documentary Making</u></a></li>
+<li><a href="https://win-dash.techidaily.com/access-new-and-updated-finger-printer-driver-software-for-windows-download-here/"><u>Access New and Updated Finger Printer Driver Software for Windows - Download Here!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ambient-weather-ws-2902a-osprey-review/"><u>Ambient Weather WS-2902A Osprey Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/asf-mp4-asf-mpg/"><u>ASF 파일에서 MP4로의 제공: 가상화, 영화 및 사운드 크리티비저 원활한 이동 - 무료 온라인 ASF MPG 변환기</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-life-into-your-old-videos-using-madvr-in-the-windows-sphere/"><u>Breathe Life Into Your Old Videos: Using MadVR in the Windows Sphere</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-these-16-great-resources-for-free-asl-practice-and-study/"><u>Discover These 16 Great Resources for FREE ASL Practice & Study</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-way-to-get-toshiba-printer-drivers-set-up-in-windows-os/"><u>Easy Way to Get Toshiba Printer Drivers Set Up in Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-sm-bus-controller-software-compatible-with-windows-11-10-8-and-7/"><u>Free SM Bus Controller Software: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-best-sound-experience-steelseries-arctis-5-driver-guide-and-download/"><u>Get the Best Sound Experience: SteelSeries Arctis 5 Driver Guide and Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-brother-hl-2280dw-printer-software-on-your-pc-with-windows-11-10-8-or-7/"><u>How to Get Brother HL 2280DW Printer Software on Your PC with Windows 11, 10, 8 or 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-amd-blockchain-driver-for-your-pc-step-by-step-instructions/"><u>How to Get the Latest AMD Blockchain Driver for Your PC: Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-masterful-techniques-for-editing-podcasts-in-garageband/"><u>In 2024, Unleash Creativity Masterful Techniques for Editing Podcasts in GarageBand</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-your-beats-audio-drivers/"><u>Step-by-Step Guide: Installing Your Beats Audio Drivers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/time-saving-titans-the-8-cutting-edge-schedulers-reviewed-for-2024/"><u>Time-Saving Titans The 8 Cutting-Edge Schedulers Reviewed for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-finding-and-downloading-epson-wf-7710-printer-drivers-for-windows-10-8x-and-earlier-versions/"><u>Ultimate Guide to Finding & Downloading Epson WF-7710 Printer Drivers for Windows 10, 8.x & Earlier Versions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-visual-treasures-without-cost/"><u>Unlocking Visual Treasures Without Cost</u></a></li>
+</ul></div>
 

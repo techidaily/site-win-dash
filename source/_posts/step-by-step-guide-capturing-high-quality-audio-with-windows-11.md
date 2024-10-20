@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing High-Quality Audio with Windows 11"
-date: 2024-08-28T01:31:48.292Z
-updated: 2024-08-29T01:31:48.292Z
+date: 2024-10-15T18:42:52.509Z
+updated: 2024-10-20T18:37:31.824Z
 tags:
   - windows
 categories:
@@ -16,6 +16,19 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 * [Using the Built-In Sound Recorder App](https://tech-haven.techidaily.com/politeness-protocols-for-conversing-with-ai-personalities-like-chatgpt-amazon-alexa-and-apples-siri/)
 * [With Audacity - A Free and Open-Source App](https://some-tips.techidaily.com/in-2024-top-trending-images-tales-behind-the-graphics/)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * For simple audio recording, open the Start Menu, search for Sound Recorder, launch the app, click the Record button, and start speaking into the mic.
@@ -23,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  Whether you want to record a small voice note or an entire song, it's possible to do it using built-in or third-party apps on Windows 11\. We'll show you how to do that. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ##  Using the Built-In Sound Recorder App
 
  If you aren’t looking for features like multi-track recording and editing options, [Windows 11’s Sound Recorder app is the best way to record the audio](https://fox-access.techidaily.com/2024-approved-explore-top-5-apps-combining-photography-and-soundscape/) on your PC. The app supports multiple audio formats and quality options.
@@ -38,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![Mic options highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-choose-mic-sound-recorder.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’re now ready to begin recording your audio. To do that, either select the Start Recording button (the large circle-shaped button) or press Ctrl+R.
 
 ![The Start Recording button highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-start-recording-sound-recorder.jpg) 
@@ -48,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 ![Pause and Stop buttons highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-pause-stop-recording-sound-recorder.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Sound Recorder will save the recording and display it in the left sidebar. To play the recording, select it in the left sidebar and click the Play button or press Spacebar.
 
 ![A recording and the Play button highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-play-recording-sound-recorder.jpg) 
@@ -64,27 +77,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![A recording file highlighted in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-sound-recorder-audio-file.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  By default, Sound Recorder saves recordings in the [M4A](https://eaxpv-info.techidaily.com/new-gastronomy-gurus-essential-chefs-to-subscribe-to-for-2024/) format. If you want to change this to a more popular format like [MP3](https://instagram-video-recordings.techidaily.com/updated-in-2024-turning-insta-vids-into-music-your-complete-guide/), in the app’s top-right corner, click the three dots and choose "Settings."
 
 ![The three-dots and 'Settings' highlighted in Sound Recorder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-sound-recorder-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the Recording section, click "Recording Format." Select the format you’d like to use.
 
 ![Audio formats highlighted in Sound Recorder's Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-sound-recorder-audio-format.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to change the recording quality, select the "Audio Quality" section. Choose the quality you’d like the app to use for the recordings.
 
  The higher the audio quality, the larger the audio file size.
@@ -92,6 +106,13 @@ No advertising on the website.
 ![Audio quality options highlighted in Sound Recorder's Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-sound-recorder-audio-quality.jpg) 
 
  Sound Recorder automatically saves your changes, so you don’t have to click any buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  With Audacity - A Free and Open-Source App
 
@@ -103,27 +124,14 @@ No advertising on the website.
 
 ![A mic highlighted in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-audacity-choose-mic.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  To start recording, click Record (a red button) on the top toolbar, or press the R key.
 
 ![The Record button highlighted in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-audacity-start-recording.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Audacity is now listening, so speak into your mic. If you wish to pause the recording, click the Pause button or press P. To stop the recording, click the Stop button.
 
 ![Pause and Stop buttons highlighted in Audacity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-audacity-pause-stop-recording.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Unlike Sound Recorder, Audacity doesn’t save recordings automatically. You have two ways to save your recorded audio in the app.
 
  The first way is to save your entire Audacity audio project. This retains any edits you’ve made to your recorded audio. To do this, from the app’s menu bar, select File > Save Project > Save Project. Later, you can open this project and resume your editing.
@@ -131,6 +139,19 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  If you only wish to save your recording, from the menu bar, select File > Export Audio.
 
 !['Export Audio' highlighted in Audacity's 'File' menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-audacity-export-audio.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Export Audio window, click "Browse" and choose the location and the file name for the audio file. Click the "Format" drop-down menu and choose your preferred audio format for the file. You should choose MP3 if you’re unsure what to select, as this format plays on nearly all devices. 
 
@@ -148,8 +169,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +176,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-quick-alteration-youtube-vids-fit-mac-displays/"><u>[Updated] In 2024, Quick Alteration YouTube Vids Fit Mac Displays</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-apeak-captures-attention-an-in-depth-screen-recorder-examination/"><u>2024 Approved Apeak Captures Attention An In-Depth Screen Recorder Examination</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-hd-driver-update-fresh-release-for-windows-users-to-download-now/"><u>AMD Radeon HD Driver Update – Fresh Release for Windows Users to Download Now</u></a></li>
+<li><a href="https://fox-http.techidaily.com/comparing-magix-music-maker-and-studio-max/"><u>Comparing Magix Music Maker and Studio Max</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-tutorial-finding-and-installing-the-latest-acer-aspire-drivers-in-windows/"><u>Complete Tutorial: Finding and Installing the Latest Acer Aspire Drivers in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-best-intel-and-wi-fi-chip-drivers-to-optimize-internet-speed-on-windows-11-10-and-7-systems/"><u>Download the Best Intel and Wi-Fi Chip Drivers to Optimize Internet Speed on Windows 11, 10 & 7 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-drivers-for-your-hp-elitebook-x360-1030-g2/"><u>Get the Newest Drivers for Your HP EliteBook X360 (1030 G2)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo/"><u>In 2024, Efficient Video Editing Learn the Ultimate Online Ways to Shorten & Slice on Vimeo</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone X? Heres the Best Fixes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-download-acer-wireless-adapter-bluetooth-drivers-fast-and-simple/"><u>Instant Download: Acer Wireless Adapter Bluetooth Drivers - Fast and Simple</u></a></li>
+<li><a href="https://video-capture.techidaily.com/peeling-away-at-sharex-comparative-views-and-substitutes-for-2024/"><u>Peeling Away at ShareX Comparative Views & Substitutes for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles/"><u>Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-graphics-experience-on-windows-11-nvidia-rtx-2060-super-drivers-downloads/"><u>Upgrade Graphics Experience on Windows 11: NVIDIA RTX 2060 Super Drivers Downloads</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Calculations: Learn How to Easily Add Values Using Microsoft Excel"
-date: 2024-08-28T01:34:14.433Z
-updated: 2024-08-29T01:34:14.433Z
+date: 2024-10-14T17:52:17.439Z
+updated: 2024-10-20T17:42:36.622Z
 tags:
   - excel
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How Addition Works in Excel
 
  In Excel, you have multiple ways to add numbers. The most basic method is to use **the plus (+) sign**. With this, you specify the numbers you want to add before and after the plus sign, and Excel adds those numbers for you.
@@ -30,10 +37,6 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
  The third and the most used method to add numbers in Excel is the **SUM function**. With this function, you specify in a formula the cell ranges that you want to add and Excel calculates the sum of those numbers for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ##  How to Add Numbers Using the Plus Sign
 
  To add numbers using the plus (+) sign, first, click the cell in which you want to display the result.
@@ -44,9 +47,6 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
 ![Type a number, the plus sign, and then another number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/1-manually-add-numbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press Enter and Excel will add the numbers and display the result in your selected cell.
 
 ![Press Enter to add numbers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2-add-numbers-result.png) 
@@ -57,9 +57,6 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
 ![Click the C5 cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-select-c5-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the C5 cell, we'll type this formula and then press Enter:
 
 =C2+C3
@@ -70,10 +67,6 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
 ![Numbers added with cell references.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/5-cell-reference-answer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  You're all set.
 
 ##  How to Add Numbers Using AutoSum
@@ -85,26 +78,54 @@ The ultimate burning program for all your needs!</a>
 ![Click the C8 cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-select-c8-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In Excel's ribbon at the top, click the "Home" tab. Then, in the "Editing" section on the right, click the "AutoSum" icon.
 
 ![Click "AutoSum" in the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-select-autosum.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Excel will automatically select your number range and highlight it. To perform the sum of these numbers, press Enter on your keyboard.
 
 ![Press Enter to see the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/8-automatically-selected-range.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's it. You now have your answer in the C8 cell.
 
 ![AutoSum result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-autosum-result.png) 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another trick for automatically completing spreadsheets is [using the Auto Fill tool](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/).
 
 Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Add Numbers Using the SUM Function
 
@@ -114,15 +135,19 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![Click the C8 cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/10-click-c8-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the C8 cell (or any other cell you have chosen to display the answer in), type the following formula. This formula adds the numbers in the cells between C2 and C6, with both of those cells included. Feel free to change this range to accommodate your numbers range.
 
 =SUM(C2:C6)
 
 ![Enter the SUM function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-enter-sum-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press Enter to see the result in your cell.
 
 ![The result of the SUM function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/12-sum-function-result.png) 
@@ -137,8 +162,6 @@ Related: [How to Subtract Numbers in Microsoft Excel](https://ios-unlock.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +169,22 @@ Related: [How to Subtract Numbers in Microsoft Excel](https://ios-unlock.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-steps-for-filming-using-logitech-webcam/"><u>[New] In 2024, Essential Steps for Filming Using Logitech Webcam</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/aomei-backupper-top-free-hdd-clone-and-data-recovery-tool/"><u>AOMEI Backupper: Top Free HDD Clone & Data Recovery Tool</u></a></li>
+<li><a href="https://win-dash.techidaily.com/decode-and-correct-issues-with-your-windows-asterisk7s-network-card-drivers/"><u>Decode and Correct Issues with Your Windows Asterisk7's Network Card Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-your-windows-sm-bus-controller-drivers-supported-on-windows-11-10-and-earlier-editions/"><u>Download Your Window's SM Bus Controller Drivers - Supported on Windows 11, 10, and Earlier Editions</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-5-240w-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT 5 (240W) Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/in-series-configurations-pumps-work-against-higher-system-resistance-leading-to-an-increased-head-while-maintaining-a-consistent-flow-rate/"><u>In Series Configurations, Pumps Work Against Higher System Resistance, Leading to an Increased Head While Maintaining a Consistent Flow Rate.</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-user-authentication-management-for-domains-in-w11/"><u>Perfecting User Authentication Management for Domains in W11</u></a></li>
+<li><a href="https://article-files.techidaily.com/premier-sound-pivot-for-podcast-masters/"><u>Premier Sound Pivot for Podcast Masters</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-to-updating-microsoft-sculpt-ergonomic-keyboard-drivers/"><u>Simple Guide to Updating Microsoft Sculpt Ergonomic Keyboard Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-the-intel-centrino-advantage-n-6235-chipset-drivers/"><u>Step-by-Step Guide: Updating the Intel Centrino Advantage-N 6235 Chipset Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-process-how-to-get-latest-d-link-drivers-on-windows-systems/"><u>Step-by-Step Process: How to Get Latest D-Link Drivers on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-dispelling-net-core-error-messages-windows/"><u>Steps for Dispelling '.NET Core' Error Messages Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-lenovo-docking-station-a-step-by-step-guide/"><u>Update Your Lenovo Docking Station: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-worlds-on-the-move-best-smartphone-compatible-vr-gear/"><u>Virtual Worlds on the Move Best Smartphone-Compatible VR Gear</u></a></li>
+</ul></div>
 

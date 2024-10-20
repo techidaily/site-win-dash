@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Snipping Tool不具合解決策：スクリーンショット・ビデオキャプチャ方法
-date: 2024-10-14T02:52:26.781Z
-updated: 2024-10-14T19:04:24.927Z
+date: 2024-10-16T18:28:25.568Z
+updated: 2024-10-20T17:11:22.135Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec34c261fc2115b1bb0464ace8.jpg
@@ -44,47 +44,19 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
 
 ![Remove Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-2.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Way 2:** Click “Parameter settings” below the output format. Navigate to the “Volume” option and move the slider towards the left to “0%”. Then, press “OK” to save the change. Doing so will mute all the videos you import into the software.
 
 ![Mute the Volume](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-3.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** Adjust other video and audio options based on needs. Finally, click “Run” to export the final videos without sound. When the process is done, you can check the resulting files in the output folder.
 
 ![Export Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-4.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Versatile Audio Remover App for PC
 
@@ -122,15 +94,22 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 4\. Go to Share > File to export your video.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Mute a Video on iPhone and Android?
 
 Here, we provide two ways to remove audio from a video on your Android or iOS device: Google Photos and InShot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### • Google Photos
 
@@ -144,6 +123,13 @@ How to mute audio in a video in Google Photos:
 **Step 4.** You can do additional edits like cropping and adjusting the video. Then, press “Save copy” to save the video without audio.
 
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### • InShot
 
@@ -174,6 +160,13 @@ Many online video editors can help you remove background sound from a video. How
 
 ## 4 Common Ways to Mute a Video
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### • Clipchamp
 
 Clipchamp is a free non-linear video editor that allows users to mute, trim, combine, add stickers and effects to videos, etc. It makes video creation easy for everyone, even those without prior experience. You can get started with Clipchamp in the browser instantly, download the Windows app, or create on the go with your mobile.
@@ -181,6 +174,13 @@ Clipchamp is a free non-linear video editor that allows users to mute, trim, com
 → Learn [how to detach audio from video with Clipchamp](https://clipchamp.com/en/blog/separate-audio-video/) 
 
 ![Clipchamp Mute Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-9.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### • Adobe Premiere Pro
 
@@ -208,10 +208,10 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remove Audio from Video FAQs
@@ -219,6 +219,13 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 ### Q1\. Can I remove the audio from an iPhone video?
 
 Yes. There are many ways to [remove sound from iPhone videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), such as using the Photos app, iMovie, an online video editor, or a third-party audio remover.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q2\. How do I remove a specific audio track from a video?
 
@@ -230,10 +237,10 @@ Firstly, import your video into the editing software and separate the audio from
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q3\. How to mute a video on different apps?
@@ -264,13 +271,6 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -286,22 +286,22 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-a-step-by-step-approach-to-yt-channel-descriptors/"><u>[Updated] 2024 Approved A Step-by-Step Approach to YT Channel Descriptors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-winning-at-love-one-swipe-at-a-time-top-tips-for-bold-biographies-for-2024/"><u>[Updated] Winning at Love, One Swipe at a Time Top Tips for Bold Biographies for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/windows-10-m4a-mp3/"><u>無料ツールを使って Windows 10 で M4A ファイルを MP3 へ簡単変換する手順</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-and-effective-methods-to-upgrade-drivers-on-your-hp-envy-5660-laptop/"><u>Easy and Effective Methods to Upgrade Drivers on Your HP Envy 5660 Laptop</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-and-secure-installation-of-amd-ryzen-cpu-drivers-step-by-step-guide/"><u>Easy and Secure Installation of AMD Ryzen CPU Drivers - Step by Step Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-installing-sound-blaster-z-drivers-for-win10/"><u>Easy Guide to Downloading and Installing Sound Blaster Z Drivers for Win10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-a-faulty-windows-11-start-menu-dysfunction/"><u>Effective Remedies for A Faulty Windows 11 Start Menu Dysfunction</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-pci-hardware-driver-downloads-compatible-with-windows-111087/"><u>Free PCI Hardware Driver Downloads Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/full-rotational-rigging-solutions/"><u>Full-Rotational Rigging Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-new-hp-printer-drivers-for-a-seamless-windows-11-experience/"><u>Getting New HP Printer Drivers for a Seamless Windows 11 Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-successfully-connecting-arduino-to-windows-via-proper-drivers/"><u>Guide: Successfully Connecting Arduino to Windows via Proper Drivers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>In 2024, Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/lenovo-x1-carbon-compatible-drivers-for-windows-10-and-7-simple-steps-to-download/"><u>Lenovo X1 Carbon - Compatible Drivers for Windows 10 and 7: Simple Steps to Download</u></a></li>
-<li><a href="https://win-able.techidaily.com/play-and-conquer-a-comprehensive-walkthrough-of-roller-champions-crossplayer-feature-for-pc/"><u>Play and Conquer: A Comprehensive Walkthrough of Roller Champions' Crossplayer Feature for PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simplify-your-connection-a-comprehensive-guide-to-ralink-drivers-download-and-enhancement-on-windows/"><u>Simplify Your Connection: A Comprehensive Guide to Ralink Drivers Download and Enhancement on Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-swift-and-effortless-bcm20702a0-downloads-for-windows/"><u>Step-by-Step Guide: Swift and Effortless BCM20702A0 Downloads for Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-livescreen-capture-halt-guidebook/"><u>[New] In 2024, LiveScreen Capture Halt Guidebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-transforming-plain-words-into-3d-marvels-ps-guide-for-2024/"><u>[New] Transforming Plain Words Into 3D Marvels PS Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/best-techniques-for-downloading-your-favorite-shows-from-comedy-central/"><u>Best Techniques for Downloading Your Favorite Shows From Comedy Central</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-for-corsair-k70-essential-driver-pack-available-now/"><u>Download & Install for Corsair K70 – Essential Driver Pack Available Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-intel-hd-graphics-4400-driver-free-download/"><u>Get the Latest Intel HD Graphics 4400 Driver - Free Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-mpow-bluetooth-driver-versions-compatible-with-windows-systems/"><u>Get the Newest MPOW Bluetooth Driver Versions Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-color-laserjet-pro-m477-support-free-downloads-of-the-latest-printer-drivers/"><u>HP Color LaserJet Pro M477 Support - Free Downloads of the Latest Printer Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-a70-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel A70 without App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oneplus-nord-n30-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do OnePlus Nord N30 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-11-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme 11 5G Phone that is Locked?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-and-update-amd-radeon-hd-grove-7870-graphics-card-drivers-compatible-with-windows-11/"><u>Install and Update: AMD Radeon HD Grove 7870 Graphics Card Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-mastering-audio-extraction-removing-sound-tracks-from-video-on-ios-devices/"><u>New In 2024, Mastering Audio Extraction Removing Sound Tracks From Video on iOS Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-synthesizing-soundscapes-the-top-10-music-manipulation-software-for-windows-and-mac-in-the-year-2024/"><u>New Synthesizing Soundscapes The Top 10 Music Manipulation Software for Windows & Mac in the Year 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975438225-secure-and-fast-internet-with-new-gigabyte-ethernet-driver-download-now/"><u>Secure and Fast Internet with New Gigabyte Ethernet Driver - Download Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-overcoming-lenovo-usb-recognition-issues/"><u>Step-by-Step Guide to Overcoming Lenovo USB Recognition Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-pcs-bluetooth-connectivity-download-microsoft-drivers-for-win-1187/"><u>Update Your PC's Bluetooth Connectivity - Download Microsoft Drivers for Win 11/8/7</u></a></li>
 </ul></div>
 

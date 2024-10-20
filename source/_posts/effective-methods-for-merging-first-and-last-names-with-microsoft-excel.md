@@ -1,7 +1,7 @@
 ---
 title: Effective Methods for Merging First & Last Names with Microsoft Excel
-date: 2024-08-28T01:33:04.486Z
-updated: 2024-08-29T01:33:04.486Z
+date: 2024-10-15T17:53:31.931Z
+updated: 2024-10-20T16:40:17.359Z
 tags:
   - excel
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Do you want to bring the first and last names that are in [separate cells into a single cell](https://facebook-clips.techidaily.com/new-elevate-your-facebook-profile-with-these-11-superior-tools/)? Combining text is easy in Excel, and we'll show you five different ways to combine names.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 1: Use Flash Fill
 
 [Flash Fill is an Excel feature](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/) that automatically fills your cells by recognizing the fill pattern. You manually fill a cell with the kind of data you want, and the feature senses that data and fills all your selected cells accordingly. No formula is necessary with Flash Fill.
@@ -36,15 +43,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Manually enter the first and last name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/5-manually-merge-name.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Go down a row and start typing the first and last name for your second record. As soon as you begin typing, Flash Fill will sense the pattern and fill all your records in gray color. To confirm you want these cells filled, press Enter on your keyboard.
 
 ![Press Enter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/6-flash-fill-auto-complete.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  If a Flash Fill prompt doesn't appear, use the Ctrl+E shortcut to force a Flash Fill.
 
  And that's it. [Excel has automatically merged](https://extra-approaches.techidaily.com/new-meme-creation-at-its-peak-10-templates-unveiled/) the first and last names for all your records.
@@ -52,11 +60,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Merged first and last names.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/7-flash-fill-merged-names.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Method 2: Use the & (Ampersand) Symbol
 
  If you prefer to use an [Excel formula](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) to combine names, a simple method for [bringing multiple cells' content into a single cell](https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/) is to use the `&` (ampersand) operator. This operator combines the content of your specified cells, allowing you to merge all the cell data you want.
@@ -75,10 +91,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Combined names.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/2-enter-combine-name-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  To [copy this formula for all your records](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/), from the bottom-right corner of the cell where you've entered the formula, click and drag downwards covering all your records.
 
  If you have a middle name or initial in a separate column and you'd like to merge that as well, add that cell as an argument to the formula. Here, we'll combine the contents of the cell `B2` , `C2` , and `D2` (in that order), with each cell content separated by a space.
@@ -91,9 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Method 3: Use the CONCAT Function
 
  Excel's `CONCAT` function works just like the `&` operator and lets you combine multiple cells' content into a single cell. Using a function instead of an operator can sometimes make your formula easier for others to read and understand.
@@ -101,6 +110,13 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
  To merge your first and last names with `CONCAT`, in your spreadsheet, select the cell where you'd like to see the combined names.
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/3-merge-names-choose-cell.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the selected cell, enter the following function and press Enter. In this function, replace `B2` with your cell that has the first name and `C2` with the cell that contains the last name. Note that we've separated the first and the last name with a space in this function.
 
@@ -111,8 +127,12 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 ![Merged name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/4-excel-concat-function.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you'd like to merge the middle name or initial as well, use the function as follows. Here, `C2` denotes the middle name cell, while `D2` contains the last name.
 
 =CONCAT(B2," ",C2," ",D2)
@@ -137,9 +157,6 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 
 =TEXTJOIN(" ",FALSE,B2,C2,D2)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Method 5: Use Power Query
 
  Power Query is an Excel feature that helps you [combine data from multiple](https://youtube-zero.techidaily.com/024-approved-stepwise-strategy-for-transforming-your-youtube-videos-with-imovie/) worksheets and workbooks. You can use this option to merge your columns as well.
@@ -148,13 +165,23 @@ Related: [How to Merge Two Columns in Microsoft Excel](https://location-social.t
 
 ![Choose Data > From Table/Range.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/9-excel-data-from-table-range.png) 
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Create Table" box, ensure the correct dataset range is specified. If your dataset has column headers, enable the "My Table Has Headers" option. Then, select "OK."
 
 ![Verify the data range and select "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/10-excel-create-table.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  A "Power Query Editor" window will open. Here, hold down Ctrl (Windows) or Command (Mac) key and select your first name and last name columns. Then, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) either column and choose "Merge Columns."
 
 ![Select "Merge Columns" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/11-excel-merge-columns.png) 
@@ -181,8 +208,6 @@ Related: [How to Combine Data From Spreadsheets in Microsoft Excel](https://extr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +215,26 @@ Related: [How to Combine Data From Spreadsheets in Microsoft Excel](https://extr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-emulated-game-boy-advance-games-a-comprehensive-guide-for-pc-users/"><u>[New] 2024 Approved Top 5 Emulated Game Boy Advance Games - A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-enhancing-follows-into-genuine-subscriptions/"><u>[New] In 2024, Enhancing Follows Into Genuine Subscriptions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-journey-to-jewels-5-optimal-terrafirma-mapping-for-2024/"><u>[New] Journey to Jewels 5 Optimal Terrafirma Mapping for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-decoding-the-art-of-youtube-playlist-recalibration/"><u>[Updated] Decoding the Art of YouTube Playlist Recalibration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-scribbles-to-spectacle-personalized-effect-crafting-for-2024/"><u>[Updated] From Scribbles to Spectacle Personalized Effect Crafting for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-experts-guide-to-live-classroom-capturing-via-macos/"><u>[Updated] The Expert's Guide to Live Classroom Capturing via MacOS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-resolve-common-problems-with-i2c-human-interface-device-drivers/"><u>Easy Steps to Resolve Common Problems with I2C Human Interface Device Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722957432894-get-the-newest-brother-mfc-7360n-driver-update-smooth-setup-on-windows-1087/"><u>Get the Newest Brother MFC-7360N Driver Update – Smooth Setup on Windows 10/8/7!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-hp-officejet-5740-drivers-windows-11108-compatible/"><u>Get the Newest HP OfficeJet 5740 Drivers: Windows 11/10/8 Compatible</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-launch-issues-resolved-start-playing-today/"><u>Immortals Fenyx Rising Launch Issues Resolved – Start Playing Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-8-hd-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 8 HD to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/incorrect-smiling-the-rain-started-to-fall-on-her-as-she-opened-her-red-umbrella-this-incorrectly-suggests-that-the-rain-is-smiling/"><u>Incorrect: Smiling, the Rain Started to Fall on Her as She Opened Her Red Umbrella. (This Incorrectly Suggests that the Rain Is Smiling.)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-x220-essential-drivers-download-and-installation-made-easy/"><u>Lenovo X220 Essential Drivers - Download & Installation Made Easy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g2ntn-mouse-driver-download-for-windows-78110-and-11/"><u>Logitech G2n_TN Mouse Driver Download for Windows 7/8.1/10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/method-for-publicizing-your-interactions-with-ai-chatgpt/"><u>Method for Publicizing Your Interactions With AI - ChatGPT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-the-financial-aspects-of-youtube-success-for-2024/"><u>Navigating the Financial Aspects of YouTube Success for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-installing-and-updating-scansnap-ix500-drivers-on-your-pc/"><u>Simple Guide: Installing & Updating ScanSnap iX500 Drivers on Your PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/smooth-and-swift-samsung-c460-printer-driver-download-process/"><u>Smooth and Swift Samsung C460 Printer Driver Download Process</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-fixing-hp-envy-4520-printer-connection-in-windows/"><u>Step-by-Step Guide to Fixing HP Envy 4520 Printer Connection in Windows</u></a></li>
+</ul></div>
 

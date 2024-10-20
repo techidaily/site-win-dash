@@ -1,7 +1,7 @@
 ---
 title: "Protecting Sensitive Data: Learn How to Lock Down Documents and PDFs in MS Office Suite"
-date: 2024-08-28T01:33:41.822Z
-updated: 2024-08-29T01:33:41.822Z
+date: 2024-10-13T17:38:11.914Z
+updated: 2024-10-20T17:48:24.385Z
 tags:
   - excel
 categories:
@@ -35,9 +35,6 @@ Related: [How to Enable Full-Disk Encryption on Windows 10](https://fox-cloud.te
 
  But, as long as you're saving your files in modern Office formats and using the "Encrypt with Password" option instead of the "Restrict Editing" option, your documents should be secure.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Password Protect an Office Document
 
  To password protect an Office document, first open it in Word, Excel, PowerPoint, or Access. Click the "File" menu at the top-left corner of the screen. On the Info pane, click the "Protect Document" button and select "Encrypt with Password."
@@ -49,8 +46,12 @@ Related: [How to Enable Full-Disk Encryption on Windows 10](https://fox-cloud.te
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/04/img_57219a5ff220e.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Related: [How to Create a Strong Password (and Remember It)](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) 
 
  Enter the password you want to encrypt the document with. You'll want to [choose a good password](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/) here. Weak passwords can be easily guessed by cracking software if someone gains access to the document.
@@ -65,14 +66,15 @@ Related: [How to Create a Strong Password (and Remember It)](https://extra-hints
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/04/img_57219aa6b6974.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To remove the password protection from a document, click the "Protect Document" button and select "Encrypt with Password" again. Enter a blank password and click "OK." Office will remove the password from the document.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Create a Password Protected PDF File
 
  You can also export an Office document to a PDF file and password protect that PDF file. The PDF document will be encrypted with the password you provide. This works in Microsoft Word but not Excel, for some reason.
@@ -85,9 +87,6 @@ Related: [How to Create a Strong Password (and Remember It)](https://extra-hints
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/04/img_57219acfed94d.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  Enter the password you want to encrypt the PDF file with and then click "OK."
 
  When you're done, enter a name for the PDF file and click the "Publish" button. Office will export the document to a password-protected PDF file.
@@ -96,13 +95,24 @@ Related: [How to Create a Strong Password (and Remember It)](https://extra-hints
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/04/img_57219ae5ca340.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll have to enter the PDF file's password when you open it. For example, if you open the PDF file in Microsoft Edge--Windows 10's default PDF viewer--you'll be asked to enter the password before you can view it. This also works in other PDF readers.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/04/img_57219af5561af.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
  This feature can help protect particularly sensitive documents, especially when you store them on a USB drive or in an online storage service like Microsoft OneDrive.
@@ -115,8 +125,6 @@ Related: [How to Create a Strong Password (and Remember It)](https://extra-hints
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +132,23 @@ Related: [How to Create a Strong Password (and Remember It)](https://extra-hints
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-picks-for-gameplay-footage/"><u>[New] 2024 Approved The Ultimate Picks for Gameplay Footage</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>[New] 2024 Approved Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-freeze-time-like-never-before-on-the-newest-mi-phone/"><u>[Updated] 2024 Approved Freeze Time Like Never Before on the Newest Mi Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pin-to-play-the-ultimate-free-pinterest-video-download-guide/"><u>2024 Approved Pin-to-Play The Ultimate Free Pinterest Video Download Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/cmv-transmission/"><u>CMV Transmission</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ion-decoded-a-guide-to-editing-youtube-videos-for-2024/"><u>Duration Decoded A Guide to Editing YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-upgrade-your-canon-mp560-printing-drivers/"><u>Easy Steps to Download & Upgrade Your Canon MP560 Printing Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-synaptic-touchpad-software-upgrades-and-downloads/"><u>Effortless Synaptic Touchpad Software Upgrades and Downloads</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhance-your-productivity-on-the-go-with-sabrents-travel-ready-highly-accurate-wireless-mouse/"><u>Enhance Your Productivity on the Go with Sabrent's Travel-Ready, Highly Accurate Wireless Mouse</u></a></li>
+<li><a href="https://win-dash.techidaily.com/game-on-like-never-before-get-the-new-driver-update-for-your-nvidia-geforce-rtx-2080-ti-today/"><u>Game On Like Never Before - Get the New Driver Update for Your NVIDIA GeForce RTX 2080 Ti Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-lenovo-ideapad-100-drivers-for-a-smooth-experience-on-your-windows-11-pc/"><u>Get the Newest Lenovo IdeaPad 100 Drivers for a Smooth Experience on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-and-enjoy-seamless-connectivity-with-updated-epson-xp-420-printer-drivers-download-today/"><u>Install and Enjoy Seamless Connectivity with Updated Epson XP 420 Printer Drivers - Download Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-compromising-our-private-life/"><u>Is ChatGPT Compromising Our Private Life?</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-issues-with-the-epic-games-launcher-for-win-users/"><u>Preventing Issues with the Epic Games Launcher for Win Users</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-epson-printer-paper-jam/"><u>Resolved: Epson Printer Paper Jam</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-intel-hd-graphics-630-driver-glitches-on-your-pc-tips-and-solutions/"><u>Resolving Intel HD Graphics 630 Driver Glitches on Your PC: Tips & Solutions</u></a></li>
+</ul></div>
 

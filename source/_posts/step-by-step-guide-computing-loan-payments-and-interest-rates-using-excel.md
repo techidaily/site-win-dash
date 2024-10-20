@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Computing Loan Payments and Interest Rates Using Excel"
-date: 2024-08-28T01:33:46.032Z
-updated: 2024-08-29T01:33:46.032Z
+date: 2024-10-14T17:48:06.731Z
+updated: 2024-10-20T18:19:32.831Z
 tags:
   - excel
 categories:
@@ -46,6 +46,13 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
 
 ![PMT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindPayment-ExcelLoanCalculations.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By making slight adjustments to the constants, you can see what your payment would be if you had a different interest rate, made more or fewer payments, or changed the loan amount. When you adjust these figures, the formula updates automatically.
 
  For example, maybe the monthly payment is more than you can afford. By [increasing the number](https://extra-resources.techidaily.com/elevate-your-display-with-these-8-macbook-backgrounds/) of payments, you can see how much the monthly payments decrease.
@@ -54,9 +61,6 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
 
 Related: [How to Calculate Percent Increases in Excel](https://extra-resources.techidaily.com/elevate-your-display-with-these-8-macbook-backgrounds/) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Formula to Calculate an Interest Rate in Excel
 
  Maybe you have an existing loan and want to quickly see the annual interest rate you're paying. As simple as calculating a payment with basic loan details, you can do the same to determine the interest rate.
@@ -74,8 +78,12 @@ Related: [How to Calculate Percent Increases in Excel](https://extra-resources.t
 ![RATE function in Excel using months](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInterestMonths-ExcelLoanCalculations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also enter the loan term in years instead of months and adjust the formula as follows:
 
 =RATE(E2*12,E3,E4)*12
@@ -85,12 +93,19 @@ Related: [How to Calculate Percent Increases in Excel](https://extra-resources.t
 ![RATE function in Excel using years](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInterestYears-ExcelLoanCalculations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Calculate a Payment Term in Excel
 
  One more handy loan calculation that can help you out is determining the payment period. You can see the number of months for a loan depending on the details.
@@ -107,12 +122,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![NPER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindTerm-ExcelLoanCalculations.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Optional Arguments for Loan Calculations
 
  As mentioned with each function above, the `future_value` and `type` arguments are optional. Here's a brief explanation of each if you'd like to include them in your formula.
@@ -131,8 +140,6 @@ Related: [What Is Money in Excel, and How Do You Get Started?](https://youtube-v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +147,24 @@ Related: [What Is Money in Excel, and How Do You Get Started?](https://youtube-v
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-discover-the-leading-mobile-movie-units/"><u>[New] Discover the Leading Mobile Movie Units</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-voice-to-text-an-all-inclusive-guide-to-googles-document-feature-for-2024/"><u>[New] Voice to Text An All-Inclusive Guide to Google's Document Feature for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-2023s-top-browser-extensions-download-facebook-videos-effortlessly/"><u>[Updated] 2024 Approved Top 2023'S Top Browser Extensions Download Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-decoding-the-art-of-backdrop-cleansing-in-figma-design/"><u>[Updated] Decoding the Art of Backdrop Cleansing in Figma Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-vibes-photos-with-a-soundtrack-twist/"><u>Cinematic Vibes Photos with a Soundtrack Twist</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-amd-radeon-r9-200-series-graphics-card-drivers-on-windows-systems/"><u>Download and Install AMD Radeon R9 200 Series Graphics Card Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-lenovo-thinkpad-t430-drivers-compatible-with-windows-10-8-and-7-step-by-step-guide/"><u>Download Lenovo ThinkPad T430 Drivers: Compatible with Windows 10, 8 & 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensuring-seamless-communication-update-your-arduino-usb-drivers-for-windows-today/"><u>Ensuring Seamless Communication: Update Your Arduino USB Drivers for Windows Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-key-differences-between-advanced-ai-systems-and-basic-ai-models/"><u>Exploring the Key Differences Between Advanced AI Systems and Basic AI Models</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-drivers-for-your-lenovo-x260-laptop-running-on-windows-10/"><u>Get the Latest Drivers for Your Lenovo X260 Laptop Running on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-new-drivers-for-your-canon-mp250-printer/"><u>How to Get & Install New Drivers for Your Canon MP250 Printer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-c22-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia C22 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-dash.techidaily.com/streamline-your-experience-on-windows-1nvite-intels-iris-plus-graphics-driver-v655-for-optimal-display-quality/"><u>Streamline Your Experience on Windows 1Nvite Intel's Iris Plus Graphics Driver v655 for Optimal Display Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-essentials-of-navigating-ez-grabber-interface/"><u>The Essentials of Navigating EZ Grabber Interface</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-refresh-your-ati-driver-software-in-windows-easily/"><u>The Ultimate Tutorial: Refresh Your ATI Driver Software in Windows Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-gpu-fetch-the-latest-amd-radeon-hd-7700-drivers-for-improved-visuals/"><u>Upgrade Your GPU - Fetch the Latest AMD Radeon HD 7700 Drivers for Improved Visuals</u></a></li>
+<li><a href="https://fox-within.techidaily.com/wie-sie-daten-erfolgreich-von-einer-externen-festplatte-sichern-und-wiederherstellen/"><u>Wie Sie Daten Erfolgreich Von Einer Externen Festplatte Sichern Und Wiederherstellen</u></a></li>
+</ul></div>
 

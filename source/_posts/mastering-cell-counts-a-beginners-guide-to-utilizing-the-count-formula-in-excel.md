@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cell Counts: A Beginner's Guide to Utilizing the COUNT Formula in Excel"
-date: 2024-08-28T01:33:27.171Z
-updated: 2024-08-29T01:33:27.171Z
+date: 2024-10-14T18:47:36.641Z
+updated: 2024-10-20T17:27:40.707Z
 tags:
   - excel
 categories:
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
  You may have a column full of both numbers and text where you only want the total count of the cells with numbers. You might even want this type of count for an entire sheet or ranges of nonadjacent cells. All of this can be done with the COUNT function.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What You Can Count With COUNT
 
  The COUNT function counts cells with numbers but also includes dates, currency, percentages, numbers enclosed in quotes, and numbers in a table or [pivot table in Excel](https://desktop-recording.techidaily.com/new-apex-10-royale-showdowns-for-2024/).
@@ -31,9 +38,12 @@ Related: [How to Count Blank or Empty Cells in Microsoft Excel](https://fox-blue
  There are variations of the COUNT function such as [COUNTIF for counting cells with certain criteria](https://win-forum.techidaily.com/complete-tutorial-clearing-out-windows-10-memory-dump-data/) and also [COUNTBLANK for empty cells](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/). Be sure to check out our how-tos for these variations as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use the COUNT Function in Excel
 
  To get started, open your workbook and head to the sheet you want to use in Excel. Go to the cell where you want to display the result of the formula. You can then use the Count Numbers option in the Sum list or enter the formula manually.
@@ -42,9 +52,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Count Numbers in the SUM button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountNumbers-ExcelCOUNT.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This method works great for basic counts like one cell range. For more complicated situations, you can enter the formula containing the function.
 
  The syntax for the function is
@@ -69,31 +76,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![COUNT for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Numbers-ExcelCOUNT.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  If that same range of cells contains text in five of the 10 cells, the formula's result is 5.
 
 ![COUNT for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Numbers-ExcelCOUNT.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To obtain the count for nonadjacent cell ranges A2 through A6 and B6 through B11, you would use this formula:
 
 =COUNT(A2:A6,B6:B11)
 
 ![COUNT for two cell ranges](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/NonadjacentRanges-ExcelCOUNT.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  You can include even more cell ranges, if necessary, with the COUNT function. This formula counts the cells in A2 through A11, C2 through C11, and E2 through E11.
 
 =COUNT(A2:A11,C2:C11,E2:E11)
@@ -101,8 +100,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![COUNT for mutliple cell ranges](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MultipleRanges-ExcelCOUNT.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  For other ways to obtain counts in Microsoft Excel, take a look at how to [count colored cells](https://facebook-video-recording.techidaily.com/new-2024-approved-the-cryptic-collection-of-2023-auction-for-anonymity-artifacts/) or how to [count cells with text](https://buynow-tips.techidaily.com/family-fun-on-wheels-holy-stone-rc-cartoon-race-car-evaluation/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |  |
@@ -117,8 +120,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +127,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-photoshop-magic-master-the-art-of-background-elimination/"><u>[New] Photoshop Magic Master the Art of Background Elimination</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-alternatives-3-best-video-sharing-sites/"><u>[New] YouTube Alternatives 3 Best Video Sharing Sites</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[Updated] 2024 Approved Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-circulating-camera-mounts-for-vr/"><u>2024 Approved Circulating Camera Mounts for VR</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-upgrade-intel-hd-graphics-driver-for-windows-11-latest-version/"><u>Download & Upgrade Intel HD Graphics Driver for Windows 11 – Latest Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978112501-get-the-newest-bios-and-firmware-for-gigabytes-z370p-msi-atx-motherboard-now/"><u>Get the Newest BIOS & Firmware for Gigabyte's Z370P MSI ATX Motherboard Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972493996-get-the-newest-video-graphics-card-drivers-now/"><u>Get the Newest Video Graphics Card Drivers Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-x-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone X for Free</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-latest-msi-speaker-and-mic-drivers-free-download-compatible-with-windows-os/"><u>Install Latest MSI Speaker & Mic Drivers - Free Download | Compatible with Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installing-and-upgrading-software-on-your-canoscan-lide-220/"><u>Step-by-Step: Installing and Upgrading Software on Your CanoScan LiDE 220</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-video-experience-best-quality-enhancement-software-for-2024/"><u>Updated Elevate Your Video Experience Best Quality Enhancement Software for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728507183437-windows-11/"><u>Windows 11上动态驱动器副本的两种方法</u></a></li>
+</ul></div>
 

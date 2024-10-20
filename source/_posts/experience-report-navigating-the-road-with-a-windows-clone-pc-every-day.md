@@ -1,7 +1,7 @@
 ---
 title: "Experience Report: Navigating the Road with a Windows Clone PC Every Day"
-date: 2024-08-28T01:32:22.305Z
-updated: 2024-08-29T01:32:22.305Z
+date: 2024-10-17T16:16:58.802Z
+updated: 2024-10-20T17:41:26.365Z
 tags:
   - windows
 categories:
@@ -29,11 +29,22 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
 ![Start menu on the ReactOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_clone_19_06_2024_07_55_11-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ReactOS warns that the project isn’t ready to be a daily driver yet, and that I should only use it for testing and evaluation. _But_ I love retro computers, and I was determined not to let a few blue screens stand in the way (unfortunately, they did). Here’s the whole story.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Installing ReactOS
 
  I don’t recommend installing ReactOS on your main computer for two reasons: ReactOS needs very few resources and modern hardware is overkill for it. Second, it can be unstable and buggy. If you have an old laptop or PC lying around, it’s the best hardware to install ReactOS on. You can also run it inside a virtual machine.
@@ -57,13 +68,21 @@ Close
 ![ReactOS task manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_05_13_40.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Even though it doesn’t look much like the recent versions, Windows users will feel right at home with the ReactOS UI.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Can You Do On ReactOS
 
  Now let’s test how well it runs. This is where the rubber meets the road.
@@ -72,18 +91,12 @@ Close
 
 ![ReactOS application manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_03_09_11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  I started by testing the app we all use the most: the web browser. ReactOS has a built-in version of [Internet Explorer](https://screen-video-capture.techidaily.com/2024-approved-free-video-capture-test-apowersoft-and-more/) called the WineInternetExplorer. It couldn’t load most websites because of security certificate errors.
 
  So I installed Mozilla Firefox and the installation went smoothly. Sadly, Mozilla has dropped support for old versions of Windows. So I could only get version 52.0 working. Google Chrome and Chromium (the open-source project powering Google Chrome and many other browsers) kept crashing the OS. I also found a bunch of obscure browsers in the ReactOS store. K-meleon browser, MyPal, NewMoon, and a few others.
 
 ![K-meleon running on ReactOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_05_50_18.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Even though the older version of Firefox almost worked, it didn’t work with Google Docs (my primary document editor) or load YouTube (where I listen to music while editing said documents). Google Docs loaded but it was lagging horribly. I wouldn’t recommend using any of these outdated browsers because they’re riddled with security and privacy vulnerabilities.
 
 Close 
@@ -98,9 +111,6 @@ Close
 
 ![Running Chicken Invaders on ReactOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/virtualbox_reactos_19_06_2024_03_11_25.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  As much as I’d like it to be, ReactOS is not a real alternative to Windows (yet). The OS is still in the first stages of development, and it’ll be a long time before it can be a daily driver. I managed to get some work done on it and played a game or two, but the OS kept crashing on me. On top of that, I had to reinstall it a couple of times because it couldn’t recover from the crashes. That said, it’s a delight to test a project like this, especially if you love retro computing.
@@ -111,8 +121,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +128,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-boost-your-tiktok-visibility-a-list-of-popular-username-choices/"><u>[New] Boost Your TikTok Visibility A List of Popular Username Choices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-chromes-best-deals-on-screen-recorder-free-tools-for-2024/"><u>[Updated] Chrome's Best Deals on Screen Recorder Free Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-insights-viewing-nba-games-remotely/"><u>[Updated] Exclusive Insights Viewing NBA Games Remotely</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elite-driving-sims-best-five-titles-for-2024/"><u>Elite Driving Sims Best Five Titles for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2007-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2007 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/head-to-head-battle-google-nest-audio-versus-apples-homepod/"><u>Head-to-Head Battle: Google Nest Audio versus Apple's HomePod</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-update-your-nvme-drivers-on-windows-computers/"><u>How to Easily Update Your NVMe Drivers on Windows Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-8-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 8 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfecting-pics-with-practicality-top-5-pc-snipping-tools/"><u>Perfecting Pics with Practicality - Top 5 PC Snipping Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-installation-of-asus-touchpad-driver-update-compatible-with-windows-11/"><u>Seamless Installation of ASUS Touchpad Driver Update Compatible with Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-issues-for-realtek-rtl8723be-driver/"><u>Troubleshooting and Fixing Issues for Realtek RTL8723BE Driver</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-asus-usb-bt500-bluetooth-50-driver-windows-11-to-8-support/"><u>Update Your System with Asus USB-BT500 Bluetooth 5.0 Driver - Windows 11 to 8 Support</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/video-chat-with-peace-of-mind-top-10-secure-call-apps-available-without-cost-for-2024/"><u>Video Chat with Peace of Mind Top 10 Secure Call Apps Available without Cost for 2024</u></a></li>
+</ul></div>
 

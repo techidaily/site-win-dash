@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Locate and Remove Outdated Documents in Windows 11
-date: 2024-08-28T01:31:47.146Z
-updated: 2024-08-29T01:31:47.146Z
+date: 2024-10-17T17:11:51.470Z
+updated: 2024-10-20T17:47:28.947Z
 tags:
   - windows
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you’re running out of storage on your PC, the best thing to do is to find and remove old, unwanted files. Windows 11 offers multiple ways to find those storage-hogging items, and we’ll show you what those ways are and how to use them in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Using Storage Sense
 
  Storage Sense is a built-in Windows 11 feature that helps automatically [clean up old files](https://youtube-clips.techidaily.com/culinary-carousel-swirling-up-top-food-network-names-for-2024/). You can configure various options in the feature so it only deletes the files using the specified criteria. You can run the feature manually, or you can set it to run automatically at the specified time.
@@ -41,8 +38,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Storage Sense' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-enable-storage-sense.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You’ll now configure Storage Sense's behavior. At the top, enable the option in the "Cleanup of Temporary Files" section so that temporary files are automatically deleted.
 
  Turn on the "Automatic User Content Cleanup" toggle. Then, configure various options as follows:
@@ -63,10 +64,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![File cleanup options in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-pc-manager-file-cleanup-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  The first option is "Downloaded Files," which lets you remove the files you’ve downloaded using the installed web browsers. Click it, and it’ll open a window listing your recent file downloads. You can sort these files by their type using the tabs at the top.
 
  Then, select the files you’re happy to let go of. At the bottom, you’ll see the storage space you’ll reclaim after deleting these files. To remove the files, click "Permanently Delete."
@@ -79,9 +76,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Size' drop-down menu highlighted for large files in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-specify-file-size.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  When you see the files listed, choose the ones you want to remove and click "Permanently Delete."
 
 ![Large files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-delete-large-files.jpg) 
@@ -93,8 +87,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Duplicate files and 'Permanently Delete' highlighted in PC Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/8-remove-duplicate-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And you’re all set.
 
 ##  Using Command Prompt
@@ -106,8 +104,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/9-open-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the User Account Control prompt, choose "Yes."
 
  In Command Prompt, type the following command. Replace "FolderPath" with the [full path to the folder](https://article-posts.techidaily.com/updated-maximizing-visual-variety-with-b-roll-elements-for-2024/) where you want to delete files. Replace "60" with the number of days a file must have existed on your storage for it to be deleted. (Make sure to keep the - (minus sign) before the day number.)
@@ -131,13 +133,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Save the ForFiles command as a batch file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/10-save-batch-file.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you want to run your command, right-click your batch script and choose "Run as Administrator."
 
 !['Run as Administrator' highlighted for a batch file in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/11-run-batch-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can integrate this batch script with Task Manager, and Task Manager will run the script at your specified time. This basically automates the entire process of finding and removing old files from your specified folders.
 
 ---
@@ -150,8 +163,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +170,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-evaluate-cloud-price-plans-a-side-by-side-review-and-recommendations/"><u>[New] Evaluate Cloud Price Plans A Side-by-Side Review & Recommendations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-todays-vr-hardware-review/"><u>[Updated] 2024 Approved Today's VR Hardware Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-bluetooth-drivers-from-microsoft-for-windows-11-10-8-and-ebx/"><u>How to Get the Latest Bluetooth Drivers From Microsoft for Windows 11, 10, 8 & Ebx</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-razer-hardware-on-various-windows-platforms-11-8-7-xp-and-vista/"><u>How to Update Your Razer Hardware on Various Windows Platforms: 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recording-showdown-the-battle-for-the-best-screen-grabber/"><u>In 2024, Recording Showdown The Battle for the Best Screen Grabber</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastery-in-evasion-free-your-tiktok-account-for-2024/"><u>Mastery in Evasion Free Your TikTok Account for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-adaptive-audio-quality-reduction-in-adobe-rushs-2023-version/"><u>New Adaptive Audio Quality Reduction in Adobe Rushs 2023 Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ridge-line-computer-accessory-operating-driver/"><u>Ridge Line Computer Accessory Operating Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-serenity-customized-zen-habits-powered-by-gpt/"><u>Sculpting Serenity: Customized Zen Habits Powered by GPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-tutorial-downloading-and-upgrading-your-epson-ds-510-with-windows/"><u>Ultimate Tutorial: Downloading and Upgrading Your Epson DS-510 with Windows</u></a></li>
+</ul></div>
 

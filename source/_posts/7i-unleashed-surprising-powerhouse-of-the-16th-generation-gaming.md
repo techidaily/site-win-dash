@@ -1,7 +1,7 @@
 ---
 title: "7I Unleashed: Surprising Powerhouse of the 16Th Generation Gaming"
-date: 2024-08-28T01:30:21.893Z
-updated: 2024-08-29T01:30:21.893Z
+date: 2024-10-17T17:37:46.152Z
+updated: 2024-10-20T17:35:43.380Z
 tags:
   - windows
 categories:
@@ -123,17 +123,24 @@ Jerome Thomas / How-To Geek
 ![The function key lights up keys that have commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-funtion-key-lights-up-keys-that-have-commands_53663005894_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  For the keyboard, mouse, and other peripherals like that, you’ll find that it’s pretty typical, but above average. The keyboard features 1.3mm of key travel and offers per-key RGB backlighting. The feel of the keys was a _tad_ squishy for me, but my two main keyboards are Cherry MX Blues and Kailh Copper switches, so most other keyboards feel squishy to me. The trackpad was only okay. The right-click is a little picky, but, for daily usage, it got the job done. For gaming, however, I would always recommend a dedicated mouse. The [SteelSeries Aerox](https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-open-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/) lineup of wireless mice is my personal favorite.
 
 ![The Lenovo Legion 7i 16 Gen 9 in quiet mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-in-quiet-mode_53663112120_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Battery life is something that’s coveted in a laptop, but, this isn’t just any laptop. It’s a gaming laptop. You’re not going to see stellar battery life here, and you’ll likely get around two to three hours of usage on a single charge when gaming. If you lower the brightness, drop the screen refresh rate, and disable all unnecessary software, you could eke out four to five hours, but that’ll be a stretch. However, with the included 230W power adapter, you can charge from 0% to 70% in just 30 minutes. And, if you have a compatible 140W USB-C battery, you can even power up on the go without a wall plug.
@@ -141,15 +148,16 @@ Jerome Thomas / How-To Geek
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  With the latest tech inside, this laptop has a lot to offer in the performance department. I tested it with some of my favorite games as well as some of the industry’s best synthetic benchmarks to give you a good idea as to what you can expect for performance out of this system.
@@ -169,6 +177,19 @@ Jerome Thomas / How-To Geek
  With the real-world benchmarks out of the way, I wanted to touch on synthetic benchmarks a little. The above performance metrics are a great way to find out how it plays in those (and similar) titles, but if you want to have something easy to compare across many systems, I have a few numbers for you to look at.
 
 ![The Lenovo Legion 7i 16 Gen 9 on a table (2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-on-a-table-2_53661777582_o.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -192,22 +213,36 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the right side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-legion-7i-16-gen-9_53663005784_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  All that to say, this laptop has a slew of port options to choose from. The inclusion of SD and HDMI is really nice, and, while there is Thunderbolt 4, I would have liked to see more than one port be rated at 40Gb/s here.
 
  You’ll also find Wi-Fi 6E, alongside Bluetooth 5.3 and no ethernet jack. That’s right, there are no wired networking options, which is a shame to see. This laptop is thick enough that Lenovo could have packed in wired connectivity, and I really wish they had. Wi-Fi 6E is nice and all, but sometimes, you just want the low-latency connection of a physical plug.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The 16-Inch Display Is Honestly Quite Impressive for a Laptop
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The 16-inch IPS WQXGA display here has a resolution of 2,560 x 1,600, which clocks in with a 16:10 aspect ratio. This seems to be the norm among modern laptops as people want a slightly taller aspect ratio, but it does mean that you’re pushing slightly more pixels when gaming. The RTX 4070 doesn’t let that affect performance though, which is nice. The screen features a 240Hz refresh rate, is 100% sRGB, and comes in at 500 nits, which is very noticeable when gaming. Windows didn’t find the display to be HDR ready, even though it’s DisplayHDR 400 certified, but the X-Rite Color Management with Dolby Vision and G-SYNC features all functioned as well as you’d expect.
@@ -216,16 +251,10 @@ Jerome Thomas / How-To Geek
 
  One unique thing is that there’s a keyboard shortcut (Fn+R) to switch between 240/60Hz and 165/60Hz, depending on which screen you get. This might seem redundant, but it’s actually very useful. If you’re on the road and need to preserve battery life over all else, then dropping to a 60Hz refresh rate will make the screen refresh 66% slower, which reduces power usage across the board.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo Legion 7i 16 Gen 9?
 
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  After spending the better part of a month with this laptop, this laptop is a great buy. The version of the [Lenovo Legion 7i 16 Gen 9](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-7-series%2Flegion-7i-gen-9-%2816-inch-intel%29%2Flen101g0037) I’ve been testing comes in at $1,785.99 right now direct from Lenovo, and I think that’s a fantastic price for it. You’re getting a laptop that can function as a desktop replacement in many scenarios. Plus, when on the go, you’ll have a 16-inch 240Hz display. All in a body that weighs under five pounds.
@@ -235,6 +264,13 @@ Jerome Thomas / How-To Geek
 ![Lenovo Legion 7i 16 Gen 9 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lenovo-legion-7i-16-gen-9-laptop.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Lenovo Legion 7i 16 Gen 9
 
@@ -252,8 +288,6 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -261,4 +295,22 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-strategies-to-overcome-unseen-tiktok-limitations/"><u>[Updated] In 2024, Strategies to Overcome Unseen TikTok Limitations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-screen-capture-google-meet-quick-mobile-guide/"><u>2024 Approved How to Screen Capture Google Meet Quick Mobile Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-professional-panoramic-vision-leading-360-cameras-of-2023/"><u>2024 Approved Professional Panoramic Vision Leading 360° Cameras of 2023</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722956137688-enhance-your-audio-experience-direct-links-for-downloading-sound-blaster-audigy-drivers/"><u>Enhance Your Audio Experience: Direct Links for Downloading Sound Blaster Audigy Drivers!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-logiteche-g910-driver-installation-files-for-windows-users/"><u>Get the Most Recent Logiteche G910 Driver Installation Files for Windows Users!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-mpow-bluetooth-drivers-for-win10-win8-and-win7-free-downloads-available/"><u>Get the Newest MPOW Bluetooth Drivers for Win10, Win8 & Win7 - Free Downloads Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-latest-dell-driver-updates-for-windows-7-system/"><u>Get Your Latest Dell Driver Updates for Windows 7 System</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/gratuit-top-software-de-reparation-du-systeme-pour-windows-11-10-8-and-7/"><u>Gratuit: Top Software De Réparation Du Système Pour Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-copyright-regulations-apply-to-creations-made-by-machine-learning-algorithms/"><u>How Do Copyright Regulations Apply to Creations Made by Machine Learning Algorithms?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-valentines-day-2023-a-step-by-step-guide-to-making-a-romantic-video/"><u>In 2024, Valentines Day 2023 A Step-by-Step Guide to Making a Romantic Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-insights-on-fugeteks-high-end-stick-for-selfies-the-reliable-and-solid-ft-568-reviewed/"><u>In-Depth Insights on Fugetek's High-End Stick for Selfies - The Reliable and Solid FT-568 Reviewed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-nuc-upgrades-made-effortless-quick-driver-installation-tips/"><u>Intel NUC Upgrades Made Effortless: Quick Driver Installation Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-windows-compatible-bluetooth-driver-free-download-and-updates-for-windows-10-11-8-7/"><u>Microsoft Windows Compatible Bluetooth Driver: Free Download and Updates for Windows 10, 11, 8, 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968665693-update-your-pc-fresh-intel-ac-9560-networking-drivers-now-available/"><u>Update Your PC: Fresh Intel AC 9560 Networking Drivers Now Available</u></a></li>
+</ul></div>
 

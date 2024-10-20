@@ -1,7 +1,7 @@
 ---
 title: "Mastering AutoData Typing: A Step-by-Step Guide to Improve Your Excel Skills"
-date: 2024-08-28T01:34:23.207Z
-updated: 2024-08-29T01:34:23.207Z
+date: 2024-10-13T17:53:00.642Z
+updated: 2024-10-20T17:39:21.754Z
 tags:
   - excel
 categories:
@@ -29,22 +29,30 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
  You can also use the automatic data type. This all-encompassing option detects the data type and applies it automatically. This is ideal if your spreadsheet covers a variety of different types. In this tutorial, we'll go into detail about how to use the automatic data type.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Access the Data Types
 
  If you're a [Microsoft 365](https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/) subscriber, you should have the data type feature in Excel. Head to the Data tab and look for the Data Types section in the ribbon.
 
 ![Data Types in the Excel ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/DataTabDataTypes-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use the two top arrows to move through the data types a couple at a time or the bottom arrow to see them all in one spot.
 
 ![All Data Types in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/AllDataTypes-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Apply the Automatic Data Type
 
  With any data type, you must have data in your sheet first. Since we're using the automatic data type, we'll use different words and phrases that will cover a variety of data types. This is really the best use of the automatic tool as well as the ideal way to show its power.
@@ -53,18 +61,29 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
 ![Select Automatic for the data type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/AutomaticDataType-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Within a few seconds, you'll see data types apply to your cells as denoted by icons. For instance, the animal data type will display a paw-print icon and the food data type will display an apple icon.
 
 ![Select Automatic for the data type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/AutomaticDataType-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the tool displays a question mark next to the data (like in the screenshot above), that means it's not sure which data type to use. Normally, that's because it fits into more than one. For instance, did you know that "bacon" is not only food but also the name of a city?
 
  Select the cell in question and the Data Selector sidebar will open on the right. You can then simply review the list of options and click "Select" for the one you want. If you don't see what you're looking for, you can also use the search box in the sidebar.
 
 ![Select the correct data in the sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/SelectDataType-Excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The correct data type will then be applied to the cell. You can do this for any data cells with question marks.
 
@@ -74,26 +93,16 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
 ![Click the Insert Data icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/InsertDataIcon-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Click the Insert Data icon, and you'll see a scrollable list of information. You can then choose items from the list, and the details will populate the cells to the right. You can include as much or as little information as you like.
 
 ![Pick the data details from the list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/PickDataDetails-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll find a plethora of details. Find a species for the animal data type, a body location for the anatomy data type, a production budget for the movies data type, and so much more!
 
  The details that you insert do not include references such as labels or headers. And if you have a lot of data and data types, your sheet can fill up quickly. Simply click the cell containing the information that you added, and you'll see the details in the formula bar.
 
 ![Data details in the formula bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/FormulaBarDataDetails-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Just make sure that you're connected to the internet when you apply or refresh the data.
 
 ###  Refresh the Data Details
@@ -104,12 +113,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![All Data Types in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/AllDataTypes-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  If you only want to refresh one item, select the cell and click the arrow below "Refresh All" instead. Choose "Refresh."
 
 ![Select Refresh for one item](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/RefreshDataType-Excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The next time that you need to obtain data details for items in your Microsoft Excel spreadsheet, try out the data type tool. You can save time from manual research and refresh the data as much as you like!
 
@@ -121,8 +134,6 @@ Related: [How to Use the Built-In Geography Feature in Microsoft Excel](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +141,26 @@ Related: [How to Use the Built-In Geography Feature in Microsoft Excel](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unraveling-the-cash-accumulation-through-viewers-attention/"><u>[New] 2024 Approved Unraveling the Cash Accumulation Through Viewers' Attention</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-cozy-up-your-videos-best-winter-bgs-revealed/"><u>[New] In 2024, Cozy Up Your Videos Best Winter Bg's Revealed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamlined-selection-top-10-efficient-vimeo-downloaders/"><u>[New] In 2024, Streamlined Selection Top 10 Efficient Vimeo Downloaders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-explore-a-world-of-delicious-treats-top-rated-cookie-shops/"><u>[Updated] 2024 Approved Explore a World of Delicious Treats Top-Rated Cookie Shops</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-router-choices-with-advanced-parent-controls/"><u>Essential Router Choices with Advanced Parent Controls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-language-model-divides-gpt-vs-bert-analysis/"><u>Exploring Language Model Divides: GPT Vs. BERT Analysis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-the-latest-toshiba-laptop-driver-software-for-windows-systems/"><u>Find and Install the Latest Toshiba Laptop Driver Software for Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-acer-touchpad-up-and-running-on-windows-11-free-drivers-available-here/"><u>Get Your Acer Touchpad Up and Running on Windows 11: Free Drivers Available Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-find-and-install-newest-epson-xp-420-driver-software-online/"><u>How to Find and Install Newest Epson XP 420 Driver Software Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-soundmax-drivers-installed-in-windows-systems/"><u>How to Get the Latest SoundMAX Drivers Installed in Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-repair-lgs-compatibility-with-windows-1087-via-usb/"><u>How to Repair LG's Compatibility with Windows 10/8/7 via USB</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978002026-install-official-xerox-drivers-for-your-windows-pc-free-downloads/"><u>Install Official Xerox Drivers for Your Windows PC – Free Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-graphics-card-drivers-for-windows-11-download-and-installation-guide/"><u>Intel Graphics Card Drivers for Windows 11: Download & Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-download-update-and-improve-performance-of-sata-devices-in-windows-systems/"><u>Quick Fix: Download, Update, and Improve Performance of SATA Devices in Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-a51-5g-review/"><u>Samsung Galaxy A51 5G Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-how-to-easily-download-and-install-the-latest-intel-optane-drives-support-on-windows/"><u>Step-by-Step Tutorial: How to Easily Download and Install the Latest Intel Optane Drives Support on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-fast-lane-olympic-highlights-in-short-track-speed-skating/"><u>The Fast Lane Olympic Highlights in Short-Track Speed Skating</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleashing-iphones-customization-altering-ringtone-sounds/"><u>Unleashing iPhone's Customization Altering Ringtone Sounds</u></a></li>
+</ul></div>
 

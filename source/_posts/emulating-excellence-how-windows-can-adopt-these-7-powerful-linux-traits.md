@@ -1,7 +1,7 @@
 ---
 title: "Emulating Excellence: How Windows Can Adopt These 7 Powerful Linux Traits"
-date: 2024-08-28T01:32:21.024Z
-updated: 2024-08-29T01:32:21.024Z
+date: 2024-10-15T16:21:27.641Z
+updated: 2024-10-20T18:17:04.897Z
 tags:
   - windows
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Windows 12 is still in development, giving us time to make some demands. For inspiration, let's look at Linux, the underdog of desktop computing. Here are 7 surprisingly advanced, quality-of-life features that Linux offers, and Windows 12 should definitely steal them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  No Ads in the User Interface
 
 ![Microsft Showing Ads in Settings Home Page of Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-microsft-showing-ads-in-settings-home-page-of-windows-11.png) 
@@ -39,9 +46,6 @@ Dave McKay / How-To Geek
 
  On Windows 11, ads are enabled by default, but they can be disabled. Follow this [guide to know where all the options are](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Multiple Start Menu Variations
 
  Now, coming to the good stuff, what is most certain about a new Windows release? A new Start Menu design! And with Windows 12, let’s just allow people to choose or customize their own Start Menu.
@@ -56,22 +60,30 @@ Close
 
 ![Image of Arc Menu Extension and Menu Layout Variations on Ubuntu 22.04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-image-of-arc-menu-extension-and-menu-layout-variations-on-ubuntu-22-04.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Widgets on the Desktop
 
  Windows 7 had widgets and it was wonderful. Sadly, Microsoft [removed them because of security concerns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-c33-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), but they made a comeback (sort of) with Windows 11\. The problem is that Windows 11 widgets are [tucked away inside a separate panel](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/) and not embedded directly on the desktop. It would be very nice to see Windows 12 will properly implement desktop widgets, like you can see here on Kubuntu:
 
 ![Desktop Widgets on Kubuntu 23.10 Spread across the screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-desktop-widgets-on-kubuntu-23-10-spread-across-the-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Having desktop widgets means you have direct access to useful information like reminders, to-do lists, weather updates, a world clock, and more, without having to open multiple apps. It’d be awesome if I turned on the computer every morning and got a snapshot of my entire day right there on the desktop.
 
  If you can’t wait for Windows 12 and whether it will or will not introduce desktop widgets, you can use Rainmeter to display helpful information straight on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  Automatic Window Tiling
 
  Window Tiling is a technical term for organizing all open windows on your screen to prevent overlapping. This can make your desktop cleaner and more productive.
@@ -81,6 +93,13 @@ Close
  So let’s make this perfect with Windows 12 with support for automatic window tiling or auto-tiling. Of course, it will be an optional feature that you can enable/disable. If enabled, every time you open a new window, it'll automatically arrange itself in a non-overlapping grid-like pattern. So, one app opens full screen, two apps split the screen 50/50, and more apps divide the screen proportionally (in a predefined manner) without overlap. Linux has had this feature for ages. Here’s how auto-tiling looks on Pop\_OS!
 
 ![Pop!_OS in-built Tiling Window functionality auto-tiling two windows side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pop-_os-in-built-tiling-window-functionality.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Options to Customize the Taskbar
 
@@ -92,9 +111,6 @@ Close
 
  The ability to move the taskbar again would be a great start. On top of that, different Taskbar variations, like a floating one or a minimized one similar to the Mac Dock, would really help users to personalize their personal computers.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A More Integrated Virtual Desktop Experience
 
  Virtual desktops are a great way to organize open apps and boost productivity. Microsoft introduced them to Windows 10 and improved their overall experience with [Windows 11](https://hardware-tips.techidaily.com/mastering-tech-essentials-at-toms-hardware-source/).
@@ -102,8 +118,12 @@ Close
 ![Virtual Desktops on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-virtual-desktops-on-windows-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To enhance this in Windows 12, it would be awesome to have the option to visualize and manage all virtual desktops directly from the Taskbar. Also, the option to launch apps to different desktops from the Task View would be a game-changer. Look at Ubuntu’s Activities Overview (equivalent to Windows 11’s Task View) to see what I’m talking about.
 
 ![Image Showing Ubuntu 22.04 Activities Overview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-image-showing-ubuntu-22-04-activities-overview.png) 
@@ -114,9 +134,6 @@ Close
 
 ![Ubuntu 22.04 Panel based Virtual Desktop switcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-ubuntu-22-04-panel-based-virtual-desktop-switcher.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  KDE Activities
 
  Most people use a single Windows PC for various tasks like work, gaming, recreation, and learning. Unfortunately, Windows doesn’t provide a meaningful way to segregate these different use cases. But you could do it if Windows 12 comes with a feature like KDE Activities. Here’s a quick look at [how KDE Activities work](https://techidaily.com/complete-tutorial-for-realme-c33-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/):
@@ -137,8 +154,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +161,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-whats-different-on-facebook-a-comprehensive-overview/"><u>[New] What's Different on Facebook? - A Comprehensive Overview</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-decoding-the-earning-dynamics-for-podcasters/"><u>[Updated] 2024 Approved Decoding the Earning Dynamics for Podcasters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-the-screen-a-dive-into-vr-filmmaking-for-2024/"><u>Beyond the Screen A Dive Into VR Filmmaking for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-nvidia-geforce-mx150-graphics-card-drivers-on-windows/"><u>Download & Update NVIDIA GeForce MX150 Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-leading-platforms-offering-premium-vectr-art-resources/"><u>Explore Leading Platforms Offering Premium Vectr Art Resources</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-update-for-hp-deskjet-ink-advantage-3050-windows-printer-drivers/"><u>Free Update for HP Deskjet Ink Advantage 3050 Windows Printer Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fresh-release-upgraded-canon-tr4520-printer-drivers-for-microsoft-windows-systems/"><u>Fresh Release: Upgraded Canon TR4520 Printer Drivers for Microsoft Windows Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pixeled-play-log-audit/"><u>In 2024, Pixeled Play Log Audit</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-lg-watch-style-and-the-evolution-of-wear-os-20-smartwatch-technology/"><u>In-Depth Analysis: LG Watch Style and the Evolution of Wear OS 2.0 Smartwatch Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969305670-newest-driver-release-for-rtx-2080-compatible-with-windows-11-7-and-8-download-now/"><u>Newest Driver Release for RTX 2080: Compatible with Windows 11, 7 & 8 – Download Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-vlc-media-player-issues-with-wmv-files/"><u>Resolving VLC Media Player Issues with WMV Files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thrift-meets-tech-is-the-low-cost-of-mobvoi-ticwatch-e2-justified-in-our-comprehvew/"><u>Thrift Meets Tech: Is the Low Cost of Mobvoi TicWatch E2 Justified in Our Comprehvew?</u></a></li>
+</ul></div>
 

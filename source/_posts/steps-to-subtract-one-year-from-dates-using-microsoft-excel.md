@@ -1,7 +1,7 @@
 ---
 title: Steps to Subtract One Year From Dates Using Microsoft Excel
-date: 2024-08-28T01:34:49.887Z
-updated: 2024-08-29T01:34:49.887Z
+date: 2024-10-16T17:56:51.303Z
+updated: 2024-10-20T16:12:05.731Z
 tags:
   - excel
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![In Excel, select your date values, then press Home &gt; Number Format &gt; More Number Formats.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/Excel-More-Number-Formats-Option.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Format Cells" menu, select a style of formatting that you like from the "Date" options provided. Once that's selected, choose the "Custom" option.
 
 ![In the &quot;Format Cells&quot; menu, select your date value type from the &quot;Date&quot; menu before pressing the &quot;Custom&quot; option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/Excel-Set-Custom-Date-Format.png) 
@@ -47,8 +54,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
  Changing the cell number type will hide the year, but it won't remove it. If you want to restore the year, change your cell number type to a date type that includes the year again.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  CONCATENATE Function
 
  Concatenation is a term that basically means to link or combine two or more pieces of data. In Microsoft Excel terms, concatenation can be used to add various text strings, numbers, or cell values together in a new cell.
@@ -56,8 +67,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![An example of various text strings combined using the Excel CONCATENATE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/Excel-CONCATENATE-Example.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to remove the year from a date in Excel, you could combine the output from two functions (such as DAY or MONTH) together using CONCATENATE. Rather than hiding the year from view using custom number formatting, CONCATENATE (with DAY and MONTH) allows you to create a separate value that doesn't include the year at all.
 
  To do this, open an Excel workbook containing your date values, or create a new workbook and place date values in separate cells. To use CONCATENATE with DAY and MONTH, insert a new function using this structure, replacing the cell reference (A2) with a reference to the cell containing your date:
@@ -71,8 +86,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![An example of various text strings combined using the Excel CONCATENATE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/Excel-CONCATENATE-Example.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can customize this formula to change the order of the day and month values (eg. MM/DD) or to use a different delimiter character. You can also [use the fill handle](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) to copy this formula into other cells in your column to remove the year from multiple date values.
 
 Related: [How to Automatically Fill Sequential Data into Excel with the Fill Handle](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/)
@@ -83,8 +102,6 @@ Related: [How to Automatically Fill Sequential Data into Excel with the Fill Han
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +109,23 @@ Related: [How to Automatically Fill Sequential Data into Excel with the Fill Han
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-beginner-to-maestro-a-comprehensive-gif-tutorial-for-snapchat-for-2024/"><u>[New] From Beginner to Maestro A Comprehensive Gif Tutorial for Snapchat for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-pcs-visual-power-seamless-amd-vega-driver-installation-tutorial-for-gamers/"><u>Boost Your PC's Visual Power: Seamless AMD Vega Driver Installation Tutorial for Gamers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972482843-corsair-void-pro-windows-driver-download-and-installation-made-simple/"><u>Corsair Void Pro Windows Driver Download & Installation Made Simple!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-solutions-for-when-you-encounter-an-app-cant-run-error-on-pc/"><u>Effective Solutions for When You Encounter an 'App Can't Run' Error on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-non-functional-behavior-of-ccleaner-in-windows/"><u>Eliminating Non-Functional Behavior of CCleaner in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-best-ultimate-guide-to-premium-unboxing-youtubers-2024/"><u>Exploring the Best Ultimate Guide to Premium Unboxing YouTubers, 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-download-secure-and-fast-installation-guide-for-wacom-intuos-pro-drivers-on-windows-n/"><u>Hassle-Free Download: [Secure & Fast] Installation Guide for Wacom Intuos Pro Drivers on Windows N</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-gt-neo-5-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme GT Neo 5 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-online-sources-for-3d-glitter-text-designs/"><u>In 2024, Top Online Sources for 3D Glitter Text Designs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/operation/"><u>Operation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974766104-quick-and-easy-wacom-tablet-driver-downloads-get-started-today/"><u>Quick and Easy Wacom Tablet Driver Downloads - Get Started Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-sades-headphone-driver-download-for-windows-risk-free-installation/"><u>Secure Sades Headphone Driver Download for Windows - Risk-Free Installation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-content-creation-boost-productivity-using-hix-ai-and-gpt-4/"><u>Streamline Content Creation: Boost Productivity Using HIX AI & GPT-4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/to-update-or-not-to-update-apple-watch-edition/"><u>To Update or Not to Update: Apple Watch Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-quality-audio-experience-free-focusrite-scarlett-solo-download-for-windows-enthusiasts/"><u>Top-Quality Audio Experience - Free Focusrite Scarlett Solo Download for Windows Enthusiasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uncomplicated-update-procedure-for-lenovo-ideapad/"><u>Uncomplicated Update Procedure for Lenovo Ideapad</u></a></li>
+</ul></div>
 

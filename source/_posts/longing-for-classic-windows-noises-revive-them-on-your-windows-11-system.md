@@ -1,7 +1,7 @@
 ---
 title: Longing for Classic Windows Noises? Revive Them on Your Windows 11 System
-date: 2024-08-28T01:32:29.534Z
-updated: 2024-08-29T01:32:29.535Z
+date: 2024-10-13T17:31:50.698Z
+updated: 2024-10-20T17:17:40.836Z
 tags:
   - windows
 categories:
@@ -26,8 +26,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Get Sound Packs of Old Windows Sounds
 
  The first thing you need to do is download a sound pack containing the sounds from an old Windows version. Also, ensure that every sound it contains is in WAV file format.
@@ -35,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  An example of where to find sound packs is the Sound Schemes Gallery page on the [WinCustomize website](https://www.wincustomize.com/explore/sound%5Fschemes/). You can find sounds for Windows XP, Vista, 7, 8, 8.1, 10, and more. Select the one you want and click “Download” to save it to your computer.
 
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
 
@@ -50,9 +61,6 @@ Close
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Change System Sounds in Settings
 
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
@@ -68,30 +76,25 @@ Close
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
 
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Enable Changing the Login Sound
 
  If you find that the "Windows Logon" and "Windows Logoff" events are missing in the Program Events section, you can unhide them in the Registry Editor.
@@ -104,10 +107,6 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
 
 Close 
@@ -128,8 +127,6 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +134,22 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-seamless-integration-mac-recording-techniques-for-snapchat/"><u>[Updated] 2024 Approved Seamless Integration Mac Recording Techniques for Snapchat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-splitcam-dissection-top-in-the-video-realm-in-2024/"><u>[Updated] SplitCam Dissection Top in the Video Realm, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-perfect-mobile-chime-how-to-download-and-personalize-whatsapp-tones-for-iphonesandroids/"><u>2024 Approved Crafting the Perfect Mobile Chime How to Download & Personalize WhatsApp Tones for iPhones/Androids</u></a></li>
+<li><a href="https://win-tips.techidaily.com/7-proven-strategies-to-resolve-backup-location-unavailable-error/"><u>7 Proven Strategies to Resolve 'Backup Location Unavailable' Error</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-tool-for-fitness-coaches-crafting-custom-exercise-routines-easily/"><u>ChatGPT as a Tool for Fitness Coaches: Crafting Custom Exercise Routines Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oppo-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Oppo</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-drivers-mf743cdw-series-compatible-software-for-windows/"><u>Download Canon Printer Drivers - MF743CDW Series: Compatible Software for Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-downloads-of-canon-printer-and-scanner-drivers-for-windows-simple-installation-steps/"><u>Free Downloads of Canon Printer and Scanner Drivers for Windows - Simple Installation Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-and-install-your-brother-dcp-l2540dw-printer-software-on-windows/"><u>Get & Install Your Brother DCP-L2540DW Printer Software on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-best-free-gigabyte-audio-driver-software-for-enhanced-sounds/"><u>Get the Best: Free Gigabyte Audio Driver Software for Enhanced Sounds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-initial-steps-to-instagram-video-discussion-success/"><u>In 2024, Initial Steps to Instagram Video Discussion Success</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installation-instructions-for-linksys-wusb6300-wireless-usb-adapter-free-download/"><u>Step-by-Step Installation Instructions for Linksys WUSB6300 Wireless USB Adapter - Free Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-lenovo-drivers-on-windows-1n-get-the-latest-versions-now/"><u>Update Your Lenovo Drivers on Windows 1N - Get the Latest Versions Now</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-overcoming-the-challenge-of-acoustic-reflections-in-sound-engineering-for-2024/"><u>Updated Overcoming the Challenge of Acoustic Reflections in Sound Engineering for 2024</u></a></li>
+</ul></div>
 

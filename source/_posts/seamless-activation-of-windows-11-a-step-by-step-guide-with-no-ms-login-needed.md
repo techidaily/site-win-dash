@@ -1,7 +1,7 @@
 ---
 title: "Seamless Activation of Windows 11: A Step-by-Step Guide with No MS Login Needed"
-date: 2024-08-28T01:32:33.995Z
-updated: 2024-08-29T01:32:33.995Z
+date: 2024-10-17T17:28:58.145Z
+updated: 2024-10-20T16:04:43.942Z
 tags:
   - windows
 categories:
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/8802195183c08c165ad84f773d4a1ece25e2e1ef5
 
 ![The Windows 11 installer prompting you to log in.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-login-screen.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you're there, press Shift + F10 to open up a Command Prompt Window and type:
 
 oobe\bypassnro
@@ -80,8 +77,12 @@ Close
 ![Downloading the latest Windows 11 ISO for all versions of Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/download-the-windows-11-iso.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Using Rufus to create a bootable USB drive will completely erase the contents of that drive. Make sure you save any important files on it before you proceed.
 
  Open Rufus after the Windows 11 ISO has finished downloading, click "Select," then navigate to [wherever you saved it](https://buynow-info.techidaily.com/hp-stream-14-analysis-affordable-windows-laptop-with-trade-offs-explored/). If you're using an external SSD as your bootable media, you'll need to tick "List USB Hard Drives" first. Rufus will handle most of the important options, like the [partition scheme](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/) and [file system](https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/), automatically; you don't need to worry about them. Just click "Start."
@@ -94,6 +95,13 @@ Close
 
 ![Disabling the Microsoft Account requirement via Rufus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/disable-online-acct.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that you just need to wait for Rufus to actually make the bootable media. It will take a few minutes at least, especially if you're using an older flash drive.
 
  Next, you need to restart your computer and[change the boot order](https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/). Typically, your computer boots from the hard drive or solid-state drive that Windows is installed on.
@@ -104,9 +112,6 @@ Close
 
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Create a Local Account on Windows 11
 
  You can create additional Windows accounts that aren't linked to existing Microsoft Accounts, though it's easy to miss the cues. To do this, launch the Settings app and then navigate to Accounts > Other users. Click on the "Add Account" button to create another user account.
@@ -134,17 +139,12 @@ Close
 ![Select 'Accounts,' then scroll down until you see 'Your Info.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accounts-your-info.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Scroll towards the bottom and click "Sign In With A Local Account Instead." If you get a huge popup warning you about backing up your BitLocker key,**_do not ignore it_.** Your drive is encrypted, and if something happens, you could lose access to all of your files without the recovery key. Make sure you [back up your BitLocker encryption key](https://instagram-clips.techidaily.com/2024-approved-engaging-users-with-instagrams-interactive-survey-feature/) before proceeding, then click through the next few prompts. You may need to pick a username, password, and password hint, then go to the next page and click "Sign Out And Finish."
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
@@ -154,8 +154,12 @@ Close
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Remove a Microsoft Account From Windows 11
 
  If you've set up your computer with a Microsoft account, you must first add a local account to remove the account associated with a Microsoft account. You can do this by following the steps under "How to Create a Local Account on Windows 11" above.
@@ -167,9 +171,18 @@ Close
 ![Changing the account type from standard to administrator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-accont-type.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can now log in to the other (local) account that you have created. Head to Settings > Accounts > Other users, select the (Microsoft) account you want to remove, and click "Remove" next to the "Account and data" field.
 
  This will delete your user account and data. This technique works best immediately following a Windows 11 install when you haven't added data or customized your account.
@@ -186,8 +199,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +206,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-canvas-to-ledger-the-ultimate-list-of-nft-engines-for-artists/"><u>[New] From Canvas to Ledger The Ultimate List of NFT Engines for Artists</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722956411561-canon-imageclass-mf4800-obtain-the-latest-printer-drivers-here/"><u>Canon ImageClass MF4800 - Obtain the Latest Printer Drivers Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-restoring-access-to-your-destiny-2-game-servers/"><u>DIY Repair Techniques: Restoring Access to Your Destiny 2 Game Servers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-or-disabling-network-discovery-on-your-windows-11-pc-a-step-by-step-guide/"><u>Enabling or Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-ready-for-a-smoother-gameplay-latest-drivers-boost-performance-on-acer-predator-helios-300/"><u>Get Ready for a Smoother Gameplay: Latest Drivers Boost Performance on Acer Predator Helios 300</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-and-free-hp-deskjet-ink-advantage-3050a-windows-drivers-here/"><u>Get the Newest & Free HP DeskJet Ink Advantage 3050A Windows Drivers Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/grab-your-free-logitech-g-pro-driver-compatible-with-latest-and-older-windows-systems-111087/"><u>Grab Your Free Logitech G Pro Driver - Compatible with Latest and Older Windows Systems (11/10/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-find-and-install-up-to-date-drivers-for-your-canon-pixma-mg2522-printer/"><u>How to Find and Install Up-to-Date Drivers for Your Canon PIXMA MG2522 Printer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-pro-8715-driver-software-downloads-compatible-with-windows-11108/"><u>HP OfficeJet Pro 8715 Driver Software Downloads Compatible with Windows 11/10/8</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/implementing-the-virtual-screen-grid-in-google-meet/"><u>Implementing the Virtual Screen Grid in Google Meet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-step-by-step-techniques-for-creating-stellar-valorant-thumbnail-images/"><u>In 2024, Step-by-Step Techniques for Creating Stellar Valorant Thumbnail Images</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-gt-10-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix GT 10 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-thinkpad-essential-software-download-and-update-with-100-security-assurance/"><u>Lenovo ThinkPad Essential Software: Download & Update with 100% Security Assurance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-problems-with-initiating-dolby-advanced-audio-in-windows/"><u>Overcoming Problems with Initiating Dolby Advanced Audio in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-downloading-and-installing-dells-proprietary-graphics-card-driver-for-windows-users/"><u>Step-By-Step Tutorial: Downloading & Installing Dell's Proprietary Graphics Card Driver for Windows Users</u></a></li>
+</ul></div>
 

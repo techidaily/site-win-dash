@@ -1,7 +1,7 @@
 ---
 title: 11 Features
-date: 2024-08-28T01:32:05.009Z
-updated: 2024-08-29T01:32:05.009Z
+date: 2024-10-13T17:30:42.141Z
+updated: 2024-10-20T16:37:29.461Z
 tags:
   - windows
 categories:
@@ -28,8 +28,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  After removing the background, if you wish to keep transparency in your image, make sure to save your image as a PNG file. This is because other formats like JPG don’t support transparent images.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Remove the Entire Background of an Image
 
  You can use the Windows’ built-in Paint app to delete the entire background of an image and replace it with transparency. 
@@ -44,9 +48,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-background-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Paint to delete the background. When that’s done, you’ll see the edited image.
 
 ![A background-less image in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-background-removed-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To save this background-less image select File > Save from Paint’s menu bar, or press Ctrl+S.
 
@@ -54,9 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  And that’s it.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remove Background From the Selected Area of an Image
 
  If you don’t want to remove the entire background but a portion of it, select that portion in Paint and then use the background removal option.
@@ -64,6 +79,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, locate your image in a File Explorer window. Right-click the image and select Open With > Paint.
 
 ![Open With > Paint highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-image-with-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Paint, in the "Selection" section at the top, click the down-arrow icon and choose "Rectangle." You can’t use the "Free-form" selection tool, as accessing it disables Paint’s background removal feature.
 
@@ -77,9 +99,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Replace an Image's Background With a Solid Color
 
  If you want to replace an image’s background with a solid color, say the solid blue color, use the built-in Photos app as follows.
@@ -88,23 +107,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Open With > Photos highlighted in image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-open-image-with-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  When the app opens, select Edit Image (or press Ctrl+E) in the top bar. 
 
 !['Edit Image' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-edit-image-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the following screen, from the options at the top, select the icon of a person with lines behind them. This is the background removal and replacement tool.
 
 !['Remove Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-remove-background-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the right pane, select the "Replace" option.
 
 !['Replace' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-replace-background-photos.jpg) 
@@ -114,28 +131,38 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![The color palette highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-choose-color-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  As you make your color selection, you’ll find Photos showing you a demo of the end result. If you’re happy with it, at the bottom of the right pane, click "Apply." To reset your preferences, choose "Reset Background."
 
 !['Apply' and 'Reset Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14-apply-color-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Your image is now ready to be saved.
 
  To save the image, click "Save Options" in the top-right corner. If you want to save the edited image as a copy of the original image, click "Save as Copy." To rewrite the original image with the edited image, just choose "Save." If you want copy the edited image to your clipboard so you can paste it in other apps, choose "Copy to Clipboard" instead. 
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-save-edited-image-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And Photos will perform your chosen action.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ###  What if You Don't Find the "Replace" Option in Photos
 
  If you don’t see the “Replace” option in Photos, the app version is outdated. Microsoft added the ability to replace backgrounds in Photos’ version 2023.11110.8002.0.
@@ -144,9 +171,6 @@ The powerful video editing program for your Windows PC</a>
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-microsoft-store-library.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the right pane, next to "Microsoft Photos," choose "Update." Wait while the Store updates the app.
 
  If you see "Open" instead of "Update," your app version is already updated.
@@ -163,8 +187,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +194,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/he-blueprint-of-youtubes-innovative-shorts-economy-model-for-2024/"><u>[New] The Blueprint of YouTube's Innovative Shorts Economy Model for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>2024 Approved Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification/"><u>A Symphony of Sounds No-Cost Software for Personalized Voice Modification</u></a></li>
+<li><a href="https://win-dash.techidaily.com/classify-organisms/"><u>Classify Organisms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-setup-guide-official-dell-wd19-printer-drivers/"><u>Download & Setup Guide: Official Dell WD19 Printer Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-solutions-to-get-your-amd-rx-560-graphics-card-running-flawlessly-on-various-windows-editions/"><u>Effective Solutions to Get Your AMD RX 560 Graphics Card Running Flawlessly on Various Windows Editions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-ways-to-resolve-issues-with-i2c-peripheral-devices-in-your-system/"><u>Effortless Ways to Resolve Issues with I2C Peripheral Devices in Your System</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/embrace-artistic-expression-incorporating-anime-into-snapchat-for-2024/"><u>Embrace Artistic Expression Incorporating Anime Into Snapchat for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-of-the-newest-intel-g4400-gpu-drivers/"><u>Free Download of the Newest Intel G4400 GPU Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-apply-recent-updates-for-hid-mouse-hardware-support/"><u>How to Apply Recent Updates for HID Mouse Hardware Support</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-resolve-windows-10-failure-in-detecting-external-drives-and-peripherals/"><u>How to Resolve Windows 10 Failure in Detecting External Drives and Peripherals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-go-2024-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark Go (2024) Phone?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/master-obs-on-macos-download-setup-and-get-to-work/"><u>Master OBS on macOS Download, Setup & Get to Work</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimize-your-pcs-wireless-networking-with-the-latest-intel-wi-fi-6-ax200-driver-update-for-windows-users/"><u>Optimize Your PC's Wireless Networking with the Latest Intel Wi-Fi 6 AX200 Driver Update for Windows Users!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/qualcomm-unveiled-the-exciting-alliance-with-samsung-and-google-for-next-gen-mixed-reality-eyewear/"><u>Qualcomm Unveiled: The Exciting Alliance with Samsung and Google for Next-Gen Mixed Reality Eyewear</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steelseries-arctis-5-audio-driver-setup-free-guide-and-download/"><u>SteelSeries Arctis 5 Audio Driver Setup: Free Guide & Download</u></a></li>
+</ul></div>
 

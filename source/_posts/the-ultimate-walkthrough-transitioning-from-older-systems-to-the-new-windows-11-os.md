@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Walkthrough: Transitioning From Older Systems to the New Windows 11 OS"
-date: 2024-08-28T01:30:59.962Z
-updated: 2024-08-29T01:30:59.962Z
+date: 2024-10-13T17:35:44.762Z
+updated: 2024-10-20T16:55:13.645Z
 tags:
   - windows
 categories:
@@ -34,8 +34,12 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![Click the 'Download PC Health Check App.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-pc-healthcheck.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click the "Check Now" button and the tool will tell you whether Windows 11 officially supports your PC. If it doesn't, the tool will give you information about why. If the problem is lack of TPM 2.0, for example, you may be able to [turn TPM 2.0 on in your PC's UEFI firmware (BIOS.)](https://win11.techidaily.com/accelerate-workflow-efficiency-introducing-flow-launcher-methodology/) 
 
  Here's the good news: Even if your PC isn't officially supported, you can still [upgrade to Windows 11 anyway](https://extra-support.techidaily.com/updated-photo-to-motion-the-musical-layer/). It's up to you, but Microsoft warns you may experience problems and won't guarantee future updates for Windows on your hardware. We've already seen some [old CPUs left behind](https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-pop-7-pro-by-drfone-android/) when Microsoft rolled out new instruction sets. 
@@ -43,8 +47,12 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![The PC in question meets the requirements for Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pc-meets-w11-requirements.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Safe and Slow Way: Windows Update
 
  For the safest possible update process, go to Settings > Update & Security > Windows Update on your Windows 10 PC. (You can press Windows+i to quickly open the Settings app.)
@@ -56,8 +64,25 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![The Windows 11 upgrade available through the Windows Update window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/w11-through-update-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Download Windows 11 with the Update Assistant
 
  Microsoft offers a variety of tools for [downloading Windows 11](https://common-error.techidaily.com/guide-solving-the-problem-of-dysfunctional-usb-mouse-and-keyboard-under-windows-vistawindows-7/), including the Update Assistant. The Update Assistant is designed to be very simple to use. 
@@ -66,21 +91,12 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![The Windows 11 Installation Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/w11-installer-thingy.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Create a Bootable Windows 11 USB Drive
 
  You can also use the Media Creation Tool to [create a bootable Windows 11 USB](https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-gionee-f3-pro-phone-by-drfone-android/), or download a Windows 11 ISO for use on a virtual machine.
 
 ![The Windows Media Creation Tool set to create a bootable USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-media-creation-tool.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you encounter a problem, note that you can [downgrade back to Windows 10](https://tech-haven.techidaily.com/the-future-of-development-with-artificial-intelligence-professional-insights/) within the first ten days after upgrading.
 
 ##  If Your PC Isn't Officially Supported
@@ -97,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +120,19 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-bandicam-unveiled-a-thorough-examination-of-its-recording-capabilities/"><u>[New] 2024 Approved Bandicam Unveiled A Thorough Examination of Its Recording Capabilities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-identifying-ideal-frame-rates-in-slow-mo-vids/"><u>[New] 2024 Approved Identifying Ideal Frame Rates in Slow-Mo Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-analysis-our-selection-of-premium-21-hdmi-tvs/"><u>[New] In-Depth Analysis Our Selection of Premium 2.1 HDMI TVs</u></a></li>
+<li><a href="https://win-superb.techidaily.com/acceso-al-modo-de-rescate-de-windows-11-pasos-facilmente-desglosados-para-personalizadores-expertos/"><u>Acceso Al Modo De Rescate De Windows 11: Pasos Fácilmente Desglosados Para Personalizadores Expertos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-hd-webcam-c270-drivers-for-windows-10-and-11/"><u>Download Logitech HD WebCam C270 Drivers for Windows 10 & 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-amd-radeon-pro-w5700-driver-update-optimized-for-win11win10win7-systems/"><u>Get the Newest AMD Radeon Pro W5700 Driver Update - Optimized for Win11/Win10/Win7 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>In 2024, Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970026174-latest-nvidia-quadro-driver-software-for-windows-11-systems-get-your-free-download-here/"><u>Latest NVIDIA Quadro Driver Software for Windows 11 Systems - Get Your Free Download Here</u></a></li>
+<li><a href="https://win-help.techidaily.com/microsoft-faces-tight-deadline-in-resolving-critical-issues-before-windows-11-release-pcworld-insights/"><u>Microsoft Faces Tight Deadline in Resolving Critical Issues Before Windows 11 Release | PCWorld Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-package-discrepinas-in-windows-photos-with-step-by-step-tips/"><u>Overcoming Package Discrepinas in Windows Photos with Step-by-Step Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-tutorial-downloading-and-setting-up-your-iphone-driver-in-windows-10-environment/"><u>Ultimate Tutorial: Downloading & Setting Up Your iPhone Driver in Windows 10 Environment</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/visualcapturew11-windows-11-simple-recording-app-for-2024/"><u>VisualCaptureW11 Windows 11 Simple Recording App for 2024</u></a></li>
+</ul></div>
 

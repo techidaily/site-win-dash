@@ -1,7 +1,7 @@
 ---
 title: "Mastering Moving Averages: The Ultimate Guide to Compute Them Using Microsoft Excel"
-date: 2024-08-28T01:33:33.858Z
-updated: 2024-08-29T01:33:33.858Z
+date: 2024-10-14T17:01:40.097Z
+updated: 2024-10-20T18:27:20.452Z
 tags:
   - excel
 categories:
@@ -30,6 +30,13 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 ![Data Analysis on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DataAnalysis-ExcelMovingAverage.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have the button, you're good to go and can move on to calculating a moving average below. If not, here's you can add it quickly.
 
  Go to the Search box at the top of Excel and enter "Add-ins." When you see Add-ins in the list, select it.
@@ -40,6 +47,13 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 ![Go to File, Options, Add-ins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/OptionsExcelAddIns-ExcelMovingAverage.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the Add-ins window displays, check the box next to Analysis ToolPak and click "OK."
 
 ![Select Analysis ToolPak](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AddAnalysisToolPak-ExcelMovingAverage.png) 
@@ -48,9 +62,6 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-resources.techidaily.com/chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ##  Calculate a Moving Average
 
  When you're ready to calculate the moving average, click the Data Analysis button on the Data tab. Select "Moving Average" from the list and click "OK."
@@ -58,38 +69,31 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 ![Pick Moving Average](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DataAnalysisMovingAverage-ExcelMovingAverage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  At the top of the Moving Average window, enter the Input Range into the corresponding box. You can also click inside the box and then drag through your data range. Optionally, you can check the box for "Labels in First Row" and include an Interval.
 
 ![Enter the Input Range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/InputRange-ExcelMovingAverage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Next, enter the Output Range by entering a cell reference or clicking inside the box and selecting a cell on your sheet. Optionally, you can check the box for Standard Errors. And to create a graph of the moving average as well as receive the results, check the box for Chart Output.
 
 ![Enter the Output Range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/OutputRange-ExcelMovingAverage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you finish setting up the moving average click "OK" and you'll see the output. You have the values beginning in the cell you selected for the output. If you selected the Chart Output, you'll have a handy line graph displaying the data as well.
 
 ![Receive the moving average results and chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/MovingAverage-ExcelMovingAverage.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can customize the Moving Average graph like any other [chart you create in Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/). Select the graph and use the Chart Design tab to adjust the layout, colors, legend, and more.
 
  Be sure to check out the other options available with the Analysis ToolPak. You can do things like [create a histogram](https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17-pro-by-drfone-android/), find a correlation, or use the [random number](https://facebook-video-share.techidaily.com/new-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/) generator.
@@ -100,8 +104,6 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +111,20 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-the-acquisition-of-stock-video-backgrounds/"><u>[New] Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pro-level-insights-for-perfectly-crafted-snaps-for-2024/"><u>[Updated] Pro-Level Insights for Perfectly Crafted Snaps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-colours-with-care-top-5-displays-reviewed-for-2024/"><u>Crafting Colours with Care Top 5 Displays Reviewed for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-guide-to-installing-windows-drivers-on-your-hp-spectre-x36er/"><u>Essential Guide to Installing Windows Drivers on Your HP Spectre X36er</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-update-your-usb-c-drivers-on-microsofts-newest-os-windows-11/"><u>How to Easily Update Your USB-C Drivers on Microsoft's Newest OS - Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-6s-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 6s to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-updated-canon-mg3600-driver-software-a-step-by-step-guide/"><u>Installing Updated Canon MG3600 Driver Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-canon-mf7n3cdw-printer-driver-software-for-microsoft-windows-devices/"><u>Latest Canon MF7n3CDW Printer Driver Software for Microsoft Windows Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-iphones-simple-recording-features-quickly/"><u>Mastering iPhone's Simple Recording Features Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-unauthorized-access-warnings-for-gamers/"><u>Overcoming the 'Unauthorized Access' Warnings for Gamers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-effortless-download-of-synaptic-device-drivers-for-windows-systems/"><u>Quick & Effortless Download of Synaptic Device Drivers for Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solution-vaccination-against-rubella-prior-to-pregnancy-is-highly-effective-in-preventing-congenital-rubella-syndrome/"><u>Solution: Vaccination Against Rubella Prior to Pregnancy Is Highly Effective in Preventing Congenital Rubella Syndrome.</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/unlock-the-art-of-midjourney-prompt-creation-a-comprehensive-journey-from-startup-to-maestro/"><u>Unlock the Art of Midjourney Prompt Creation: A Comprehensive Journey From Startup to Maestro</u></a></li>
+</ul></div>
 

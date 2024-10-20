@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Combining Two Excel Columns Efficiently"
-date: 2024-08-28T01:34:42.166Z
-updated: 2024-08-29T01:34:42.166Z
+date: 2024-10-18T16:39:29.983Z
+updated: 2024-10-20T17:53:14.141Z
 tags:
   - excel
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
  You may have imported data from an external location or had someone [enter data in your sheet](https://instagram-video-files.techidaily.com/new-in-2024-how-to-disable-instagrams-igtv/). If you end up with two columns that would work better as one, you can combine them using an operator or a [function](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  About Merging Columns in Excel
 
  As you may know, Excel has a [Merge Cells](https://android-frp.techidaily.com/in-2024-about-meizu-21-pro-frp-bypass-by-drfone-android/) feature. Unfortunately, when you use this option, only the data in the first (far-left) cell is retained. So if you want to combine two columns and keep all data intact, this is not a feature you want to use.
@@ -35,8 +42,12 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 3. Optional: Convert the formulas to static values.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Merge Cells in Columns
 
  You have two ways to initially merge cells before copying their contents: using an ampersand operator or using the `CONCAT` function. We'll cover both.
@@ -54,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
  This combines the data in those two cells into one string.
 
 ![Combined cells using the ampersand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Ampersand-ExcelMergeColumns.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To merge the cells A2 and B2 with a space in the middle, you would use the following formula:
 
@@ -73,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
  After this, you can move on to the [next step](https://some-guidance.techidaily.com/the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams-in-2024/), copying the formula.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Method 2: Using the CONCAT Function
 
  While merging cells and columns with the ampersand operator isn't difficult, it does require some extra typing. Instead, you can use the `CONCAT` function or the older [CONCATENATE function](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/).
@@ -100,9 +115,6 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
 
 ![Combined cells using CONCAT and a space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/CONCATSpace-ExcelMergeColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To merge the cells in A2 and B2 with a hyphen in the middle, you would use this formula:
 
 =CONCAT(A2,"-",B2)
@@ -112,9 +124,12 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
 ![Combined cells using CONCAT and a hyphen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/CONCATHyphen-ExcelMergeColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now that you've merged two cells in a row of your two columns, it's time to copy the formula.
 
 ##  Copy the Formula
@@ -130,11 +145,12 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
 ![Copied formula by dragging the Fill Handle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/CopyDrag-ExcelMergeColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
+
 ##  Optional: Convert the Formulas
 
  One final step you may want to take is to convert the formulas to static values. If you plan to delete the original columns and keep only the merged column, you must convert the data first. This is because the formulas use the cell references in those columns to combine the data. So, if those cell references no longer contain the data, you won't have the merged data.
@@ -147,8 +163,6 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +170,22 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-boost-cash-flow-with-these-5-instagram-hacks-for-2024/"><u>[New] Boost Cash Flow with These 5 Instagram Hacks for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-capturing-adventures-with-right-tools-and-tech-for-2024/"><u>[New] Capturing Adventures with Right Tools & Tech for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>[Updated] The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS)</u></a></li>
+<li><a href="https://windows11.techidaily.com/11/"><u>11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3000-driver-download-and-update/"><u>Canon MG3000 Driver Download & Update</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-todays-best-updated-bluetooth-interface-software-for-window-operating-systems/"><u>Download Today's Best: Updated Bluetooth Interface Software for Window Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-vega-driver-upgrades-smooth-installation-guide-for-enthusiasts/"><u>Get the Latest AMD Vega Driver Upgrades: Smooth Installation Guide for Enthusiasts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-epson-xp-430-drivers-on-your-windows-pc-step-by-step-instructions/"><u>How to Install the Epson XP- 430 Drivers on Your Windows PC – Step by Step Instructions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-swiftly-install-acer-audio-drivers-with-ease/"><u>How to Swiftly Install Acer Audio Drivers with Ease</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-cpu-drivers-in-windows/"><u>How To Update CPU Drivers In Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-6-best-free-online-imovie-alternatives/"><u>In 2024, 6 Best Free Online iMovie Alternatives</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-download-of-latest-toshiba-printer-and-scanner-drivers-compatible-with-windows/"><u>Secure Download of Latest Toshiba Printer & Scanner Drivers Compatible with Windows</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/titre-clonage-de-disques-durs-et-ssd-solutions-gratuites-et-efficaces-un-guide-comparatif-complet/"><u>Titre : Clonage De Disques Durs Et SSD : Solutions Gratuites Et Efficaces, Un Guide Comparatif Complet</u></a></li>
+</ul></div>
 

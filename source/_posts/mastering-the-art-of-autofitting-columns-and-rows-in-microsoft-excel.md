@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of AutoFitting Columns and Rows in Microsoft Excel
-date: 2024-08-28T01:35:17.066Z
-updated: 2024-08-29T01:35:17.066Z
+date: 2024-10-17T16:55:23.365Z
+updated: 2024-10-20T16:55:13.619Z
 tags:
   - excel
 categories:
@@ -48,11 +48,15 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 
 ![Autofit column in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/5-column-autofit-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You're all set.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  Use AutoFit for an Entire Worksheet in Excel
 
  If you have a large spreadsheet containing many rows and columns, you can apply AutoFit to your entire worksheet at once.
@@ -61,9 +65,6 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 
 ![Choose a worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/6-choose-worksheet-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once your worksheet opens, select the entire worksheet. Do so by clicking the "Select All" icon (a diagonally-pointed triangle) in the worksheet's top-left corner. Alternatively, press Ctrl+A (Windows) or Command+A (Mac).
 
  If your keyboard shortcut only selects an area in the worksheet, press it again to select the entire worksheet.
@@ -71,29 +72,50 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 ![Click the &quot;Select All&quot; option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/7-select-entire-worksheet-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now that your full worksheet is selected, in Excel's ribbon at the top, click the "Home" tab.
 
 ![Access the "Home" tab in the ribbon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/8-home-tab-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the "Home" tab, in the "Cells" section, click the "Format" menu.
 
 ![Open the "Format" menu on the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/9-format-menu-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  If you'd like to resize the columns in your worksheet, then from the "Format" menu, choose "AutoFit Column Width." To resize all your rows, choose the "AutoFit Row Height" option.
 
 ![Autofit an entire worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/10-autofit-all-rows-columns-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And Excel will make the requested changes to your spreadsheet. You're all done.
 
 ---
@@ -108,8 +130,6 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +137,22 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-beyond-views-and-likes-pursuing-profits-on-youtube/"><u>[New] 2024 Approved Beyond Views and Likes Pursuing Profits on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cut-the-clutter-polishing-videos-using-enhancer-22/"><u>[New] In 2024, Cut the Clutter Polishing Videos Using Enhancer 2.2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-uniting-visuals-the-art-of-video-sequence-composition/"><u>[Updated] 2024 Approved Uniting Visuals The Art of Video Sequence Composition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-visionaries-at-work-a-look-into-the-six-dominant-nftos-for-2024/"><u>[Updated] Visionaries at Work A Look Into the Six Dominant NFTOs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-strategic-insights-into-making-emotional-connection-with-customer-success-videos/"><u>2024 Approved Strategic Insights Into Making Emotional Connection with Customer Success Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bluetooth-csr-driver-software-free-download-available-now/"><u>Bluetooth CSR Driver Software - Free Download Available Now</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-site-analytics-with-cookiebot-technology/"><u>Empower Your Site Analytics with Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-geforce-rtx-3080-ti-drivers-latest-version-windows-11-and-7-supported/"><u>Free GeForce RTX 3080 Ti Drivers Latest Version Windows 11 & 7 Supported</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hands-on-effortless-driver-update-process-for-the-logitech-g502-performance-mouse/"><u>Hands-On: Effortless Driver Update Process for the Logitech G502 Performance Mouse</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-wifi-driver-updates-for-your-windows-7-system/"><u>How to Get the Latest WiFi Driver Updates for Your Windows 7 System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-color-laserjet-pro-m452dn-printer-drivers-free-download/"><u>HP Color LaserJet Pro M452dn Printer Drivers - Free Download</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mememirror-app-mirror-the-worlds-laughter/"><u>In 2024, MemeMirror App - Mirror the World's Laughter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-iphone-compatible-drivers-for-windows-10-a-step-by-step-guide/"><u>Installing iPhone Compatible Drivers for Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-download-ultimate-guide-to-arduino-mega-2560-drivers/"><u>Quick and Easy Download: Ultimate Guide to Arduino Mega 2560 Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-emoji-free-linuss-unmasking-insights-trojans-explored-and-chatgpt-flaws-highlighted/"><u>Twitters Emoji-Free, Linus's Unmasking Insights, Trojans Explored, & ChatGPT Flaws Highlighted</u></a></li>
+</ul></div>
 

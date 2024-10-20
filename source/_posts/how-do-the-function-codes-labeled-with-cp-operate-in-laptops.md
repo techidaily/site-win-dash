@@ -1,7 +1,7 @@
 ---
 title: How Do the Function Codes Labeled with 'Cp' Operate in Laptops?
-date: 2024-08-28T01:32:27.075Z
-updated: 2024-08-29T01:32:27.075Z
+date: 2024-10-16T18:48:28.270Z
+updated: 2024-10-20T18:27:03.856Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
 
  The Copilot key is present on all [“Copilot+ PC” computers](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/), as well as some other computers that don’t fit that criteria, such as the [2024 Dell XPS 13, XPS 14, and XPS 15 laptops](https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Can You Remap the Copilot Key?
 
  You can use applications like [AutoHotkey](https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oneplus-12-drfone-by-drfone-virtual-android/) or [Microsoft PowerToys](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/) to remap the Copilot key to perform a different action. PowerToys is the easiest solution if you have never used keyboard remapping software, but PowerToys also has other functionality. You can turn off the other features if you don’t want them.
@@ -36,41 +43,44 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
 ![Remaping a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, click the “Add key remapping” button, then click the first Select button on the left side of the window.
 
 ![Remapping a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will be prompted for a key. Press the Copilot key, then click OK to save your setting.
 
 ![Selecting a key in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  PowerToys gives you a few different options for remapping the key. You can select another key or action from the dropdown menu, or you can click the Select button on the right side to type a keyboard shortcut. For example, if you wanted the Copilot key to copy your selected text to the clipboard, you could click the Select button and press Ctrl+C.
 
 ![Changing a shortcut action in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When you’re done, press the OK button. If you see an alert about a key not having an assignment, you can ignore it.
 
 ![Keyboard Manager in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Pressing the Copilot key should now perform the action you configured, instead of opening the Copilot web app. You can change or delete the mapped key by opening PowerToys and clicking "Remap a key" again in the Keyboard Manager section.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Using the Copilot Key Without Windows
 
  The Copilot key simulates the F23 key, as confirmed by our own testing with a Lenovo Copilot+ PC. That’s a function key that isn’t used by most modern operating systems and software, so if you boot into desktop Linux or another operating system, pressing it usually won’t do anything.
@@ -83,8 +93,6 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +100,22 @@ Some Windows laptops now have a dedicated Copilot keyboard key, as part of Micro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-crafting-team-videos-to-foster-viewership-and-following/"><u>[Updated] 2024 Approved Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-innovators-crafting-immersive-viewscape/"><u>[Updated] Innovators Crafting Immersive Viewscape</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978856424-amd-gpio-device-driver-free-download-get-started-now/"><u>AMD GPIO Device Driver Free Download – Get Started Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/complete-insight-a-detailed-walkthrough-of-facetune-app-for-2024/"><u>Complete Insight A Detailed Walkthrough of Facetune App for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-immersive-vr-experiences-with-adobe-premieres-360-editing-features-for-2024/"><u>Crafting Immersive VR Experiences with Adobe Premiere's 360° Editing Features for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-epson-perfection-v500-software-and-drivers/"><u>Easy Installation Guide: Epson Perfection V500 Software & Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976565182-experience-enhanced-sound-quality-with-the-latest-dolby-driver-software-for-various-windows-versions/"><u>Experience Enhanced Sound Quality with the Latest Dolby Driver Software for Various Windows Versions!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-audio-card-drivers-for-windows-7-free-downloads-available-now/"><u>Get the Latest Audio Card Drivers for Windows 7 - Free Downloads Available Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/huion-tablet-installation-files-and-drivers-for-windows-users-download-now/"><u>Huion Tablet Installation Files & Drivers for Windows Users - Download Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-decades-best-writes-across-film-classifications/"><u>In 2024, A Decade's Best Writes Across Film Classifications</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-download-for-microsoft-wireless-mouse-5000-drivers-compatibility-and-support-guaranteed/"><u>Speedy Download for Microsoft Wireless Mouse 5000 Drivers - Compatibility & Support Guaranteed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installing-and-keeping-up-with-microsoft-drivers-on-windows-11-8-or-7/"><u>Step-by-Step: Installing & Keeping Up with Microsoft Drivers on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-selection-5-leading-video-editing-software-choices/"><u>The Ultimate Selection: 5 Leading Video Editing Software Choices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-creative-expression-incor-points-on-sharing-gifs-on-snapchat-for-2024/"><u>Unlock Creative Expression Incor Points on Sharing Gifs on Snapchat for 2024</u></a></li>
+</ul></div>
 

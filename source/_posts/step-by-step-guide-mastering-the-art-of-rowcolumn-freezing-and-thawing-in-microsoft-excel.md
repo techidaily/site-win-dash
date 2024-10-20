@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Mastering the Art of Row/Column Freezing & Thawing in Microsoft Excel"
-date: 2024-08-28T01:33:56.109Z
-updated: 2024-08-29T01:33:56.109Z
+date: 2024-10-14T16:29:13.759Z
+updated: 2024-10-20T17:43:22.153Z
 tags:
   - excel
 categories:
@@ -42,9 +42,23 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To reverse that, you just have to unfreeze the panes. On the "View" tab, hit the "Freeze Panes" dropdown again, and this time select "Unfreeze Panes."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_4.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Freeze the Left Row
 
@@ -52,16 +66,10 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, as you scroll to the right, that first column stays on screen. In our example, it lets us keep the inventory ID column visible while we scroll through the other columns of data.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And again, to unfreeze the column, just head to View > Freeze Panes > Unfreeze Panes.
 
 ##  Freeze Your Own Group of Rows or Columns
@@ -71,9 +79,12 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Notice that there are a bunch of rows at the top before the actual header we might want to freeze---the row with the days of the week listed. Obviously, freezing just the top row won't work this time, so we'll need to freeze a group of rows at the top.
 
  First, select the entire row below the bottom most row that you want to stay on screen. In our example, we want row five to stay on screen, so we're selecting row six. To select the row, just click the number to the left of the row.
@@ -81,8 +92,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, switch to the "View" tab, click the "Freeze Panes" dropdown menu, and then click "Freeze Panes."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_9.png) 
@@ -91,9 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  To freeze a pane of columns instead, just select the whole row to the right of the right most row you want to freeze. Here, we're selecting Row C because we want Row B to stay on screen.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
@@ -102,10 +114,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And remember, when you have frozen rows or columns and need to return to a normal view, just go to View > Freeze Panes > Unfreeze Panes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Freeze Columns and Rows at the Same Time
 
@@ -116,8 +132,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, switch to the "View" tab, click the "Freeze Panes" dropdown menu, and then click "Freeze Panes."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
@@ -125,6 +145,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  And now, we can scroll down or right while keeping those header rows and columns on screen.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -136,8 +163,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +170,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimal-team-chats-secrets-to-success-4-steps/"><u>[New] 2024 Approved Optimal Team Chats Secrets to Success, #4 Steps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-premium-selection-excellent-webcam-platforms/"><u>[New] 2024 Approved Premium Selection Excellent Webcam Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-the-perfect-schedule-for-jobs-and-youtube/"><u>[New] Crafting the Perfect Schedule for Jobs & YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-mobile-photography-boosters-iphone-vs-android-for-2024/"><u>[Updated] Essential Mobile Photography Boosters IPhone vs Android for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-chipset-driver-downloads-easy-installation-guide-for-windows-users/"><u>ASUS Chipset Driver Downloads: Easy Installation Guide for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-the-glitch-top-eighteen-techniques-for-fixing-your-iphones-non-responsive-face-id-technology/"><u>Bypassing the Glitch: Top Eighteen Techniques for Fixing Your iPhone's Non-Responsive Face ID Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/divergence-of-ai-the-powerful-and-the-passive/"><u>Divergence of AI: The Powerful and the Passive</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-eveos-official-bluetooth-driver-software/"><u>Download and Install EVEO's Official Bluetooth Driver Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-brother-mfc-l26n0dw-printing-software-installation-guide/"><u>Download the Latest Brother MFC-L26n0DW Printing Software - Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-step-by-step-tutorial-to-install-and-update-drivers-on-lenovo-legion-5-pro-i7-16gb-ram/"><u>Easy Step-by-Step Tutorial to Install and Update Drivers on Lenovo Legion 5 Pro (I7, 16GB RAM)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-most-out-of-msis-b350-tomahawk-driver-downloads-for-windows-10windows/"><u>How to Get the Most Out of MSI's B350 Tomahawk - Driver Downloads for WINDOWS 10/WINDOWS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-digital-compositing-with-kinemasters-gs-capabilities/"><u>In 2024, Mastering Digital Compositing with KineMaster's GS Capabilities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-your-epson-v39-driver-a-guide-for-users-of-windows-operating-systems-7-10/"><u>Installing Your Epson V39 Driver: A Guide for Users of Windows Operating Systems 7-10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/no-charge-hp-audio-control-software-swift-and-effortless-installation-guide/"><u>No Charge HP Audio Control Software - Swift and Effortless Installation Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-pair-merging-your-youtube-video-library-for-2024/"><u>Perfect Pair Merging Your YouTube Video Library for 2024</u></a></li>
+</ul></div>
 

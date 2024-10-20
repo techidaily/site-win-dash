@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting and Tailoring Your Own Funnel Chart Using Microsoft Excel"
-date: 2024-08-28T01:34:43.437Z
-updated: 2024-08-29T01:34:43.437Z
+date: 2024-10-14T17:14:41.396Z
+updated: 2024-10-20T18:46:43.023Z
 tags:
   - excel
 categories:
@@ -43,20 +43,28 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  The funnel chart pops right into your spreadsheet. From it, you can review the data and as mentioned, see the largest gaps in your process.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For example, we see here the huge reduction from the number of emails sent to the number opened. So we know that we need to better entice potential members to actually open that email.
 
  We can also see the small gap between those who signed up for the trial and then subscribed. This shows us that this particular stage in the process works pretty well.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Customize Your Funnel Chart
 
  As with the other types of charts in Excel such as a [waterfall](https://youtube-docs.techidaily.com/approved-strategies-for-effective-youtube-playlist-distribution/) or [treemap](https://extra-guidance.techidaily.com/maximizing-value-in-your-cloud-service-expenditure-for-2024/), you can customize the funnel chart. This not only helps you include the most important elements in your chart but also gives its appearance a bit of a boost.
@@ -66,24 +74,16 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, you can add or remove chart elements, choose a different layout, pick a color scheme or style, and adjust your data selection. Select the chart and click the Chart Design tab that displays. You'll see these options in the ribbon.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you'd like to customize the line styles and colors, add a shadow or 3-D effect, or size the chart to exact measurements, double-click the chart. This opens the Format Chart Area sidebar where you can use the three tabs at the top to adjust these chart items.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
@@ -94,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 * **Chart Styles**: Use the Style and Color tabs to add some pizzazz to your chart's appearance.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
@@ -106,8 +103,12 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you have city, state, or other location data, take a look at how to [create a geographical map chart in Excel](https://data-safeguard.techidaily.com/2024s-ultimate-guide-to-the-best-iphone-data-restoration-software-for-ios-17-devices/).
 
 <ins class="adsbygoogle"
@@ -116,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +124,26 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-pro-audio-tech-review-exploring-the-top-6-stream-ready-mics/"><u>[New] 2024 Approved Pro Audio Tech Review Exploring the Top 6 Stream-Ready Mics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oble-mic-necessities-for-youtube-newbies-on-the-cheap/"><u>[New] Noble Mic Necessities for YouTube Newbies on the Cheap</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-no-money-no-problem-adding-videos-to-written-pieces/"><u>[Updated] 2024 Approved No Money, No Problem Adding Videos to Written Pieces</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-tips-for-mastering-iphones-sound-capture/"><u>[Updated] In 2024, Expert Tips for Mastering iPhone's Sound Capture</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-smbus-driver-upgrades-made-simple-quick-downloads-available-here/"><u>AMD SMBus Driver Upgrades Made Simple – Quick Downloads Available Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-canon-scanners-drivers-free-for-windows-step-by-step-instructions/"><u>Download and Install Canon Scanners Drivers Free for Windows: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-compatible-drivers-for-corsairs-h80i-version-2-liquid-cooler/"><u>Download Compatible Drivers for Corsair's H80i Version 2 Liquid Cooler</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-compatible-drivers-for-hp-officejet-pro-69x8-series/"><u>Download Compatible Drivers for HP OfficeJet Pro 69X8 Series</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-ricoh-color-mp-c4503-printer-drivers-free-and-easy-guide/"><u>Download Ricoh Color MP C4503 Printer Drivers – Free and Easy Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-download-and-setup-of-official-drivers-for-hp-laptop-series-840-g3/"><u>Easy Download and Setup of Official Drivers for HP Laptop Series 840 G3.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-arduino-mega-2560-driver-software/"><u>Easy Installation of Arduino Mega 2560 Driver Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-comparative-analysis-and-thorough-review-of-the-feature-packed-samsung-galaxy-tab-s-5e/"><u>Expert Insights: Comparative Analysis & Thorough Review of the Feature-Packed Samsung Galaxy Tab S 5E</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-13-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 13 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 13 Pro</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-mastery-your-complete-user-manual/"><u>Mondly Mastery: Your Complete User Manual</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-downloading-and-installing-hp-laserjet-5200-drivers-for-windows-11-10-and-8/"><u>Quick Guide to Downloading and Installing HP LaserJet 5200 Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-updating-razer-naga-drivers-in-windows-os/"><u>Step-by-Step Guide to Downloading & Updating Razer Naga Drivers in Windows OS</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>Updated In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-the-filmmaker-within-a-kids-guide-to-movie-creation-for-2024/"><u>Updated Unleash the Filmmaker Within A Kids Guide to Movie Creation for 2024</u></a></li>
+</ul></div>
 

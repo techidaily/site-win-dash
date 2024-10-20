@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cartographic Charts in Excel: A Comprehensive Tutorial for Mapping Data Geography"
-date: 2024-08-28T01:35:09.508Z
-updated: 2024-08-29T01:35:09.508Z
+date: 2024-10-17T17:49:41.463Z
+updated: 2024-10-20T16:10:51.427Z
 tags:
   - excel
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  Whether you want to display populations in several countries for your sales team or abbreviations for the United States for your elementary school class, you can create a map chart easily in Microsoft Excel. You can then format it with labels, a legend, and an appropriate color scheme.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Get Your Data Ready
 
  Like with other chart types in Microsoft Excel, it's best to start with populated data. This allows you to select the cells containing that data and simply insert the chart for it.
@@ -37,22 +44,27 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![Click Insert, Filled Map](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/InsertChartFilledMap-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Your newly created chart will pop right onto your sheet with your data mapped.
 
 ![Map Chart with Data in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartWithData-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Format the Map Chart
 
  The next steps include formatting your map to include useful components and a color scheme. You can add a title, some labels, a legend, and a style.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Add a Title
 
  If your map contains the default "Chart Title," you can simply click that text box on the map and type in your own title. If the map does not include a title, you can add one easily as well as changing its position.
@@ -63,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 ![Map Chart Title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapCheckChartTitle-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can also select "More Title Options," which will display a sidebar on the right. In this spot, you can choose the position, use a fill color, or apply a text outline.
 
 ![Format the Chart Title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartTitleOptions-Excel.png) 
@@ -92,19 +101,17 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 ![Add a Legend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartLegend-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also select "More Legend Options" to open the sidebar and format the text and additional options.
 
 ![Format the Legend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartLegendOptions-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ###  Apply a Style
 
  The map chart is pretty basic in its color, but you can spruce it up with a theme or color scheme.
@@ -112,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  Select the chart and click "Chart Styles" (found on the paintbrush) on the right. Click "Styles" to scroll through premade themes or "Color" to pick a colorful or monochromatic scheme.
 
 ![Apply a Chart Style](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartStyle-Excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whichever you choose, you'll see your map update immediately.
 
@@ -121,20 +135,28 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 ![Resize a Chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartResize-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To edit the data that displays on the map, for example, if you add more locations, right-click the chart and click "Select Data." Alternatively, you can go to the "Chart Design" tab and click "Select Data" in the ribbon.
 
 ![Right-click and Pick Select Data or use the ribbon button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartSelectData-Excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Enter the cells in the "Chart Data Range" box at the top, or drag your cursor through the cells. Click "OK" when you finish.
 
 ![Edit the Chart Data Range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/02/MapChartSelectDataRange-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you decide that you don't want to use the map chart after all, you can remove it easily. Select the chart and hit your Delete key or right-click and pick "Cut."
 
 ---
@@ -149,8 +171,6 @@ Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +178,18 @@ Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gameglasses-glimpse-guide/"><u>[New] 2024 Approved GameGlasses Glimpse Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-download-methods-without-apps-for-2024/"><u>[Updated] Free YouTube Download Methods Without Apps for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-your-space-naturally-interior-wise/"><u>[Updated] Illuminating Your Space Naturally, Interior-Wise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-tips-for-high-quality-audio-recordings-on-your-imac/"><u>2024 Approved Quick Tips for High-Quality Audio Recordings on Your iMac</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-atk0110-universal-psu-free-drivers-firmware-and-acpi-updates-available-now/"><u>ASUS ATK0110 Universal PSU: Free Drivers, Firmware, and ACPI Updates Available Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-machines-lifespan-how-to-successfully-install-new-motherboard-driver-software-on-a-windows-computer/"><u>Boost Your Machine's Lifespan: How to Successfully Install New Motherboard Driver Software on a Windows Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-best-performance-with-up-to-date-intel-iris-graphics-driver-version-for-win10-win11/"><u>Get the Best Performance with Up-to-Date Intel Iris Graphics Driver Version for Win10, Win11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-without-hurdles-for-printer/"><u>Installation Without Hurdles for Printer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-signing-up-for-chatgpt-plus-justifiable-discover-five-convincing-reasons-why/"><u>Is Signing up for ChatGPT Plus Justifiable? Discover Five Convincing Reasons Why!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steps-to-address-unavailable-auditory-experience-dts-format-compatibility/"><u>Steps to Address 'Unavailable Auditory Experience: DTS Format Compatibility'</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-playlist-for-bike-enthusiasts-for-2024/"><u>Ultimate Playlist for Bike Enthusiasts for 2024</u></a></li>
+</ul></div>
 

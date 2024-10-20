@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Marketing Tactics: Finding the Balance Between Gentle Reminders and Overbearing Offers"
-date: 2024-08-28T01:31:28.173Z
-updated: 2024-08-29T01:31:28.173Z
+date: 2024-10-16T17:16:16.890Z
+updated: 2024-10-20T17:04:11.747Z
 tags:
   - windows
 categories:
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  An operating system's primary role is to provide a clean foundation to run other programs. That's why it's so concerning that Microsoft has been increasingly more aggressive with ads in Windows 11\. Is this going to be the future of our operating systems?
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Microsoft's Self-Promotion Knows No Bounds
 
  Windows is already full of Microsoft's built-in apps and bloatware. Although this is a relatively common practice among most operating systems and their customized versions, Microsoft goes above and beyond to promote Microsoft Edge and OneDrive. Edge and OneDrive aren't bad products (quite the contrary), but there's no need for Microsoft to shove them down our throats.
@@ -38,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  Another [recent bit of news](https://www.windowscentral.com/software-apps/bing/microsofts-45-rated-performance-optimization-tool-bizarrely-recommends-using-bing-as-the-default-search-engine-to-repair-windows-11) is that Microsoft PC Manager recommends setting Bing as the default search engine in Windows 11 to "repair" your system. This, combined with the constant pop-up notifications to set Edge as your default browser, makes it [hard to recommend any Microsoft products](https://facebook-videos.techidaily.com/updated-in-2024-seamless-strategies-downloading-graphics-images-from-facebook-and-beyond/). All this self-promotion does is clutter an otherwise great operating system.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ads in the Start Menu, Seriously?
 
  The Start Menu has always been the place you go to open an app installed on your PC or change a setting. It's a safe and familiar spot within your operating system. I use it to hide my less frequently used apps like game launchers and hardware monitoring tools.
@@ -52,15 +46,23 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 ![The location of the recommended section in the Windows 11 Start menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-start-ads.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Windows 11 Start menu is already a confusing mess, and I don't think that the [grid layout](https://facebook-record-videos.techidaily.com/new-in-2024-capture-youtube-video-in-screenshot-forms-for-free/) can save it. If you agree, check out [Stardock's Start11 app](https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-proplus-by-drfone-android/) to see how you can customize your Start Menu. Again, it's worth noting that these changes are only present in the Beta update, so there's a sliver of hope that Microsoft won't roll this update out in the final version.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The Danger of Promoting Third-Party Apps
 
  There's nothing wrong with ads and promoting third-party apps, but there's just something about recommending them within an operating system that feels off-putting. If you get an ad in Chrome, you know that it's an ad, but it feels much more subtle when it's on your operating system.
@@ -68,15 +70,29 @@ Jerome Thomas / How-To Geek
 ![1Password app listed in Recommended section of Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/untitled.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Microsoft
 
  The average user might interpret the recommended third-party product as a pre-installed or Microsoft product, which can lead to confusion, a loss of trust, and potential safety risks. After all, Microsoft can't guarantee the quality and safety of the advertised product, so what happens if a recommended app ends up embroiled in a controversy or legal dispute?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  An Operating System Is No Place for Ads
 
  Call me old-school, but I think that an operating system is the one "sacred" piece of software that shouldn't have ads, promotions, or any form of pesky clutter. Users expect that their operating system is professional and free of clutter. macOS and most Linux distributions don't bombard users with ads in core functionalities and system apps, whereas Windows has become increasingly more intrusive with its constant ads.
@@ -101,8 +117,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +124,26 @@ Microsoft
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-under-100-gaming-keyboards-your-next-purchase/"><u>[New] 2024 Approved Top 5 Under-$100 Gaming Keyboards – Your Next Purchase?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-skyline-spectacle-top-10-websites-for-dynamic-hdr-images/"><u>[New] Skyline Spectacle Top 10 Websites for Dynamic HDR Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/acquiring-high-quality-copyright-free-images-for-2024/"><u>Acquiring High-Quality Copyright-Free Images for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/"><u>Charming Charms: Italian Love Lingo Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-amd-radeon-r9-200-series-drivers-on-your-windows-pc/"><u>Download & Install AMD Radeon R9 200 Series Drivers on Your Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-fix-a-comprehensive-guide-to-downloading-and-installing-the-linksys-wusb6300-drivers-successfully/"><u>Find and Fix: A Comprehensive Guide to Downloading & Installing the Linksys WUSB6300 Drivers Successfully</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-fcp-strategies-and-tactics-exposed-for-2024/"><u>Free FCP Strategies and Tactics Exposed for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-started-with-your-new-printer-free-epson-wf-2750-driver-installation-tutorial/"><u>Get Started with Your New Printer - Free Epson WF-2750 Driver Installation Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-drivers-for-your-tp-link-ub400-bluetooth-device/"><u>Get the Latest Drivers for Your TP-Link UB400 Bluetooth Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-11-8-and-7/"><u>Get the Latest NVIDIA GeForce RTX 3080 Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-intel-network-driver-now-compatible-with-windows-11-10-and-7/"><u>Get Your Intel Network Driver Now: Compatible with Windows 11, 10, and 7</u></a></li>
+<li><a href="https://win-unique.techidaily.com/happy-melodies-bundle-top-free-christmas-song-files/"><u>Happy Melodies Bundle: Top Free Christmas Song Files</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-finding-the-best-free-subtitle-conversion-services/"><u>In 2024, Finding the Best Free Subtitle Conversion Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-missing-dts-output-problems-with-personalized-speaker-or-headset-setups/"><u>Overcoming 'Missing DTS Output' Problems with Personalized Speaker or Headset Setups</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-and-fast-installation-amd-ryzen-5-2400g-driver-download/"><u>Simple and Fast Installation: AMD Ryzen 5 2400G Driver Download</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tamping-your-youtube-videos-desktop-and-mobile-guide-for-2024/"><u>Timestamping Your YouTube Videos Desktop & Mobile Guide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-canon-pixma-ts3322-driver-free-download-available/"><u>Update Your Canon PIXMA TS3322 Driver – Free Download Available</u></a></li>
+</ul></div>
 

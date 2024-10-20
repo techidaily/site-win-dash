@@ -1,7 +1,7 @@
 ---
 title: "Excel Search Functions Decoded: INDEX & MATCH, VLOOKUP, and the Modern XLOOKUP"
-date: 2024-08-28T01:33:15.296Z
-updated: 2024-08-29T01:33:15.296Z
+date: 2024-10-17T17:34:05.203Z
+updated: 2024-10-20T16:05:05.075Z
 tags:
   - excel
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
  Lookup [functions in Microsoft Excel](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) are ideal for finding what you need when you have a large amount of data. There are three common ways to do this; INDEX and MATCH, VLOOKUP, and XLOOKUP. But what's the difference?
 
  INDEX and MATCH, VLOOKUP, and XLOOKUP each serve the purpose of looking up data and returning a result. They each work a bit differently and require a specific syntax for the formula. When should you use which? Which is better? Let's take a look so you know the best option for you.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using INDEX and MATCH
 
@@ -61,8 +68,12 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 Related: [How to Use INDEX and MATCH in Microsoft Excel](https://os-tips.techidaily.com/reviving-ipad-connectivity-essential-steps-for-reactivating-the-usb-driver/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Using VLOOKUP
 
  VLOOKUP has been a popular reference function in Excel for some time. The V stands for Vertical, so with VLOOKUP, you're doing a vertical lookup and it's from left to right.
@@ -75,9 +86,6 @@ Related: [How to Use INDEX and MATCH in Microsoft Excel](https://os-tips.techida
 
 ![VLOOKUP with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/VLOOKUPCell-ExcelLookupFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  As you can see, the result using VLOOKUP is the same as using INDEX and MATCH, Houston. The difference is that VLOOKUP uses a much simpler formula. For more [details on VLOOKUP](https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/), check out our how-to.
 
 Related: [How to Use VLOOKUP on a Range of Values](https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/) 
@@ -90,9 +98,6 @@ Related: [How to Use VLOOKUP on a Range of Values](https://win-able.techidaily.c
 
  INDEX and MATCH covers the entire cell range or array making it a more robust lookup option even if the formula is a bit more complicated.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ##  Using XLOOKUP
 
  XLOOKUP is a reference function that arrived in Excel after VLOOKUP and the counterpart HLOOKUP (horizontal lookup). The difference between XLOOKUP and VLOOKUP is that XLOOKUP works no matter where the lookup and return values reside in your cell range or array.
@@ -107,9 +112,6 @@ Related: [How to Use VLOOKUP on a Range of Values](https://win-able.techidaily.c
 
 ![XLOOKUP with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/XLOOKUPCell-ExcelLookupFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And like with INDEX and MATCH as well as VLOOKUP, our formula returned Houston.
 
  We can also use a value in the fourth column as the lookup value and receive the correct result in the second column:
@@ -119,9 +121,12 @@ Related: [How to Use VLOOKUP on a Range of Values](https://win-able.techidaily.c
 ![XLOOKUP from right to left](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/GoodXLOOKUP-ExcelLookupFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With this in mind, you can see that XLOOKUP is a better option than VLOOKUP simply because you can arrange your data any way you like and still receive your desired result. For a full [tutorial on XLOOKUP](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/), head over to our how-to.
 
 Related: [How to Use the XLOOKUP Function in Microsoft Excel](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/) 
@@ -129,9 +134,12 @@ Related: [How to Use the XLOOKUP Function in Microsoft Excel](https://android-tr
  So now you're wondering, should I use XLOOKUP or INDEX and MATCH, right? Here are some things to consider.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Which Is Better?
 
  If you already use the INDEX and MATCH functions separately and have used them together to lookup values, then you may be more familiar with how they work. By all means, if it's not broken, don't fix it, and keep using what makes you comfortable.
@@ -150,8 +158,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +165,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/1722977594115-free-elevate-your-gameplay-with-official-corsair-mouse-software-install-now/"><u>[Free] Elevate Your Gameplay with Official Corsair Mouse Software - Install Now</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-up-your-game-techniques-for-bordered-instagram-videos/"><u>[New] 2024 Approved Step Up Your Game Techniques for Bordered Instagram Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rapid-runners-prime-fastest-titles-for-pc-mobile-devices/"><u>[New] Rapid Runners Prime Fastest Titles for PC, Mobile Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-boosting-facebook-video-performance/"><u>[Updated] Boosting Facebook Video Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-angle-artistry-guide-mastering-the-craft-of-video-spinning-on-social-sites/"><u>[Updated] In 2024, The Angle Artistry Guide Mastering the Craft of Video Spinning on Social Sites</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-channel-lockdowns-device-specific-tips-for-2024/"><u>[Updated] Mastering YouTube Channel Lockdowns Device-Specific Tips for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-tunetrekker-venturing-past-dacast/"><u>2024 Approved TuneTrekker Venturing Past DaCast</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unblemished-visuals-buying-high-quality-images/"><u>2024 Approved Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-epson-wf-2540-printers-on-your-laptopdesktop-with-win7-81-and-10/"><u>Easy Installation of Epson WF 2540 Printers on Your Laptop/Desktop with Win7, 8.1 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-intel-cpu-drivers-quick-guide-for-users/"><u>Easy Installation of Intel CPU Drivers – Quick Guide for Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/experience-smooth-graphics-on-any-device-download-the-new-nvidia-gtx-980-ti-driver-software-now/"><u>Experience Smooth Graphics on Any Device – Download The New NVIDIA GTX 980 Ti Driver Software Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-hp-audio-driver-downloads-effortless-step-by-step-install-guide/"><u>Free HP Audio Driver Downloads | Effortless, Step-by-Step Install Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-updated-ch340-g-chip-drivers-compatible-with-windows-10-systems/"><u>Get Updated CH3#40 G Chip Drivers - Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-logitechs-elite-racing-wheel-software-on-your-computer-compatible-with-windows-7-10-and-11/"><u>Install Logitech's Elite Racing Wheel Software on Your Computer – Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-most-recent-driver-update-for-your-epson-l3150-a-step-by-step-guide-for-win11-8-and-7-users/"><u>Install the Most Recent Driver Update for Your Epson L3150: A Step-by-Step Guide for Win11, 8 & 7 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971930819-latest-geforce-rtx-3090-graphics-card-driver-for-win-11-8-and-7-get-it-now/"><u>Latest GeForce RTX 3090 Graphics Card Driver for Win 11, 8 & 7 – Get It Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/progetto-completo-guida-pratica-per-linstallazione-e-la-configurazione-di-windows-dvd/"><u>Progetto Completo: Guida Pratica per L'installazione E La Configurazione Di Windows DVD</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reclaim-your-forgotten-words-methods-for-getting-back-accidentally-erased-iphone-notes/"><u>Reclaim Your Forgotten Words: Methods for Getting Back Accidentally Erased iPhone Notes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-msstdfmtdll-missing-error-on-your-computer/"><u>Troubleshooting The Msstdfmt.dll Missing Error on Your Computer</u></a></li>
+</ul></div>
 

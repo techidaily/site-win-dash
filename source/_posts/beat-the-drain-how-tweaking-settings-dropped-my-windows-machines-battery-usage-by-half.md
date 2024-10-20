@@ -1,7 +1,7 @@
 ---
 title: "Beat the Drain: How Tweaking Settings Dropped My Windows Machine’s Battery Usage by Half"
-date: 2024-08-28T01:32:07.401Z
-updated: 2024-08-29T01:32:07.401Z
+date: 2024-10-16T17:44:15.003Z
+updated: 2024-10-20T16:14:12.287Z
 tags:
   - windows
 categories:
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  As a Windows laptop user, you know the frustration of searching for a charging spot because your laptop's battery life is short. The problem is worse if your laptop is older, since batteries lose capacity over time. Luckily, you can change some Windows settings to improve your laptop's battery life..
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Modify the Power Plan Settings
 
  Link State Power Management is a feature on your Windows computer that saves battery life by controlling the connection between the [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) and devices connected through the PCI Express (PCIe) slots. It works alongside Active State Power Management (ASPM) and offers three modes to configure — "Off," "Moderate Power Savings," and "Maximum Power Savings."
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![Change Advanced Power Settings option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-advanced-power-settings-option-in-the-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  In the Power Options window, double-click the "PCI Express" option and the "Link State Power Management" option. From the On battery drop-down menu, select "Maximum Power Savings." Then, choose "Moderate Power Savings" from the Plugged In dropdown menu.
 
 ![PCI Express option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pci-express-option-in-the-control-panel.jpg) 
@@ -52,8 +46,12 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  Click "Apply" and "OK" to save the changes. After that, restart your laptop to see the impact on battery performance.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Change Video Playback Settings
 
  Many [UWP apps and third-party applications](https://screen-activity-recording.techidaily.com/new-in-2024-plant-and-play-best-friends-games-in-the-agricultural-world/) use the video platform built into Windows 11\. You can control the video playback settings for these apps when your device is on battery to reduce battery consumption compared to before.
@@ -62,30 +60,46 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![Video playback option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/video-playback-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Choose the "Optimize for Battery Life" option from the Battery Options menu. Then, check the "Play video at a lower resolution when on battery" option.
 
 ![Optimize for battery life option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/optimize-for-battery-life-option-in-the-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Apply the Energy Recommendations Changes
 
  Windows 11 has an Energy recommendations option in the Settings menu that shows all the minor changes you can make on your device to [improve battery life](https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/). To apply these changes, open the Settings app, select "System" from the left sidebar, and click "Power & Battery" on the right.
 
 ![Power & battery option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-battery-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the "Energy Recommendations" option.
 
 ![Energy Recommendation option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/energy-recommendation-option-in-the-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click the "Apply All" option to apply all the changes recommended by Windows. Alternatively, you can click the "Apply" button next to the change you want to make on your device.
 
@@ -105,14 +119,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Power Saving option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-saving-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Disable the RGB Lighting
 
  If your laptop has a backlit keyboard or you have an external keyboard with RGB lighting attached, you can improve your battery life by [disabling the RGB lighting](https://eaxpv-info.techidaily.com/updated-getting-started-with-your-new-youtube-premium-account-for-2024/). Different laptop and keyboard brands use different key combinations to turn off the lighting.
 
  For example, on my HP laptop, I can disable the keyboard backlight by pressing the Fn+F5 keys together. If you're unsure of the key combination for your device, you can check the user manual that came with your laptop.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Switch to the Dark Mode
 
@@ -121,10 +139,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  This is because an LCD screen uses a backlight to illuminate the entire screen, regardless of the color displayed. Therefore, enabling dark mode will have a negligible impact. On the other hand, OLED screens have pixels that produce their own light and when you switch to dark mode the black pixel get turned off by default. Since the display doesn't need to light up those pixels, it uses less battery compared to light mode. However, keep in mind that the impact will still be quite small.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Reduce the Maximum Processor State
 
  This tip not only helped me reduce the power consumption of my laptop but also [fixed its heating issue](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). So, when you reduce the Maximum processor state on your Windows laptop, you're actually limiting the maximum processing power that your CPU can use.
@@ -141,16 +161,17 @@ The powerful video editing program for your Windows PC</a>
 
 ![Command to view duplicate power scheme in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-to-view-duplicate-power-scheme-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Type **powercfg /changename <Power Scheme GUID> "Customized Power Saving"** and hit Enter.
 
 ![Customized Power Saving command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-power-saving-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To reduce CPU max clock speed of efficiency cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX 99** and hit Enter.
 
 ![Command for efficiency cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-efficiency-cores-in-cmd.jpg) 
@@ -158,6 +179,19 @@ The powerful video editing program for your Windows PC</a>
  To reduce CPU max clock speed of performance cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX1 99** and hit Enter.
 
 ![Command for performance cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-performance-cores-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, type **powercfg /setactive <Power Scheme GUID>** and hit Enter.
 
@@ -175,8 +209,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +216,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-epson-wf-2930-printer-drivers-for-windows-7-81-and-10/"><u>Download the Latest Epson WF-2930 Printer Drivers for Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pc-performance-nvidias-geforce-rtx-3080-drivers-for-windows-10-8-and-7-get-it-download/"><u>Enhance Your PC Performance: NVIDIA's GeForce RTX 3080 Drivers for Windows 10, 8 & 7 - Get It [Download]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971469391-get-the-latest-fix-for-your-intel-wireless-ac-3160-quick-driver-update-steps/"><u>Get the Latest Fix for Your Intel Wireless-AC 3160: Quick Driver Update Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-insignia-ns-pcy5bma2-driver-for-pc-downloads-available-for-windows-11107-users/"><u>Get the Newest Insignia NS-PCY5BMA2 Driver for PC - Downloads Available for Windows 11/10/7 Users!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-majestic-visual-chronicles-compiler-suite/"><u>In 2024, Majestic Visual Chronicles Compiler Suite</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-mpow-bluetooth-software-upgrades-for-windows-users-xpvista-included/"><u>Latest MPOW Bluetooth Software Upgrades for Windows Users (XP/Vista Included)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-safe-installation-of-canon-mg3620-printing-software/"><u>Quick & Safe Installation of Canon MG3620 Printing Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/samsung-960-series-m2-drive-driver-setup-tutorial-for-windows-operating-systems/"><u>Samsung 960 Series M.2 Drive Driver Setup Tutorial for Windows Operating Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-cellular-connection-issues-on-iphones-post-ios-1721-update-tips-and-tricks-zdnet/"><u>Solving Cellular Connection Issues on iPhones Post-iOS 17.2.1 Update - Tips & Tricks | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/which-is-the-top-screener-bandicam-or-camtasia-for-2024/"><u>Which Is the Top Screener? - Bandicam Or Camtasia for 2024</u></a></li>
+</ul></div>
 

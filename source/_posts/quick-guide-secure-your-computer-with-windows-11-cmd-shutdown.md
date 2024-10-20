@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Secure Your Computer with Windows 11 CMD Shutdown"
-date: 2024-08-28T01:30:49.866Z
-updated: 2024-08-29T01:30:49.866Z
+date: 2024-10-18T17:49:02.633Z
+updated: 2024-10-20T17:58:33.891Z
 tags:
   - windows
 categories:
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
  One of the first rules of cyber security is to always lock your PC before stepping away. While it may not be the quickest way to lock your Windows 10 PC, you can do it using the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ##  Lock Your Windows 10 PC Using Command Prompt
 
  First, [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) on your PC by opening the Start menu, typing “cmd” in the Windows Search bar, and then selecting “Command Prompt” from the search results.
@@ -34,8 +31,12 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -43,13 +44,21 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
 
  Once you’ve locked your PC, the lock screen will generally be displayed for a certain amount of time before it time outs. You can set the amount of time that needs to pass before timing out using the Command Prompt.
@@ -59,9 +68,12 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Launching Command Prompt as admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With Command Prompt open, run this command.
 
 powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK <time>
@@ -72,9 +84,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -91,8 +100,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +107,24 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-does-youtube-offer-frequent-payments-to-you-for-2024/"><u>[New] Does YouTube Offer Frequent Payments to You for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-next-gen-skyborne-a-deep-dive-into-h501s-x4/"><u>[New] In 2024, Next-Gen Skyborne A Deep Dive Into H501S X4</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capture-cinematic-moments-seamlessly-across-pcs-and-smartphones/"><u>[Updated] 2024 Approved Capture Cinematic Moments Seamlessly Across PCs & Smartphones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-selection-of-vr-for-drone-pilots/"><u>[Updated] Exclusive Selection of VR for Drone Pilots</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-pros-hunters-rate-action-camera-winners/"><u>2024 Approved Pros Hunters Rate Action Camera Winners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-screen-captures-in-firefox-land/"><u>2024 Approved Top Screen Captures in Firefox Land</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/direct-technique-swap-film-direction-in-media-player-for-2024/"><u>Direct Technique Swap Film Direction in Media Player for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967508562-download-epson-v700-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson V700 Printer Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-sound-blaster-z-drivers-compatible-with-windows-11-easy-steps/"><u>Download Sound Blaster Z Drivers Compatible with Windows 11 - Easy Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-securing-latest-hp-840-g3-graphics-card-drivers-for-optimal-performance/"><u>Guide to Securing Latest HP 840 G3 Graphics Card Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-download-wacom-graphics-tablet-drivers-installed-in-minutes/"><u>Hassle-Free Download: Wacom Graphics Tablet Drivers Installed in Minutes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-download-and-setup-epson-et-4550-printer-driver-on-your-windows-machine/"><u>How to Successfully Download and Setup Epson ET-4550 Printer Driver on Your Windows Machine</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-drivers-for-your-amd-vega-64-graphics-card-compatible-with-windows-systems/"><u>Latest Drivers for Your AMD Vega 64 Graphics Card - Compatible with Windows Systems</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ize-traffic-essential-youtube-seo-equipment-for-2024/"><u>Maximize Traffic - Essential YouTube SEO Equipment for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-process-to-download-and-install-nvme-drives-on-windows/"><u>Step-by-Step Process to Download & Install NVMe Drives on Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamlined-recording-of-academic-sessions-on-macs/"><u>Streamlined Recording of Academic Sessions on Macs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-epson-wf-7710-driver-software-for-windows-operating-systems-windows-10-81-8-and-7/"><u>Updated Epson WF-7710 Driver Software for Windows Operating Systems (Windows 10, 8.1, 8 & 7)</u></a></li>
+</ul></div>
 

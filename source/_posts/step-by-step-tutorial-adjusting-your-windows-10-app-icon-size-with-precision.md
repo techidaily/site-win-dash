@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Adjusting Your Windows 10 App Icon Size with Precision"
-date: 2024-08-28T01:31:49.438Z
-updated: 2024-08-29T01:31:49.438Z
+date: 2024-10-17T16:47:18.095Z
+updated: 2024-10-20T17:53:41.363Z
 tags:
   - windows
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/14ed548cb6ba934243f074a1f0d25040231f7c304
 
  You might want bigger icons on your Windows 10 PC to help you find what you need, or smaller icons to keep things compact and tidy. Fortunately, it's easy to adjust icon sizes on your desktop, taskbar, and File Explorer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Resize Desktop Icons
 
  If the icons on your desktop are too large or too small, you can quickly resize them into one of the three available sizes.
@@ -36,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/14ed548cb6ba934243f074a1f0d25040231f7c304
 
 ![Hover your cursor over 'View' and choose an icon size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Hover-your-cursor-over-View-and-choose-an-icon-size..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you find that the three available options aren't exactly what you're looking for, you can place your cursor anywhere on the desktop, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or reduce the size of the desktop icons, respectively. This adjusts the size in smaller increments, letting you get the size closer to what you want.
 
 ##  Resize Taskbar Icons
@@ -50,9 +44,12 @@ thumbnail: https://thmb.techidaily.com/14ed548cb6ba934243f074a1f0d25040231f7c304
 ![Right-click the taskbar and choose Taskbar Settings from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Right-click-the-taskbar-and-choose-Taskbar-Settings-from-the-context-menu..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Taskbar Settings window will open. Near the top of the list of options, toggle the slider to the "On" position under the "Use Small Taskbar Buttons" option.
 
 ![Click the toggle switch under 'Use Small Taskbar Buttons.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-use-small-taskbar-buttons.png) 
@@ -61,14 +58,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Small taskbar icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Small-taskbar-icons..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  To change the icons back to the default size, toggle the slider back to the "Off" position.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Resize File Explorer Icons
 
  File Explorer lets you adjust the icon sizes to extra large, large, medium, or small.
@@ -78,8 +76,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Click the File Explorer icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-file-explorer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, click the "View" tab.
 
 ![Click the 'View' button near the top of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-click-view.png) 
@@ -87,6 +89,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In the "Layout" group, choose the icon size that you want. The current setting is highlighted in blue.
 
 ![Select between icon sizes, or a list view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-icon-sizes.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If one of these four options doesn't fit your requirements, place your mouse anywhere in File Explorer, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or decrease the icon size, respectively. This will adjust the size of the icons in smaller increments.
 
@@ -98,8 +107,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +114,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-can-youtube-sub4sub-really-enhance-viewing-experience/"><u>[Updated] Can YouTube Sub4Sub Really Enhance Viewing Experience?</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/beyond-macbook-air-explore-how-this-featherlight-windows-ultrabook-surpasses-apples-offering-zdnet/"><u>Beyond MacBook Air: Explore How This Featherlight Windows Ultrabook Surpasses Apple's Offering | ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-the-clutter-polishing-videos-using-enhancer-22/"><u>Cut the Clutter Polishing Videos Using Enhancer 2.2</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-latest-version-of-wacom-intuos-pro-hd-drivers-download-now/"><u>Get Latest Version of Wacom Intuos Pro HD Drivers - Download Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969143520-get-your-nexiq-usb-connection-up-and-running-with-the-latest-drivers/"><u>Get Your Nexiq USB Connection Up and Running with the Latest Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-scansnap-driver-installation-on-windows-systems/"><u>Hassle-Free ScanSnap Driver Installation on Windows Systems!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-deskjet-3700-printer-drivers-free-download-and-latest-firmware-updates/"><u>HP Deskjet 3700 Printer Drivers: Free Download & Latest Firmware Updates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensible-method-for-ifunny-meme-downloads/"><u>In 2024, The Comprehensible Method for iFunny Meme Downloads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pioneering-pc-components-the-in-depth-guide-by-toms-tech-expertise/"><u>Pioneering PC Components: The In-Depth Guide by Tom's Tech Expertise</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ps4-system-storage-access-issue-solutions/"><u>PS4 System Storage Access Issue Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/salty-sessions-captured-best-cams-for-surfers/"><u>Salty Sessions Captured - Best Cams for Surfers</u></a></li>
+</ul></div>
 

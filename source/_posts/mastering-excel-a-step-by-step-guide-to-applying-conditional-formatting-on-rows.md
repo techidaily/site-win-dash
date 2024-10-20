@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: A Step-by-Step Guide to Applying Conditional Formatting on Rows"
-date: 2024-08-28T01:34:25.765Z
-updated: 2024-08-29T01:34:25.765Z
+date: 2024-10-19T17:25:34.398Z
+updated: 2024-10-20T16:03:13.682Z
 tags:
   - excel
 categories:
@@ -25,11 +25,25 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 
  But what if you wanted to use a cell's value to highlight other cells? In the example we're using for this article, we've got a small spreadsheet with movies and just a couple of details about those movies (to keep thinks simple). We're going to use conditional formatting to highlight all the rows with movies made before 1980.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step One: Create Your Table
 
  Obviously, the first thing you need is a simple table containing your data. The data doesn't have to be text-only; you can use formulas freely. At this point, your table has no formatting at all:
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Step Two: Format Your Table
 
@@ -38,8 +52,19 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Step Three: Create The Conditional Formatting Rules
 
  Now we come to the meat and potatoes. As we said at the outset, if you've never used conditional formatting before, you should probably check out our [earlier primer on the subject](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/) and once you've got that down, come back here. If you're already somewhat familiar with conditional formatting (or just adventurous), let's forge on.
@@ -53,8 +78,12 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the "New Formatting Rule" window, select the "Use a formula to determine which cells to format" option. This is the trickiest part. Your formula must evaluate to "True" for the rule to apply, and must be flexible enough so you could use it across your entire table later on. Here, we're using the formula:
 
 =$D4<1980
@@ -71,9 +100,6 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Format Cells" window, go through the tabs and tweak the settings until you get the look you want. In our example, we're just going to change the fill color to green on the "Fill" tab. When you're done applying your formatting, click the "OK" button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_7.png) 
@@ -82,9 +108,6 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_8.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  You should now be back to the "Conditional Formatting Rules Manager" window. Move the window a bit until you can see your spreadsheet behind it, and then click the "Apply" button. If the formatting of your selected cell changes, that means your formula is correct. If the formatting doesn't change, you need to go a few steps back and tweak your formula until it does work. Here, you can see that our formula worked, and the cell we selected is now filled in green.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_9.png) 
@@ -94,22 +117,20 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The "Conditional Formatting Rules Manager" window collapses, giving you access to your spreadsheet. Drag to resize the current selection across the entire table (except for the headings).
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When you're done, click the down arrow to the right of the address field to get back to the full "Conditional Formatting Rules Manager" window.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Note that the "Applies to" field now contains a range of cells instead of just a single address. Click the "Apply" button again, and you should see the whole table formatted according to your rule. In our example, you can see that the whole rows that contain movies made before 1980 are filled with green.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
@@ -122,8 +143,6 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +150,20 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-pushing-boundaries-with-innovative-vsco-techniques/"><u>[New] 2024 Approved Pushing Boundaries with Innovative VSCO Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-spark-interest-with-style-mixing-tiktoks-genius-techniques-for-insta/"><u>[New] In 2024, Spark Interest with Style Mixing TikTok's Genius Techniques for Insta</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-implementing-closed-captions-on-social-video-platforms-snapchat/"><u>[Updated] 2024 Approved Implementing Closed Captions on Social Video Platforms (Snapchat)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-g27-racing-wheel-drivers-for-windows-11107-latest-version/"><u>Download Logitech G27 Racing Wheel Drivers for Windows 11/10/7 - Latest Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-tips-how-to-get-latest-epson-driver-versions-for-windows-11-computers/"><u>Easy Installation Tips: How To Get Latest Epson Driver Versions for Windows 11 Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-nvme-ready-with-intelss-latest-drivers-effortless-downloads/"><u>Get Your NVMe Ready with Intels's Latest Drivers – Effortless Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-new-drivers-for-logitech-c920-webcam-in-windows-11-8-and-10/"><u>Installing New Drivers for Logitech C920 Webcam in Windows 11, 8 & 10</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/mastering-the-art-of-using-block-level-data-backup-solutions/"><u>Mastering the Art of Using Block-Level Data Backup Solutions</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-building-a-surface-recovery-partition-using-an-external-pc/"><u>Step-by-Step Guide: Building a Surface Recovery Partition Using an External PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-downloading-the-epson-xp-400-drivers-complete-guide/"><u>Step-by-Step Instructions for Downloading the Epson XP 400 Drivers - Complete Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-14-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+</ul></div>
 

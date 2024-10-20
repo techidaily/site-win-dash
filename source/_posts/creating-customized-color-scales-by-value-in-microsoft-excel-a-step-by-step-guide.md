@@ -1,7 +1,7 @@
 ---
 title: "Creating Customized Color Scales by Value in Microsoft Excel: A Step-by-Step Guide"
-date: 2024-08-28T01:34:08.855Z
-updated: 2024-08-29T01:34:08.855Z
+date: 2024-10-15T16:41:48.290Z
+updated: 2024-10-20T16:48:05.067Z
 tags:
   - excel
 categories:
@@ -34,11 +34,28 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 ![Color Scales previews in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingColorScalesPreviews-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you land on the scale that you want to use, simply click it. And that's all there is to it! You've just applied a color scale to your data in a few clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Create a Custom Conditional Formatting Color Scale
 
  If one of the quick rules above doesn't quite capture how you want your color scale to work, you can create a custom conditional formatting rule.
@@ -47,25 +64,16 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 
 ![On the Home tab, click Conditional Formatting, New Rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/HomeConditionalFormattingNewRuleScales-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  When the New Formatting Rule window opens, select "Format All Cells Based on Their Values" at the top.
 
 ![Pick Format All Cells Based on Their Values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/NewRuleScalesFormatBasedOnValues-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Edit the Rule Description section at the bottom of the window is where you'll spend a bit of time customizing the rule. Start by choosing 2-Color Scale or 3-Color Scale from the Format Style drop-down list.
 
  The main difference between these two styles is that the three-color scale has a midpoint, whereas the two-color scale only has minimum and maximum values.
 
 ![2-Color and 3-Color Scale setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/NewRule2-3-ColorScales-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After selecting the color scale style, choose the Minimum, Maximum, and optionally, the Midpoint using the Types drop-down lists. You can pick from Lowest/Highest Value, Number, Percent, Formula, or Percentile.
 
  The Lowest Value and Highest Value types are based on the data in your selected range of cells, so you don't have to enter anything in the Value boxes. For all other types, including Midpoint, enter the Values in the corresponding boxes.
@@ -73,16 +81,23 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
 ![Select the Type for the color scale](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/3ColorScaleType-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Finally, click the Color drop-down buttons to select your colors from the palettes. If you want to use custom colors, select "More Colors" to add them using [RGB values or Hex codes](https://youtube-stream.techidaily.com/2024-approved-harnessing-youtubes-power-for-personal-image-amplification/).
 
 ![Choose the colors for the scale](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/3ColorScaleColor-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You'll then see a preview of your color scale at the bottom of the window. If you're happy with the result, click "OK" to apply the conditional formatting to your cells.
 
 ![3-Color scale conditional formatting in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/New3ColorScaleRuleWithData-Excel.png) 
@@ -99,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +121,24 @@ thumbnail: https://thmb.techidaily.com/700625a34f6d568e2eb348094b74f328e37fece77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-navigating-everyday-chats-smart-reacts-and-replies-discord/"><u>[New] In 2024, Navigating Everyday Chats Smart Reacts and Replies (Discord)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-leading-image-editing-does-pickup-reign-supreme/"><u>2024 Approved Android's Leading Image Editing Does PickUp Reign Supreme?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-quick-steps-for-recording-insta-stories/"><u>2024 Approved Quick Steps for Recording Insta Stories</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-tutorial-installing-latest-webcam-software-for-windows-11-users/"><u>Comprehensive Tutorial: Installing Latest Webcam Software for Windows 11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-ricoh-printer-drivers-on-your-windows-pc-easy-guide/"><u>Download & Install Ricoh Printer Drivers on Your Windows PC - Easy Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficiently-set-up-your-epson-es-400-scanner-with-these-downloads-and-install-instructions-for-windows-users/"><u>Efficiently Set Up Your Epson ES-400 Scanner with These Downloads & Install Instructions for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1723011785106-football-manager-2019-stalling-discover-effective-solutions-now/"><u>Football Manager 2019 Stalling? Discover Effective Solutions Now</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/heaviest-airborran-aerial-haulers-ultimate-choices-for-2024/"><u>Heaviest Airborran Aerial Haulers - Ultimate Choices for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-100-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor 100 Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>In 2024, Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-m14-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy M14 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-enhances-power-management-fixing-acpi-compliant-battery-driver-problems/"><u>Microsoft Enhances Power Management: Fixing ACPI Compliant Battery Driver Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-repairing-your-devices-inactive-at-sign-typing-feature/"><u>Quick Fix: Repairing Your Device's Inactive At Sign Typing Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-common-issues-when-uploading-to-apple-for-2024/"><u>Troubleshooting Common Issues When Uploading to Apple for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-downloading-and-updating-nvidias-rtx-2070-supers-drivers-on-windows-1011-supported/"><u>Ultimate Guide to Downloading & Updating Nvidia's RTX 2070 Supers Drivers on Windows (10/11 Supported)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-asus-vg248qe-graphics-card-on-windows-quick-and-simple-guide/"><u>Update Asus VG248QE Graphics Card on Windows: Quick & Simple Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-drivers-for-hp-officejet-pro-8740-install-now-on-windows-pcs-11-10-and-8/"><u>Updated Drivers for HP OfficeJet Pro 8740 - Install Now on Windows PCs (11, 10 & 8)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques for Accessing Drive Paths on Microsoft's Latest Operating System
-date: 2024-08-28T01:31:15.376Z
-updated: 2024-08-29T01:31:15.376Z
+date: 2024-10-15T16:50:30.867Z
+updated: 2024-10-20T17:21:55.838Z
 tags:
   - windows
 categories:
@@ -30,6 +30,13 @@ Hannah Stryker / How-To Geek
 
  Copying a file or folder’s path on Windows 11 is as easy as selecting an option in the right-click menu or pressing a keyboard shortcut. We’ll show you how to do it in various ways on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  From the Right-Click Menu
 
  The easiest way to copy a file or folder’s path is by choosing an option in that item’s right-click menu. You can use this method to copy paths for multiple items as well.
@@ -38,18 +45,17 @@ Hannah Stryker / How-To Geek
 
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
  Windows has copied the full absolute path to your selected item(s).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  Using a Keyboard Shortcut
 
 [Windows 11’s 22H2 update](https://extra-skills.techidaily.com/2024-approved-snickerscreen-composer/) introduced the ability to copy file and folder paths using a keyboard shortcut.
@@ -64,9 +70,6 @@ Hannah Stryker / How-To Geek
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  From a File Explorer Toolbar Option
 
  Windows 11’s File Explorer utility has a button on its toolbar to let you copy your file or folder’s path. To use it, open File Explorer, and locate your file or folder and highlight the folder or file.
@@ -79,9 +82,6 @@ Hannah Stryker / How-To Geek
 
  And that’s it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  How to Copy the Path of an App
 
  If you have an app’s shortcut, and you want to copy that app’s full path, right-click the shortcut and select "Properties." In the Shortcut tab, you’ll see the full app path in the "Target" field. You can copy this field directly by selecting it and pressing Ctrl+C. 
@@ -89,17 +89,23 @@ Hannah Stryker / How-To Geek
 ![The 'Target' field highlighted on the 'Properties' window of an app shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-copy-path-app-shortcut-target-field.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you launch your app via Windows Search and not from a desktop shortcut, it’s still possible to find your app’s full path. To do that, open the Start Menu and search for your app. Right-click the app and select "Open File Location."
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the open window, right-click the app again and select "Open File Location."
 
  Your app is now highlighted. Right-click the app and select "Copy as Path."
@@ -107,8 +113,12 @@ The powerful video editing program for your Windows PC</a>
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
 [Pasting the copied file, folder, or app path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) is as easy as accessing a text field and pressing Ctrl+V. Alternatively, right-click the text field and choose "Paste."
@@ -127,8 +137,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +144,16 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-facebook-hashtags-for-strategic-marketing-for-2024/"><u>[New] Mastering Facebook Hashtags for Strategic Marketing for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-logitech-webcam-c270-drivers-on-windows-10-or-11-step-by-step-guide/"><u>Download and Install Logitech Webcam C270 Drivers on Windows 10 or 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-broadcom-bluetooth-driver-compatible-with-windows-11-8-and-7/"><u>Download the Latest Broadcom Bluetooth Driver Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-driver-update-for-your-msi-gs65-under-windows-download-here/"><u>Essential Driver Update for Your MSI GS65 Under Windows – Download Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-hp-laserprinter-driver-setup-files-on-windows-7-platforms/"><u>Get Your Free HP LaserPrinter Driver Setup Files on Windows 7 Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 System Issues? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-14-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 14 when Phone is Broken?</u></a></li>
+</ul></div>
 

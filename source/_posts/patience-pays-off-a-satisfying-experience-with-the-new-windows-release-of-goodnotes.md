@@ -1,7 +1,7 @@
 ---
 title: "Patience Pays Off: A Satisfying Experience with the New Windows Release of GoodNotes"
-date: 2024-08-28T01:30:48.710Z
-updated: 2024-08-29T01:30:48.710Z
+date: 2024-10-18T16:08:35.167Z
+updated: 2024-10-20T17:17:03.155Z
 tags:
   - windows
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![The 'Goodnotes for Windows' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-for-windows-option.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As of June 2024, Goodnotes for Windows is priced at $6.99 a year, while Goodnotes Pro is a bit more expensive and costs $9.99 a year. A GoodNote Pro subscription lets you use Goodnotes on iOS, Android, Windows devices, or the web.
 
 ![Tap or click 'Goodnotes Pro.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/goodnotes-pro-option.jpeg) 
@@ -39,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  I ran the Goodnotes app on an HP Envy x360 with Windows 11 to get the tablet-like effect. Here are some of the cool features I used.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Multiple Page Formats
 
 ![A variety of paper formats displayed in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paper-formats.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After launching the Goodnotes app and setting it up, you’ll need a notebook to start taking notes. Much like the iOS versions, Goodnotes for Windows offers many different page formats for taking notes and even daily planning to stay organized. I was very impressed to see different music sheet options, so you can write music using the app.
 
@@ -51,43 +72,29 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
  You can also access your notes offline, so there's no need to worry about having a stable internet connection. Goodnotes lets you view and edit your notes, and they will sync when your connection is restored.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Planners And To-Do Templates![The Planner page in Goodnotes, with a few different views visible.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/planner-option-for-goodnotes.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The planner and to-do templates in Goodnotes might be the least exciting feature to many, but if you love [digital planners and organization tools](https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-g22-drfone-by-drfone-virtual-android/) like myself, Goodnotes has plenty of options.
 
  From accounting sheets to planning your finances, a variety of monthly and weekly planner sheets and a standard to-do sheet to keep your day organized. The templates are quite basic, but they give you the creative room to customize them and make them your own.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ###  Lasso Tool
 
 ![Selecting the heart diagram in Goodnotes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-diagram.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  If you are a student and deal with many charts and diagrams while studying and taking notes, the lasso tool in Goodnotes is like having a rope for your diagrams and charts. If you are unfamiliar with it, the lasso tool, represented by lines forming a rope, lets you select and move multiple elements simultaneously. This makes it easy to copy and paste elements onto your notes or rearrange notes.
 
  It's as simple as selecting the lasso tool and drawing a line around the diagram. Then, you can move and drag the diagram to any part of the page you like.
 
  Another benefit of the lasso tool is if you have a more complex diagram and want to adjust a few things. Instead of erasing and redrawing, you can use the lasso tool to grab what you want and move it around easily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ###  Sharing Docs And Collaborating
 
  Sharing your documents and collaborating with others is quite simple with Goodnotes, whether you're working on a group project, sharing meeting notes, or studying with someone. 
@@ -99,9 +106,12 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  Note that the sharing feature on your Windows computer is only available with paid subscriptions to Goodnotes for Windows or Goodnotes Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Beta Testing Marketplace
 
 ![Tap or click 'Marketplace' to check out new features, templates, formats, and more.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/marketplace-option-goodnotes-1.png) 
@@ -109,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  Goodnotes on the Windows version is beta testing a marketplace where you can explore and download a wide range of paper templates, notebook covers, and tools to amp up your note-taking experience.
 
  You also have the option to join as a creator and show off your skills, which is a plus. All the templates currently listed in the marketplace section are free for users with a paid subscription to either Goodnotes on Windows or Goodnotes Pro.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What We’d Like To See
 
@@ -124,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +148,26 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/download-epson-wf-7710-drivers-on-windows-108187/"><u>[DOWNLOAD] EPSON WF-7710 Drivers on Windows 10/8.1/8/7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-immersive-escapes-androidioss-favorite-ar-games/"><u>[New] 2024 Approved Immersive Escapes Android/iOS's Favorite AR Games</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-premium-downloader-suite-for-vimeo-content/"><u>[New] 2024 Approved Premium Downloader Suite for Vimeo Content</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streaming-made-easy-top-20-free-youtube-playlist-savers/"><u>[Updated] In 2024, Streaming Made Easy Top 20 Free YouTube Playlist Savers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ace-screen-recorders-list-for-the-winning-setup/"><u>[Updated] In 2024, The Ace Screen Recorders List - For the Winning Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-lag-effective-ways-to-stop-fortnite-from-freezing-on-your-pc-this-year/"><u>Beat the Lag: Effective Ways to Stop Fortnite From Freezing on Your PC This Year</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-software-pixma-mg3620-driver-for-windows/"><u>Download Canon Printer Software: Pixma MG3620 Driver for Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-installing-epson-stylus-artisan-n1430-drivers-on-win11108/"><u>Easy Guide to Downloading and Installing Epson Stylus Artisan N1430 Drivers on Win11/10/8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-missing-dsound-dll-files-easy-methods-for-error-resolution/"><u>Fixing Missing dSound DLL Files: Easy Methods for Error Resolution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-nvidia-geforce-rtx-3070-ti-windows-drivers-supports-win-11-10-and-8/"><u>Free NVIDIA GeForce RTX 3070 Ti Windows Drivers (Supports Win 11, 10 & 8)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-hp-p1606dn-laserjet-drivers-compatible-with-your-pc/"><u>Get the Newest HP P1606dn Laserjet Drivers Compatible with Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-unprompted-gaming-suggestions-on-windows-11/"><u>Halt Unprompted Gaming Suggestions on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-a-lengthy-filename-may-cause-system-issues/"><u>How a Lengthy Filename May Cause System Issues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-method-integrating-links-into-tiktok-bios/"><u>In 2024, Optimal Method Integrating Links Into TikTok Bios</u></a></li>
+<li><a href="https://win-dash.techidaily.com/iphone-driver-downloads-and-tutorials-for-effortless-compatibility-with-windows-11/"><u>IPhone Driver Downloads and Tutorials for Effortless Compatibility with Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976055994-secure-your-free-m-audio-fast-track-ultra-driver-professional-driving-interface-now/"><u>Secure Your Free M-Audio Fast Track Ultra Driver - Professional Driving Interface Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-conversion-simplified-subtitles-transformation/"><u>SRT Conversion Simplified Subtitles Transformation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fresh-lenovo-camera-drivers-installation-for-windows-7-operating-system/"><u>Step-by-Step: Fresh Lenovo Camera Drivers Installation for Windows 7 Operating System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-drivers-for-your-hp-officejet-pro-8610-compatible-with-windows-1187xpvista-download-here/"><u>Updated Drivers for Your HP OfficeJet Pro 8610: Compatible with Windows 11/8/7/XP/Vista – Download Here</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Convert and Share Your Documents as PDFs: Mastering Word, Excel & PowerPoint"
-date: 2024-08-28T01:34:07.577Z
-updated: 2024-08-29T01:34:07.577Z
+date: 2024-10-16T17:17:25.073Z
+updated: 2024-10-20T18:02:09.864Z
 tags:
   - excel
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
  If you want to send a copy of your [Microsoft Office file as a PDF](https://win-able.techidaily.com/how-to-solve-game-lag-and-skipping-frames-in-modern-warfare-ii-cod/), don't waste time with an export process. You can email it directly as an attachment right from Word, Excel, or PowerPoint.
 
  Until now, you probably took the time to save or [convert the file to a PDF](https://youtube-data.techidaily.com/tep-by-step-process-converting-youtube-clips-into-playful-gifs-for-2024/), opened your email program, wrote your message, and attached the converted file. But you don't have to take a couple of these extra steps. You can send the file as a PDF right from the application.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Send an Office File as a PDF on Windows
 
@@ -43,8 +50,12 @@ Related: [How to Save Microsoft PowerPoint Presentations as PDF Files](https://y
 ![Outlook email with a PDF attached](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/EmailOutlook-SendMSFilesPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Send an Office File as a PDF on Mac
 
  Like on Windows, when you send an Office file as a [PDF on Mac](https://facebook-video-files.techidaily.com/in-2024-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/), you'll see two slightly different options.
@@ -55,46 +66,36 @@ Related: [How to Encrypt a PDF on a Mac](https://facebook-video-files.techidaily
 
 ![Share button in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ShareExcelMac-SendMSFilesPDF.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  If you've [saved the file to OneDrive](https://tech-haven.techidaily.com/simplifying-life-comparing-claude-and-chatgpt-skills/), choose "Send a Copy" to display a pop-out menu. Click the drop-down menu next to Send As and pick "PDF." Select "Email as Attachment."
 
 ![PDF in the Send as drop-down menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/InOneDriveSendCopyMacOS-SendMSFilesPDF.png) 
 
 <!-- affiliate ads begin -->
-
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you've only saved your file locally, you'll see a different pop-up window. Choose "Send a Copy" at the bottom of that window.
 
 ![Send a Copy in the Share options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/NotInOneDriveSendCopyMac-SendMSFilesPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click the drop-down menu next to Send As and pick "PDF." Select "Email as Attachment."
 
 ![PDF in the Send as drop-down menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/EmailAsAttachmentMac-SendMSFilesPDF.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The email compose window then opens with the PDF file attached. Unlike Windows, the file name is not the subject line by default. This field remains blank for you to fill in yourself. Complete your message and send it when you're ready.
 
 ![Apple Mail email with a PDF attached](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/EmailMail-SendMSFilesPDF.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Optionally, you can select the Share button for either of the above options to send the PDF using your [Mac's Share menu](https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-slow-motion-video-editing-with-windows-live-movie-maker/) instead of email.
 
 ![Mac Share Sheet options in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ShareSheetExcelMac-SendMSFilesPDF.png) 
@@ -107,8 +108,6 @@ Related: [How to Encrypt a PDF on a Mac](https://facebook-video-files.techidaily
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +115,26 @@ Related: [How to Encrypt a PDF on a Mac](https://facebook-video-files.techidaily
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-skype-audio-archive-mp3-techniques-free-edition/"><u>[New] In 2024, Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-turbocharge-video-on-snapchat-new-users-edition-for-2024/"><u>[New] Turbocharge Video on Snapchat New Users Edition for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/acer-predator-xb2nhu-driver-download-made-easy-enhanced-display-performance-guaranteed/"><u>Acer Predator XB2nHU Driver Download Made Easy – Enhanced Display Performance Guaranteed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971014361-approach-connect-the-concepts-of-specific-heat-capacity-and-thermal-conductivity-with-how-they-influence-temperature-changes-when-energy-is-applied/"><u>Approach: Connect the Concepts of Specific Heat Capacity and Thermal Conductivity with How They Influence Temperature Changes when Energy Is Applied.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-fixing-compatibility-issues-with-startech-drivers-in-windows-7810/"><u>Comprehensive Guide: Fixing Compatibility Issues with StarTech Drivers in Windows 7/8/10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-content-masterpieces-select-the-ultimate-androidpc-apps/"><u>Crafting Content Masterpieces Select the Ultimate Android/PC Apps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dell-inspiron-15-drivers-for-windows-10/"><u>Dell Inspiron 15 Drivers for Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-installation-guide-epson-wf-2750-printing-software/"><u>Download & Installation Guide: Epson WF-2750 Printing Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embracing-multilingualism-second-chances/"><u>Embracing Multilingualism: Second Chances!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-a58-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A58 4G Phone?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-imo-instant-messaging-service-for-seamless-communication/"><u>In-Depth Review of the Imo Instant Messaging Service for Seamless Communication</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-users-tutorial-how-to-access-photos-in-a-shared-album-link/"><u>IPhone Users' Tutorial: How to Access Photos in a Shared Album Link</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-pc-mastery-quick-and-easy-power-management-driver-renewal-tips/"><u>Lenovo PC Mastery: Quick & Easy Power Management Driver Renewal Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-method-to-implement-new-drivers-for-your-scansnap-ix500-printer-on-a-windows-machine/"><u>Quick and Easy Method to Implement New Drivers for Your ScanSnap iX500 Printer on a Windows Machine</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-your-3d-vision-issues-with-these-free-nvidia-drivers-for-windows-systems/"><u>Solve Your 3D Vision Issues with These Free Nvidia Drivers for Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-hid-mouse-driver-upgrade-process/"><u>Step-by-Step Guide: HID Mouse Driver Upgrade Process</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-mac-video-editor-adobe-premiere-pro-for-experts-for-2024/"><u>The Ultimate Mac Video Editor Adobe Premiere Pro for Experts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformer-gratuitement-un-fichier-3gp-en-video-flv-tutorial-video-de-conversion-rapide-avec-movavi/"><u>Transformer Gratuitement Un Fichier .3Gp en Vidéo FLV - Tutorial Vidéo De Conversion Rapide Avec Movavi</u></a></li>
+</ul></div>
 

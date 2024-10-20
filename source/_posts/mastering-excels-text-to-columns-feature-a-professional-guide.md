@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel's Text-to-Columns Feature: A Professional Guide"
-date: 2024-08-28T01:33:29.608Z
-updated: 2024-08-29T01:33:29.608Z
+date: 2024-10-16T18:14:57.120Z
+updated: 2024-10-20T17:05:21.624Z
 tags:
   - excel
 categories:
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![Text to Columns button on the Data tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/data-text-to-columns.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This opens a wizard in which you'll perform three steps. Step one is to specify how the content is separated. Delimited means the different pieces of text you want to pull apart are separated by a special character such as space, comma, or slash. That's the one we're going to choose here. (We'll talk about the fixed width option in the next section.)
 
 ![Step 1 of the Text to Columns wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/step-one.png) 
@@ -52,13 +59,23 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![Step 3 of the Text to Columns wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/step-three.png) 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When we click "Finish" on the wizard, Excel separates the first and last names and we now have our new, fully populated Column B.
 
 ![Names split into different columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/separated-names.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Text to Columns with Fixed Width Text
 
  In this example, we will split text that has a fixed width. In the data below, we have an invoice code that always begins with two letters followed by a variable number of numeric digits. The two-letter code represents the client and the numeric value after it represents the invoice number. We want to separate the first two characters of the invoice code from the numbers that succeed it and deposit those values into the Client and Invoice No columns we've set up (columns B and C). We also want to keep the full invoice code intact in Column A.
@@ -72,15 +89,23 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 ![Text to Columns button on the Data tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/data-text-to-columns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the first page of the wizard, select the "Fixed Width" option and then click "Next."
 
 ![Splitting text with a fixed width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/fixed-width.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On the next page, we need to specify the position(s) in the column to split the content. We can do this by clicking in the preview area provided.
 
 **Note:** Text to Columns sometimes provides a suggested break(s). This can save you some time, but keep an eye on it. The suggestions are not always correct.
@@ -97,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![Splitting text with a fixed width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/fixed-width.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So, we've now looked at splitting content using delimiters and fixed widths. We've also looked at splitting text in place and splitting it to different places on a worksheet. Now let's look at two extra special uses of Text to Columns.
 
 ##  Converting US Dates to European Format
@@ -112,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![US date formats to convert](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/us-dates.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First, we're going to select the range of cells containing the dates to convert and then click Data > Text to Columns.
 
 ![Text to Columns button on the Data tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/data-text-to-columns.png) 
@@ -120,23 +149,28 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![All delimiter character options unchecked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/all-delimiters-unchecked.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  On the final page, select the Date option and use the list to specify the date format of the data you have received. In this example, I will select MDY---the format typically used in the US.
 
 ![Selecting the MDY format for dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/mdy-format.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After clicking "Finish," the dates are successfully converted and are ready for further analysis.
 
 ![US dates converted to UK format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/converted-dates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Converting International Number Formats
 
  In addition to being a tool for converting different date formats, Text to Columns can also convert international number formats.
@@ -151,6 +185,13 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![European number formats for converting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/european-number-formats.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This process is almost identical to the one we used for converting dates. Select the range of values, head to Data > Text to Columns, select the delimited option, and remove all the delimiter characters. On the final step of the wizard, this time we're going to choose the "General" option and then click the "Advanced" button.
 
 ![Advanced options at step 3 of the wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/advanced-button.png) 
@@ -159,17 +200,10 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
 
 ![Specifying the decimal and thousand separator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/advanced-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The values are converted and now recognized as numbers for further calculation and analysis.
 
 ![Numbers converted by Text to Columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/converted-numbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ---
 
  Text to Columns is more powerful than people realize. Its classic use to separate content into different columns is incredibly useful. Especially when working with data we receive from others. The lesser-known abilities to convert date and international number formats are magic.
@@ -180,8 +214,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +221,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-quadcopters-unveiled-decoding-their-mechanism-and-functions/"><u>[New] Quadcopters Unveiled Decoding Their Mechanism and Functions</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>2024 Approved Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-life-to-your-posts-animating-text-on-insta-stories-for-2024/"><u>Bring Life to Your Posts Animating Text on Insta Stories for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722956507167-geforce-rtx-3080-windows-1187-drivers-update-now-and-enjoy-improved-performance/"><u>GeForce RTX 3080 Windows 11/8/7 Drivers: Update Now & Enjoy Improved Performance!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-geforce-gtx-710-driver-for-your-windows-pc/"><u>Get the Latest Nvidia GeForce GTX 710 Driver for Your Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-ultimate-ai-experience-download-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-1187/"><u>Get Your Ultimate AI Experience: Download NVIDIA GeForce RTX 3090 Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-reboot-your-pcs-brain-updating-cpugpu-drivers-on-windows-systems/"><u>How To Reboot Your PC's Brain? Updating CPU/GPU Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-online.techidaily.com/purchase-top-quality-screen-capture-tools-today/"><u>Purchase Top-Quality Screen Capture Tools Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-guide-updating-lenovo-thinkpad-t420-drivers-on-windows/"><u>Quick and Easy Guide: Updating Lenovo ThinkPad T420 Drivers on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-invalid-onedrive-blob-tag-issue/"><u>Strategies to Address Invalid OneDrive Blob Tag Issue</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-mastering-the-art-of-flawless-podcast-production-your-comprehensive-tutorial-for-2024/"><u>Updated Mastering the Art of Flawless Podcast Production Your Comprehensive Tutorial for 2024</u></a></li>
+</ul></div>
 

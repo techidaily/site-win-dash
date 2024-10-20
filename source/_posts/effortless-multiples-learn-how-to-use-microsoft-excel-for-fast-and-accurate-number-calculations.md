@@ -1,7 +1,7 @@
 ---
 title: "Effortless Multiples: Learn How to Use Microsoft Excel for Fast and Accurate Number Calculations"
-date: 2024-08-28T01:35:03.201Z
-updated: 2024-08-29T01:35:03.201Z
+date: 2024-10-18T17:08:08.273Z
+updated: 2024-10-20T18:48:53.179Z
 tags:
   - excel
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Multiply Numbers in a Single Cell
 
  You can use a simple formula to multiply numbers in a single cell. Open Excel and then select the cell you'd like to input the equation. Once selected, enter this formula:
@@ -38,8 +45,12 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![The result of the equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-result-of-the-equation..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Multiply Numbers From Multiple Cells
 
  You can enter a formula in a blank cell to multiply data from other cells. For example, let's say you have `5` in cell A2 and `7` in cell A3, and you want the product of these two figures. In a blank cell, enter this formula:
@@ -48,19 +59,17 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 
 ![The formulat to multiply numbers from different cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-formulat-to-multiply-numbers-from-different-cells..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This formula pulls the data from each entered cell for calculation. Press "Enter" and the result will appear.
 
 ![The product of the two input cells in the multiplication formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-product-of-the-two-input-cells-in-the-multiplication-forumula..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Multiply a Column of Numbers (by a Constant Number)
 
  You can multiply a [column of numbers](https://tiktok-clips.techidaily.com/2024-approved-speeding-up-tiktok-videos-made-simple/) by a number in a different cell. For example, let's say cells A1-A6 each contain a number (your multiplicands), and you want to get the product of those by using the number in cell C1 (your multiplier).
@@ -68,17 +77,18 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
 ![The multiplicands and multiplier in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-multiplicands-and-multiplier-in-Excel..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  First, select cell B2, which is where the output of the first formula will be. In B2, enter this formula:
 
 =A1*$C$1
 
 ![The formula for multiplying the numbers in a column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/The-formula-for-multiplying-the-numbers-in-a-column.-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  Press "Enter" and the product will appear.
 
  The `---
@@ -106,8 +116,6 @@ Related: [How to Calculate the Median in Microsoft Excel](https://some-technique
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +123,20 @@ Related: [How to Calculate the Median in Microsoft Excel](https://some-technique
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-straightforward-approach-turn-video-upside-down-with-vlc-for-2024/"><u>[New] Straightforward Approach Turn Video Upside Down with VLC for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-the-list-of-those-youve-muted-on-facebook/"><u>Deciphering the List of Those You've Muted on Facebook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/delivering-premium-tv-reception-at-a-great-value-in-depth-review-of-the-30-mohu-leaf-antenna/"><u>Delivering Premium TV Reception at a Great Value - In-Depth Review of the 30 Mohu Leaf Antenna</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/driven-with-advanced-data-protection-the-power-of-cookiebot-technology/"><u>Driven with Advanced Data Protection: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-windows-11-compatible-intel-usb-3n-transfer-cards-drivers/"><u>Get the Newest Windows 11 Compatible Intel USB 3.n Transfer Cards (Drivers)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970233025-get-your-toshiba-multifunction-device-up-to-date-with-new-windows-drivers-download-now/"><u>Get Your Toshiba Multifunction Device Up-to-Date with New Windows Drivers – Download Now!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-download-hd-facebook-videos-in-2024/"><u>How to Download HD Facebook Videos, In 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-update-essential-hp-laptop-drives-for-windows-users/"><u>How to Obtain and Update Essential HP Laptop Drives for Windows Users</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-maximizing-yandex-translate-in-video-translation-and-beyond-for-2024/"><u>New Maximizing Yandex Translate in Video Translation and Beyond for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fixes-to-update-drivers-on-your-asus-maximus-x-hero-computer/"><u>Quick Fixes to Update Drivers on Your ASUS Maximus X Hero Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-small-form-factor-pc-boxes-for-2n4-best-mini-itx-cases-reviewed/"><u>Ultimate Selection of Small Form Factor PC Boxes for 2N4, Best Mini-ITX Cases Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-faster-typing-the-powertoys-way/"><u>Unlock Faster Typing: The PowerToys Way</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-hp-scanjet-drivers-available-compatible-with-windows-11-8-and-7-get-your-download-here/"><u>Updated HP Scanjet Drivers Available: Compatible with Windows 11, 8 & 7 - Get Your Download Here!</u></a></li>
+</ul></div>
 

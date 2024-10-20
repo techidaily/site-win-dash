@@ -1,7 +1,7 @@
 ---
 title: AMD Radeon RX 470 Drivers Upgrade - Step-by-Step Guide for a Smooth Graphics Performance
-date: 2024-08-23T15:39:11.764Z
-updated: 2024-08-24T15:39:11.764Z
+date: 2024-10-16T17:10:45.744Z
+updated: 2024-10-20T18:17:27.960Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Intel Iris Plus Graphics 640 driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -49,13 +53,21 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update Intel Iris Plus Graphics 640 driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-24-30.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
@@ -63,8 +75,12 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Update the driver manually
 
 If you opt for updating the driver manually, here’s the procedure:
@@ -72,19 +88,8 @@ If you opt for updating the driver manually, here’s the procedure:
 1. Click **[here](https://downloadcenter.intel.com/product/98911/Intel-Iris-Plus-Graphics-640)**  to visit the download page of Intel Iris Plus Graphics 640 driver.
 2. Click**Intel® Graphics – Windows® 10 DCH Drivers** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-31-07.jpg)
 3. Pay attention to the left section and click the**download** button below the**EXE** file available for download. (You can otherwise download the ZIP file. Note that it’s compressed so you’ll need to extract it before installing the driver on PC.)  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Also, if you want to download a certain version of drivers, you can click the desired one beneath**Other Versions** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-33-59.jpg)
 4. Once you’ve downloaded the correct file, double-click on it and follow the onscreen instructions to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. **Reboot** your PC for the changes to take effect.
 
 ---
@@ -101,8 +106,6 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +113,21 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-full-mastery-guide-adobe-cloud-and-its-rival-services/"><u>[New] 2024 Approved Full Mastery Guide Adobe Cloud and Its Rival Services</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-real-time-visualizer/"><u>[New] Real-Time Visualizer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices/"><u>[Updated] 2024 Approved 5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-humor-hub-picture-composer-for-2024/"><u>[Updated] Humor Hub Picture Composer for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazon-offers-early-exclusive-sale-iphone-m2-macbook-pro-at-a-steal-for-only-800-latest-news/"><u>Amazon Offers Early Exclusive Sale: IPhone M2 MacBook Pro at a Steal for Only $800 | Latest News</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-hp-officejet-5740-driver-software-compatible-with-windows-11-10-and-8/"><u>Download HP Officejet 5740 Driver Software: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-update-methods-for-lenovo-monitors-fresh-drivers-at-your-fingertips/"><u>Easy Update Methods for Lenovo Monitors: Fresh Drivers at Your Fingertips!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/freshly-updated-hp-printer-drivers-for-windows-11-finding-and-downloading-the-right-version/"><u>Freshly Updated HP Printer Drivers for Windows 11 – Finding and Downloading the Right Version</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-windows-7-device-ready-with-quick-bluetooth-driver-download/"><u>Get Your Windows 7 Device Ready with Quick Bluetooth Driver Download</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/harness-the-power-of-combining-zoom-with-facebook-live-features-for-2024/"><u>Harness the Power of Combining Zoom with Facebook Live Features for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g203-headset-driver-download-compatible-with-win7win10win11/"><u>Logitech G203 Headset Driver Download: Compatible with Win7/Win10/Win11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-n30-se-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord N30 SE Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installing-fresh-created-drivers-to-enhance-your-webcam-on-windows/"><u>Step by Step: Installing Fresh Created Drivers to Enhance Your Webcam on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-80-pro-straight-screen-edition-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor 80 Pro Straight Screen Edition Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
 

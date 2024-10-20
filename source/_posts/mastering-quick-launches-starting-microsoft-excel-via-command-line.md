@@ -1,7 +1,7 @@
 ---
 title: "Mastering Quick Launches: Starting Microsoft Excel via Command Line"
-date: 2024-08-28T01:35:14.654Z
-updated: 2024-08-29T01:35:14.654Z
+date: 2024-10-15T17:45:25.237Z
+updated: 2024-10-20T18:36:45.614Z
 tags:
   - excel
 categories:
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 * **[Launch Excel Using Command Prompt](https://tech-recovery.techidaily.com/how-to-enjoy-hulu-on-demand-with-your-lg-smart-television-easy-steps/)**
 * **[Excel Command Line Switches and Parameters](https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Launch Excel Using Command Prompt
 
  There are many ways to start Excel using Command Prompt, but if you want to launch Excel in its normal state (that is, the same way that Excel launches when you click the shortcut), then there are two different ways to do that.
@@ -34,8 +31,12 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![Type cmd in the Windows Search bar and click Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Type-cmd-in-the-Windows-Search-bar-and-click-Command-Prompt..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Command Prompt will open. To launch Excel, type this command and press Enter:
 
 start excel
@@ -43,8 +44,12 @@ start excel
 ![Type "start excel" in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Type-start-excel-in-Command-Prompt.-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Excel should launch immediately.
 
  Another way to open Excel is by locating the directory that holds the excel.exe file, changing to that directory in Command Prompt, and then running a simple command.
@@ -55,6 +60,13 @@ cd\"program files"
 
 ![Change to the "Program Files" directory in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Change-to-the-Program-Files-directory-in-Command-Prompt..png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll now be in the Program Files directory. Next, you need to find out in which directory the excel.exe file is located. To do so, run this command:
 
 dir excel.exe /s
@@ -63,9 +75,6 @@ dir excel.exe /s
 
 ![The directory of Excel returned in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/The-directory-of-Excel..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that you know the directory where excel.exe is located, navigate to that directory. Since we're already in the Program Files directory, we can omit that from the next command. In our example, we'd run this command:
 
 cd Microsoft Office\root\Office16
@@ -76,28 +85,15 @@ cd Microsoft Office\root\Office16
 
 ![Type "excel" in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Type-excel-in-Command-Prompt..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  Excel will now open. However, the main purpose of launching Excel from Command Prompt is so that you can control how it opens, and you do that by appending the various switches and parameters that are available to the command.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Excel Command Line Switches and Parameters
 
  Here's a list of command switches provided by the [official Microsoft Office support site](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6#ID0EAABAAA=Excel). Add these to the end of the `start excel` command in Command Prompt.
@@ -123,8 +119,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +126,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/canon-mp250-driver-installation-instructions-how-to-keep-your-printer-updated/"><u>Canon MP250 Driver Installation Instructions – How to Keep Your Printer Updated</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976390532-download-and-install-the-latest-hp-officejet-4655-printer-drivers/"><u>Download and Install the Latest HP OfficeJet 4655 Printer Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-eliminating-the-sims-4-error-messages-on-your-graphics-card/"><u>Expert Advice: Eliminating The Sims 4 Error Messages on Your Graphics Card</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-realtek-bluetooth-drivers-now-windows-11-and-10-supported/"><u>Get the Most Recent Realtek Bluetooth Drivers Now: Windows 11 and 10 Supported</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-magicard-rio-pro-driver-download-optimized-for-modern-windows-os/"><u>Get the Newest Magicard Rio Pro Driver Download: Optimized for Modern Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-hot-40-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Hot 40 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-poco-m6-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Poco M6 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x50i-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X50i</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-game-changer-for-tiktok-creators-advanced-editing-in-pro-tools-mac-edition/"><u>In 2024, The Game Changer for TikTok Creators Advanced Editing in Pro Tools, Mac Edition</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mitigate-malwares-memory-footprint-in-your-system/"><u>Mitigate Malware's Memory Footprint in Your System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-pairing-with-toshiba-find-and-download-the-right-bluetooth-driver/"><u>Seamless Pairing with Toshiba - Find and Download the Right Bluetooth Driver</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>Voice of Vogue Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Honor Play 7T? | Dr.fone</u></a></li>
+</ul></div>
 

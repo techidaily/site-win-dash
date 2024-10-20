@@ -1,7 +1,7 @@
 ---
 title: Windows 10/11用MP4ファイルの効率的なMOVへの変換手順
-date: 2024-10-13T20:49:06.133Z
-updated: 2024-10-15T04:20:59.723Z
+date: 2024-10-17T17:29:19.251Z
+updated: 2024-10-20T17:34:20.777Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/95b8d87ab463f7ac2adc7d19611917fbcf5034fba80cc910d2cfc1667a896a93.jpg
@@ -44,6 +44,13 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
@@ -51,16 +58,10 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 ![Remove Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-2.webp) 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Way 2:** Click “Parameter settings” below the output format. Navigate to the “Volume” option and move the slider towards the left to “0%”. Then, press “OK” to save the change. Doing so will mute all the videos you import into the software.
@@ -99,13 +100,6 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 **Step 5.** Finally, click the “Share” button in the upper right corner and tap “File” to export the video.
 
 ![Remove Audio from Video iMovie](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-5.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Tip. How to mute part of a video in iMovie?**  
  1\. After detaching the audio from the video, position the playhead (white line on the timeline) and split the audio into two or more parts.  
@@ -168,10 +162,10 @@ Clipchamp is a free non-linear video editor that allows users to mute, trim, com
 ![Clipchamp Mute Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-9.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### • Adobe Premiere Pro
@@ -184,10 +178,10 @@ You can try Adobe Premiere Pro for free for 7 days and then purchase a subscript
 ![Remove Audio from Video Premiere Pro](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-10.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### • VLC Media Player
@@ -207,13 +201,26 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remove Audio from Video FAQs
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q1\. Can I remove the audio from an iPhone video?
 
@@ -228,6 +235,13 @@ Firstly, import your video into the editing software and separate the audio from
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q3\. How to mute a video on different apps?
 
 **YouTube:** You cannot mute the video already uploaded to YouTube, but you can mute it before uploading by clicking the speaker icon under Visibility.
@@ -238,13 +252,6 @@ Firstly, import your video into the editing software and separate the audio from
 
 **WhatsApp:** Open the app on your iPhone or Android. Next, select Chats > choose chat to mute or open a video from your gallery. Finally, tap the speaker icon to mute it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom Line
 
 That is all we want to share with you about how to remove audio from a video. This article collects all popular solutions for muting videos on the Windows, Mac, Android, iOS, and online. Hope they are helpful to you. Thanks for reading!
@@ -252,13 +259,6 @@ That is all we want to share with you about how to remove audio from a video. Th
 All-in-one Video Editor, Converter & Downloader
 
 ![WonderFox HD Video Converter Factory Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-hd-pro-free.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **WonderFox HD Video Converter Factory Pro**
 
@@ -271,10 +271,10 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -292,22 +292,14 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-can-i-see-all-my-connected-peers-shared-vids-and-pics-in-2024/"><u>[New] How Can I See All My Connected Peers' Shared Vids and Pics, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-crafting-mc-village-dwellings/"><u>[New] In 2024, The Ultimate Guide to Crafting MC Village Dwellings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>[Updated] In 2024, Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac-for-2024/"><u>[Updated] Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac) for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-prime-panel-participant-prompter/"><u>2024 Approved Prime Panel Participant Prompter</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y36-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y36 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-your-latest-wireless-network-driver-pack-fast-and-simple/"><u>Download Your Latest Wireless Network Driver Pack - Fast and Simple</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722954366044-easy-access-freshly-updated-wireless-adapter-drivers-ready-for-download/"><u>Easy Access: Freshly Updated Wireless Adapter Drivers Ready for Download</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-to-install-realtek-audio-solution-for-windows-11-download-today/"><u>Easy-to-Install Realtek Audio Solution for Windows 11 – Download Today</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-latest-nvidia-display-driver-windows-1087-support-instantly/"><u>Get Your Latest NVIDIA Display Driver [Windows 10/8/7 Support] Instantly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hassle-free-install-download-now-comprehensive-guide-for-latest-targus-docking-station-drivers/"><u>Hassle-Free Install: [DOWNLOAD NOW] - Comprehensive Guide for Latest Targus Docking Station Drivers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-lenovo-camera-functionality-with-the-latest-driver-updates-for-win7-users/"><u>Improve Lenovo Camera Functionality with the Latest Driver Updates for Win7 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unlock-your-audio-cues-with-ease-windows-and-os-x-guide-to-srt-for-2024/"><u>Unlock Your Audio Cues with Ease Windows & OS X Guide to SRT for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unveiling-secrets-to-effective-snapchat-pins-for-2024/"><u>Unveiling Secrets to Effective Snapchat Pins for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-hp-scanjet-software-for-windows-10-8-and-7-get-the-latest-version-here/"><u>Update Your HP Scanjet Software for Windows 10, 8 & 7 - Get the Latest Version Here!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-10-webcam-troubles-learn-how-to-update-the-drivers-easily/"><u>Windows 10 Webcam Troubles? Learn How to Update the Drivers Easily!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/90r-p-092r-105r-p/"><u>90(R - P) = 0.92R - 1.05(R - P)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/advanced-mac-skills-perfecting-srt-file-management-for-2024/"><u>Advanced Mac Skills Perfecting SRT File Management for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-updated-epson-l3110-driver-software-for-modern-microsoft-systems-win7-win11/"><u>Easy Install: Updated Epson L3110 Driver Software for Modern Microsoft Systems (Win7-Win11)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-insignia-wireless-ethernet-bridge-driver-files/"><u>How To Install Insignia Wireless Ethernet Bridge Driver Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-mobile-phone-for-2024/"><u>How to Shoot Vertical Panorama Photos with Your Mobile Phone for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-recollection-of-previous-windows-password/"><u>Mending “Recollection of Previous Window's Password”</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-gptzero-the-ultimate-tool-for-spotting-synthetic-content/"><u>Unveiling GPTZero: The Ultimate Tool for Spotting Synthetic Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-and-install-synaptics-drivers-in-no-time-a-step-by-step-tutorial-for-windows-users/"><u>Update & Install Synaptics Drivers in No Time: A Step-by-Step Tutorial for Windows Users</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
 </ul></div>
 
