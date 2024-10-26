@@ -1,7 +1,7 @@
 ---
 title: "1992 - Unforgiven, with Eastwood as William Munny, an Aging Former Gunfighter Who Is Persuaded to Go Out for One Last Job: To Take Revenge Against a Prostitute and Her Boss. The Film Was Based on David Webb Peoples' Screenplay ''The Cut-Whore Killings.'"
-date: 2024-08-23T15:37:49.708Z
-updated: 2024-08-24T15:37:49.708Z
+date: 2024-10-18T21:47:18.110Z
+updated: 2024-10-25T23:59:20.903Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ OR
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update GTX 1660 Ti drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your GTX 1660 Ti driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -47,9 +54,6 @@ OR
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
  Here’s your guide to updating your **GTX 1660 Ti** driver manually:
@@ -73,31 +77,34 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
  6) Restart your computer for the changes to take effect even if you’re not asked to.
@@ -116,8 +123,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +130,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/beginners-guide-mastering-ffmpeg-with-step-by-step-mkv-to-mp4-transcoding/"><u>Beginner's Guide: Mastering FFmpeg with Step-by-Step MKV to MP4 Transcoding</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Pova 5 Pro Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-m54-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy M54 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-90-lite-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor 90 Lite? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-multi-sheet-references-in-excel-a-comprehensive-guide-to-3d-cell-linking/"><u>Mastering Multi-Sheet References in Excel: A Comprehensive Guide to 3D Cell Linking</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-office-templates-for-beginners-a-detailed-tutorial-on-ms-office-2010-and-2007-essentials/"><u>Mastering Office Templates for Beginners: A Detailed Tutorial on MS Office 2010 and 2007 Essentials</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-spreadsheets-the-ultimate-techniques-for-starting-fresh-lines-on-microsoft-excel-cells/"><u>Mastering Spreadsheets: The Ultimate Techniques for Starting Fresh Lines on Microsoft Excel Cells</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-art-of-complex-filters-a-step-by-step-guide-to-advanced-excel-functionality/"><u>Mastering the Art of Complex Filters: A Step-by-Step Guide to Advanced Excel Functionality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-art-of-z-scores-a-step-by-step-guide-on-microsoft-excel/"><u>Mastering the Art of Z-Scores: A Step-by-Step Guide on Microsoft Excel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/optimizing-cell-size-adjustment-techniques-for-optimal-text-display-in-ms-excel/"><u>Optimizing Cell Size Adjustment Techniques for Optimal Text Display in MS Excel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/protecting-sensitive-data-learn-how-to-lock-down-documents-and-pdfs-in-ms-office-suite/"><u>Protecting Sensitive Data: Learn How to Lock Down Documents and PDFs in MS Office Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-uncooperative-controllers-on-pc/"><u>Quick Fixes for Uncooperative Controllers on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revamp-your-work-top-12-solutions-for-repairing-malfunctioning-excel-formulas/"><u>Revamp Your Work: Top 12 Solutions for Repairing Malfunctioning Excel Formulas</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-8-stop-motion-animation-software-for-mac-and-pc-for-2024/"><u>Top 8 Stop Motion Animation Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-resolving-audio-output-device-not-installed-on-windows-11/"><u>Troubleshooting Audio Issues: Resolving 'Audio Output Device Not Installed' On Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/under-500-drone-guide-top-5-budget-buzzers-for-2024/"><u>Under $500 Drone Guide Top 5 Budget Buzzers for 2024</u></a></li>
+</ul></div>
 

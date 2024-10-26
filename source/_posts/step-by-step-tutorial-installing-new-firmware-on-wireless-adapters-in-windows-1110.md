@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Installing New Firmware on Wireless Adapters in Windows 11/10"
-date: 2024-08-23T15:29:23.372Z
-updated: 2024-08-24T15:29:23.372Z
+date: 2024-10-20T16:18:10.494Z
+updated: 2024-10-25T16:47:11.907Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,6 +53,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -55,8 +69,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +90,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -92,9 +114,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +154,18 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-four-essential-tips-for-downloading-youtubes-srt/"><u>[New] Four Essential Tips for Downloading YouTube's SRT</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-new-youtube-earning-rules-unveiled/"><u>[New] New YouTube Earning Rules Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing/"><u>[New] The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-instagrams-filter-power-free-searches-revealed/"><u>[New] Unleashing Instagram's Filter Power – Free Searches Revealed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigating-your-way-through-youtube-tvs-unique-offerings/"><u>[Updated] In 2024, Navigating Your Way Through YouTube TV's Unique Offerings</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pc-direct-link-to-intels-newest-usb-3ndrivers-specifically-designed-for-windows-11/"><u>Enhance Your PC: Direct Link to Intel's Newest USB 3.nDrivers Specifically Designed for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-rx-580-driver-software-step-by-step-guide-for-quick-installation/"><u>Get the Latest AMD RX 580 Driver Software: Step-by-Step Guide for Quick Installation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-es-400-scanning-software-for-windows-machines/"><u>Get the Latest ES-400 Scanning Software for Windows Machines</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edgeplus-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge+ (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/revolutionizing-web-navigation-mastering-profile-based-bookmark-management-on-zdnet/"><u>Revolutionizing Web Navigation: Mastering Profile-Based Bookmark Management on ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-update-your-brother-mfc-j480dw-printer-driver-for-windows-devices/"><u>Step-by-Step Tutorial to Update Your Brother MFC J480DW Printer Driver for Windows Devices</u></a></li>
+</ul></div>
 

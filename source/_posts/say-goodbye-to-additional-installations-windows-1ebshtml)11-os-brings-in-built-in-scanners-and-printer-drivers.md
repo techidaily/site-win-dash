@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Additional Installations: Windows 1Ebs/Html>11 OS Brings in Built-In Scanners and Printer Drivers"
-date: 2024-08-23T15:30:19.689Z
-updated: 2024-08-24T15:30:19.689Z
+date: 2024-10-19T16:07:15.907Z
+updated: 2024-10-26T10:58:59.024Z
 tags:
   - win11
   - win10
@@ -29,8 +29,18 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Download the printer and scanner drivers manually
 
  Though Windows stops providing printer and scanner drivers in the installation file, you can still manually download the corresponding drivers via Windows Update or from the manufacturer website. In this case, you’ll need to connect to the Internet after installing the OS.
@@ -50,8 +60,12 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download the printer and scanner drivers automatically
 
  If you don’t have time, patience, or computer skills to update the drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -64,23 +78,23 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7ea60b4d7.jpg)
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -100,8 +114,6 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +121,24 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-muting-unwanted-noise-obs-audio-solution/"><u>[New] 2024 Approved Muting Unwanted Noise OBS Audio Solution</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-wave-goodbye-to-breakups-keep-your-streak-going/"><u>[New] In 2024, Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tech-picks-leading-drone-gimbals/"><u>[Updated] Tech Picks Leading Drone Gimbals</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asrocks-ab350-pro4-drivers-easy-free-download-for-enhanced-windows-performance/"><u>ASROCK's AB350 Pro4 Drivers: Easy, Free Download for Enhanced Windows Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-intel-optane-technology-drivers-on-windows-step-by-step-guide/"><u>Download and Install Intel Optane Technology Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-mf8500c-drivers-compatible-with-windows-7-10-and-81/"><u>Download Canon Printer MF8500C Drivers: Compatible with Windows 7, 10 & 8.1</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitechs-latest-drivers-fast-optimized-for-windows-users/"><u>Download Logitech's Latest Drivers Fast: Optimized for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968221784-how-to-fix-rndis-driver-issues-and-update-for-windows-expert-solutions-available/"><u>How to Fix RNDIS Driver Issues & Update for Windows: Expert Solutions Available</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-razer-software-on-windows-1187xpvista-complete-guide-for-downloads-and-updates/"><u>How to Get the Latest Razer Software on Windows 11/8/7/XP/Vista: Complete Guide for Downloads and Updates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-vrchat-crashes-8-reliable-methods-for-pc-users/"><u>How to Prevent and Fix VRChat Crashes: 8 Reliable Methods for PC Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c50-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C50 To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-or-reinstall-lg-hardware-drivers-for-windows-11-8-and-7-systems/"><u>How to Update or Reinstall LG Hardware Drivers for Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-templates-for-sustainable-storytelling/"><u>In 2024, Free Templates for Sustainable Storytelling</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-toshiba-copier-software-compatible-with-windows-os/"><u>Latest Toshiba Copier Software Compatible with Windows OS</u></a></li>
+</ul></div>
 

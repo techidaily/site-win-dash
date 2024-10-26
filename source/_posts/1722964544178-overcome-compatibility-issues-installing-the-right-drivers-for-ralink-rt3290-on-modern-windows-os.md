@@ -1,7 +1,7 @@
 ---
 title: "Overcome Compatibility Issues: Installing the Right Drivers for Ralink RT3290 on Modern Windows OS!"
-date: 2024-08-23T15:33:09.472Z
-updated: 2024-08-24T15:33:09.472Z
+date: 2024-10-20T16:14:56.500Z
+updated: 2024-10-26T11:38:57.871Z
 tags:
   - win11
   - win10
@@ -42,9 +42,23 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -55,8 +69,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +90,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -92,18 +114,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -137,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +154,18 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-authored-video-distributors/"><u>[New] Premium Authored Video Distributors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tailor-your-fb-theme-with-footage/"><u>[Updated] 2024 Approved Tailor Your FB Theme with Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pixel-perfection-best-video-cameras-for-extended-recording-times/"><u>[Updated] Pixel Perfection Best Video Cameras for Extended Recording Times</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-picking-between-filmora-and-democracy-creator-for-edits/"><u>2024 Approved Picking Between Filmora and Democracy Creator for Edits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-gaming-and-graphics-on-windows-1087-using-official-nvidia-rtx-3070-ti-drivers/"><u>Enhance Gaming and Graphics on Windows 10/8/7 Using Official NVIDIA RTX 3070 Ti Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-started-with-your-magic-mouse-downloading-windows-compatible-drivers/"><u>Getting Started with Your Magic Mouse: Downloading Windows-Compatible Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-exceptions-fixing-memory-could-not-be-written-error-due-to-improper-references/"><u>Handling Exceptions: Fixing 'Memory Could Not Be Written' Error Due to Improper References</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-netgear-wna3100-driver-upgrade-download-instructions-for-beginners/"><u>Seamless Netgear WNA3100 Driver Upgrade: Download Instructions for Beginners</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-the-newest-no-cost-amd-radeon-graphics-driver-for-windows-8-users/"><u>Secure the Newest, No-Cost AMD Radeon Graphics Driver for Windows 8 Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplify-your-work-the-best-5-mac-snipper-applications-for-2024/"><u>Simplify Your Work The Best 5 Mac Snipper Applications for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speed-up-your-usb-cam-connectivity-secure-reliable-drivers-available-now/"><u>Speed-Up Your USB Cam Connectivity – Secure, Reliable Drivers Available Now!</u></a></li>
+</ul></div>
 

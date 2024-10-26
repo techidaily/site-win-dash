@@ -1,7 +1,7 @@
 ---
 title: Installing HP OfficeJet 5740 Printer Drivers on Windows 11/10/8 – Step-by-Step Instructions
-date: 2024-08-23T15:35:10.293Z
-updated: 2024-08-24T15:35:10.293Z
+date: 2024-10-23T03:58:33.507Z
+updated: 2024-10-26T06:00:24.658Z
 tags:
   - win11
   - win10
@@ -42,9 +42,23 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -54,9 +68,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +83,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -93,8 +108,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +154,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-win11s-ultimate-screen-recording-kit/"><u>[New] Win11's Ultimate Screen Recording Kit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quicktime-stall-capture-help-for-2024/"><u>[Updated] QuickTime Stall Capture Help for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streaming-software-showdown-the-verdict-between-obs-and-bandicam-for-2024/"><u>[Updated] Streaming Software Showdown The Verdict Between OBS and Bandicam for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-connect-your-content-from-twitch-to-facebook/"><u>2024 Approved Connect Your Content From Twitch to Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-the-elegance-of-onsite-data-duplication-a-guide-to-local-backups/"><u>Embracing the Elegance of Onsite Data Duplication: A Guide to Local Backups</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-closer-video-in-google-meet-sessions/"><u>In 2024, Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y78-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y78 5G Location | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/"><u>Perfect Synchronization Enhancing Audio-Visual with Subtitles in WMP</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-desktop-and-browser-based-tools-for-adding-subtitles-to-videos-resolve-your-captioning-needs/"><u>Top Desktop & Browser-Based Tools for Adding Subtitles to Videos - Resolve Your Captioning Needs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-free-software-for-mp4-video-format-conversion-on-windows/"><u>Top Free Software for MP4 Video Format Conversion on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/transform-raw-camera-recordings-into-seamless-videos-using-advanced-video-conversion-software/"><u>Transform Raw Camera Recordings Into Seamless Videos Using Advanced Video Conversion Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshoot-youtube-stuttering-with-easy-and-free-techniques/"><u>Troubleshoot YouTube Stuttering with Easy & Free Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-tips-successfully-ripping-dvds-with-handbrake-despite-errors/"><u>Troubleshooting Tips: Successfully Ripping DVDs with HandBrake Despite Errors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-secure-dvd-content-conversion-on-windows-11-backup-and-watch-your-favorite-movies-effortlessly/"><u>Ultimate Guide to Secure DVD Content Conversion on Windows 11 - Backup and Watch Your Favorite Movies Effortlessly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-quickly-and-effortlessly-implementing-subtitles-in-kodi/"><u>Ultimate Guide: Quickly and Effortlessly Implementing Subtitles in Kodi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-retrieving-data-from-bin-files-using-top-tier-cost-free-utility-tools/"><u>Ultimate Guide: Retrieving Data From .bin Files Using Top-Tier, Cost-Free Utility Tools</u></a></li>
+</ul></div>
 
