@@ -1,7 +1,7 @@
 ---
 title: Latest Compatible Driver for Your ScanSnap S1100 – Quick Setup Steps Inside!
-date: 2024-08-19T10:01:08.389Z
-updated: 2024-08-20T10:01:08.389Z
+date: 2024-10-27T07:15:32.529Z
+updated: 2024-11-01T03:47:44.158Z
 tags:
   - win11
   - win10
@@ -44,14 +44,30 @@ thumbnail: https://thmb.techidaily.com/3b1acf72418bcbc32cbafc2ecf801ef760b09fcf6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Download and install the driver manually
 
  HP keeps updating the HP LaserJet 1018 driver. To get it, follow the instructions below:
@@ -63,33 +79,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-232-1024x310.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Click **Software, Drivers and Firmware** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
  Hope this helped and feel free to comment below if you have any further questions.
@@ -100,8 +110,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +117,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-sounds-policy-explained/"><u>[New] 2024 Approved Instagram Sounds Policy Explained</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-sharing-twitter-videos-on-instagram-highlights-for-2024/"><u>[Updated] Cross-Platform Sharing Twitter Videos on Instagram Highlights for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-superior-non-zoom-virtual-collaboration-options/"><u>[Updated] In 2024, Superior Non-Zoom Virtual Collaboration Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dessert-dialogues-discovering-chocolate-across-cultures/"><u>Dessert Dialogues: Discovering 'Chocolate' Across Cultures</u></a></li>
+<li><a href="https://win-dash.techidaily.com/experience-hassle-free-printing-with-the-official-hp-laserjet-plinklink-1006-driver-installation/"><u>Experience Hassle-Free Printing with the Official HP LaserJet P(link)([link]) 1006 Driver Installation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722957432894-get-the-newest-brother-mfc-7360n-driver-update-smooth-setup-on-windows-1087/"><u>Get the Newest Brother MFC-7360N Driver Update – Smooth Setup on Windows 10/8/7!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/humor-hierarchy-the-20-most-popular-memes-for-2024/"><u>Humor Hierarchy The 20 Most Popular Memes for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-x220-essential-drivers-download-and-installation-made-easy/"><u>Lenovo X220 Essential Drivers - Download & Installation Made Easy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-fixing-hp-envy-4520-printer-connection-in-windows/"><u>Step-by-Step Guide to Fixing HP Envy 4520 Printer Connection in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/techkey-bluetooth-compatibility-and-driver-download-options-for-windows-10-7-and-annoyance/"><u>Techkey Bluetooth Compatibility and Driver Download Options for Windows 10, 7 & Annoyance</u></a></li>
+<li><a href="https://facebook.techidaily.com/tutorial-stop-everyone-notifications/"><u>Tutorial: Stop @Everyone Notifications</u></a></li>
+</ul></div>
 

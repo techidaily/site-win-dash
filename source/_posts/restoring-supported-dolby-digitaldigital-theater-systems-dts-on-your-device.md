@@ -1,7 +1,7 @@
 ---
 title: Restoring Supported Dolby Digital/Digital Theater Systems (DTS) on Your Device
-date: 2024-08-19T10:00:51.938Z
-updated: 2024-08-20T10:00:51.938Z
+date: 2024-10-29T06:25:40.160Z
+updated: 2024-11-01T06:30:23.181Z
 tags:
   - win11
   - win10
@@ -41,13 +41,24 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
  Or click the**Update** button next to the Intel(R) Iris(R) Plus Graphics 655 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-iris-655.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Download and install Intel Iris Plus Graphics 655 driver manually
 
  Intel keeps updating drivers. To get them, you need to go to the Intel download center, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10 64 bit) and download the driver manually. Here’s how:
@@ -56,24 +67,28 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 2. Under Select Your Product, choose**Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics.jpg)
 3. In the search box, type**Intel Iris Plus graphics 655** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/type-655.jpg)
 4. Click**Intel® Graphics – Windows\* DCH Drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics-DCH-drivers.jpg)
 5. Download the latest version of the driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-latest-graphics-driver.jpg)
 6. Once you’ve downloaded the file, double-click on it and follow the on-screen instructions to**install the driver** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. **Restart your computer** for the changes to take effect.
 
 ---
@@ -88,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +110,24 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>[New] 2024 Approved Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-everyday-snaps-to-professional-videos-the-top-9-mobile-filmmaking-gadgets/"><u>[New] From Everyday Snaps to Professional Videos - The Top 9 Mobile Filmmaking Gadgets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-basics-of-capturing-switch-gaming-moments/"><u>[New] The Basics of Capturing Switch Gaming Moments</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-downloading-and-updating-windows-compatible-hp-laptop-drivers/"><u>Comprehensive Guide: Downloading & Updating Windows-Compatible HP Laptop Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dissecting-the-graphics-presentation-of-ms-bda/"><u>Dissecting the Graphics Presentation of MS BDA</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968485528-effortless-installation-get-your-mediatek-vcom-usb-driver-now/"><u>Effortless Installation: Get Your MediaTek VCOM USB Driver Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-logitech-keyboard-software-for-windows-11/"><u>Effortless Installation: Logitech Keyboard Software for Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/finding-the-most-skilled-film-capturers/"><u>Finding the Most Skilled Film Capturers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-and-instant-access-to-updated-acer-wireless-drivers/"><u>Free & Instant Access to Updated Acer Wireless Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-stylus-nx420-drivers-installed-for-windows-7810-systems-quickly/"><u>Get Your Epson Stylus NX420 Drivers Installed for Windows 7/8/10 Systems Quickly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-x100-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo X100 Phones? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-roundup-post-vlc-media-players/"><u>In 2024, The Ultimate Roundup Post-VLC Media Players</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-to-hp-software-fresh-drivers-at-your-fingertsip/"><u>Instant Access to HP Software - Fresh Drivers at Your Fingertsip!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-dell-network-adapter-drivers-compatible-with-windows-7/"><u>Latest Dell Network Adapter Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/nvidia-quadro-dch-drivers-for-windows-10-free-download-now-available/"><u>NVIDIA Quadro DCH Drivers for Windows 10 - Free Download Now Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-ai-talk-twist-gpt-vs-bingbot-breakdown/"><u>Unraveling the AI Talk Twist: GPT Vs. BingBot Breakdown</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-from-clips-to-masterpieces-the-ultimate-video-editor/"><u>Updated 2024 Approved From Clips to Masterpieces The Ultimate Video Editor</u></a></li>
+</ul></div>
 

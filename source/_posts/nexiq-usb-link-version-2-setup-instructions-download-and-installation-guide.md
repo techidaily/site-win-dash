@@ -1,7 +1,7 @@
 ---
 title: "NEXiQ USB Link Version 2 Setup Instructions: Download and Installation Guide"
-date: 2024-08-19T10:02:28.988Z
-updated: 2024-08-20T10:02:28.988Z
+date: 2024-10-26T04:01:28.843Z
+updated: 2024-11-01T03:10:50.675Z
 tags:
   - win11
   - win10
@@ -36,8 +36,19 @@ There are two ways to download iCUE.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Download iCUE from the product page
 
  According to the Corsair gaming mouse you have, you can download related iCUE by your product’s model name.  
@@ -45,17 +56,8 @@ There are two ways to download iCUE.
 1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to do if your mouse still has issues?
 
  After reinstalling iCUE driver, if your gaming mouse still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.
@@ -71,8 +73,12 @@ There are two ways to download iCUE.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -80,8 +86,12 @@ There are two ways to download iCUE.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
@@ -96,8 +106,6 @@ There are two ways to download iCUE.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +113,21 @@ There are two ways to download iCUE.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-the-myth-of-color-standards-z32x-reviewed/"><u>[New] Breaking the Myth of Color Standards Z32X Reviewed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-finding-purpose-in-film-our-selection-of-top-motivational-titles/"><u>[Updated] In 2024, Finding Purpose in Film Our Selection of Top Motivational Titles</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728480430716-win11/"><u>謎樣Win11通話失去？緊急修復指南正式亮相！</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-tp-link-ub400-bluetooth-adapter-drivers-free-updates-available/"><u>Download the Latest TP-Link UB400 Bluetooth Adapter Drivers - Free Updates Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-epson-wf-7710-printer-drivers-for-your-windows-pc-windows-11-81-and-earlier-supported/"><u>Easy Install EPSON WF-7710 Printer Drivers for Your Windows PC (Windows 11, 8.1 & Earlier Supported)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-steps-to-create-a-cddvd-with-windows-11-or-windows-7-utilizing-winxdvd-program/"><u>Easy Steps to Create a CD/DVD with Windows 11 or Windows 7 Utilizing WinXDVD Program</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-guide-amd-radeon-rx-580-driver-downloads-and-updates-instant-access/"><u>Effortless Guide: AMD Radeon RX 580 Driver Downloads & Updates - Instant Access</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-discord-disruption-during-live-streams/"><u>Expert Tips to Overcome Discord Disruption During Live Streams</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970975252-how-to-easily-upgrade-your-nvidia-quadro-rtx-4000-drivers-secure-and-fast-downloads-available-now/"><u>How to Easily Upgrade Your NVIDIA Quadro RTX 4000 Drivers – Secure & Fast Downloads Available Now!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-digital-enhancement-social-story-recorder/"><u>In 2024, Digital Enhancement Social Story Recorder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-asus-mousepad-driver-downloads-compatible-with-windows-systems/"><u>Latest ASUS Mousepad Driver Downloads Compatible with Windows Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-sound-on-your-apple-device-top-picks-for-2024/"><u>Mastering Sound on Your Apple Device (Top Picks) for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-epson-wf-7710-drivers-downloads-tailored-for-windows-users-win10-win81-win8-and-win7/"><u>Secure Epson WF-7710 Drivers: Downloads Tailored for Windows Users (Win10, Win8.1, Win8 & Win7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-graphics-card-restrictions-your-ultimate-fix-for-fortnite-on-windows/"><u>Winning the Battle Against Graphics Card Restrictions – Your Ultimate Fix for Fortnite on Windows</u></a></li>
+</ul></div>
 

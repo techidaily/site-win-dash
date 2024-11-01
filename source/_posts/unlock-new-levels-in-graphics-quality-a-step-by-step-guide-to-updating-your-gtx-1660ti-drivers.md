@@ -1,7 +1,7 @@
 ---
 title: "Unlock New Levels in Graphics Quality: A Step-by-Step Guide to Updating Your GTX 1660Ti Drivers"
-date: 2024-08-19T10:01:10.637Z
-updated: 2024-08-20T10:01:10.637Z
+date: 2024-10-29T23:16:39.048Z
+updated: 2024-10-31T22:21:29.940Z
 tags:
   - win11
   - win10
@@ -120,6 +120,13 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -130,13 +137,40 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -159,8 +193,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +200,24 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-comprehensive-techniques-for-gauging-yt-popularity-and-monetization/"><u>[Updated] Comprehensive Techniques for Gauging YT Popularity & Monetization</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-pick-for-mp4-recorders-on-market/"><u>[Updated] Top Pick for MP4 Recorders on Market</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-success-optimizing-gaming-videos-via-smart-use-of-hashtags/"><u>[Updated] Unlocking Success Optimizing Gaming Videos via Smart Use of Hashtags</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-text-techniques-top-10-video-enhancers/"><u>2024 Approved Text Techniques Top 10 Video Enhancers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974230182-dell-wifi-card-software-update-free-access-here/"><u>Dell WiFi Card Software Update: FREE Access Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-repairing-issues-with-realteks-hd-graphics-driver/"><u>Easy Guide to Repairing Issues with Realtek's HD Graphics Driver</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficient-driver-downloads-for-your-dell-latitude-e6-420-get-them-fast/"><u>Efficient Driver Downloads for Your Dell Latitude E6 420 - Get Them Fast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-dvd-cloning-tutorial-for-windows-11-users-ultimate-method-revealed/"><u>Effortless DVD Cloning Tutorial for Windows 11 Users – Ultimate Method Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-sound-blaster-audigy-latest-drivers-available-here/"><u>Get Your Sound Blaster Audigy - Latest Drivers Available Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-and-update-your-dell-latitude-e6ebody-with-the-latest-windows-drivers-solution-included/"><u>How to Obtain and Update Your Dell Latitude E6ebody with the Latest Windows Drivers (Solution Included)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-strategies-for-effective-gopro-time-lapse-footage/"><u>In 2024, Expert Strategies for Effective GoPro Time-Lapse Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-edge-wireless-cameras-the-hottest-18-on-the-market-for-2024/"><u>Leading-Edge Wireless Cameras The Hottest 18 On The Market for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/lenovo-x23-1st-generation-drivers-quick-download-options-to-optimize-performance/"><u>Lenovo X23 1St Generation Drivers - Quick Download Options to Optimize Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-xbox-one-controller-connectivity-with-updated-xp-pen-drivers/"><u>Master Xbox One Controller Connectivity with Updated XP-Pen Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fresh-install-of-epson-xp-440-printer-drivers-on-windows/"><u>Step by Step: Fresh Install of Epson XP-440 Printer Drivers on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/web-comedy-architect/"><u>Web Comedy Architect</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->

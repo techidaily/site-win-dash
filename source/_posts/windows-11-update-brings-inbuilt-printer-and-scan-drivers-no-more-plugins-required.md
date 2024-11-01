@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Update Brings Inbuilt Printer and Scan Drivers - No More Plugins Required
-date: 2024-08-19T10:00:29.526Z
-updated: 2024-08-20T10:00:29.526Z
+date: 2024-10-24T20:03:01.797Z
+updated: 2024-10-31T22:36:54.276Z
 tags:
   - win11
   - win10
@@ -21,6 +21,13 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to install the drivers for printers and scanners?
 
  But don’t worry. We’ll help you fix this problem. Try these methods to download and install the full feature drivers in your computer.
@@ -29,8 +36,12 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Download the printer and scanner drivers manually
 
  Though Windows stops providing printer and scanner drivers in the installation file, you can still manually download the corresponding drivers via Windows Update or from the manufacturer website. In this case, you’ll need to connect to the Internet after installing the OS.
@@ -50,9 +61,18 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download the printer and scanner drivers automatically
 
  If you don’t have time, patience, or computer skills to update the drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,20 +85,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7ea60b4d7.jpg)
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -97,8 +114,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +121,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-facebook-fam-bites-in-snapchat-spotlight/"><u>[New] Facebook Fam Bites in Snapchat Spotlight</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-diverse-opinions-one-easeus-evaluation/"><u>[Updated] In 2024, Diverse Opinions, One EaseUS Evaluation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-launchpad-to-digital-society-the-essentials-of-facebook-account-creation/"><u>[Updated] Launchpad to Digital Society The Essentials of Facebook Account Creation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-2023-edition-of-effortless-instagram-filter-usage-unveiled/"><u>[Updated] The 2023 Edition of Effortless Instagram Filter Usage Unveiled</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-simple-guide-making-your-windows-computer-speak-like-a-fish-for-2024/"><u>[Updated] The Simple Guide Making Your Window's Computer Speak Like a Fish for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/best-mp3-to-mpg-video-converters-available-at-no-cost-easy-step-by-step-guide/"><u>Best MP3-to-MPG Video Converters Available at No Cost – Easy Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-amd-radeon-r9-200-series-graphics-card-drivers-on-windows-systems/"><u>Download and Install AMD Radeon R9 200 Series Graphics Card Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-lenovo-thinkpad-t430-drivers-compatible-with-windows-10-8-and-7-step-by-step-guide/"><u>Download Lenovo ThinkPad T430 Drivers: Compatible with Windows 10, 8 & 7 - Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-sorting-emails-using-gmail-labels/"><u>Effective Techniques for Sorting Emails Using Gmail Labels</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensuring-seamless-communication-update-your-arduino-usb-drivers-for-windows-today/"><u>Ensuring Seamless Communication: Update Your Arduino USB Drivers for Windows Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-drivers-for-your-lenovo-x260-laptop-running-on-windows-10/"><u>Get the Latest Drivers for Your Lenovo X260 Laptop Running on Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-new-drivers-for-your-canon-mp250-printer/"><u>How to Get & Install New Drivers for Your Canon MP250 Printer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-wireless-network-adapter-driver-download-and-update-for-wi-fi-6-ax200-on-windows-1110/"><u>Intel Wireless Network Adapter Driver Download and Update for Wi-Fi 6 AX200 on Windows 11/10</u></a></li>
+<li><a href="https://techidaily.com/sign-dotx-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dotx file Online for Free</u></a></li>
+<li><a href="https://win-dash.techidaily.com/streamline-your-experience-on-windows-1nvite-intels-iris-plus-graphics-driver-v655-for-optimal-display-quality/"><u>Streamline Your Experience on Windows 1Nvite Intel's Iris Plus Graphics Driver v655 for Optimal Display Quality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-refresh-your-ati-driver-software-in-windows-easily/"><u>The Ultimate Tutorial: Refresh Your ATI Driver Software in Windows Easily</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-turning-off-pop-up-suppressors-on-major-browsers-chrome-firefox-edge-and-ie/"><u>Ultimate Guide: Turning Off Pop-Up Suppressors on Major Browsers (Chrome, Firefox, Edge & IE)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-gpu-fetch-the-latest-amd-radeon-hd-7700-drivers-for-improved-visuals/"><u>Upgrade Your GPU - Fetch the Latest AMD Radeon HD 7700 Drivers for Improved Visuals</u></a></li>
+</ul></div>
 

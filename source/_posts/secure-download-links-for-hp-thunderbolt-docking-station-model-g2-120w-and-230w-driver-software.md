@@ -1,7 +1,7 @@
 ---
 title: Secure Download Links for HP Thunderbolt Docking Station Model G2 – 120W & 230W Driver Software
-date: 2024-08-19T10:00:16.501Z
-updated: 2024-08-20T10:00:16.501Z
+date: 2024-10-27T01:49:28.769Z
+updated: 2024-11-01T04:25:59.002Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ Or
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/)
  You can update your Geforce RTX 3070 Ti driver on your own. This requires some time, patience, and sometimes even computer skills.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update your Geforce RTX 3070 Ti driver automatically
 
  If you don’t have the time, patience or computer skills to update your Geforce RTX 3070 Ti driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .  
@@ -41,6 +54,14 @@ Or
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/06/Driver-Easy-Scan-Now.jpg)
 3. Click **Update** next to your **Geforce RTX 3070 Ti** graphics card to automatically download the correct version of its driver, then you can install it manually.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Download RTX 3070 Ti driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-RTX-3070-Ti-driver-automatically-with-Driver-Easy.jpg)  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -49,8 +70,12 @@ Or
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download and install your Geforce RTX 3070 Ti driver manually
 
  You can download the updated driver file for your Geforce RTX 3070 Ti graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  . Here is how to do it:
@@ -59,14 +84,16 @@ Or
 2. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 30 Series** ; for “Product”, select **Geforce RTX 3070 Ti** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .  
 ![Download RTX 3070 Ti driver manually](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-RTX-3070-Ti-driver-manually.jpg)
 3. Click the **DOWNLOAD** button to download the driver file.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Download RTX 3070 Ti driver manually 1](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-RTX-3070-Ti-driver-manually-1.jpg)
 4. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -84,8 +111,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +118,21 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhance-file-handling-effective-methods-for-transferring-to-your-computer/"><u>[New] In 2024, Enhance File Handling Effective Methods for Transferring to Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grading-made-simple-3-ways-to-amplify-your-pics/"><u>[Updated] Grading Made Simple 3 Ways to Amplify Your Pics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streaming-platforms-battle-evaluating-streamlabs-and-obs-features/"><u>[Updated] In 2024, Streaming Platforms Battle Evaluating Streamlabs & OBS Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/access-free-m-audio-fast-track-ultra-driver-software-for-optimal-audio-quality/"><u>Access FREE M-Audio Fast Track Ultra Driver Software for Optimal Audio Quality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/acer-aspire-driver-downloading-tutorial-ensure-optimal-performance-on-your-windows-machine/"><u>Acer Aspire Driver Downloading Tutorial: Ensure Optimal Performance on Your Windows Machine</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/elevate-engagement-the-hottest-tiktok-hashtags-for-now-for-2024/"><u>Elevate Engagement The Hottest TikTok Hashtags for Now for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971127287-get-the-latest-dell-wd19-printer-drivers-installed-today/"><u>Get the Latest Dell WD19 Printer Drivers Installed Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-downloading-and-installing-microsoft-surface-pro-4-driver-software-in-windows-environments/"><u>Guide to Downloading and Installing Microsoft Surface Pro 4 Driver Software in Windows Environments</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-nexiq-usb-link-2-drivers-for-your-pc-or-mac/"><u>How to Get the Latest Nexiq USB Link 2 Drivers for Your PC or Mac</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m54-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy M54 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-beats-sound-card-trouble-solve-your-windows-devices-driver-woes-win10-win8-win7/"><u>HP Beats Sound Card Trouble? Solve Your Windows Device's Driver Woes (Win10, Win8, Win7)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-gionee-f3-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Gionee F3 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-loop-your-videos-with-ease-10-free-online-video-looping-tools-for-2024/"><u>New Loop Your Videos with Ease 10 Free Online Video Looping Tools for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-magic-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor Magic 5 to PC- Detailed Steps | Dr.fone</u></a></li>
+</ul></div>
 
