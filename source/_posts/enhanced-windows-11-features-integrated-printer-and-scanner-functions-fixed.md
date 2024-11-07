@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Windows 11 Features: Integrated Printer and Scanner Functions Fixed"
-date: 2024-08-19T09:58:23.032Z
-updated: 2024-08-20T09:58:23.032Z
+date: 2024-10-31T00:41:29.593Z
+updated: 2024-11-06T20:00:58.826Z
 tags:
   - win11
   - win10
@@ -21,6 +21,13 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to install the drivers for printers and scanners?
 
  But don’t worry. We’ll help you fix this problem. Try these methods to download and install the full feature drivers in your computer.
@@ -28,9 +35,6 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 1. [**Download the printer and scanner drivers manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Method 1: Download the printer and scanner drivers manually
 
  Though Windows stops providing printer and scanner drivers in the installation file, you can still manually download the corresponding drivers via Windows Update or from the manufacturer website. In this case, you’ll need to connect to the Internet after installing the OS.
@@ -50,8 +54,12 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Download the printer and scanner drivers automatically
 
  If you don’t have time, patience, or computer skills to update the drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -64,14 +72,23 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7ea60b4d7.jpg)
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -91,8 +108,6 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +115,22 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-cloaking-details-in-visual-data-storage/"><u>[Updated] 2024 Approved Cloaking Details in Visual Data Storage</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-perfect-driver-for-your-samsung-850-evo-solid-state-drive-today/"><u>Download the Perfect Driver for Your Samsung 850 EVO Solid State Drive Today!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-samsung-galaxy-m34-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Samsung Galaxy M34</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-stability-problems-with-sony-vegas-no-more-crashes-guaranteed/"><u>Fixing Stability Problems with Sony Vegas - No More Crashes Guaranteed!</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x-flip-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-search-history-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Search history</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970249419-how-gene-therapy-might-work/"><u>How Gene Therapy Might Work</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-obtain-nvidia-driver-updates-for-windows-10-7-and-ebitron/"><u>How to Easily Obtain Nvidia Driver Updates for Windows 10, 7 & Ebitron</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-install-or-update-ralink-driver-software-in-windows-systems/"><u>How to Successfully Install or Update Ralink Driver Software in Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-z50s-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia Z50S Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-sourav-joshis-financial-journey-charting-a-profitable-course-on-youtube/"><u>In 2024, Sourav Joshi’s Financial Journey Charting a Profitable Course on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-releases-update-for-fixed-acpi-battery-driver-problems-enhancing-device-efficiency/"><u>Microsoft Releases Update for Fixed ACPI Battery Driver Problems, Enhancing Device Efficiency</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-upgrade-installing-the-latest-intel-iris-plus-graphics-drivers-in-no-time/"><u>Seamless Upgrade: Installing the Latest Intel Iris Plus Graphics #Drivers in No Time</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-intel-integrated-graphics-driver-on-windows-11-free-download/"><u>Update Your Intel Integrated Graphics Driver on Windows 11 - Free Download</u></a></li>
+</ul></div>
 
