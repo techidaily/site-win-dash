@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Updating Lenovo IdeaPad 100S Drivers Quickly and Effortlessly
-date: 2024-08-19T09:51:09.025Z
-updated: 2024-08-20T09:51:09.025Z
+date: 2024-11-13T22:46:31.473Z
+updated: 2024-11-16T20:08:30.545Z
 tags:
   - win11
   - win10
@@ -120,6 +120,13 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -130,13 +137,34 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -159,8 +187,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +194,22 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-audio-to-text-converter-for-videos-for-2024/"><u>[Updated] Audio-to-Text Converter for Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/adapting-to-ai-master-key-concepts-by-learning-these-crucial-7-terms/"><u>Adapting to AI: Master Key Concepts by Learning These Crucial 7 Terms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-x1-carbon-drivers-compatible-with-windows-11-and-7-installed-pcs/"><u>Download and Update Lenovo X1 Carbon Drivers: Compatible with Windows 11 & 7 Installed PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961558746-download-logitech-hd-webcam-c270-drivers-compatible-with-windows-11/"><u>Download Logitech HD Webcam C270 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easily-install-up-to-date-drivers-for-your-hp-deskjet-printer-on-windows-operating-systems-windows-111087/"><u>Easily Install Up-to-Date Drivers for Your HP DeskJet Printer on Windows Operating Systems: Windows 11/10/8/7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enabling-virtual-reality-on-your-phone-a-step-by-step-approach/"><u>Enabling Virtual Reality on Your Phone A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-version-how-to-install-your-dell-wd19-graphics-card-drivers/"><u>Get the Latest Version: How to Install Your Dell WD19 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-download-and-setup-epson-es-400-driver-for-seamless-scanning-on-windows-operating-system/"><u>How To Find, Download & Setup Epson ES-400 Driver For Seamless Scanning On Windows Operating System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-lagging-phone-connection-understanding-7-wi-fi-woes/"><u>How to Fix a Lagging Phone Connection: Understanding 7 Wi-Fi Woes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discovering-the-secret-to-engaging-content-with-aspect-ratios-in-youtube/"><u>In 2024, Discovering the Secret to Engaging Content with ASPECT RATIOS in YOUTUBE</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-xcover-7-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy XCover 7 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-vr-contemporary-insights-and-upcoming-struggles/"><u>In 2024, Inside VR Contemporary Insights & Upcoming Struggles</u></a></li>
+<li><a href="https://article-files.techidaily.com/leading-innovation-vr-controllers-reviewed-for-2024/"><u>Leading Innovation VR Controllers Reviewed for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newest-magicard-rio-pro-driver-software-released-for-windows-11-81-and-windows-7-users/"><u>Newest Magicard Rio Pro Driver Software Released for Windows 11, 8.1 and Windows 7 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-downloading-and-updating-amd-rx-480-graphics-drivers/"><u>Step-by-Step Guide: Downloading & Updating AMD RX 480 Graphics Drivers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->

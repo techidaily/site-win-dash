@@ -1,7 +1,7 @@
 ---
 title: "Video Economy: HC-V770 Insight"
-date: 2024-08-19T09:52:54.706Z
-updated: 2024-08-20T09:52:54.706Z
+date: 2024-11-13T00:37:20.677Z
+updated: 2024-11-17T05:38:32.197Z
 categories:
   - BestProducts
 description: "This Article Describes Video Economy: HC-V770 Insight"
@@ -39,9 +39,23 @@ Lifewire / Andy Zahn
 
 4.3
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Canon PowerShot SX70
 
 ![Canon PowerShot SX70 HS](https://www.lifewire.com/thmb/2_6hdMU_X4AgILY2u59V9GRJ7ZM=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW493676-HeroSquare-40ae318f81834941adfaf79392cf30b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andy Zahn
 
@@ -75,9 +89,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design: Built to last, great to use**
 
  The SX70 HS is a tiny little camera considering the zoom range it packs in, yet it never felt too small in our hands. The exterior is composed of grippy texturized plastic and features a generous leather grip. We never worried about dropping it, and it feels tough enough to take the odd jolt and jostle in stride.
@@ -100,6 +111,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Display and Viewfinder: Saturated and clear**
 
  The three-inch, 920,000-dot screen on the SX70 HS looks amazing—perhaps_too_ amazing, as your photos will look better on it than on your phone or computer. The screen is fully articulating and solidly built. Our one complaint would be how easily it picks up smudges, and how difficult those smudges are to remove. An advantage of the articulating screen is that it can be turned face-in to avoid dirt and damage and to save on battery life.
@@ -116,9 +134,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## **Photo Quality: Great colors, average resolution**
 
  We love the warm, natural color tone that[Canon cameras](https://www.lifewire.com/best-new-canon-cameras-493499) produce, and the SX70 HS doesn’t disappoint. Its photos are vibrant and it captures particularly nice portraits.
@@ -135,9 +150,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Modes: Plenty to choose from (and only some are useful)**
 
  The SX70 HS includes the standard Auto, Program, Shutter Priority (Tv), Aperture Priority (Av), and Manual modes, accessible via the top mode dial. Additionally, you will find two video modes: one that opens up more advanced video features, and one that shoots short video clips followed by a still photo. That second mode is quite odd, and we found that it did not produce good results.
@@ -176,14 +188,18 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## **Price: Big brand, big price tag**
 
  With an MSRP of $549, the SX70 HS isn’t cheap (though you can often find it for $50-$100 less). However, considering the overall high quality of this camera, the premium price is at least somewhat justified.
 
  You can find similar image quality in[other superzoom cameras](https://www.lifewire.com/best-ultra-zoom-cameras-493676) that cost much less, and it does seem that to some extent you are paying extra for the Canon brand name.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Dominating from the middle ground**
 
@@ -202,17 +218,18 @@ Lifewire / Andy Zahn
  For a general-purpose point-and-shoot, the Canon Powershot SX70 HS is hard to beat. It has great build quality and lightning-fast autofocus, and despite a few minor flaws, it just about manages to justify its premium cost—if you can find it on sale, then it makes an even better buy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Panasonic Lumix DC-FZ80](https://www.lifewire.com/panasonic-lumix-dc-fz80-review-4691071)
 * [Canon PowerShot SX530](https://www.lifewire.com/canon-powershot-sx530-review-4772573)
 * [Canon PowerShot ELPH 190](https://www.lifewire.com/canon-powershot-elph-190-review-4589522)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  PowerShot SX70
@@ -238,8 +255,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +262,22 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-rectifying-half-volume-issues-on-fb-media-for-2024/"><u>[Updated] Rectifying Half-Volume Issues on Fb Media for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simple-definition-of-storytelling/"><u>[Updated] Simple Definition of Storytelling</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-transforming-google-meet-screens-on-devices-for-2024/"><u>[Updated] Transforming Google Meet Screens on Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-manipulation-speedy-stylization-techniques-for-win10-apps/"><u>2024 Approved Masterful Manipulation Speedy Stylization Techniques for WIN10 Apps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/access-your-updated-lenovo-drivers-specifically-designed-for-windows-11-systems/"><u>Access Your Updated Lenovo Drivers Specifically Designed for Windows 11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-brother-mfc-j480dw-software-for-windows-updates/"><u>Download Latest Brother MFC-J480DW Software for Windows Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/experience-improved-performance-with-the-newest-nvidia-geforce-210-driver-release-for-windows-11-pcs/"><u>Experience Improved Performance with the Newest NVIDIA GeForce 210 Driver Release for Windows 11 PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-problems-with-the-universal-drivers-of-your-realtek-graphics-solutions-unveiled/"><u>Fixing Problems with the Universal Drivers of Your Realtek Graphics: Solutions Unveiled!</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-hot-30i-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Hot 30i? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-k11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo K11 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y77t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y77t to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-f14-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy F14 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-drivers-on-your-acer-device-running-windows-os/"><u>Troubleshooting and Fixing Drivers on Your Acer Device Running Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-lenovo-ideapad-cuffs-100-driver-software-compatibility-with-windows-11-explained/"><u>Update Your Lenovo IdeaPad Cuffs 100 Driver Software - Compatibility with Windows 11 Explained</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-connectivity-get-top-notch-wifi-driver-download/"><u>Upgrade Your Connectivity - Get Top-Notch WiFi Driver Download</u></a></li>
+</ul></div>
 

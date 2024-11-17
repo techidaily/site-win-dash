@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Issues with the Realtek ALC887 High-Definition Audio Drivers on Windows
-date: 2024-08-19T09:53:08.795Z
-updated: 2024-08-20T09:53:08.795Z
+date: 2024-11-11T17:41:34.342Z
+updated: 2024-11-17T02:08:48.725Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,6 +53,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -55,8 +69,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +90,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -92,9 +114,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +154,26 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-whatsapps-full-arsenal-for-efficient-communication/"><u>[New] 2024 Approved Unlocking WhatsApp's Full Arsenal for Efficient Communication</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide-for-2024/"><u>[New] How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tier-steadicam-options-for-drone-video-production/"><u>[New] Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revel-in-pubgs-simplified-voice-transformation-methods/"><u>2024 Approved Revel in PUBG's Simplified Voice Transformation Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-practices-for-updating-creative-webcam-software-for-windows-users/"><u>Best Practices for Updating Creative Webcam Software for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-updating-drivers-a-guide-for-intel-centrino-ultimate-n-6305-wireless-network-card-users/"><u>Easy Steps to Updating Drivers: A Guide for Intel Centrino Ultimate-N 6305 Wireless Network Card Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/garrys-mod-freezing-problem-solved-top-fixes-and-updates/"><u>Garry's Mod Freezing Problem Solved? Top Fixes & Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-webcam-software-for-your-lenovo-device-on-windows-7/"><u>Get the Newest Webcam Software for Your Lenovo Device on Windows 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977931275-hassle-free-solution-for-obtaining-and-installing-essential-hp-device-drivers/"><u>Hassle-Free Solution for Obtaining & Installing Essential HP Device Drivers!</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-to-recover-lost-boot-sector-comprehensive-tutorial/"><u>How To Recover Lost Boot Sector – Comprehensive Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/macos-15-sequoia-released-compatibility-insights-upcoming-features-and-whats-new-in-the-latest-update/"><u>MacOS 15 Sequoia Released: Compatibility Insights, Upcoming Features & What's New in the Latest Update</u></a></li>
+<li><a href="https://win-dash.techidaily.com/nvidias-quick-fix-for-geforce-gt-730-secure-your-driver-software-now/"><u>NVIDIA's Quick Fix for GeForce GT 730 - Secure Your Driver Software Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-setup-download-pioneer-dj-ddj-sx2-control-application-now/"><u>Quick Setup: Download Pioneer DJ DDJ-SX2 Control Application Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-galaxy-s24plus-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-privacy-and-security-fixing-connection-to-server-couldnt-be-established-in-mozilla-firebox/"><u>Reviving Your Privacy and Security: Fixing 'Connection to Server Couldn't Be Established' In Mozilla Firebox</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-realtek-rtl8811au-wi-fi-dongle-driver-malfunctions-step-by-step/"><u>Solving Realtek RTL8811AU Wi-Fi Dongle Driver Malfunctions – Step by Step</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-realtek-wireless-network-drivers-compatibility-issues-on-windows-11-10-and-7/"><u>Solving Realtek Wireless Network Drivers Compatibility Issues on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fix-for-syncing-a-samsung-universal-printer-with-your-windows-device/"><u>Step-by-Step Fix for Syncing a Samsung Universal Printer with Your Windows Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download and Upgrade Your GeForce GTX 1660 Super Graphics Card Drivers
-date: 2024-08-19T09:51:37.569Z
-updated: 2024-08-20T09:51:37.569Z
+date: 2024-11-13T23:45:03.505Z
+updated: 2024-11-16T22:15:47.393Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ There are two ways you can update your Killer Wireless drivers:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Update the driver manually
 
 **Killer** keeps updating their wireless adapter drivers. To get them, you need to visit the **[driver download page](https://support.killernetworking.com/knowledge-base/installing-drivers-using-device-manager/)**  of Killer or simply go to the official website of your computer manufacturer such as Dell to look for the correct driver online.
@@ -40,8 +47,12 @@ There are two ways you can update your Killer Wireless drivers:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your **Killer Wireless driver** manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,13 +64,21 @@ There are two ways you can update your Killer Wireless drivers:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-420.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your**Killer Wireless driver** for now, simply click the**Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-418.png)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here if we can help.
@@ -77,8 +96,6 @@ There are two ways you can update your Killer Wireless drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +103,17 @@ There are two ways you can update your Killer Wireless drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-guide-to-pairing-your-camera-gimbal-for-2024/"><u>[New] Step-by-Step Guide to Pairing Your Camera Gimbal for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-novice-nests-in-mc-the-essential-guide-to-housing/"><u>[Updated] 2024 Approved Novice Nests in MC The Essential Guide to Housing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-the-secrets-of-your-lost-iphone-x/"><u>[Updated] Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3022-printers-find-your-official-drivers-and-get-the-newest-update-here/"><u>Canon MG3022 Printers: Find Your Official Drivers & Get the Newest Update Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-canon-imageclass-mf4800-printer-drivers-and-software/"><u>Free Download: Canon ImageClass MF4800 Printer Drivers & Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-change-wma-files-to-webm-format-using-movavi/"><u>Free Online Converter: Change WMA Files to WebM Format Using Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/mastering-screen-capture-with-1-5-of-the-best-pc-snipers/"><u>Mastering Screen Capture with #1-#5 of the Best Pc Snipers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/maximizing-inner-illumination-with-natures-glow/"><u>Maximizing Inner Illumination with Nature's Glow</u></a></li>
+<li><a href="https://win-dash.techidaily.com/new-logitech-g910-driver-and-setup-utility-fresh-release-compatible-with-pcs/"><u>New Logitech G910 Driver & Setup Utility: Fresh Release Compatible with PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-graphic-cards-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Graphic Card's Drivers in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boosting Gaming Performance with Latest Updates for the GTX ^1660 Ti GPU Drivers
-date: 2024-08-19T09:53:18.771Z
-updated: 2024-08-20T09:53:18.771Z
+date: 2024-11-13T01:26:51.111Z
+updated: 2024-11-17T06:57:16.536Z
 tags:
   - win11
   - win10
@@ -45,11 +45,22 @@ It’s always important to**update your graphics driver to its latest version** 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update GeForce RTX 2080 Ti **driver**  manually
 
  Nvidia keeps updating drivers. To get them, you need to go to Nvidia’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -60,19 +71,26 @@ It’s always important to**update your graphics driver to its latest version** 
 2. Under **Manual Driver Search** , select **GeForce** , **GeForce RTX 20 Series** ,   **GeForce RTX 2080 Ti**  accordingly. In the 4th drop-down menu, select your **variant of Windows operating system** (**Windows 10** , **64-bit**  in my case). Then click **START SEARCH** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd022aaae4b3.jpg)
 3. You’ll see a list of results pop up right under. Click **the first result**   to make sure you download the latest driver release.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023054e8a3.jpg)
 4. Click **DOWNLOAD** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd02334521ec.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. **Restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -89,8 +107,6 @@ It’s always important to**update your graphics driver to its latest version** 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +114,26 @@ It’s always important to**update your graphics driver to its latest version** 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-top-ranked-comedic-image-editor/"><u>[Updated] Top-Ranked Comedic Image Editor</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-finding-your-ideal-video-capture-solution-bandicam-vs-camtasia/"><u>2024 Approved Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-harmonized-technology-judgments-by-experts/"><u>2024 Approved Harmonized Technology Judgments by Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-epson-driver-software-for-windows-10-a-comprehensive-tutorial/"><u>Download the Latest Epson Driver Software for Windows 10 – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-brother-mfc-j480dw-driver-update-on-windows-computers/"><u>Ensure Optimal Performance: Brother MFC- J480DW Driver Update on Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-ultimate-steelseries-gaming-software-compatible-with-windows-11/"><u>Free Download: Ultimate SteelSeries Gaming Software Compatible with Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-resolve-bluetooth-drivers-glitches-in-windows-11-guide/"><u>How to Resolve Bluetooth Drivers Glitches in Windows 11 - Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt/"><u>In 2024, Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt</u></a></li>
+<li><a href="https://win-dash.techidaily.com/investment-in-human-capital-and-talent-acquisition-strategies/"><u>Investment in Human Capital and Talent Acquisition Strategies.</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/myrecover-wiederherstellung-von-geloschten-dateien-auf-google-drive-sehr-einfach-und-effektiv/"><u>MyRecover: Wiederherstellung Von Gelöschten Dateien Auf Google Drive - Sehr Einfach Und Effektiv</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-download-of-microsofts-4000-ergonomic-keyboard-driver-pack/"><u>Quick and Simple Download of Microsoft's 4000 Ergonomic Keyboard Driver Pack</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965860741-quick-download-universal-usb-webcam-drivers-get-set-up-fast/"><u>Quick Download: Universal USB Webcam Drivers - Get Set Up Fast!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-vanishing-dark-mode-on-facebook-what-you-can-do-now/"><u>Solving The Mystery Of Vanishing Dark Mode On Facebook - What You Can Do Now</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-up-with-confidence-9-proven-english-speaking-strategies/"><u>Speak Up with Confidence: 9 Proven English-Speaking Strategies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-for-finding-and-installing-official-toshiba-drivers-on-windows-pcs/"><u>Step-by-Step Guide for Finding and Installing Official Toshiba Drivers on Windows PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-libgdk-win32-20-0dll-error-messages/"><u>Step-by-Step Guide: Correcting libgdk-win32-2.0-0.dll Error Messages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-downloading-logitech-g602-audio-drivers-for-windows/"><u>Step-by-Step Guide: Downloading Logitech G602 Audio Drivers for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-chronicles-2024-the-handhnant-evolution/"><u>Switch Chronicles 2024 - The Handhnant Evolution</u></a></li>
+</ul></div>
 
