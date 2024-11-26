@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Obtaining the Latest Drivers of CanoScan LiDE 220 Scanner
-date: 2024-08-13T14:00:06.322Z
-updated: 2024-08-14T14:00:06.322Z
+date: 2024-11-20T19:18:48.001Z
+updated: 2024-11-26T22:39:12.532Z
 tags:
   - win11
   - win10
@@ -24,16 +24,14 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MX490 driver
 
 1. [Download and update the Canon MX490 printer driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Download and update the Canon MX490 printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Download and update the Canon MX490 printer driver manually
 
  You can manually download the Canon MX490 driver in your Windows computer. To do so, follow the instructions below:
@@ -44,27 +42,30 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-130.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Drivers & Downloads** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-132.png)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under the**Recommended Driver(s)** section, click**Select** , then click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-133.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Run the downloaded file, and follow the on-screen instructions to finish the installation.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Download and update the Canon MX490 printer driver automatically
 
  Manually downloading and installing the Canon MX490 driver requires time and computer skills. If you don’t have patience, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,14 +80,15 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-129.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -104,8 +106,6 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +113,22 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterful-14-textual-movement-illustrations/"><u>2024 Approved Masterful 14 Textual Movement Illustrations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficient-printing-with-the-new-hp-laserjet-p1006-driver-software-free-download-available-now/"><u>Efficient Printing with the New HP LaserJet P1006 Driver Software - Free Download Available Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-offer-macbook-pro-m1-max-drops-to-1100-less-during-black-friday-sale-at-bandh-photo-spotlight/"><u>Exclusive Offer: MacBook Pro M1 Max Drops to $1,100 Less During Black Friday Sale at B&H Photo | Spotlight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-handling-d3dx928dll-missing-or-inaccessible-errors/"><u>Expert Advice on Handling d3dx9_28.dll Missing or Inaccessible Errors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-obtain-the-newest-corsair-k70-drivers-for-optimal-performance/"><u>How to Obtain the Newest Corsair K70 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-analysis-every-aspect-of-apples-new-ai-technologies-revealed-at-the-recent-worldwide-developers-conference/"><u>In-Depth Analysis: Every Aspect of Apple's New AI Technologies Revealed at the Recent Worldwide Developers Conference</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-latest-dell-wd19-drivers-for-optimal-performance/"><u>Install the Latest Dell WD19 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-updated-sm-bus-controller-software-on-your-dell-device/"><u>Installing the Updated SM Bus Controller Software on Your Dell Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sonic-update-for-whatsapp-statues/"><u>Sonic Update for WhatsApp Statues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-handbook-for-downloading-and-upgrading-your-zebra-zp450-printer-drivers-efficiently/"><u>Step-by-Step Handbook for Downloading & Upgrading Your Zebra ZP450 Printer Drivers Efficiently</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-and-siri-features-on-iphones/"><u>The Ultimate Guide to Leveraging ChatGPT and Siri Features on iPhones</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toshiba-laptop-find-and-install-driver-updates-on-a-windows-machine/"><u>Toshiba Laptop - Find and Install Driver Updates on a Windows Machine</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updating-your-logitech-m510-mouse-drivers-a-comprehensive-step-by-step-guide/"><u>Updating Your Logitech M510 Mouse Drivers: A Comprehensive Step-by-Step Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Canon MP280 Driver Upgrade - Find and Download for Windows 10/8/7
-date: 2024-08-19T09:49:33.561Z
-updated: 2024-08-20T09:49:33.561Z
+date: 2024-11-23T16:06:15.486Z
+updated: 2024-11-26T17:25:30.875Z
 tags:
   - win11
   - win10
@@ -36,10 +36,24 @@ Follow these steps:
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After uninstalling, you can now download the printer driver from official website.
 
@@ -64,6 +78,11 @@ Follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer to take effect.
@@ -71,6 +90,10 @@ Follow these steps:
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When should I update Epson WF 3620 driver
 
@@ -94,8 +117,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,8 +124,22 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-skyrocketing-traffic-the-power-of-collaborative-youtube-outros/"><u>[New] 2024 Approved Skyrocketing Traffic The Power of Collaborative YouTube Outros</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-5-best-photo-video-maker-with-music/"><u>[Updated] In 2024, 5 Best Photo Video Maker With Music</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-online-meme-maker/"><u>2024 Approved Online MEME Maker</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/5-best-free-wma-file-players-for-your-mac-computer-user-reviews/"><u>5 Best Free WMA File Players for Your Mac Computer (User Reviews)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-ce-3-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-getting-the-latest-evga-driver-software-installed-on-your-pc/"><u>Comprehensive Guide: Getting the Latest EVGA Driver Software Installed on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-your-play-experience-eliminating-crashes-and-glitches-in-genshin-impact-on-pc/"><u>Enhancing Your Play Experience: Eliminating Crashes and Glitches in Genshin Impact on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965819419-get-your-corsair-k70-installed-with-these-easy-to-follow-steps-and-tools/"><u>Get Your Corsair K70 Installed with These Easy-to-Follow Steps & Tools!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-14-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 14 Plus or iPad?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978815252-how-to-effortlessly-obtain-and-implement-your-usb-camera-drivers-now/"><u>How to Effortlessly Obtain & Implement Your USB Camera Drivers Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-k11-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo K11 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969204270-instant-download-get-your-razer-mamba-drivers-now/"><u>Instant Download: Get Your Razer Mamba Drivers Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-quadro-rtx-4000-graphics-driver-installation-guide/"><u>Latest NVIDIA Quadro RTX 4000 Graphics Driver Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rich-and-married/"><u>Rich and Married</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
