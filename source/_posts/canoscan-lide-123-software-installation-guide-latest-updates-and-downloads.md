@@ -1,7 +1,7 @@
 ---
 title: "CanoScan LiDE 123 Software Installation Guide: Latest Updates & Downloads"
-date: 2024-08-13T13:56:54.990Z
-updated: 2024-08-14T13:56:54.990Z
+date: 2024-11-30T01:43:42.608Z
+updated: 2024-12-05T16:07:03.064Z
 tags:
   - win11
   - win10
@@ -23,8 +23,9 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
 * **[Option 2 – Automatically install the driver (Recommended)](https://www.drivereasy.com/knowledge/canon-mp250-driver-download-for-windows-10-8-7/#b)**
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1 – Download and install the driver manually**
 
  Canon keeps updating drivers on their official site. To get the latest driver for your device, follow the instructions below:
@@ -32,8 +33,9 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
 **1)** Go to the **[Canon official website](https://www.canon-europe.com/support/)**  and click**SUPPORT > SOFTWARE & DRIVERS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Enter your printer serial number**mp250** and search for it.
@@ -45,8 +47,9 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step. If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update** the Canon MP250
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -60,15 +63,17 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-07-09.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -91,8 +96,6 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +103,22 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[Updated] 2024 Approved Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-a-continuous-youtube-video-stream-from-separate-files/"><u>[Updated] Crafting a Continuous Youtube Video Stream From Separate Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-fresh-footage-feature-film-reviews/"><u>[Updated] Fresh Footage Feature Film Reviews</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-monetizing-videos-on-youtube-strategies-success/"><u>[Updated] In 2024, Monetizing Videos on YouTube Strategies Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-valuation-of-a-million-viewing-on-youtube/"><u>[Updated] In 2024, Valuation of a Million-Viewing on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-resolution-for-logitech-c615-driver-problems-expert-guide/"><u>Effortless Resolution for Logitech C615 Driver Problems - Expert Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-wf-2540-driver-download-for-windows-71081/"><u>Epson WF 2540 Driver Download for Windows 7/10/8.1</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/game-crashes-with-nvidia-rtx-3080-troubleshooting-guide/"><u>Game Crashes with NVIDIA RTX 3080 | Troubleshooting Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-amd-ryzen-5-2500u-ready-streamlined-drivers-installation-guide/"><u>Get Your AMD Ryzen 5 2500U Ready: Streamlined Drivers Installation Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-14-pro-max-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 14 Pro Max without Apple Account</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-free-easy-to-use-srt-translation-services-explored/"><u>In 2024, Top Free, Easy-to-Use SRT Translation Services Explored</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-epson-et-2750-windows-driver-step-by-step-guide-and-download-link/"><u>Installing Epson ET-2750 Windows Driver: Step by Step Guide & Download Link</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-raid-device-software-update-get-the-best-support-for-your-windows-pcs/"><u>Intel RAID Device Software Update: Get the Best Support for Your Windows PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/samsung-blu-ray-woes-heres-a-step-by-step-guide-to-restore-functionality/"><u>Samsung Blu Ray Woes? Here's a Step-by-Step Guide to Restore Functionality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/tricks-of-the-trade-for-instagram-video-preservation/"><u>Tricks of the Trade for Instagram Video Preservation</u></a></li>
+</ul></div>
 

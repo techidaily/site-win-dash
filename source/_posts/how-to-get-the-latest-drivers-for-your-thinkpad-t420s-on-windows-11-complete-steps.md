@@ -1,7 +1,7 @@
 ---
 title: How to Get the Latest Drivers for Your ThinkPad T420s on Windows 11 - Complete Steps
-date: 2024-08-13T13:55:12.821Z
-updated: 2024-08-14T13:55:12.821Z
+date: 2024-12-02T04:03:55.856Z
+updated: 2024-12-06T11:35:33.027Z
 tags:
   - win11
   - win10
@@ -24,17 +24,15 @@ thumbnail: https://thmb.techidaily.com/427fea3c10359a07e4c3e09328df761302c1e6c75
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Update printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Update printer driver manually
 
  You can manually download the Canon MG2520 driver from the Canon website in your Windows computer. To do so, follow the instructions below:
@@ -53,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/427fea3c10359a07e4c3e09328df761302c1e6c75
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update printer driver automatically
 
  Manually downloading and installing the Canon MG2520 driver requires time and computer skills. If you don’t have patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,13 +65,18 @@ thumbnail: https://thmb.techidaily.com/427fea3c10359a07e4c3e09328df761302c1e6c75
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
@@ -94,8 +94,9 @@ This is rather easy to update your Canon MG2520 printer driver, right?
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it.
@@ -106,12 +107,13 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
 
@@ -128,8 +130,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +137,21 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-thunder-gods-fury-new-age-begins/"><u>[New] Thunder God's Fury New Age Begins</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-inspiring-hexa-flying-drones-10/"><u>2024 Approved Inspiring Hexa-Flying Drones 10</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertir-archivos-mkv-a-formato-mpg-online-sin-costo-alguno-con-movavi/"><u>Convertir Archivos MKV a Formato MPG Online Sin Costo Alguno Con Movavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-movie-substitutes-7-recommended-for-2024/"><u>Discover Movie Substitutes, #7 Recommended for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972072517-easy-and-immediate-access-to-intel-82579v-device-drivers-no-cost-instant-download/"><u>Easy & Immediate Access to Intel 82579V Device Drivers - No Cost, Instant Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-hp-officejet-pro-6970-driver-version-compatible-with-windows-systems/"><u>Get the Newest HP OfficeJet Pro 6970 Driver Version Compatible with Windows Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-zero-5g-2023-turbo-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Zero 5G 2023 Turbo Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-seamless-storytelling-with-on-screen-annotations-and-timestamps/"><u>In 2024, Seamless Storytelling with On-Screen Annotations & Timestamps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-investing-in-minecraft-realms-a-good-choice/"><u>Is Investing in Minecraft Realms a Good Choice?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-update-brother-printer-driver-software-for-windows-computers/"><u>Latest Update: Brother Printer Driver Software for Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-troubleshooting-for-logitech-f710-drivers-on-various-windows-versions/"><u>Step-by-Step Troubleshooting for Logitech F710 Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshoot-and-fix-your-pcs-bluetooth-glitches-in-windows-1/"><u>Troubleshoot and Fix Your PC's Bluetooth Glitches in Windows 1#</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-lenovos-upgraded-thinkpad-x1-in-depth-analysis-and-news-coverage/"><u>Unveiling Lenovo's Upgraded ThinkPad X1: In-Depth Analysis and News Coverage</u></a></li>
+</ul></div>
 

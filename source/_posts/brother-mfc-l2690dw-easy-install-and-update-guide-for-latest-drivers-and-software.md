@@ -1,7 +1,7 @@
 ---
 title: "Brother MFC-L2690DW: Easy Install & Update Guide for Latest Drivers and Software"
-date: 2024-08-13T13:58:56.590Z
-updated: 2024-08-14T13:58:56.590Z
+date: 2024-11-28T18:30:41.813Z
+updated: 2024-12-05T22:03:34.083Z
 tags:
   - win11
   - win10
@@ -19,15 +19,16 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
 
  One day when you were playing games, your Corsair K70 RGB mechanical gaming keyboard stopped working, it could be frustrating. To make your K70 work again, you can download and install the latest iCUE driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s iCUE driver?  
 
  iCUE drive stands for Intelligent Corsair Utility Engine. It’s a powerful software that connects all your compatible Corsair products together in a single interface. You can use it to control the performance of your Corsair devices, such as Corsair keyboards, mice, headsets. For keyboard, you can control the lighting and custom actions and macros.  
 
  If your K70 gaming keyboard doesn’t work properly, for example, the lighting doesn’t work, you can reinstall the iCUE driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to download and install iCUE driver  
 
  You can go to Corsair’s website to download and install the iCUE driver. Note the steps may be different if the design on the website was changed.  
@@ -37,29 +38,25 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  2) Select**GAMING KEYBOARDS** from the drop-down menu of**SELECT CATEGORY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-81.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Enter ‘k70’** in the SEARCH box, and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-82.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
  4) Click the download button next to iCUE to download the driver software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-83.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Double-click on the downloaded file and follow the on-screen instructions to install the software.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## What to do if your K70 still has issues?  
 
  After reinstalling iCUE driver, if your K70 mechanical gaming keyboard still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.  
@@ -73,9 +70,9 @@ thumbnail: https://thmb.techidaily.com/9506d7bd2cecec98495cc03f8d004c03b0c85881c
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
@@ -83,6 +80,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -95,8 +96,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +103,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmakers-pathway-youtube-trailer-creation-with-filmora/"><u>[New] In 2024, Filmmaker's Pathway YouTube Trailer Creation with Filmora</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-how-to-update-lenovo-docking-station-drivers/"><u>[SOLVED] How to Update Lenovo Docking Station Drivers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1728497344339-windows-1011/"><u>「Windows 10/11」で消した画像・写真をもう一度取り戻せる方法：ベストセレクション</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-pixma-mp510-driver-download-for-windows-108-operating-systems/"><u>Canon Pixma MP510 Driver Download for Windows 10/8 Operating Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevate-your-stream-game-mastering-onestream-platforms/"><u>Elevate Your Stream Game Mastering OneStream Platforms</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/free-official-downloads-ultimate-bundle-of-dvd-ripper-and-hd-video-converter-tools/"><u>Free Official Downloads: Ultimate Bundle of DVD Ripper and HD Video Converter Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-90-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 90 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-guide-newest-printer-driver-update-for-dells-2330d-and-2330dn-models/"><u>Installation Guide: Newest Printer Driver Update for Dell's 2330D and 2330DN Models</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/recognizing-signs-of-hardware-malfunction-a-guide-for-your-pc-insights-from-yl-computing/"><u>Recognizing Signs of Hardware Malfunction: A Guide for Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-the-rtl81wireless-network-adapter-drivers-on-windows-10-7/"><u>Step-by-Step Guide: Installing the RTL81#Wireless Network Adapter Drivers on Windows 10, 7</u></a></li>
+</ul></div>
 

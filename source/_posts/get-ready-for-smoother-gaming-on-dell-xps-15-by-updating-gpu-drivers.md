@@ -1,7 +1,7 @@
 ---
 title: Get Ready for Smoother Gaming on Dell XPS 15 by Updating GPU Drivers
-date: 2024-08-13T13:55:41.075Z
-updated: 2024-08-14T13:55:41.075Z
+date: 2024-12-04T19:51:13.895Z
+updated: 2024-12-06T12:48:29.720Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ OR
 
 **[Automatically (Recommended) –](https://www.drivereasy.com/knowledge/epson-wf-3640-driver-download-for-windows-computer/#auto)**  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Download and install the latest Epson WF-3640 driver manually
 
  Epson keeps updating drivers. To get the correct latest one, please follow these steps:
@@ -35,20 +32,24 @@ OR
 1. Go to the official[Epson printers support website](https://epson.com/Support/Printers/sh/s1) .
 2. Enter **WF-3640** , then click**Epson WorkForce WF-3640**  from the pop-up result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bacc538d5b7f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 3. Choose your Windows system type. Then you can choose to download the Epson recommended Drivers and Utilities Combo Package or, just download the driver under the Drivers section.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bacc5e32d3b3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bacc5e32d3b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver, double-click on the downloaded driver file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Automatically download and install the latest Epson WF-3640 driver
 
  If you don’t have the time, patience or computer skills to update Epson XP-830 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -59,14 +60,17 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ea290d77b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: You can do it   **for free**  if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bacc79318441.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems while using Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -79,8 +83,6 @@ Feel free to comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +90,21 @@ Feel free to comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-iconic-movie-moments-to-inspire-your-edits/"><u>2024 Approved 10 Iconic Movie Moments to Inspire Your Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-leveraging-tech-for-better-facebook-live-records/"><u>2024 Approved Leveraging Tech for Better Facebook Live Records</u></a></li>
+<li><a href="https://win-dash.techidaily.com/alps-pointing-device-driver/"><u>Alps Pointing Device Driver</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-ati-radeon-hd-3450-seamless-driver-download-and-update/"><u>AMD ATI Radeon HD 3450: Seamless Driver Download & Update</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959830776-download-and-troubleshoot-your-intel-optane-drivers-on-windows-complete-solution/"><u>Download and Troubleshoot Your Intel Optane Drivers on Windows - Complete Solution!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/elevate-your-gaming-download-steelseries-keyboards-engine-control-drivers-now/"><u>Elevate Your Gaming: Download SteelSeries Keyboard's Engine Control Drivers Now</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fun-on-a-budget-meme-creators-handbook-for-2024/"><u>Fun on a Budget – Meme Creator’s Handbook for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210858356-9782019469665-les-21-cles-de-reprogrammation/"><u>Les 21 clés de reprogrammation | Free Book</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-the-power-of-time-fcpx-freeze-frames-and-slow-motion-tutorials/"><u>New In 2024, Unleash the Power of Time FCPX Freeze Frames and Slow Motion Tutorials</u></a></li>
+<li><a href="https://win-studio.techidaily.com/optimizing-windows-server-2012-r2-essential-tips-for-efficient-shadow-copy/"><u>Optimizing Windows Server 2012 R2: Essential Tips for Efficient Shadow Copy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-solutions-for-windows-10-users-experiencing-bluetooth-driver-woes/"><u>Step-by-Step Solutions for Windows 10 Users Experiencing Bluetooth Driver Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-vivetool-techniques-for-copilot-setup/"><u>Unveiling ViveTool Techniques for Copilot Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/use-their-automatic-detection-tool-to-find-the-correct-drivers-for-your-geforce-rtx-1080-graphics-card-and-windows-11-operating-system-or-search-directly-us142/"><u>Use Their Automatic Detection Tool to Find the Correct Drivers for Your GeForce RTX 1080 Graphics Card and Windows 11 Operating System or Search Directly Using Those Criteria.</u></a></li>
+</ul></div>
 

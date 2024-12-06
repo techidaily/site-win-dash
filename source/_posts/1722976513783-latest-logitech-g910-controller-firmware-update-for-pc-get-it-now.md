@@ -1,7 +1,7 @@
 ---
 title: "Latest Logitech G910 Controller Firmware Update for PC: Get It Now"
-date: 2024-08-13T13:57:34.693Z
-updated: 2024-08-14T13:57:34.693Z
+date: 2024-12-01T18:11:49.546Z
+updated: 2024-12-05T19:31:32.545Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ Logitech G910 not working? You may need to download the software for further con
  02 Type**G910** in the search bar on the top right corner of the webpage.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/02-1-1200x811.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  03 Click the**G910 image** .
@@ -41,10 +42,6 @@ Logitech G910 not working? You may need to download the software for further con
  04 Click**Support** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/03-1200x783.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
  05 Click**Downloads** .
 
@@ -53,33 +50,29 @@ Logitech G910 not working? You may need to download the software for further con
  06 Click**Download Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/05-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  07 Open the Downloads folder and you will find the installer. If you’re using a Chrome browser, click**Show in folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  08 Double click the installer file, and you would be prompted to restart your computer before installation. Click**Reboot Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/07-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
  09 The installer will reopen once the computer restarts. If not, you can open the installer manually. Click**INSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_10-34-21.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2: Update your keyboard drivers
 
  Logitech G910 keyboard not working is usually a result of an outdated or faulty driver. You would need to check your keyboard driver is up-to-date and functioning properly..
@@ -100,6 +93,10 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
 
 Or
@@ -109,6 +106,10 @@ Or
 Check your keyboard to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: via Device Manager
 
@@ -121,8 +122,9 @@ Check your keyboard to see if it works.
  02 Select**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  03 Select**Keyboards** .
@@ -132,8 +134,9 @@ Check your keyboard to see if it works.
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
@@ -146,19 +149,17 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  07 Select**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  08 Click**Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
@@ -182,8 +183,6 @@ Now check your keyboard to see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +190,17 @@ Now check your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-skyrocket-views-with-smartly-chosen-video-release-times/"><u>[New] In 2024, Skyrocket Views with Smartly Chosen Video Release Times</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-level-action-recording-on-a-students-budget/"><u>[New] Professional-Level Action Recording on a Student's Budget</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-restore-lost-fb-watch-video-button/"><u>[Updated] 2024 Approved Restore Lost FB Watch Video Button</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-zen-masters-guide-to-zooming-your-youtube-livestreams/"><u>[Updated] In 2024, The Zen Master’s Guide to Zooming Your YouTube Livestreams</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-microsofts-latest-bluetooth-drivers-compatible-with-windows-11-10-and-earlier-versions/"><u>Download & Install Microsoft's Latest Bluetooth Drivers Compatible with Windows 11, 10, and Earlier Versions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-wipe-out-your-youtube-buffered-videos-for-2024/"><u>How-To Wipe Out Your YouTube Buffered Videos for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/in-depth-fixes-startech-peripheral-driver-issues-on-windows-10-and-earlier-versions-windows-87/"><u>In-Depth Fixes: StarTech Peripheral Driver Issues on Windows 10 and Earlier Versions (Windows 8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/killer-e2200-gigabit-ethernet-controller-driver-download/"><u>Killer E2200 Gigabit Ethernet Controller Driver Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-enhancements-in-logitech-extreme-3d-pro-gaming-mouse-drivers/"><u>Latest Enhancements in Logitech Extreme 3D PRO Gaming Mouse Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Poco F5 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 
