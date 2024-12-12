@@ -1,7 +1,7 @@
 ---
 title: How to Fix Printing Issues with the HP Envy Asterisk 4520 on a Windows PC
-date: 2024-08-13T13:51:32.106Z
-updated: 2024-08-14T13:51:32.106Z
+date: 2024-12-10T08:21:45.184Z
+updated: 2024-12-11T20:45:29.511Z
 tags:
   - win11
   - win10
@@ -36,21 +36,22 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
  1) Go to[HP Support Center](https://support.hp.com/drivers/) , and select**Printer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Run the downloaded file, and follow the wizard to finish.
 
@@ -58,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
  If this method doesn’t work for you, don’t worry. We have other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Method 2: Update HP OfficeJet Pro 8620 driver in Device Manager
 
  You can also update the driver for HP OfficeJet 8620 printers in Device Manager. Device Manager enables you to view and manage device hardware settings and driver software on your computer. Here’s how to do it:
@@ -71,25 +69,24 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 
  2) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  5) Right click on your printer (it may display as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Choose**Search automatically for updated driver software** .
@@ -115,15 +112,16 @@ Still no luck? OK. There’s one more thing to try.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) After updating, restart your computer to take effect.
 
@@ -144,8 +142,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +149,23 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-100-killer-facebook-bios-to-make-profile-attractive2/"><u>[Updated] 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-lights-camera-action-youtubes-17-essentials/"><u>[Updated] 2024 Approved Lights, Camera, Action! - YouTube's #17 Essentials</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-weave-webcomic-wonders-with-giphy/"><u>[Updated] In 2024, Weave Webcomic Wonders with Giphy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mp280-driver-download-for-windows-1187/"><u>Canon MP280 Driver Download for Windows 11/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-new-usb-to-hdmi-drivers-enhance-your-device-compatibility/"><u>Download New USB to HDMI Drivers: Enhance Your Device Compatibility</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972753134-downloadupdate-logitech-headset-drivers-with-one-click/"><u>Download/Update Logitech Headset Drivers with One Click!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-firmware-for-your-tp-link-ub400-wifiplusbluetooth-card-free-driver-download/"><u>Get the Latest Firmware for Your TP-Link UB400 WiFi+Bluetooth Card - Free Driver Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-dell-wifi-adapter-up-and-running-with-easy-to-install-drivers/"><u>Get Your Dell WiFi Adapter Up and Running with Easy-to-Install Drivers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-13-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 13 Space | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-nokia-c12-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Nokia C12 Pro FRP?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-trending-picture-tales-history-revealed/"><u>In 2024, Trending Picture Tales History Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-find-and-install-dell-laptop-model-d3100-latest-driver/"><u>Simple Steps: Find and Install DELL Laptop Model D3100 Latest Driver</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-modern-way-to-melatonin-magic-cutting-edge-devices-for-quality-sleep/"><u>The Modern Way to Melatonin Magic: Cutting-Edge Devices for Quality Sleep</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-graphics-download-the-newest-amd-radeon-pro-w5700-driver-for-win-11-10-and-7/"><u>Update Your Graphics: Download the Newest AMD Radeon Pro W5700 Driver for Win 11, 10 & 7</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-tactical-cut-discarding-audible-elements-from-multimedia-files-mp4-mkv-avi-mov-wmv-for-2024/"><u>Updated Tactical Cut Discarding Audible Elements From Multimedia Files (MP4, MKV, AVI, MOV, WMV) for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-90-gt-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of 90 GT</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install Updated FTDI Serial Port Drivers on Windows 10
-date: 2024-08-13T13:52:39.829Z
-updated: 2024-08-14T13:52:39.829Z
+date: 2024-12-10T12:08:21.996Z
+updated: 2024-12-12T12:55:25.032Z
 tags:
   - win11
   - win10
@@ -18,14 +18,9 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 If you want to keep the USB connection of your**Arduino device** in good condition, you should make sure its driver is up to date.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## To update your Arduino USB driver
 
  There are two ways you can use to install the Arduino USB driver on your computer:
@@ -37,17 +32,9 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/arduino-usb-driver-update-for-windows/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  To get the Arduino USB driver, you need to go to the **[Arduino](https://www.arduino.cc/)**  website, find the driver corresponding with your specific flavor of Windows 10 (32 or 64 bit) and download the driver manually.
@@ -55,8 +42,9 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update the Arduino USB driver
 
  If you don’t have the time, patience or computer skills to update the Arduino USB driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,15 +58,17 @@ OR
 **2)** Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dc1c9de503.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to your_Arduino driver_ to automatically download and install the correct version of this driver, then you can manually install it. Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4d896435e3d.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -94,8 +84,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +91,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-simplified-transfer-tactics-from-iphone-to-computer/"><u>[New] 2024 Approved Simplified Transfer Tactics From iPhone to Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-gpu-chronicles-radeon-reimagined/"><u>[Updated] 2024 Approved GPU Chronicles Radeon Reimagined</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-visual-virtuosos-selecting-framing-software-for-2024/"><u>[Updated] Visual Virtuosos Selecting Framing Software for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-fresh-install-and-upgrade-of-huion-graphics-tablet-software-for-windows-users/"><u>Comprehensive Guide: Fresh Install and Upgrade of Huion Graphics Tablet Software for Windows Users</u></a></li>
+<li><a href="https://fox-place.techidaily.com/craft-your-dream-house-with-expert-custom-builder-services/"><u>Craft Your Dream House with Expert Custom Builder Services</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-troubleshoot-broadcom-gigabit-ethernet-drivers-compatible-with-windows-11/"><u>Download & Troubleshoot Broadcom Gigabit Ethernet Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-audio-experience-download-and-setup-for-soundmax-on-windows-systems/"><u>Enhance Your Audio Experience - Download & Setup for SoundMAX on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-guide-to-rapidly-updating-drivers-on-intel-nuc-computers/"><u>Hassle-Free Guide to Rapidly Updating Drivers on Intel NUC Computers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/initial-trial-ideal-accessories-to-boost-your-gopro-footage-for-2024/"><u>Initial Trial Ideal Accessories to Boost Your GoPro Footage for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-free-download-compatible-drivers-for-realtek-cards-on-windows-11/"><u>Latest [Free Download]: Compatible Drivers for Realtek Cards on Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-process-switching-between-standard-sata-and-achi-controllers-in-windows/"><u>Step-by-Step Process: Switching Between Standard SATA & ACHI Controllers in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmatched-endurance-meets-style-my-top-pick-for-the-best-looking-long-lasting-hybrid-smartwatch-review/"><u>Unmatched Endurance Meets Style: My Top Pick for the Best-Looking Long-Lasting Hybrid Smartwatch Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-acer-devices-audio-system-with-these-quick-steps/"><u>Update Your Acer Device's Audio System with These Quick Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/your-voice-their-favorite-show-solo-podcasting-101/"><u>Your Voice, Their Favorite Show Solo Podcasting 101</u></a></li>
+</ul></div>
 

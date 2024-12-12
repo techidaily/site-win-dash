@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Downloading & Installing New Drivers for Canon MX490 Printers (Windows)
-date: 2024-08-13T13:46:24.223Z
-updated: 2024-08-14T13:46:24.223Z
+date: 2024-12-08T01:20:22.917Z
+updated: 2024-12-12T10:53:05.191Z
 tags:
   - win11
   - win10
@@ -22,9 +22,6 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 1. **[Manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Automatically (recommended)](https://www.drivereasy.com/knowledge/konica-minolta-printer-drivers-download-and-install-guide/#option2)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  Konica Minolta keeps updating drivers for its series of printers. You can go to its website, find the latest driver that corresponds with your operating system, and then download it. This process is a little time-consuming and error-prone, but we’ll show you how to do this step by step.
@@ -35,26 +32,28 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-1-1200x169.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Drivers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-2-1200x203.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select your operating system from the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-3-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 **5)** Select the driver you want and click the**download icon** next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-4-2-1200x270.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you finished downloading the right driver, double-click the downloaded file. Then, launch the setup file and follow the on-screen instructions to install it.
@@ -78,8 +77,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).
@@ -87,8 +87,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -109,8 +110,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +117,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-quintessential-scriptwriting-throughout-the-film-landscape/"><u>[New] 2024 Approved Quintessential Scriptwriting Throughout the Film Landscape</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-livestream-luminaries-clash/"><u>[New] Livestream Luminaries Clash</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premium-youtube-insights-everything-you-must-know/"><u>[New] Premium YouTube Insights Everything You Must Know</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-updating-and-downloading-epson-ds-510-printer-driver-on-windows-a-step-by-step-approach/"><u>Complete Guide: Updating and Downloading Epson DS-510 Printer Driver on Windows - A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-the-latest-corsair-icue-software-windows-1110-supported/"><u>How to Download the Latest Corsair iCUE Software – Windows 11/10 Supported</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-remote-desktop-black-screen-on-windows/"><u>How to Fix a Remote Desktop Black Screen on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/live-recording-mastery-with-innovative-webcams-explored/"><u>Live Recording Mastery with Innovative WebCams Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-electrical-energy-the-best-lipo-for-uavs/"><u>Mastering Electrical Energy The Best LiPo for UAVs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/sound-masterpieces-selecting-the-top-10-on-spotify-for-2024/"><u>Sound Masterpieces Selecting the Top 10 on Spotify for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967580251-startech-vga-drivers-get-your-free-installation-file-here/"><u>StarTech VGA Drivers - Get Your Free Installation File Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-for-installing-the-latest-corsair-audio-device-drivers-in-windows/"><u>The Ultimate Tutorial for Installing the Latest Corsair Audio Device Drivers in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/thrustmaster-t300-driver-installation-guide-and-downloads-for-pc-win-1110/"><u>Thrustmaster T300 Driver Installation Guide & Downloads for PC (Win 11/10)</u></a></li>
+</ul></div>
 

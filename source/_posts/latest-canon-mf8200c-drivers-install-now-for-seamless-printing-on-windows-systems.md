@@ -1,7 +1,7 @@
 ---
 title: "Latest Canon MF8200C Drivers: Install Now for Seamless Printing on Windows Systems"
-date: 2024-08-13T13:49:46.063Z
-updated: 2024-08-14T13:49:46.063Z
+date: 2024-12-11T06:51:09.012Z
+updated: 2024-12-12T13:40:06.606Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -45,28 +46,29 @@ OR
 1. Go to the[](https://www.amd.com/en/support) [Arduino official download website](https://www.arduino.cc/en/Main/Software) .
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -80,11 +82,13 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -98,8 +102,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +109,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-seconds-in-a-snapshot-20mb-videography/"><u>[New] Seconds in a Snapshot 20MB Videography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-designs-unleashed-comprehensive-guide-to-animation-suites/"><u>[Updated] 2024 Approved Innovative Designs Unleashed Comprehensive Guide to Animation Suites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>[Updated] 2024 Approved Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-dots-top-8-window-friendly-note-apps/"><u>Digital Dots: Top 8 Window-Friendly Note Apps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-your-amd-ryzen-graphics-card-drivers-effortlessly/"><u>Download and Update Your AMD Ryzen Graphics Card Drivers Effortlessly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fresh-release-of-80211n-wi-fi-networking-drivers-optimized-for-windows-111087-free-download/"><u>Fresh Release of 802.11N Wi-Fi Networking Drivers, Optimized for Windows 11/10/8/7 - Free Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-ensure-optimal-performance-downloading-new-drivers-for-your-toshiba-on-windows/"><u>How to Ensure Optimal Performance: Downloading New Drivers for Your Toshiba on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-the-update-process-keep-your-epson-printer-running-smoothly-on-windows-11/"><u>Master the Update Process: Keep Your Epson Printer Running Smoothly on Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963315352-quick-installation-of-microsoft-ergo-keyboard-easily-driver-downloads-available-now/"><u>Quick Installation of Microsoft Ergo Keyboard Easily - Driver Downloads Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-gpu-to-the-new-nvidia-gtx-1650-super-drivers-compatible-with-windows-1011/"><u>Update Your GPU to the New NVIDIA GTX 1650 Super Drivers: Compatible with Windows 10/11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/voip-excellence-on-trial-assessing-whether-vonage-still-dominates-the-market/"><u>VoIP Excellence on Trial: Assessing Whether Vonage Still Dominates the Market</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Update or Download the Most Recent Drivers for Your Canon CanoScan LiDE 1# 120: A Comprehensive Tutorial"
-date: 2024-08-13T13:50:59.627Z
-updated: 2024-08-14T13:50:59.627Z
+date: 2024-12-08T23:31:51.959Z
+updated: 2024-12-12T03:42:30.508Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/3092233dd7a3eec690ede8061b1cb9bd708780813
 You have a Corsair gaming mouse but it doesn’t work properly. It could be frustrating, especially when you’re playing games. To make it work again, you can download and install the latest iCUE driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What’s the iCUE?
 
  iCUE (Intelligent Corsair Utility Engine) is a Corsair interface. It’s a powerful, intelligent software which can connect all your compatible products together and let you control almost everything in a single interface.  
@@ -33,8 +34,9 @@ There are two ways to download iCUE.
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download and install iCUE through the homepage  
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
@@ -42,22 +44,25 @@ There are two ways to download iCUE.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download iCUE from the product page
 
  According to the Corsair gaming mouse you have, you can download related iCUE by your product’s model name.  
 
 1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to do if your mouse still has issues?
 
@@ -72,10 +77,6 @@ There are two ways to download iCUE.
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
@@ -97,8 +98,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +105,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-from-puzzles-to-peril-the-gaming-genres-progression-for-2024/"><u>[New] From Puzzles to Peril The Gaming Genre's Progression for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-boost-your-youtube-presence-with-personalized-annotations-and-card-integration/"><u>[Updated] 2024 Approved Boost Your YouTube Presence with Personalized Annotations and Card Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-20-words-for-marketing-success/"><u>2024 Approved The Best 20 Words for Marketing Success</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-how-to-download-and-use-roccat-a9-gaming-mouse/"><u>Complete Guide: How to Download and Use Roccat A9 Gaming Mouse</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-gaming-experience-with-corsair-icue-windows-11-and-nt-free-downloads-available-now/"><u>Enhance Gaming Experience with Corsair iCUE: Windows 11 and nT - FREE Downloads Available Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-photography-meets-canva-exclusive-editing-secrets/"><u>In 2024, Pro Photography Meets Canva Exclusive Editing Secrets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-4k-a-look-at-the-d500-model/"><u>In 2024, The Evolution of 4K A Look at the D500 Model</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-and-using-the-latest-wd-ses-usb-device-drivers-a-comprehensive-guide/"><u>Installing and Using the Latest WD SES USB Device Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-pcie-driver-software-for-windows-versions-including-windows-11-10-8-and-navigating-to-the-installation-guide/"><u>Latest PCIe Driver Software for Windows Versions Including Windows 11, 10, 8 & Navigating to the Installation Guide.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/one-step-shot-simplify-podcast-streaming/"><u>One Step Shot Simplify Podcast Streaming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722964302911-speedy-install-grab-your-ftdi-chip-usb-to-rs232-serial-driver-today/"><u>Speedy Install: Grab Your FTDI Chip USB to RS232 Serial Driver Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-installing-and-keeping-your-epson-et-3760-printer-drivers-updated-in-windows-systems/"><u>Ultimate Guide: Installing & Keeping Your Epson ET-#3760 Printer Drivers Updated in Windows Systems</u></a></li>
+</ul></div>
 

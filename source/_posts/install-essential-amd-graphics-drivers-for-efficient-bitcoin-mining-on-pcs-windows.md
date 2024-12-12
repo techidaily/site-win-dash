@@ -1,7 +1,7 @@
 ---
 title: Install Essential AMD Graphics Drivers for Efficient Bitcoin Mining on PCs (Windows)
-date: 2024-08-13T13:45:38.570Z
-updated: 2024-08-14T13:45:38.570Z
+date: 2024-12-11T07:26:58.914Z
+updated: 2024-12-12T12:30:25.609Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **How to download and update your Ralink RT3290 driver**
 
  You can download and update the Ralink RT3290 driver either automatically and manually:
@@ -30,6 +31,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 2. **[Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
@@ -44,16 +49,14 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -63,18 +66,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -88,8 +79,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  For example, this is a screenshot of Windows 8.1 Pro (64-bit). And there’s one thing you should know: regarding**System Type** , “x64-based PC” stands for the 64-bit version; in contrast, “x86-based PC” stands for 32-bit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -109,8 +101,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
@@ -146,8 +139,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +146,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-convenient-tutorial-snapchat-installation-macos-style/"><u>[Updated] Convenient Tutorial Snapchat Installation macOS-Style</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-getting-to-know-the-premium-p2715q-a-high-definition-marvel/"><u>[Updated] Getting to Know the Premium P2715Q A High-Definition Marvel</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen-for-2024/"><u>[Updated] Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-stunning-iphone-hdr-results/"><u>2024 Approved Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-storyremix-for-windows-11-enhancing-videos-with-photos/"><u>2024 Approved Mastering StoryRemix for Windows 11 Enhancing Videos with Photos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-install-official-insignia-ns-pcy5bma2-driver-software-for-windows-operating-systems-windows-71011/"><u>Easy Install: Official Insignia NS-PCY5BMA2 Driver Software for Windows Operating Systems (Windows 7/10/11)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-to-install-usb-camera-software-quick-driver-downloads-available/"><u>Easy-to-Install USB Camera Software | Quick Driver Downloads Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-recording-with-updated-focusrite-scarlett-solo-18i20-windows-drivers-download-now/"><u>Enhance Your Recording with Updated Focusrite Scarlett Solo 18I20 Windows Drivers - Download Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-geforce-rtx-3080-graphics-driver-download-windows-1187-compatible/"><u>Free GeForce RTX 3#080 Graphics Driver Download - Windows 11/8/7 Compatible</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-webcam-ready-cross-platform-driver-downloads-for-windows-oses/"><u>Get Your Webcam Ready: Cross-Platform Driver Downloads for Windows OSes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210580397-9781647553067-ghostly-tales-of-michigan-2nd-ed/"><u>Ghostly Tales of Michigan (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-7-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 7 How to Bypass?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-syncing-vimeo-and-instagram-the-ultimate-guide/"><u>In 2024, Syncing Vimeo and Instagram The Ultimate Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962370683-step-by-step-instructions-get-the-latest-epson-xp-410-driver-for-your-pc-windows-system/"><u>Step by Step Instructions: Get the Latest Epson XP- 410 Driver for Your PC Windows System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-fixing-lg-usb-driver-glitches-across-various-windows-platforms/"><u>Step-by-Step Guide to Fixing LG USB Driver Glitches Across Various Windows Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/techkey-bluetooth-adapter-software-update-get-the-latest-drivers-for-windows-11-7-and-8/"><u>Techkey Bluetooth Adapter Software Update: Get the Latest Drivers for Windows 11, 7, and 8</u></a></li>
+</ul></div>
 
