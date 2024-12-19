@@ -1,7 +1,7 @@
 ---
 title: "Hands-On: Effortless Driver Update Process for the Logitech G502 Performance Mouse"
-date: 2024-08-13T13:38:30.840Z
-updated: 2024-08-14T13:38:30.840Z
+date: 2024-12-15T20:09:51.858Z
+updated: 2024-12-18T21:42:15.652Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA titles in 2021, you still need the latest graphics driver. In this article, we’ll show you how to download and update the driver for RTX 2080 SUPER, easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2 ways to install the RTX 2080 SUPER driver
 
  Option 1:[Install manually](https://tools.techidaily.com/drivereasy/download/) — This needs time and computer skills. You need to visit the NVIDIA website, search for the driver, and install it manually.
@@ -28,6 +25,10 @@ OR
 
  Option 1:[**Install automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-update-rtx-2080-super-drivers-windows-10/#option2) — You can get the latest graphics driver easily & quickly. All you need will be just a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Install the RTX 2080 SUPER driver manually
 
  If you’re a tech-savvy gamer, you can try to install the latest graphics driver manually.
@@ -35,51 +36,38 @@ OR
 **Warning** : Downloading the wrong driver or installing it incorrectly can make your PC unstable and even crash the whole system. So please proceed at your own risk.
 
 1. Visit the[driver download page](https://www.nvidia.com/Download/index.aspx) of the NVIDIA website. Then search for your video card.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually.jpg)
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -97,8 +85,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +92,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/fixed-update-windows-11-version-2004-with-conexant-driver/"><u>[Fixed] Update Windows 11 Version 2004 With Conexant Driver</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-iconic-image-improvements-iosandroids-funniest-apps/"><u>[New] In 2024, Iconic Image Improvements IOS/Android's Funniest Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-on-acquiring-elite-hdr-cameras/"><u>[New] Step-by-Step Guide on Acquiring Elite HDR Cameras</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assessing-luminance-for-hd-raises-questions/"><u>[Updated] Assessing Luminance for HD Raises Questions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-performance-mac-editors-ranked-1-to-5/"><u>2024 Approved High-Performance Mac Editors - Ranked #1 to #5</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/win11-zip/"><u>透過 Win11 自行復原無限制解壓 ZIP 檔案：免費方法</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-official-konica-minolta-printer-software-for-windows-operating-systems-windows-111087/"><u>Download Official Konica Minolta Printer Software for Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-dell-monitor-driver-updates-get-the-latest-version-now/"><u>Effortless Dell Monitor Driver Updates - Get the Latest Version Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-installation-of-nvidias-3d-vision-drivers-on-windows-systems/"><u>Free Installation of Nvidia's 3D Vision Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-latest-rtx-3nvidia-geforce-3070-ti-graphics-card-drivers-for-win-11-8-and-7-systems/"><u>Get Latest RTX 3Nvidia GeForce 3070 Ti Graphics Card Drivers for Win 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-started-comprehensive-linksys-wusb6300-drivers-setup-and-downloads/"><u>How to Get Started: Comprehensive Linksys WUSB6300 Drivers Setup and Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-resolve-no-dts-audio-support-issue-with-your-chosen-speaker-or-headphones/"><u>How to Resolve 'No DTS Audio Support' Issue with Your Chosen Speaker or Headphones</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>In 2024, The Seamless Path Integrating Your Social Photos Into Device Storage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/meme-mania-social-medias-most-hilarious-video-threads-for-2024/"><u>Meme Mania Social Media's Most Hilarious Video Threads for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-installation-of-asus-maximus-xi-extreme-z370-motherboard-secure-your-latest-drivers-now/"><u>Quick Installation of ASUS Maximus XI Extreme Z370 Motherboard - Secure Your Latest Drivers Now!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/tackling-frame-loss-best-practices-for-obs-users/"><u>Tackling Frame Loss Best Practices for OBS Users</u></a></li>
+</ul></div>
 

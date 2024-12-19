@@ -1,7 +1,7 @@
 ---
 title: Installing the Latest Windows Driver for Your Epson ET-2750 Printer
-date: 2024-08-13T13:40:41.809Z
-updated: 2024-08-14T13:40:41.809Z
+date: 2024-12-13T23:27:59.339Z
+updated: 2024-12-18T21:32:47.578Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Logitech G910 not working? You may need to download the software for further con
 
 [2: Update your keyboard drivers](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Install the Logitech G HUB software
 
  Logitech G HUB is a software platform to help users set up a keyboard of the brand. If the software is not automatically installed when you first connect the keyboard to your computer, then your keyboard may not work or would only have limited functions. Follow the steps below to find and install it from the official website:
@@ -37,9 +41,6 @@ Logitech G910 not working? You may need to download the software for further con
 
  04 Click**Support** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/03-1200x783.jpg)
 
  05 Click**Downloads** .
@@ -48,10 +49,11 @@ Logitech G910 not working? You may need to download the software for further con
 
  06 Click**Download Now** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/05-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  07 Open the Downloads folder and you will find the installer. If you’re using a Chrome browser, click**Show in folder** .
 
@@ -59,10 +61,11 @@ Logitech G910 not working? You may need to download the software for further con
 
  08 Double click the installer file, and you would be prompted to restart your computer before installation. Click**Reboot Now** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/07-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  09 The installer will reopen once the computer restarts. If not, you can open the installer manually. Click**INSTALL** .
 
@@ -70,14 +73,15 @@ Logitech G910 not working? You may need to download the software for further con
 
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2: Update your keyboard drivers
 
  Logitech G910 keyboard not working is usually a result of an outdated or faulty driver. You would need to check your keyboard driver is up-to-date and functioning properly..
 
  There are two ways you can get the right drivers for your keyboard: automatically or manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Automatically (Recommended!)
 
@@ -91,9 +95,6 @@ Logitech G910 not working? You may need to download the software for further con
 
  02 Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
 
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
@@ -106,9 +107,6 @@ Check your keyboard to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Option 2: via Device Manager
 
  Device Manager is a Windows tool that allows you to check and alter hardware settings as well as driver statuses. You may need some computer skills for the following steps:
@@ -117,11 +115,12 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-42-52.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  02 Select**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
 
  03 Select**Keyboards** .
@@ -130,19 +129,17 @@ Check your keyboard to see if it works.
 
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
 
  05 Click**Search automatically for drivers** . Make sure your computer has an internet connection. Windows would automatically scan and install available drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-16-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  06 If the automatic scan doesn’t work, then click**Browse my computer for drivers** instead.
 
@@ -150,14 +147,19 @@ Check your keyboard to see if it works.
 
  07 Select**Let me pick from a list of available drivers on my computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  08 Click**Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
@@ -181,8 +183,6 @@ Now check your keyboard to see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +190,18 @@ Now check your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-ultimate-list-top-8-fb-movies-to-download-in-23/"><u>[New] Ultimate List Top 8 FB Movies to Download in '23</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-installation-guide-for-movie-maker-6-version-6/"><u>[Updated] In 2024, Installation Guide for Movie Maker 6 Version 6</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-7-best-drone-gimbals-in-the-market/"><u>[Updated] Top 7 Best Drone Gimbals in the Market</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-nvme-drivers-on-your-windows-pc-a-step-by-step-guide/"><u>Download & Install NVMe Drivers on Your Windows PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-of-realtek-rtl81/"><u>Free Download of Realtek RTL81</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver-for-2024/"><u>From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-effortlessly-install-updated-amd-rx-580-gpu-drivers/"><u>How to Effortlessly Install Updated AMD RX 580 GPU Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-nhl-19-gaming-experience-and-digital-play/"><u>In-Depth Analysis: NHL '19 Gaming Experience and Digital Play</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-guide-to-fix-and-update-your-ralink-rt329n-wireless-card-on-windows-11-8-and-7/"><u>The Ultimate Guide to Fix and Update Your Ralink RT329n Wireless Card on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y100i-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y100i Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-poco-x5-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Poco X5? | Dr.fone</u></a></li>
+</ul></div>
 

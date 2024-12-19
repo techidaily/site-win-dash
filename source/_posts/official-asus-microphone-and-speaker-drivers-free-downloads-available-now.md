@@ -1,7 +1,7 @@
 ---
 title: "Official ASUS Microphone and Speaker Drivers: Free Downloads Available Now"
-date: 2024-08-13T13:44:43.214Z
-updated: 2024-08-14T13:44:43.214Z
+date: 2024-12-15T17:57:19.199Z
+updated: 2024-12-18T21:39:11.044Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 You have a Corsair gaming mouse but it doesn’t work properly. It could be frustrating, especially when you’re playing games. To make it work again, you can download and install the latest iCUE driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What’s the iCUE?
 
  iCUE (Intelligent Corsair Utility Engine) is a Corsair interface. It’s a powerful, intelligent software which can connect all your compatible products together and let you control almost everything in a single interface.  
@@ -32,27 +33,12 @@ There are two ways to download iCUE.
 1. [Download and install iCUE through the homepage](https://tools.techidaily.com/drivereasy/download/)
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download and install iCUE through the homepage  
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download iCUE from the product page
 
  According to the Corsair gaming mouse you have, you can download related iCUE by your product’s model name.  
@@ -60,14 +46,21 @@ There are two ways to download iCUE.
 1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to do if your mouse still has issues?
 
  After reinstalling iCUE driver, if your gaming mouse still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.
@@ -81,15 +74,16 @@ There are two ways to download iCUE.
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -105,8 +99,6 @@ There are two ways to download iCUE.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +106,24 @@ There are two ways to download iCUE.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-tailored-approach-software-free-vs-softwares-for-vimeo-download/"><u>[New] 2024 Approved Tailored Approach Software-Free Vs. Softwares For Vimeo Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ace-your-edits-pro-level-tips-for-lunapic-users/"><u>[New] Ace Your Edits Pro-Level Tips for LunaPic Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-behind-the-scenes-to-the-best-free-meme-designs/"><u>[New] In 2024, Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambia-tu-video-avi-por-un-formato-mov-libre-de-cargas-gravables-soluciones-digitales-de-movavi/"><u>Cambia Tu Vídeo AVI Por Un Formato MOV Libre De Cargas Gravables: Soluciones Digitales De Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/corsair-liquid-cpu-cooler-h115i-driver-compatibility-fixes-for-w8-w10-w11-systems/"><u>Corsair Liquid CPU Cooler H115i – Driver Compatibility Fixes for W8-W10-W11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creating-your-own-youtube-intro-with-movavi-a-step-by-step-guide/"><u>Creating Your Own YouTube Intro with Movavi - A Step by Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tech-hacking-writing-software-for-your-multi-purpose-universal-remote/"><u>DIY Tech Hacking: Writing Software for Your Multi-Purpose Universal Remote</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-nvidia-geforce-rtx-3090-driver-for-multiple-windows-versions/"><u>Download NVIDIA GeForce RTX 3090 Driver for Multiple Windows Versions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962020826-easy-guide-to-fixing-hps-beat-audio-drivers-for-windows-11-8-and-7-no-more-headaches/"><u>Easy Guide to Fixing HP's Beat Audio Drivers for Windows 11, 8 & 7 - No More Headaches</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-guide-installing-nvidia-1080-drivers-for-windows-11-users/"><u>Effortless Guide: Installing Nvidia 1080 Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-entertainment-advanced-settings-for-the-best-apple-tv-experience/"><u>Elevate Your Entertainment: Advanced Settings for the Best Apple TV Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-newest-netgear-wi-fi-adapter-drivers-downloaded-here/"><u>Ensure Optimal Performance with Newest NETGEAR Wi-Fi Adapter Drivers Downloaded Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-software-epson-tm-n88v-driver-version-for-windows-pcs/"><u>Get the Latest Software: EPSON TM-N88v Driver Version for Windows PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-picture-playback-selecting-the-top-8k-panels/"><u>In 2024, Perfect Picture Playback Selecting the Top 8K Panels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722888757101-iphone-voice-message-basics-a-simple-tutorial-for-seamless-audio-sharing-on-ios-devices/"><u>IPhone Voice Message Basics: A Simple Tutorial for Seamless Audio Sharing on iOS Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-free-download-package-for-focusrite-scarlett-2i2-platinum-win-setup-and-drivers-included/"><u>Ultimate Free Download Package for Focusrite Scarlett 2I2 Platinum - Win Setup and Drivers Included</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-and-download-amd-ryzen-chipset-drivers-today-step-by-step-tutorial/"><u>Update & Download AMD Ryzen Chipset Drivers Today – Step-by-Step Tutorial</u></a></li>
+</ul></div>
 

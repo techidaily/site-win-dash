@@ -1,7 +1,7 @@
 ---
 title: "「Google検索対応: PC上で流れている曲を記録し、USBメモリーへ保存する自由ソフトの紹介」"
-date: 2024-12-01T21:35:46.452Z
-updated: 2024-12-06T10:15:49.273Z
+date: 2024-12-16T18:17:56.727Z
+updated: 2024-12-18T20:52:51.361Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40d591496be1b3a2b61ca7796.jpg
@@ -28,10 +28,6 @@ Quick Navigation:
 * [FAQs of Removing Audio from a Video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [The Bottom Line](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Remove Audio from Videos on Windows?
 
 [WonderFox HD Video Converter Factory Pro](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) is a professional video converter for Windows with handy editing, recording, and downloading features. Using its simple video editor, you can easily remove audio from videos like MP4, MKV, MOV, AVI, and WebM. You have two options: mute the audio or remove the soundtrack. No matter which method you use, you can complete the task with several mouse clicks.
@@ -48,15 +44,15 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** There are two ways to mute the video.
 
 **Way 1:** Go to the “Audio Track” option below the source file. Tap it and uncheck the soundtrack to make it “Disabled”. You can mute other videos in the same way.
 
 ![Remove Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-2.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Way 2:** Click “Parameter settings” below the output format. Navigate to the “Volume” option and move the slider towards the left to “0%”. Then, press “OK” to save the change. Doing so will mute all the videos you import into the software.
 
@@ -67,7 +63,7 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 ![Export Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-4.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Versatile Audio Remover App for PC
@@ -82,10 +78,6 @@ Main features of WonderFox HD Video Converter Factory Pro:
 **→ Install and Explore More...**
 
 [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Remove Audio from a Video on Mac?
 
@@ -109,13 +101,13 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 3\. Right-click the clip and select Delete from the menu.  
 4\. Go to Share > File to export your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Mute a Video on iPhone and Android?
 
 Here, we provide two ways to remove audio from a video on your Android or iOS device: Google Photos and InShot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### • Google Photos
 
@@ -146,7 +138,7 @@ How to remove background audio from a video with InShot:
 ![Remove Original Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-7.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Remove Audio from Video Online?
@@ -160,14 +152,6 @@ Many online video editors can help you remove background sound from a video. How
 **Step 5.** You can preview the muted video output below. Finally, tap “Save”.
 
 ![Remove Audio from Video Online Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-8.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Common Ways to Mute a Video
 
@@ -189,7 +173,7 @@ You can try Adobe Premiere Pro for free for 7 days and then purchase a subscript
 ![Remove Audio from Video Premiere Pro](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-10.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### • VLC Media Player
@@ -200,6 +184,14 @@ VLC is a well-known multimedia player for almost all platforms. It can help you 
 
 ![Delete Audio from Video in VLC](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-11.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### • VSDC Video Editor
 
 VSDC Free Video Editor is an excellent tool for editing your videos on Windows. It’s able to process high-resolution footage, including 4K UHD, 3D, and VR 360-degree videos. Besides removing audio from a video, VSDC supports applying post-production effects, color correction, and motion tracking like other professional video editing software, which is also challenging for new users.
@@ -208,11 +200,19 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Remove Audio from Video FAQs
 
 ### Q1\. Can I remove the audio from an iPhone video?
 
 Yes. There are many ways to [remove sound from iPhone videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), such as using the Photos app, iMovie, an online video editor, or a third-party audio remover.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q2\. How do I remove a specific audio track from a video?
 
@@ -233,6 +233,10 @@ Firstly, import your video into the editing software and separate the audio from
 
 **WhatsApp:** Open the app on your iPhone or Android. Next, select Chats > choose chat to mute or open a video from your gallery. Finally, tap the speaker icon to mute it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom Line
 
 That is all we want to share with you about how to remove audio from a video. This article collects all popular solutions for muting videos on the Windows, Mac, Android, iOS, and online. Hope they are helpful to you. Thanks for reading!
@@ -251,10 +255,6 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -270,17 +270,18 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-secrets-of-xstream-studios-a-complete-review-for-2024/"><u>[New] Unveiling the Secrets of XStream Studios - A Complete Review for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-the-world-of-video-calls-hangouts-for-android-for-2024/"><u>[Updated] Explore the World of Video Calls Hangouts for Android for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-picks-a-list-mac-video-capture-tools/"><u>[Updated] In 2024, Elite Picks A-List Mac Video Capture Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-breakdown-vsco-photography-tools/"><u>2024 Approved Comprehensive Breakdown VSCO Photography Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-cinematic-magic-advanced-kinemaster-techniques/"><u>2024 Approved Crafting Cinematic Magic Advanced Kinemaster Techniques</u></a></li>
-<li><a href="https://win-dash.techidaily.com/boost-your-pcs-visual-capabilities-how-to-update-ati-drivers-under-windows-os/"><u>Boost Your PC's Visual Capabilities: How To Update ATI Drivers Under Windows OS</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-hp-officejet-pro-8610-printer-drivers-compatible-with-windows-11-10-8-7-vista/"><u>Download & Update HP Officejet Pro 8610 Printer Drivers: Compatible with Windows 11, 10, 8, 7, Vista</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-canon-mx492-printer-drivers-a-step-by-step-guide-for-seamless-windows-integration/"><u>Get the Newest Canon MX492 Printer Drivers: A Step-by-Step Guide for Seamless Windows Integration</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-valheim-experience-ultimate-guide-to-resolving-high-latency-on-windows/"><u>Optimize Your Valheim Experience: Ultimate Guide to Resolving High Latency on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/realizing-your-audio-based-ppt-with-easy-s2t-tools/"><u>Realizing Your Audio-Based PPT with Easy S2T Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-compatible-hp-officejet-pro-8620-driver-downloads-and-updates/"><u>Windows Compatible HP OfficeJet Pro 8620 Driver Downloads & Updates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cultivate-creativity-20plus-inspiring-youtube-concepts-for-2024/"><u>[New] Cultivate Creativity 20+ Inspiring YouTube Concepts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-videography-quality-top-7-sound-effects-pick-for-2024/"><u>[New] Elevate Videography Quality Top 7 Sound Effects Pick for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-excellence-in-meeting-capture-the-best-streaming-gadgets-ranked/"><u>2024 Approved Excellence in Meeting Capture The Best Streaming Gadgets Ranked</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-precision-tools-for-gif-to-video-conversion-best-5/"><u>2024 Approved Precision Tools for GIF to Video Conversion (Best 5)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-hl-l2n60dw-printer-drivers-download-free-and-official/"><u>Brother HL-L2n60DW Printer Drivers Download – Free & Official</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converti-file-wav-a-formato-ogg-gratuitamente-online-con-movavi/"><u>Converti File WAV a Formato OGG Gratuitamente - Online Con Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-drivers-for-your-dell-thunderbolt-tb16-dock-with-easy-guide/"><u>Download Updated Drivers for Your Dell Thunderbolt TB16 Dock with Easy Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-the-latest-logitech-mk710-camera-drivers-a-comprehensive-guide/"><u>Find & Install The Latest Logitech MK710 Camera Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-vga-driver-download-enhance-graphics-performance/"><u>Free VGA Driver Download: Enhance Graphics Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone XS Max?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971718561-potential-challenges-in-domesticating-this-fungus-outside-its-natural-habitat-and-strategies-for-overcoming-these-difficulties/"><u>Potential Challenges in Domesticating This Fungus Outside Its Natural Habitat and Strategies for Overcoming These Difficulties.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-resource-find-and-install-the-right-mouse-driver-for-windows-7-with-confidence-rated-highly-effective/"><u>Ultimate Resource: Find and Install the Right Mouse Driver for Windows [7] with Confidence (Rated Highly Effective)</u></a></li>
 </ul></div>
 

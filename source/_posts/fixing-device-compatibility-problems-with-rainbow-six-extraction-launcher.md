@@ -1,7 +1,7 @@
 ---
 title: Fixing Device Compatibility Problems with Rainbow Six Extraction Launcher
-date: 2024-08-13T13:42:42.520Z
-updated: 2024-08-14T13:42:42.520Z
+date: 2024-12-17T21:18:01.502Z
+updated: 2024-12-18T17:45:42.061Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
  Check your system specifications first. If you’re sure about it, **jump to the[fixes](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### **Minimum system requirement**
 
 | **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)                         |
@@ -32,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 | **RAM**          | 6 GB                                                                                 |
 | **Video Card**   | NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM) |
 | **Hard Drive**   | 30 GB                                                                                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Recommended**system requirement**
 
@@ -53,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 5. **[Reinstall Microsoft Visual C++ Redistributable Package](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Uplay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 1: Disable your Antivirus software
 
  It has been proved by many users that some antivirus software like Bitdefender is the reason for the Rainbow Six Siege won’t launch issue. Antivirus software forbidden the game and cause the problem.  
@@ -71,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 If the game is still crashing, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Rainbow Six Siege can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -80,11 +79,13 @@ If the game is still crashing, try the next fix.
 1. Navigate to the game installation folder. (If you can’t find it, you can go to Steam, right-click on the game > Properties > Local Files > Browse local files.)
 2. Right-click on**Rainbowsix.exe** and click**Properties** .
 3. Click the**Compatibility** tab and check**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the game and check the issue is solved or not.
 
 ### Fix 3: Update your graphics card driver
@@ -113,20 +114,23 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify game cache
 
@@ -138,22 +142,21 @@ OR
 3. Choose Local files and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Start rainbow six and Uplay will open and ask to link your account
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then your game will start automatically!
 
 **Note** : If it doesn’t work, you may restart Steam before doing step 4.  
  If it’s still not working, you can move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Microsoft Visual C++ Redistributable Package
 
  If your Siege and Uplay (including the BattleEye) were successfully installed but Rainbow Six Siege won’t launch, you may need to check the supported software.
 
 1. Type “control panel” in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
@@ -166,21 +169,17 @@ OR
 
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Uplay
 
  If your game launches for a few seconds but nothing happened, reinstalling Uplay may be the fix for you. When the Uplay app was outdated or not function correctly, the game may not launch properly. So a clean uninstalling then installing Uplay may help.
 
 1. Type “control panel” in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Right-click on**Uplay** and click**Uninstall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay.jpg)
@@ -200,8 +199,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +206,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-guide-to-picking-ideal-youtube-partnership-allies/"><u>[New] The Guide to Picking Ideal YouTube Partnership Allies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimizing-video-sharing-with-vimeo-subscription-choices/"><u>[Updated] 2024 Approved Optimizing Video Sharing With Vimeo Subscription Choices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-captions-101-the-essential-guide/"><u>[Updated] In 2024, Vimeo Captions 101 The Essential Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/audigy-fx-graphics-and-audio-drivers-for-enhanced-gaming-experience-download-now/"><u>Audigy FX Graphics & Audio Drivers for Enhanced Gaming Experience - Download Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-resolution-for-logitech-c615-driver-problems-expert-guide/"><u>Effortless Resolution for Logitech C615 Driver Problems - Expert Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-wf-2540-driver-download-for-windows-71081/"><u>Epson WF 2540 Driver Download for Windows 7/10/8.1</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721413720208-exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fishing/"><u>Fishing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-ultimate-guide-to-installing-easycap-software/"><u>Free Download: Ultimate Guide to Installing EasyCap Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-amd-ryzen-5-2500u-ready-streamlined-drivers-installation-guide/"><u>Get Your AMD Ryzen 5 2500U Ready: Streamlined Drivers Installation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-the-latest-brother-scanner-drivers-compatible-with-windows/"><u>How to Download the Latest Brother Scanner Drivers Compatible with Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-12-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 12 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-f34-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy F34 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/nine-steps-to-master-the-art-of-engaging-chats/"><u>Nine Steps to Master the Art of Engaging Chats</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-instructions-for-upgrading-the-driver-of-your-intel-centrinosanta-rosa-wireless-network-connection-card-6205agn/"><u>Simple Instructions for Upgrading the Driver of Your Intel Centrino/Santa Rosa Wireless Network Connection Card (6205AGN)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-essential-list-of-macs-top-snipping-apps/"><u>The Essential List of Mac's Top Snipping Apps</u></a></li>
+</ul></div>
 

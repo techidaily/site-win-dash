@@ -1,7 +1,7 @@
 ---
 title: Probabilistic Methods in Advanced Seismic Analysis Account for Uncertainties and Provide a Comprehensive Risk Assessment of Structural Behavior During Earthquakes
-date: 2024-08-13T13:40:18.866Z
-updated: 2024-08-14T13:40:18.866Z
+date: 2024-12-14T21:09:47.894Z
+updated: 2024-12-18T17:27:29.582Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 It’s always important to **keep your GTX 1660 driver** up-to-date to make sure the graphics card is working in tip-top shape, prevent issues like low FPS, stuttering, or even crashes. In this post, we’re showing you 2 methods to download and install the latest **GTX 1660** **Ti driver** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To update your GTX 1660 Ti driver
 
  There are two ways to**update your GTX 1660 Ti drivers in Windows 10, 8.1 and 7** :
@@ -27,9 +31,6 @@ OR
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 1 – Update GTX 1660 Ti drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your GTX 1660 Ti driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -42,35 +43,19 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-317.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-318.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -94,23 +79,22 @@ Key features:
 
 **Language** : <Your preferred language>
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**DOWNLOAD** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Click DOWNLOAD again to start the download.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
 
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
@@ -131,8 +115,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +122,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unite-gamers-and-followers-xboxfb-livestream-guide/"><u>[New] In 2024, Unite Gamers & Followers Xbox/FB Livestream Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-discover-the-power-of-easy-trimming-with-windows-photos-app/"><u>[Updated] 2024 Approved Discover the Power of Easy Trimming with Windows Photos App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>[Updated] In 2024, Swiftly Move Data Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>2024 Approved Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-mfc-l2690dw-freshest-printer-software-download-and-easy-setup-process/"><u>Brother MFC-L2690DW - Freshest Printer Software Download & Easy Setup Process</u></a></li>
+<li><a href="https://fox-http.techidaily.com/creative-overhaul-with-tiktok-effects/"><u>Creative Overhaul with TikTok Effects</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-speaker-software-compatible-with-windows-10-7-and-8/"><u>Download Logitech Speaker Software Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-samsung-android-debug-bridge-adb-drivers/"><u>Download Samsung Android Debug Bridge (ADB) Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-steps-when-connected-to-a-remote-server-fails/"><u>Easy Troubleshooting Steps When Connected to a Remote Server Fails</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-hp-auditory-devices-configuration-with-free-drivers/"><u>Hassle-Free HP Auditory Devices Configuration with Free Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-amd-rx-580-drivers-step-by-step-instructions-for-a-quick-fix/"><u>How to Get the Latest AMD RX 580 Drivers: Step-by-Step Instructions for a Quick Fix!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-best-bluetooth-adapter-software-from-zexmt-for-your-pc-windows-11108/"><u>How to Install the Best Bluetooth Adapter Software From ZEXMT for Your PC (Windows 11/10/8)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-radeon-drivers-for-windows-7-free-downloads-available/"><u>Latest AMD Radeon Drivers for Windows 7 - Free Downloads Available</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photo-extraction-techniques-for-windows-11-videos-for-2024/"><u>Photo Extraction Techniques for Windows 11 Videos for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-traveling-with-these-tech-pickles/"><u>Revolutionize Traveling with These Tech Pickles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speak-listen-and-engage-with-chatgpt-its-easier-than-you-think/"><u>Speak, Listen, and Engage with ChatGPT - It's Easier Than You Think</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722954781279-xbox-gamepad-drivers-not-working-solutions-for-users-of-windows-10-8-and-7/"><u>Xbox Gamepad Drivers Not Working? Solutions for Users of Windows 10, 8 & 7</u></a></li>
+</ul></div>
 
