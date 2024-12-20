@@ -1,7 +1,7 @@
 ---
 title: Toshiba Driver Update Guide for Windows Users - Free Download Available Now!
-date: 2024-08-19T08:08:39.365Z
-updated: 2024-08-20T08:08:39.365Z
+date: 2024-12-12T00:20:06.178Z
+updated: 2024-12-18T23:05:11.418Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ## Canon MG2520 Windows Drivers - Free Downloads and Updates Available
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa76122609.jpg)
 
  This post will show you how to update the printer driver for your**Canon MG2520 printer** .
@@ -26,18 +23,12 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Update printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update printer driver manually
 
  You can manually download the Canon MG2520 driver from the Canon website in your Windows computer. To do so, follow the instructions below:
@@ -48,16 +39,25 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update printer driver automatically
 
@@ -71,32 +71,21 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3: Update printer driver in Device Manager
 
@@ -122,6 +111,10 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Then Windows will start to help search the new driver for your printer.
 
  7) After updating, restart your computer.
@@ -137,8 +130,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +137,26 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-free-video-recorders-for-every-android-user/"><u>[New] In 2024, Free Video Recorders for Every Android User</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-pioneers-leading-the-charge-in-virtual-experiences/"><u>[New] In 2024, Pioneers Leading the Charge in Virtual Experiences</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-redefining-the-art-of-editing-a-deep-dive-into-youtube-studios-capabilities/"><u>[Updated] 2024 Approved Redefining the Art of Editing A Deep Dive Into YouTube Studio's Capabilities</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-uplifting-cinema-the-ultimate-list-of-motivation/"><u>[Updated] 2024 Approved Uplifting Cinema The Ultimate List of Motivation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-decoding-the-mechanics-a-deep-dive-into-webcam-tech/"><u>[Updated] Decoding the Mechanics A Deep Dive Into Webcam Tech</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/beyond-obs-streamer-friendly-broadcast-software-for-2024/"><u>Beyond OBS Streamer-Friendly Broadcast Software for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-audio-drivers-for-windows-7/"><u>Download Audio Drivers for Windows 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-driver-upgrade-tips-for-enhancing-performance-on-logitech-m510/"><u>Easy Driver Upgrade Tips for Enhancing Performance on Logitech M510</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-epson-xp-410-printer-drivers-on-windows-pcs-step-by-step/"><u>Easy Installation of Epson XP- 410 Printer Drivers on Windows PCs Step by Step</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-thrustmaster-t300-steering-wheel-gamepad-downloads-compatible-with-windows-11-and-10/"><u>Free Thrustmaster T300 Steering Wheel Gamepad Downloads: Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-toshiba-drivers-and-upgrades-on-your-windows-pc-easily/"><u>Get the Newest Toshiba Drivers and Upgrades on Your Windows PC Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perceiving-beyond-understanding-ars-impact/"><u>In 2024, Perceiving Beyond Understanding AR's Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-vr-grips-top-8-essential-handsets-for-2024/"><u>Leading VR Grips Top 8 Essential Handsets for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/realtek-rtl8188cu-wifi-driver-installation-ideal-for-windows-107-users/"><u>Realtek RTL8188CU WiFi Driver Installation - Ideal for Windows 10/7 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-downloading-and-setting-up-asus-atk0100-acpi-drivers/"><u>Step-by-Step Tutorial: Downloading and Setting Up ASUS ATK0100 ACPI Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974606221-the-simplest-way-to-find-and-install-asus-bluetooth-drivers-free-access/"><u>The Simplest Way to Find and Install ASUS Bluetooth Drivers – Free Access!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-htc-u23-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from HTC U23 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-onedrive-windows-methods-to-reclaim-file-storage/"><u>Unblock OneDrive: Windows Methods to Reclaim File Storage</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unveiling-the-solution-wn722n-detected-after-previously-going-unseen-by-windows/"><u>Unveiling the Solution: WN722N Detected After Previously Going Unseen by Windows</u></a></li>
+</ul></div>
 

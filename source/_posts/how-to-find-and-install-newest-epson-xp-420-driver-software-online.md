@@ -1,7 +1,7 @@
 ---
 title: How to Find and Install Newest Epson XP 420 Driver Software Online
-date: 2024-08-13T13:44:01.157Z
-updated: 2024-08-14T13:44:01.157Z
+date: 2024-12-11T18:37:16.702Z
+updated: 2024-12-19T09:47:30.372Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -42,12 +39,17 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
@@ -65,32 +67,18 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3: Update printer driver in Device Manager
 
  You can also update the Canon MG2520 driver via Device Manager on your computer.
@@ -103,20 +91,29 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double click**Printers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
 
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
 
@@ -133,8 +130,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +137,22 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-12-youtube-gaming-intro-makers-free-and-paid/"><u>[New] In 2024, Best 12 YouTube Gaming Intro Makers - Free and Paid</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-logitech-webcam-c270-drivers-on-windows-10-or-11-step-by-step-guide/"><u>Download and Install Logitech Webcam C270 Drivers on Windows 10 or 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-broadcom-bluetooth-driver-compatible-with-windows-11-8-and-7/"><u>Download the Latest Broadcom Bluetooth Driver Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-audio-driver-update-for-your-hp-devices-free-and-fast-download-options/"><u>Effortless Audio Driver Update for Your HP Devices - Free and Fast Download Options!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-driver-update-for-your-msi-gs65-under-windows-download-here/"><u>Essential Driver Update for Your MSI GS65 Under Windows – Download Here!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/game-away-your-worries-the-coolest-titles-for-2024/"><u>Game Away Your Worries The Coolest Titles for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-tp-link-adapter-software-for-optimal-wifi-on-windows-platforms-xp-vista-and-7/"><u>Get the Latest TP-Link Adapter Software for Optimal WiFi on Windows Platforms (XP, Vista & 7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-hp-laserprinter-driver-setup-files-on-windows-7-platforms/"><u>Get Your Free HP LaserPrinter Driver Setup Files on Windows 7 Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-schedule-meetings-on-zoom-in-2024/"><u>How to Schedule Meetings on Zoom, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>In 2024, 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-survival-in-mc-top-house-ideas-and-plans/"><u>In 2024, Survival in MC Top House Ideas & Plans</u></a></li>
+<li><a href="https://video-capture.techidaily.com/integrating-facebook-linkedin-and-youtube-a-guide/"><u>Integrating Facebook, LinkedIn & YouTube: A Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/movie-substitutes-that-shook-up-my-world-7-choices-for-2024/"><u>Movie Substitutes That Shook Up My World - #7 Choices for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-setup-for-razer-mamba-free-driver-software-here/"><u>Speedy Setup for Razer Mamba - Free Driver Software Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-fixes-for-windows-update-error-0x80070422-in-windows-10-operating-system/"><u>Step-by-Step Fixes for Windows Update Error 0X80070422 in Windows 10 Operating System</u></a></li>
+</ul></div>
 

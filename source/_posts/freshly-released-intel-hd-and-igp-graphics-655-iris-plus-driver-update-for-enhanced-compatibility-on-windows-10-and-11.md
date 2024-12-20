@@ -1,7 +1,7 @@
 ---
 title: "Freshly Released: Intel® HD & IGP Graphics 655 (Iris Plus) Driver Update for Enhanced Compatibility on Windows 10 and 11"
-date: 2024-08-13T13:44:12.513Z
-updated: 2024-08-14T13:44:12.513Z
+date: 2024-12-16T05:04:12.793Z
+updated: 2024-12-19T02:28:05.116Z
 tags:
   - win11
   - win10
@@ -28,33 +28,37 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Install the driver automatically (Recommended)
 
  Installing drivers manually takes time and computer skills. If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and installs any driver updates your computer needs.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After installing the latest graphics driver, restart your PC and test the improvements in your favorite games.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Install the driver manually
 
 You can use the following steps to install the graphics driver manually:
@@ -62,14 +66,13 @@ You can use the following steps to install the graphics driver manually:
  Downloading the wrong driver, or installing it incorrectly can make your PC unstable and even crash the whole system. So please continue at your own risk.
 
 1. Go to the NVIDIA driver download page. Then search for your GPU.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-manually-1.jpg)
 2. At the search result page, click**DOWNLOAD** to download the driver installer. Then open the installer and follow the on-screen instructions to install or update the driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-manually-2.jpg)
 
 ---
@@ -84,8 +87,6 @@ You can use the following steps to install the graphics driver manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +94,26 @@ You can use the following steps to install the graphics driver manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleashing-creativity-filming-timelapse-videography-on-ipad/"><u>[New] Unleashing Creativity Filming Timelapse Videography on iPad</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effective-methods-to-document-facetime-calls/"><u>[Updated] Effective Methods to Document FaceTime Calls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-your-channels-profits-with-impactful-and-effective-trailers/"><u>[Updated] In 2024, Elevating Your Channels' Profits with Impactful and Effective Trailers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quintessential-collection-of-anime-intros/"><u>[Updated] The Quintessential Collection of Anime Intros</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bluetooth-driver-solutions-for-a-smoother-windows-11-experience/"><u>Bluetooth Driver Solutions for a Smoother Windows 11 Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/delving-deep-into-dji-inspire-2s-design-for-2024/"><u>Delving Deep Into DJI Inspire 2'S Design for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-display-screen-drivers-step-by-step-guide/"><u>Download and Update Lenovo Display Screen Drivers - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-fix-a-comprehensive-guide-to-downloading-and-installing-the-linksys-wusb6300-drivers-successfully/"><u>Find and Fix: A Comprehensive Guide to Downloading & Installing the Linksys WUSB6300 Drivers Successfully</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-official-logitech-g29-game-controller-software-for-various-versions-of-windows/"><u>Free Download: Official Logitech G29 Game Controller Software for Various Versions of Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-11-8-and-7/"><u>Get the Latest NVIDIA GeForce RTX 3080 Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-qualcomm-atheros-ar3011-bluetooth-30-driver-here-step-by-step-installation-guide-and-compatibility-tips/"><u>Get Your Free Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here: Step-by-Step Installation Guide and Compatibility Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disassociate-onedrive-from-microsoft-account-in-windows/"><u>How to Disassociate OneDrive From Microsoft Account in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-set-up-epson-wf-series-drivers-on-windows-operating-systems-7-81-and-10/"><u>How to Download and Set Up Epson WF Series Drivers on Windows Operating Systems 7, 8.1 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-zte-nubia-z60-ultra-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479388504-iphone-alarm-issues-heres-how-to-make-it-work-perfectly/"><u>IPhone Alarm Issues? Here’s How to Make It Work Perfectly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-first-day-on-windows-11-skip-these-top-8-blunders/"><u>Mastering Your First Day on Windows 11: Skip These Top 8 Blunders</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolved-get-your-wireless-card-1535-drivers-downloaded-now/"><u>Resolved: Get Your Wireless Card 1535 Drivers Downloaded Now!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleashing-true-black-and-vivid-colors-on-asus-pa32u/"><u>Unleashing True Black & Vivid Colors on ASUS PA32U</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-canon-pixma-ts3322-driver-free-download-available/"><u>Update Your Canon PIXMA TS3322 Driver – Free Download Available</u></a></li>
+</ul></div>
 

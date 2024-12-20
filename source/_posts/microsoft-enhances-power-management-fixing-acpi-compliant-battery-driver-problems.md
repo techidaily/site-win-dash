@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Enhances Power Management: Fixing ACPI Compliant Battery Driver Problems"
-date: 2024-08-19T08:07:44.201Z
-updated: 2024-08-20T08:07:44.201Z
+date: 2024-12-15T21:10:45.990Z
+updated: 2024-12-19T10:05:31.064Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
  If you are wondering how and where to**update your Lenovo power management driver** , look no further! In this article, we are offering you two options to get it done, in a jiffy.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 options to update Lenovo Power Management Drivers
 
  There are two ways you can update your Lenovo power management driver in Windows.
@@ -33,6 +30,10 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update Lenovo power management drivers automatically
 
@@ -46,16 +47,10 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-49.png)
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-48.png)
 
 4) Restart your computer for the changes to take effect.
@@ -65,8 +60,9 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Update Lenovo power management drivers manually
 
  Lenovo keeps updating drivers. To get them, you need to go to the Lenovo’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -79,21 +75,27 @@ Here is a step-by-step walkthrough:
 
  2) Scroll down to**Popular Resources** section and under Drivers & Software, click Get Downloads.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-50-1024x218.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the pop-up window, enter the model of your Lenovo laptop and press Enter. (Here Yoga 12 is used as an example)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-51.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the**Manual Update** tab, locate**Power Management** and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-52-1024x645.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Choose the right driver file to download.
 
@@ -117,8 +119,6 @@ Here is a step-by-step walkthrough:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,23 @@ Here is a step-by-step walkthrough:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-yield-strategies-for-successful-money-making-on-mobile-youtube/"><u>[New] In 2024, Boosting Yield Strategies for Successful Money-Making on Mobile YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-circulating-content-the-art-of-playlist-sharing-for-2024/"><u>[Updated] Circulating Content The Art of Playlist Sharing for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-voice-recognition-and-modification-for-playstation-users/"><u>2024 Approved Voice Recognition & Modification for PlayStation Users</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-downloads-utorrents-secrets-to-speedier-win-os-files/"><u>Accelerating Downloads: UTorrent's Secrets to Speedier WIN OS Files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bring-back-your-snapstreaks-the-process-of-restoring-your-snapchat-profile/"><u>Bring Back Your Snapstreaks: The Process of Restoring Your Snapchat Profile</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-ch340-usb-to-serial-adapter-software-for-windows-11/"><u>Download & Update CH340 USB-to-Serial Adapter Software for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-drivers-for-amd-radeon-r9-gpu-tips-and-tricks-to-optimize-windows-performance/"><u>Download & Update Drivers for AMD Radeon R9 GPU: Tips and Tricks to Optimize Windows Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-the-latest-canon-printer-mg3000-drivers/"><u>Download and Update the Latest Canon Printer MG3000 Drivers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/frontier-fighters-pinpointing-the-7-best-rts-battles-for-2024/"><u>Frontier Fighters Pinpointing the 7 Best RTS Battles for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-broadcoms-official-bluetooth-driver-on-windows-1187-systems/"><u>How to Install Broadcom's Official Bluetooth Driver on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-5-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 5 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-latest-graphics-drivers-nvidias-geforce-rtx-3090-on-windows-10-8-and-7/"><u>Install Latest Graphics Drivers: NVIDIA's GeForce RTX 3090 on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steps-to-repair-the-drivers-of-your-realtek-rtl8811au-device/"><u>Steps to Repair the Drivers of Your Realtek RTL8811AU Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11-and-perfect-videos-calls-a-comprehensive-guide-to-update-your-webcam-drivers/"><u>Windows 11 & Perfect Videos Calls: A Comprehensive Guide to Update Your Webcam Drivers</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/windows-11-mp4mp3/"><u>Windows 11での動画・音楽再生音量設定 - MP4、MP3含む多形式対応ガイド</u></a></li>
+</ul></div>
 

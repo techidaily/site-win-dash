@@ -1,7 +1,7 @@
 ---
 title: Realtek RTL8188CU WiFi Driver Installation - Ideal for Windows 10/7 Users
-date: 2024-08-19T08:10:37.859Z
-updated: 2024-08-20T08:10:37.859Z
+date: 2024-12-12T17:06:09.353Z
+updated: 2024-12-18T17:51:00.164Z
 tags:
   - win11
   - win10
@@ -28,58 +28,56 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 1. [**Update your Brother MFC7360N driver manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your Brother MFC7360N driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update your Brother MFC7360N driver manually
 
 **A WORD OF WARNING** : Downloading the wrong driver or installing it incorrectly can compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril. If you’re not comfortable playing around with drivers, or worrying about any risks in the process, jump to [**Method 2**](https://tools.techidaily.com/drivereasy/download/) .
 
  According to Brother’s official website, we’ll first have to uninstall the older driver first. To do so:
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Printer queues** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
@@ -93,9 +91,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
@@ -114,8 +109,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +116,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elevate-listener-engagement-seo-strategies-for-podcasts/"><u>[New] 2024 Approved Elevate Listener Engagement Seo Strategies for Podcasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhancing-meeting-clarity-with-ms-teams-focus/"><u>[New] 2024 Approved Enhancing Meeting Clarity with MS Teams Focus</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-exploring-the-past-of-social-storytelling-step-by-step-laptopmobile-process-for-2024/"><u>[New] Exploring the Past of Social Storytelling Step-by-Step Laptop/Mobile Process for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cutting-edge-communication-strategies-merging-slack-with-filmoras-capabilities-for-2024/"><u>[Updated] Cutting-Edge Communication Strategies Merging Slack with Filmora's Capabilities for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-hl-l2360dw-driver-downloads-fast-and-easy-installation-guide/"><u>Brother HL-L2360DW Driver Downloads: Fast and Easy Installation Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cyber-self-portraiture-creating-a-caricatured-emblem-for-2024/"><u>Cyber Self-Portraiture Creating a Caricatured Emblem for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-premium-drives-for-intels-powerful-gaming-pro-carbon-motherboard/"><u>Download Premium Drives for Intel's Powerful Gaming Pro Carbon Motherboard!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-free-download-of-updated-epson-l3150-driver-for-win-11-8-and-7-operating-systems/"><u>Easy Guide: Free Download of Updated Epson L3150 Driver for Win 11, 8 & 7 Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-remedies-for-ralink-rt3290-driver-malfunctions-on-windows-7-8-and-11-platforms/"><u>Effective Remedies for Ralink RT3290 Driver Malfunctions on Windows 7, 8 & 11 Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-compatibility-the-ultimate-guide-to-refreshing-your-pcs-bluetooth-dongle-drivers-on-windows/"><u>Ensure Compatibility: The Ultimate Guide to Refreshing Your PC's Bluetooth Dongle Drivers on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-firmware-for-your-intel-ac-9560-wireless-card-installation-tutorials/"><u>Get the Latest Firmware for Your Intel AC 9560 Wireless Card - Installation Tutorials</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-system-up-to-date-latest-dolby-driver-software-for-win111081/"><u>Get Your System Up to Date: Latest Dolby Driver Software for Win11/10/8.1</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/getting-your-msi-dragon-center-up-and-running-again/"><u>Getting Your MSI Dragon Center Up and Running Again!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963254984-how-to-fix-samsung-printer-connection-problems-on-windows-pcs-solved/"><u>How to Fix Samsung Printer Connection Problems on Windows PCs – Solved!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-virtual-reality-bike-adventures-listed-here/"><u>In 2024, Best Virtual Reality Bike Adventures Listed Here</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-convenient-techniques-for-customizing-your-own-short-videos/"><u>In 2024, Convenient Techniques for Customizing Your Own Short Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-speech-clarity-achieved-by-googles-advanced-conversion/"><u>In 2024, Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-canoscan-lide-nds-get-the-newest-release/"><u>Update Your CanoScan LiDE ˈɪndɪsプリンタードライバ: Get the Newest Release</u></a></li>
+</ul></div>
 

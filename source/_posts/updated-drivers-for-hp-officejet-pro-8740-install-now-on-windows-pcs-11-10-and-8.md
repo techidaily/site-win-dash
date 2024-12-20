@@ -1,7 +1,7 @@
 ---
 title: Updated Drivers for HP OfficeJet Pro 8740 - Install Now on Windows PCs (11, 10 & 8)
-date: 2024-08-19T08:07:49.703Z
-updated: 2024-08-20T08:07:49.703Z
+date: 2024-12-16T05:25:44.103Z
+updated: 2024-12-18T17:52:38.523Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
 ## Get the Latest HP OfficeJet Pro 8620 Drivers Installed in a Flash - Windows Edition
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f24d1dbae.jpg)
 
  This post will show you how to download or update**drivers for HP OfficeJet Pro 8620** e-All-in-One printer series.
@@ -31,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 3. [Update HP OfficeJet Pro 8620 driver automatically](https://tools.techidaily.com/drivereasy/download/) (Recommended)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
  HP support center provides software and drivers for customers to download, so you can manually download the driver you need from the website.
@@ -41,28 +39,29 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 
  1) Go to[HP Support Center](https://support.hp.com/drivers/) , and select**Printer** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
 
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Run the downloaded file, and follow the wizard to finish.
 
  Manually downloading the HP OfficeJet Pro 8620 driver requires time and computer skills.
 
  If this method doesn’t work for you, don’t worry. We have other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update HP OfficeJet Pro 8620 driver in Device Manager
 
@@ -72,25 +71,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  1) Make sure you’ve connected your HP printer to your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  2) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
  3) Type**devmgmt.msc** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
  5) Right click on your printer (it may display as**Unknown device** ), and select**Update driver** .
@@ -106,6 +94,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 8) After updating, restart your computer.
 
 Still no luck? OK. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
@@ -127,6 +119,10 @@ Still no luck? OK. There’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) After updating, restart your computer to take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -146,8 +142,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +149,24 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-reviewcast-analysis/"><u>[New] 2024 Approved ReviewCast Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/avigating-the-markets-youtubes-top-picks/"><u>[New] Navigating the Markets YouTube's Top Picks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-avoid-commonplace-channel-titles-finding-uniqueness-with-filmora/"><u>[Updated] In 2024, Avoid Commonplace Channel Titles Finding Uniqueness with Filmora</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-gigglegraphics-visual-humor-studio/"><u>[Updated] In 2024, GiggleGraphics Visual Humor Studio</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978056609-download-and-update-hp-deskjet-ink-advantage-3700-printer-drivers/"><u>Download and Update HP Deskjet Ink Advantage 3700 Printer Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensuring-smooth-mouse-functionality-updating-hid-compatible-driver-software/"><u>Ensuring Smooth Mouse Functionality: Updating HID-Compatible Driver Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-compatibility-startech-drivers-for-windows-operating-systems-windows-1087/"><u>Fixing Compatibility: StarTech Drivers for Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-setting-up-amd-miners-on-a-windows-pc-downloads-included/"><u>Guide to Setting Up AMD Miners on a Windows PC: Downloads Included</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/identifying-and-correcting-unwanted-audio-blips-windows-user-friendly-fixes/"><u>Identifying and Correcting Unwanted Audio Blips - Windows User Friendly Fixes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-new-canon-mp280-drivers-on-windows-10-8-or-7-step-by-step-guide/"><u>Install New Canon MP280 Drivers on Windows 10, 8 or 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968812548-install-updated-msi-x470-motherboard-drivers-secure-your-system-today/"><u>Install Updated MSI X470 Motherboard Drivers – Secure Your System Today!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-access-blockage-issues-with-these-win-strategies/"><u>Resolving Access Blockage Issues with These Win Strategies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-integration-download-essential-logitech-drivers-compatible-with-windows-systems/"><u>Seamless Integration: Download Essential Logitech Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-movies-to-still-moments-with-windows-10-photo-viewer-for-2024/"><u>Transforming Movies to Still Moments with Windows 10 Photo Viewer for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-the-best-dvd-converters-on-macos-finding-value-in-free-and-payable-software/"><u>Ultimate Guide to the Best DVD Converters on macOS: Finding Value in Free & Payable Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965376478-update-your-brother-scanner-drivers-now-compatible-with-windows-os/"><u>Update Your Brother Scanner Drivers Now – Compatible with Windows OS</u></a></li>
+</ul></div>
 

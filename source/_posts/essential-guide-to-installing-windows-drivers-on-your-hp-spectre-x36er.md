@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Installing Windows Drivers on Your HP Spectre X36er
-date: 2024-08-19T08:11:07.193Z
-updated: 2024-08-20T08:11:07.193Z
+date: 2024-12-15T07:33:43.083Z
+updated: 2024-12-18T21:51:51.022Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/db3dbeacfdd5ea435b3f8eb406f01646288938a03
 If you’re looking for the drivers for your**HP Spectre x360** laptop, you’ve come to the right place! In this article, we’ll show you 2 ways to**update the HP Spectre x360 drivers** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 options to**update the HP Spectre x360 drivers** in Windows
 
 There are two ways you can update your HP Spectre x360 drivers.
@@ -31,8 +32,9 @@ There are two ways you can update your HP Spectre x360 drivers.
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 –**Automatically update** HP Spectre x360**drivers**
 
  If you don’t have the time, patience or computer skills to update the HP Spectre x360 driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -45,17 +47,19 @@ There are two ways you can update your HP Spectre x360 drivers.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-164.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-165.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -66,8 +70,9 @@ There are two ways you can update your HP Spectre x360 drivers.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Download and install the driver manually
 
  Asus keeps updating drivers. To get them, you need to go to the ASUS website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -87,8 +92,6 @@ There are two ways you can update your HP Spectre x360 drivers.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +99,22 @@ There are two ways you can update your HP Spectre x360 drivers.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-the-heavens-phone-panorama-basics/"><u>[New] Capturing the Heavens Phone Panorama Basics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-speed-windows-photoviewer/"><u>[Updated] 2024 Approved High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unleashing-fb-video-potential-with-speedy-insights/"><u>[Updated] Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-relish-in-9-festive-full-length-films-exclusive-youtube-offering/"><u>2024 Approved Relish in 9 Festive, Full-Length Films Exclusive YouTube Offering</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-sm-bus-controller-software-compatible-with-win111087-latest-version-downloads/"><u>Free SM Bus Controller Software: Compatible with Win11/10/8/7 – Latest Version Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972190125-get-the-new-intel-irisplus-graphics-driver-update-speedy-hassle-free-install/"><u>Get the New Intel Iris+ Graphics Driver Update - Speedy, Hassle-Free Install!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-wf-7710-printer-working-download-latest-drivers-for-windows-10/"><u>Get Your EPSON WF-7710 Printer Working - Download Latest Drivers for Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-installation-newest-amd-vega-graphics-card-drivers-ready-for-you/"><u>Hassle-Free Installation: Newest AMD Vega Graphics Card Drivers Ready for You!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-best-value-for-money-8-ace-free-srt-apps-reviewed/"><u>In 2024, Best Value for Money 8 Ace Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-sound-bank-vintage-voice-choices/"><u>In 2024, Ultimate Sound Bank Vintage Voice Choices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/inexpensive-quality-camera-solutions/"><u>Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/linksys-wusb6300-driver-download-and-setup-instructions-expert-tips-and-techniques/"><u>Linksys WUSB6300 Driver Download & Setup Instructions - Expert Tips and Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969909488-quick-install-how-to-securely-obtain-samsung-c460-printer-drivers-today/"><u>Quick Install: How to Securely Obtain Samsung C460 Printer Drivers Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-asus-bluetooth-adapter-with-our-step-by-step-installation-guide/"><u>Update Your ASUS Bluetooth Adapter with Our Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-v29-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo V29</u></a></li>
+</ul></div>
 
