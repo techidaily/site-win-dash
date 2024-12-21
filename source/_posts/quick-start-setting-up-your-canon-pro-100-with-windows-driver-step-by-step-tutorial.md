@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Setting Up Your Canon PRO 100 with Windows Driver [Step-by-Step Tutorial]"
-date: 2024-08-19T08:20:44.444Z
-updated: 2024-08-20T08:20:44.444Z
+date: 2024-12-19T19:40:04.633Z
+updated: 2024-12-21T16:08:55.682Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/ea0b0402d1ea26fd039e2c69b50b2f77be9bc5a66
 
 ## Quick Get Started with Your X230 Lenovo - Essential Drivers Downloaded in Minutes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-636.png)
 
  Are you looking for the**Lenovo X230 drivers** ? If the answer is “yes,” then you’ve come to the right place. As we all know, drivers are essential to your devices but the process of downloading and installing them can be quite fiddly sometimes. Don’t worry, here we’ll show you how to update your Lenovo X230 drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to update your Lenovo X230 drivers
 
 There are two ways you can update your drivers for Thinkpad X230:
@@ -38,8 +36,9 @@ There are two ways you can update your drivers for Thinkpad X230:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1 – Update the driver manually
 
  Lenovo keeps updating their Thinkpad X230 drivers. To get them, you need to go to the **[Lenovo Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fpcsupport.lenovo.com%2Fus%2Fen%2Fproducts%2Flaptops-and-netbooks%2Fthinkpad-x-series-laptops%2Fthinkpad-x230%2Fdownloads)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 7 of 64 bit) and download the driver manually.
@@ -47,19 +46,23 @@ There are two ways you can update your drivers for Thinkpad X230:
  As Thinkpad X230 has various drivers for its different components such as the wireless network adapter, fingerprint reader and keyboard, you’ll have to download their drivers one by one, which is a bit time-consuming. To update the Lenovo X230 drivers, you may take the following steps:
 
 1. Find your own way to the Lenovo Support website of Thinkpad X230\. Or you can simply **[click here](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fpcsupport.lenovo.com%2Fus%2Fen%2Fproducts%2Flaptops-and-netbooks%2Fthinkpad-x-series-laptops%2Fthinkpad-x230%2Fdownloads)**  .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 2. On the pop-up page, you’ll be greeted with a list of available downloads.**Note** that not all the results are drivers, so you need to make sure what kind of programs you’re trying to download. (And you should also pay attention to their supported Windows versions.)![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-635.png)
 3. Click the title of a device to expand its drop-down list. For example, if you would like to download the audio drivers, click**Audio (2)** . In the drop-down list, you’ll see several pieces of software available for download. To figure out their properties, you may click the icon that looks like a**document** to view more details. If you want to download the driver right away, simply click the download button under**Download** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-637.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 2 – Automatically update the Lenovo X230 drivers
 
  If you don’t have the time, patience or computer skills to update your Lenovo X230 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,11 +72,12 @@ There are two ways you can update your drivers for Thinkpad X230:
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -95,8 +99,6 @@ There are two ways you can update your drivers for Thinkpad X230:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +106,20 @@ There are two ways you can update your drivers for Thinkpad X230:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-igtv-content-size-requirements/"><u>[New] 2024 Approved IGTV Content Size Requirements</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-audio-excellence-with-windows-11-a-beginner-written-by-your-name/"><u>[New] Audio Excellence with Windows 11 A Beginner' Written by [Your Name]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209579242-9781984856258-astrology-for-real-relationships/"><u>Astrology for Real Relationships | Free Book</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-fast-ultimate-guide-to-installing-your-usb-camera-drivers/"><u>Download Fast: Ultimate Guide to Installing Your USB Camera Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-newest-drivers-for-nvidia-quadro-rtx-8000-on-windows-11-10-and-7/"><u>Download the Newest Drivers for Nvidia Quadro RTX 8000 on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-gaming-top-9-sony-ps5-perks/"><u>Elevating Gaming: Top 9 Sony PS5 Perks</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/enhance-your-online-presence-with-manycam-top-choice-for-professional-virtual-webcams-and-broadcast-tools/"><u>Enhance Your Online Presence with ManyCam: Top Choice for Professional Virtual Webcams and Broadcast Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-nvidia-geforce-210-drivers-for-windows-10-users/"><u>Get the Newest NVIDIA GeForce 210 Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-hp-printer-drivers-compatible-with-windows-11/"><u>How to Get the Latest HP Printer Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pro-tools-for-non-pro-youtubers/"><u>In 2024, Pro Tools for Non-Pro YouTubers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-asus-mobo-drivers-in-windows-operating-system/"><u>Step-by-Step Guide: Installing ASUS Mobo Drivers in Windows Operating System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-a18-by-drfone-android/"><u>Universal Unlock Pattern for Oppo A18</u></a></li>
+</ul></div>
 

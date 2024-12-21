@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Installing New Intel UHD Graphics Driver Updates on Windows 11"
-date: 2024-08-19T08:21:30.368Z
-updated: 2024-08-20T08:21:30.368Z
+date: 2024-12-19T17:17:00.863Z
+updated: 2024-12-21T22:47:29.769Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 
 ## Latest Supported Drivers for Intel Iris Plus (655) on Windows 10/11 - Install Now
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel_iris_plus_graphics.jpg)
 
  Want to download and update the Intel Iris Plus Graphics 655 driver on your computer? You’ve come to the right place! In this post, we’ll show you two easy ways to download and install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Two ways to update your driver
 
@@ -29,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically update Intel Iris Plus Graphics 655 driver
 
  If you don’t have the time, patience or computer skills to update your graphics 655 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,14 +47,15 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
  Or click the**Update** button next to the Intel(R) Iris(R) Plus Graphics 655 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-iris-655.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Download and install Intel Iris Plus Graphics 655 driver manually
 
@@ -60,21 +63,22 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 
 1. Go to[**Intel download center**](https://downloadcenter.intel.com/) .
 2. Under Select Your Product, choose**Graphics** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics.jpg)
 3. In the search box, type**Intel Iris Plus graphics 655** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/type-655.jpg)
 4. Click**Intel® Graphics – Windows\* DCH Drivers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-graphics-DCH-drivers.jpg)
 5. Download the latest version of the driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/intel-latest-graphics-driver.jpg)
 6. Once you’ve downloaded the file, double-click on it and follow the on-screen instructions to**install the driver** .
 7. **Restart your computer** for the changes to take effect.
@@ -91,8 +95,6 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +102,20 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unveiling-tricky-feed-functions-more-vids-please/"><u>[New] 2024 Approved Unveiling Tricky Feed Functions More Vids Please</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-create-captivate-independent-animation-innovations/"><u>[Updated] In 2024, Create, Captivate Independent Animation Innovations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-video-free-transcription-techniques/"><u>[Updated] Mastering YouTube Video Free Transcription Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-best-ranked-cost-free-video-playing-software-for-pc-users-worldwide-for-2024/"><u>[Updated] The Best-Ranked, Cost-Free Video Playing Software for PC Users Worldwide for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-drivers-hp-z440-desktop-computer-free-software/"><u>Download & Update Drivers: HP Z440 Desktop Computer - Free Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-of-a-chatgpt-code-interpreter-its-critical-role-unveiled/"><u>Exploring the Functionality of a ChatGPT Code Interpreter: Its Critical Role Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-corsair-mouse-driver-here-for-seamless-compatibility/"><u>Get the Latest Corsair Mouse Driver Here for Seamless Compatibility</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965914278-get-your-msi-gs65-up-to-date-with-the-latest-windows-drivers-here/"><u>Get Your MSi GS65 Up-to-Date with the Latest Windows Drivers Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-resolve-iphone-issues-with-chatgpt-top-9-strategies-for-smooth-functionality/"><u>How to Resolve iPhone Issues with ChatGPT – Top 9 Strategies for Smooth Functionality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-upgrade-installing-the-new-thunderbolt-3-dock-on-your-thinkpad/"><u>Latest Upgrade: Installing the New Thunderbolt 3 Dock on Your ThinkPad</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-your-desktop-comprehensive-tutorial-to-download-and-install-asus-biosdriver-packs/"><u>Master Your Desktop: Comprehensive Tutorial to Download and Install ASUS BIOS/Driver Packs</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-voice-mastery-on-mac-an-intuitive-tutorial-for-first-time-users/"><u>New 2024 Approved Voice Mastery on Mac An Intuitive Tutorial for First-Time Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-process-to-update-or-install-epson-xp-430-printer-software-on-windows-computers/"><u>Step by Step Process to Update or Install Epson XP-430 Printer Software on Windows Computers</u></a></li>
+</ul></div>
 

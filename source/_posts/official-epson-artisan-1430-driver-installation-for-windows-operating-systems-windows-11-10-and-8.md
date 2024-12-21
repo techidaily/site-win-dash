@@ -1,7 +1,7 @@
 ---
 title: Official Epson Artisan 1430 Driver Installation for Windows Operating Systems (Windows 11, 10 & 8)
-date: 2024-08-19T08:19:24.275Z
-updated: 2024-08-20T08:19:24.275Z
+date: 2024-12-15T19:02:47.883Z
+updated: 2024-12-21T21:00:16.507Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to download and update your Ralink RT3290 driver**
 
  You can download and update the Ralink RT3290 driver either automatically and manually:
@@ -29,8 +33,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -43,17 +48,19 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -64,8 +71,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -78,9 +86,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  For example, this is a screenshot of Windows 8.1 Pro (64-bit). And there’s one thing you should know: regarding**System Type** , “x64-based PC” stands for the 64-bit version; in contrast, “x86-based PC” stands for 32-bit.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -99,9 +104,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
@@ -137,8 +139,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +146,26 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-simplified-guide-for-ios-users-transforming-images-to-pdfs/"><u>[New] In 2024, Simplified Guide for iOS Users Transforming Images to PDFs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-role-of-b-roll-in-cinematic-storytelling-for-2024/"><u>[New] The Role of B-Roll in Cinematic Storytelling for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-uniting-individual-shots-into-a-compelling-image-story-for-2024/"><u>[New] Uniting Individual Shots Into a Compelling Image Story for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-innovators-uniting-video-sound-and-imagery/"><u>[Updated] 2024 Approved Innovators Uniting Video, Sound & Imagery</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-moto-g-stylus-2023-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Moto G Stylus (2023) without App | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/creative-sound-blaster-drivers-download-and-update-for-windows-11/"><u>Creative Sound Blaster Drivers Download & Update for Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/digital-theater-at-your-fingertips-ioss-best-movie-apps-for-2024/"><u>Digital Theater at Your Fingertips - iOS's Best Movie Apps for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-free-m-audio-fast-track-ultra-drivers-high-fidelity-sound-enhancement/"><u>Download Free M-Audio Fast Track Ultra Drivers - High Fidelity Sound Enhancement</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-printing-hp-deskjet-3700-drivers-downloaded/"><u>Ensure Smooth Printing: HP Deskjet 3700 Drivers Downloaded</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963404614-get-your-gigabyte-nic-drivers-now-direct-download-links-available/"><u>Get Your Gigabyte NIC Drivers Now - Direct Download Links Available!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-downloads-comprehensive-driver-collection-for-the-lenovo-x230-laptop/"><u>Hassle-Free Downloads: Comprehensive Driver Collection for the Lenovo X230 Laptop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-step-by-step-iphone-podcast-audio-enjoyment/"><u>In 2024, Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/introducing-apowersofts-new-mac-video-download-tool-version-10-release/"><u>Introducing Apowersoft's New Mac Video Download Tool, Version 1.0 Release</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-common-hurdles-in-updating-amd-radeon-graphics-card-software/"><u>Overcoming Common Hurdles in Updating AMD Radeon Graphics Card Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-enhanced-performance-nvidia-geforce-940mx-driver-downloads-available/"><u>Secure Enhanced Performance: NVIDIA GeForce 940MX Driver Downloads Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-canon-mg3620-driver-installation-online/"><u>Step-by-Step Guide to Canon MG3620 Driver Installation Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-tackling-and-correcting-stop-code-0x0000003d-issues/"><u>Troubleshooting Techniques for Tackling and Correcting STOP Code 0X0000003D Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/universal-srt-to-various-subtitle-formats-handbook/"><u>Universal SRT to Various Subtitle Formats Handbook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-nvidia-quadro-rtx-4000-gpu-with-newest-drivers-step-by-step-tutorial/"><u>Update Your NVIDIA Quadro RTX 4000 GPU with Newest Drivers – Step-by-Step Tutorial</u></a></li>
+</ul></div>
 
