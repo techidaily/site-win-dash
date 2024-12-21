@@ -1,7 +1,7 @@
 ---
 title: How to Perform an AMD Graphics Drivers Update on Windows 10, 8 & 7
-date: 2024-08-19T08:15:18.447Z
-updated: 2024-08-20T08:15:18.447Z
+date: 2024-12-16T18:22:50.327Z
+updated: 2024-12-19T21:28:22.746Z
 tags:
   - win11
   - win10
@@ -26,33 +26,37 @@ To unleash the super power of your**RTX 2060 SUPER** , the latest graphics drive
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Install the latest GPU driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, you can update your drivers automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs any driver updates your computer needs.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed the latest graphics driver, restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Install the latest GPU driver manually
 
  You can also install the graphics driver manually, but it’ll take some time and some computer knowledge.
@@ -60,23 +64,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 To install manually, you can use these steps:
 
 1. Go to the[driver download page](https://tools.techidaily.com/drivereasy/download/) of NVIDIA and search for your model.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-manually-1.jpg)
 2. At the result page, click**DOWNLOAD** to download the driver installer. Once finished, launch the installer and follow the on-screen instructions.  
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-manually-2.jpg)
 
 ---
@@ -91,8 +85,6 @@ To install manually, you can use these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +92,18 @@ To install manually, you can use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selective-alarm-tones-optimal-websites-list/"><u>2024 Approved Selective Alarm Tones Optimal Websites List</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cod-modern-warfare-fps-resolved-glitches-and-issues/"><u>COD: Modern Warfare FPS - Resolved Glitches & Issues</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/combining-several-pictures-into-one-digital-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Combining Several Pictures Into One Digital Flipbook: A Comprehensive Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/corsair-liquid-cpu-cooler-h115i-driver-compatibility-fixes-for-w8-w10-w11-systems/"><u>Corsair Liquid CPU Cooler H115i – Driver Compatibility Fixes for W8-W10-W11 Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effortless-android-mastery-6-key-techniques-for-enhanced-usability/"><u>Effortless Android Mastery: 6 Key Techniques for Enhanced Usability</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-guide-installing-nvidia-1080-drivers-for-windows-11-users/"><u>Effortless Guide: Installing Nvidia 1080 Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-pci-driver-software-downloads-compatible-with-windows-11-10-8-and-7/"><u>Free PCI Driver Software Downloads Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-magicard-rio-pro-driver-game-for-your-window-10-8-cuisine-and-7-machine-download-here/"><u>Get the Newest Magicard Rio Pro Driver Game for Your Window 10, 8. Cuisine, and 7 Machine: Download Here!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-compatibility-score-which-phones-work-with-gear-vr/"><u>In 2024, Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/professional-video-intros-no-cost/"><u>Professional Video Intros, No Cost</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-fixes-for-your-realtek-rtl8811au-network-adapter-driver-problems/"><u>Step-by-Step Fixes for Your Realtek RTL8811AU Network Adapter Driver Problems</u></a></li>
+</ul></div>
 

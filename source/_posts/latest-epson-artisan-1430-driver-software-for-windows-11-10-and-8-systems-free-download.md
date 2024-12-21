@@ -1,7 +1,7 @@
 ---
 title: Latest Epson Artisan 1430 Driver Software for Windows 11, 10 and 8 Systems - Free Download
-date: 2024-08-19T08:16:59.889Z
-updated: 2024-08-20T08:16:59.889Z
+date: 2024-12-13T16:02:29.687Z
+updated: 2024-12-19T19:13:29.218Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA titles in 2021, you still need the latest graphics driver. In this article, we’ll show you how to download and update the driver for RTX 2080 SUPER, easily and quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 ways to install the RTX 2080 SUPER driver
 
  Option 1:[Install manually](https://tools.techidaily.com/drivereasy/download/) — This needs time and computer skills. You need to visit the NVIDIA website, search for the driver, and install it manually.
@@ -29,8 +30,9 @@ OR
  Option 1:[**Install automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-update-rtx-2080-super-drivers-windows-10/#option2) — You can get the latest graphics driver easily & quickly. All you need will be just a few clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Install the RTX 2080 SUPER driver manually
 
  If you’re a tech-savvy gamer, you can try to install the latest graphics driver manually.
@@ -40,30 +42,31 @@ OR
 1. Visit the[driver download page](https://www.nvidia.com/Download/index.aspx) of the NVIDIA website. Then search for your video card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually.jpg)
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -81,8 +84,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,4 +91,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-the-maze-of-youtube-short-mistakes/"><u>[New] In 2024, Navigating the Maze of YouTube Short Mistakes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-navigating-the-world-of-internet-hilarity/"><u>[Updated] 2024 Approved Navigating the World of Internet Hilarity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-screencast-strategies-unleashed-powerful-ideas-inside/"><u>[Updated] 2024 Approved Screencast Strategies Unleashed Powerful Ideas Inside</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-churn-out-custom-internet-echo-jokes/"><u>[Updated] In 2024, Churn Out Custom Internet Echo Jokes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-install-and-update-elans-smbus-driver-for-optimal-performance-on-windows-computers/"><u>Comprehensive Guide: Install and Update ELAN's SMBus Driver for Optimal Performance on Windows Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/front-seat-pleasures-not-so-sporty-top-ten-for-2024/"><u>Front Seat Pleasures Not So Sporty Top Ten for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-moto-g-stylus-2023-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola Moto G Stylus (2023) Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-13-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone 13</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967222184-sandisk-driver-downloads-made-simple-perfect-for-windows-11-users/"><u>SanDisk Driver Downloads Made Simple: Perfect for Windows 11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/synaptics-driver-management-made-simple-free-windows-updates-available-now/"><u>Synaptics Driver Management Made Simple – Free Windows Updates Available Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-android-tablet-picks-your-ultimate-guide/"><u>Top-Rated Android Tablet Picks : Your Ultimate Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-device-not-detected-on-windows-10-heres-how-you-can-fix-it/"><u>USB Device Not Detected on Windows 10? Here's How You Can Fix It!</u></a></li>
+</ul></div>
 

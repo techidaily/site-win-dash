@@ -1,7 +1,7 @@
 ---
 title: "Install New Canon MP280 Drivers on Windows 10, 8 or 7: Step-by-Step Guide"
-date: 2024-08-19T08:15:44.528Z
-updated: 2024-08-20T08:15:44.528Z
+date: 2024-12-15T17:53:44.715Z
+updated: 2024-12-19T16:41:31.529Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 
 ## Step-by-Step Guide to Downloading & Installing Lenovo ThinkPad T43# Drivers for Win 10, 8, & 7
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap642-300x219.png)
 
  Are you looking for the drivers for your**Lenovo ThinkPad T430** ? If so, you’ve come to the right place! You can download the drivers for your Lenovo T430 manually or automatically. After reading this article, you should be able to download and update the drivers for your T430 easily and quickly.
@@ -33,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Lenovo T430 manually
 
  You can download the updated driver files from the official website of Lenovo. Then install them on your laptop on your own. Here is how to do it:
@@ -45,30 +43,27 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 2. In its search bar, type**T430** . Then select**T430** in the list of search suggestions. You’ll be redirected to the search results page for T430.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap644.png)
 3. under**Search Results for ‘T430’** , click the**SUPPORT** tab. Then you’ll be redirected to the support page for T430.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap645.png)
 4. On the left,**check the box** next to**Driver** , then click**Drivers & Software** . You will be redirected to the drivers download page for T430.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap646.png)
 5. Click**Operating systems** to select the OS you’re currently using. Click**Expand Details** to view the details of each device.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap647.png)
 6. Click**the downward triangle** to view the details of that driver. Then you can click**the download button** to download that driver. If you want to download multiple drivers, you can also click**the plus button** to add it to your downloads list first.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap649.png)
 7. Click**My downloads list** to view all the drivers you want to download.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap650.png)
 8. Click**the Download button** . Then follow the on-screen instruction to download these driver files.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap651.png)
 9. After all the driver files are downloaded on your T430, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your T430.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Lenovo T430 automatically
 
@@ -80,8 +75,18 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap652.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap653.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  If you have any questions or suggestions, please leave your comment below.
@@ -96,8 +101,6 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +108,23 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-simple-steps-to-record-your-youtube-streams/"><u>[New] 2024 Approved Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>[New] Secure Storage Safeguarding Your MOV Videos in Win 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-expressing-emotionally-using-emojis-for-yt-comments-for-2024/"><u>[Updated] Expressing Emotionally Using Emojis for YT Comments for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-gopro-and-ghost-s-face-off-in-racing-realities/"><u>[Updated] In 2024, GoPro and Ghost-S Face Off in Racing Realities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-intel-lan-driver-pack-for-windows-11107-systems-now/"><u>Download Updated Intel LAN Driver Pack for Windows 11/10/7 Systems Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-get-the-latest-toshiba-laptop-drivers-for-your-windows-pc/"><u>Easy Steps to Get the Latest Toshiba Laptop Drivers for Your Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-software-for-your-hp-deskjet-3700-free-driver-installation-guide/"><u>Get the Latest Software for Your HP Deskjet 3700 – FREE Driver Installation Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuitamente-converti-file-multimediali-con-il-trasformatore-on-line-di-qt-da-movavi/"><u>Gratuitamente Converti File Multimediali Con Il Trasformatore On-Line Di QT Da Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Plus without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-and-repair-hewlett-packard-display-drivers-on-modern-windows-platforms/"><u>How to Update and Repair Hewlett-Packard Display Drivers on Modern Windows Platforms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-zero-5g-2023-turbo-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Zero 5G 2023 Turbo Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-challenges-with-non-responsive-dts-sound-devices-solutions-inside/"><u>Overcoming Challenges with Non-Responsive DTS Sound Devices - Solutions Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-windows-11s-usb-recognition-error-expert-tips-and-advice/"><u>Overcoming Windows 11'S USB Recognition Error: Expert Tips and Advice</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-newest-msi-gs65-graphics-and-chipset-drivers-windows/"><u>Update to Newest MSI GS65 Graphics and Chipset Drivers [Windows]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-f23-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo F23 5G Device</u></a></li>
+</ul></div>
 

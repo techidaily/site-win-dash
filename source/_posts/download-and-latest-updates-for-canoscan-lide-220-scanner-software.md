@@ -1,7 +1,7 @@
 ---
 title: Download and Latest Updates for CanoScan LiDE 220 Scanner Software
-date: 2024-08-19T08:15:59.553Z
-updated: 2024-08-20T08:15:59.553Z
+date: 2024-12-16T18:27:53.657Z
+updated: 2024-12-19T21:24:12.298Z
 tags:
   - win11
   - win10
@@ -23,18 +23,20 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
 * **[Option 2 – Automatically install the driver (Recommended)](https://www.drivereasy.com/knowledge/canon-mp250-driver-download-for-windows-10-8-7/#b)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1 – Download and install the driver manually**
 
  Canon keeps updating drivers on their official site. To get the latest driver for your device, follow the instructions below:
 
 **1)** Go to the **[Canon official website](https://www.canon-europe.com/support/)**  and click**SUPPORT > SOFTWARE & DRIVERS** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/b200-error-code-canon-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Enter your printer serial number**mp250** and search for it.
 
@@ -45,8 +47,9 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step. If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update** the Canon MP250
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -59,17 +62,19 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-07-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -91,8 +96,6 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +103,24 @@ The Canon MP250 driver runs on your operating system, and enables it to communic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-your-camera-essential-tactics-for-hit-youtube-videos/"><u>[New] In 2024, Mastering Your Camera Essential Tactics for Hit YouTube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-free-mac-screen-logger/"><u>[Updated] Pro-Free Mac Screen Logger</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-scene-to-video-canons-pathway-to-timelapse-excellence/"><u>2024 Approved From Scene to Video Canon's Pathway to Timelapse Excellence</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1728474609506-usb/"><u>易用指南：如何使用特定軟件在USB隨身碟上復原已删除檔案</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/compatibility-guide-using-your-scanning-device-across-different-operating-systems-expert-advice-from-yl-computing/"><u>Compatibility Guide: Using Your Scanning Device Across Different Operating Systems - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/creating-viral-hits-by-mastering-cropping-techniques-in-tiktok-videos/"><u>Creating Viral Hits by Mastering Cropping Techniques in TikTok Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969843768-download-and-install-drivers-for-the-hp-deskjet-ink-advantage-3520-easily/"><u>Download & Install Drivers for the HP Deskjet Ink Advantage 3520 Easily!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-setting-up-hp-scan-drivers-on-a-windows-operating-system/"><u>Easy Guide: Setting Up HP Scan Drivers on a Windows Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-sign-in-troubles-heres-a-fast-and-simple-guide-to-get-you-back-in/"><u>Fortnite Sign-In Troubles? Here's a Fast & Simple Guide to Get You Back In!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-install-the-latest-logitech-g13-gamepad-software-update/"><u>Free Download: Install the Latest Logitech G13 Gamepad Software Update</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-logitech-g903-mouse-software-and-drivers-for-windows-pcs/"><u>Free Logitech G903 Mouse Software & Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/freshly-released-realtek-bluetooth-driver-software-for-enhanced-connectivity-on-windows-11-and-10-download-instantly/"><u>Freshly Released Realtek Bluetooth Driver Software for Enhanced Connectivity on Windows 11 & 10: Download Instantly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-deskjet-3520-printer-up-and-running-with-the-latest-firmware-update/"><u>Get Your HP Deskjet 3520 Printer Up and Running with the Latest Firmware Update!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-note-30-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Note 30 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-hand-tracking-techniques-and-varieties-for-2024/"><u>Inside Hand Tracking Techniques & Varieties for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-steps-to-upgrade-intel-centrino-ac-9400-pcie-network-adapter-drivers/"><u>Ultimate Guide: Steps to Upgrade Intel Centrino A/C-9400 PCIe Network Adapter Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-epson-wf-2630-drivers-now-available-compatible-with-win7-81-and-10/"><u>Updated Epson WF-2630 Drivers Now Available: Compatible with Win7, 8.1 & 10</u></a></li>
+</ul></div>
 

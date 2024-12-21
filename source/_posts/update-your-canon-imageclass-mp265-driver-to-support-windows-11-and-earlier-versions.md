@@ -1,7 +1,7 @@
 ---
 title: Update Your Canon ImageCLASS MP265 Driver to Support Windows 11 and Earlier Versions
-date: 2024-08-19T08:17:03.524Z
-updated: 2024-08-20T08:17:03.524Z
+date: 2024-12-16T22:58:12.987Z
+updated: 2024-12-19T19:01:36.381Z
 tags:
   - win11
   - win10
@@ -15,16 +15,10 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 ## Get Ready for Smooth Performance - Update to Windows 10 Version 2004 and Install Connexin Driver Now
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-16-26.jpg)
 
  When you updating to Windows 10 version 2004, it’s annoying to have the Conexant driver block your way. Microsoft says they’re working on a fix, but except for waiting, there’re some fixes you can try to solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,29 +28,15 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 3. [Update Conexant audio driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Edit Local Group Policy](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disable automatic driver updates
 
  Conexant is older and incompatible with the Windows 10 default drivers, so this fix aims to block its automatic driver update to let your update the Windows 10 new version.
 
 1. Press the**Windows logo key + I** together to open**Windows Settings** .
 2. Click**System** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-settings-system-sound-1.jpg)
 3. In the left panel, scroll down to find**About** , then click it.
 4. Scroll down and click**Advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-53-56.jpg)
 5. In the**Hardware** tab, click**Device Installation Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-46-45.jpg)
@@ -66,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 If this fix doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall Conexant audio driver
 
  If you can’t block Conexant driver, disable it and uninstall it would be another choice.
@@ -74,10 +58,12 @@ If this fix doesn’t work, move to the next fix.
 2. Type**devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
-4. Right-click on Conexant and click**Uninstall device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Right-click on Conexant and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the onscreen instructions to finish the process.
 
@@ -98,11 +84,12 @@ If this fix doesn’t work, move to the next fix.
 4. Right-click on Conexant and click**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-58.jpg)
 5. Click**Search automatically for driver** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/search-automatically-for-updated-driver-software.jpg)
 6. Follow the onscreen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Download from manufacturer
 
@@ -122,23 +109,30 @@ If this fix doesn’t work, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Edit Local Group Policy
 
  By editing registry to disable the Windows driver installation has solve the issue for some users. But you’d better backup your files before doing this for potential risks.
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**devmgmt.msc** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
 4. Right-click on Conexant and click**Properties** .  
@@ -147,27 +141,25 @@ If this fix doesn’t work, move to the next fix.
 6. You’ll see a list of hardware IDs, right-click the shorter one and click**Copy** . Then paste it somewhere you can get it easily.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-41-14.jpg)
 7. Press the**Windows logo key + R** together to open the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Type**gpedit.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/local_group_policy_editor.jpg)
 9. Click **Computer Configuration > Administrative Templates > System > Device Installation > Device Installation R** **estrictions** .
 10. Right-click **Prevent installation of devices that match any of these device IDs** in the right panel and click**Edit** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-56-14.jpg)
 11. Click**Enable** then click the**Show…** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-59-51.jpg)
 12. Paste the Hardware IDs you got from**Step 6** in the blank space, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-01-14.jpg)
 13. Update Windows to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -181,8 +173,6 @@ If this fix doesn’t work, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +180,26 @@ If this fix doesn’t work, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-fusing-melody-with-moments-music-and-voiceovers-in-reels-for-2024/"><u>[New] Fusing Melody with Moments Music & Voiceovers in Reels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-the-art-of-scriptwriting-for-viral-youtube-content-for-2024/"><u>[New] Mastering the Art of Scriptwriting for Viral YouTube Content for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-amp-up-the-sound-beat-downloads-on-fb/"><u>[Updated] 2024 Approved Amp Up the Sound Beat Downloads on FB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-best-mac-screen-capture-tools/"><u>[Updated] 2024 Approved Best Mac Screen Capture Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ai-powered-name-ideas-for-standout-podcast-titles-for-2024/"><u>[Updated] AI-Powered Name Ideas for Standout Podcast Titles for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-bringing-videos-to-life-using-youtube-in-educational-environments-for-2024/"><u>[Updated] Bringing Videos to Life Using YouTube in Educational Environments for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insights-into-the-world-of-touch-and-movement-detection/"><u>2024 Approved Insights Into the World of Touch and Movement Detection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-the-living-room-experience-on-the-road-googles-move-to-add-chromecast-to-cars/"><u>Bringing the Living Room Experience on the Road: Google's Move to Add Chromecast to Cars</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-brother-mfc-l2740dw-printer-drivers-compatible-with-windows-systems/"><u>Download Brother MFC L2740DW Printer Drivers - Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-current-hp-deskjet-3755-multifunctional-printer-driver-optimized-for-windows-11-881-and-7/"><u>Download Current HP DeskJet 3755 Multifunctional Printer Driver - Optimized for Windows 11, 8/8.1, and 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-windows-supported-intel-iris-xe-graphic-drivers-here/"><u>Get the Newest Windows Supported Intel Iris Xe Graphic Drivers Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959482602-get-your-m-audio-sound-card-drivers-here-works-on-win-10-7-8-and-81/"><u>Get Your M-Audio Sound Card Drivers Here – Works on Win 10, 7, 8 & 8.1</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-setup-epson-printer-downloads-and-updates-for-windows-users/"><u>Hassle-Free Setup: Epson Printer Downloads & Updates for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>In 2024, Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-for-your-hp-envy-5660-installing-drivers-made-simple/"><u>Quick Fix for Your HP Envy 5660: Installing Drivers Made Simple</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-installation-of-synaptics-drivers-on-windows-free-download-and-updates/"><u>Seamless Installation of Synaptics Drivers on Windows - Free Download & Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-process-to-updatedownload-your-toshiba-drives-on-windows-platforms/"><u>Step-by-Step Process to Update/Download Your Toshiba Drives on Windows Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-gaming-experience-with-new-gtx-1650-super-driver-software-on-windows-11/"><u>Update Your Gaming Experience with New GTX 1650 Super Driver Software on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-camon-20-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Camon 20 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 
