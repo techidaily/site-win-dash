@@ -1,7 +1,7 @@
 ---
 title: "Fixing Intel Graphics Drivers on Windows 11, 8 & 7: A Comprehensive Guide"
-date: 2024-08-19T08:26:04.321Z
-updated: 2024-08-20T08:26:04.321Z
+date: 2024-12-24T20:02:17.729Z
+updated: 2024-12-27T11:03:39.035Z
 tags:
   - win11
   - win10
@@ -15,14 +15,13 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 
 ## Fixing Xbox Accessory Controller (ACC) Drivers in Windows 10, 8 & 7: Solved
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-301.png)
 
  Have you ever run into an**XBOX ACC** issue? When you see this weird item, chances are that your Windows system fails to recognize the Xbox device, or to install the corresponding driver for it properly. In this case, you should try to update the Xbox adapter driver by yourself instead of relying on Windows to do it for you. Don’t panic if you are not sure how to update the so-called XBOX ACC driver (actually it’s just the driver for your Xbox device) – this post will get you out of trouble.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download and install the XBOX ACC driver
 
@@ -33,6 +32,10 @@ The powerful video editing program for your Windows PC</a>
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your driver this way, because you need to find exactly the right driver online, download it and install it step by step.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Automatically update your XBOX ACC driver
 
@@ -46,10 +49,11 @@ The powerful video editing program for your Windows PC</a>
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox adapter driver for now, simply click the**Update** button next to it.
 
@@ -61,9 +65,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Update your XBOX ACC driver manually
 
  To update your XBOX ACC driver manually, please complete the following procedure:
@@ -72,26 +73,15 @@ The powerful video editing program for your Windows PC</a>
 
  2) In the search box located in the upper right corner of the site, type**Xbox wireless** and click **Search** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 
  3) On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download**  button next to it.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 
@@ -107,11 +97,12 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) In the next window, select**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
  9) Click**Browse…** to select the folder where you’ve extracted the driver file. Then click **Next** .
@@ -133,8 +124,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +131,19 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/mirthful-milestones-an-examination-of-goofy-odyssey/"><u>'Mirthful Milestones' An Examination of 'Goofy Odyssey'</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boost-your-instagram-game-macs-automated-video-resizing/"><u>[New] In 2024, Boost Your Instagram Game Mac's Automated Video Resizing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oin-the-fortune-changing-club-free-50-banners-await-in-2024/"><u>[New] Join The Fortune-Changing Club Free 50 Banners Await, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-and-build-a-youtube-channel-today/"><u>[Updated] 2024 Approved How to Create and Build A YouTube Channel Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-essential-tutorial-for-vrecorder-setup/"><u>[Updated] 2024 Approved The Essential Tutorial for VRecorder Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>[Updated] In 2024, Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-commercial-viability-of-creative-video-content/"><u>[Updated] The Commercial Viability of Creative Video Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970872571-fixing-common-drivers-error-for-the-hp-laserjet-p2-a-the-value-of-a-is-incorrect-and-it-cannot-be-set-to-100/"><u>Fixing Common Drivers Error for the HP LaserJet P2# A: The Value of #A Is Incorrect, and It Cannot Be Set to 100.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-windows-drivers-for-your-hp-spectre-x360-laptop-here/"><u>Get the Latest Windows Drivers for Your HP Spectre X360 Laptop Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-download-get-now-compatible-realtek-alc-audio-driver-for-windows-11/"><u>Quick Download: [Get Now] Compatible Realtek ALC Audio Driver for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-connectivity-drivers-for-hp-laserjet-pro-mfp-m428fdw-on-all-windows-systems/"><u>Seamless Connectivity - Drivers for HP LaserJet Pro MFP M428fdw on All Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-the-newest-nvidia-gtx-3070-ti-drivers-for-microsoft-windows-os-versions/"><u>Update Your System With the Newest NVIDIA GTX 3070 Ti Drivers for Microsoft Windows OS Versions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Update and Repair Xbox Gaming Hardware Drivers for Windows Operating Systems (11/8/7)
-date: 2024-08-19T08:28:30.881Z
-updated: 2024-08-20T08:28:30.881Z
+date: 2024-12-21T00:48:10.629Z
+updated: 2024-12-26T22:22:04.654Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update printer driver manually
 
  You can manually download the Canon MG2520 driver from the Canon website in your Windows computer. To do so, follow the instructions below:
@@ -50,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update printer driver automatically
 
  Manually downloading and installing the Canon MG2520 driver requires time and computer skills. If you don’t have patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,28 +65,24 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### 3: Update printer driver in Device Manager
 
  You can also update the Canon MG2520 driver via Device Manager on your computer.
@@ -99,25 +93,27 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
  2) Type**devmgmt.msc** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
  3) Double click**Printers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
 
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
 
@@ -134,8 +130,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +137,19 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-soaring-strengths-top-10-industrial-drones/"><u>[New] In 2024, Soaring Strengths Top 10 Industrial Drones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-average-byte-gauge-for-a-24-hour-film/"><u>[Updated] 2024 Approved Average Byte Gauge for a 24 Hour Film</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-expansion-at-wallet-friendly-costs/"><u>[Updated] 2024 Approved Channel Expansion at Wallet-Friendly Costs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-your-story-pace-with-instagrams-temp-control-feature/"><u>[Updated] Craft Your Story Pace with Instagram's Temp Control Feature</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-comprehensive-guide-to-selecting-and-buying-the-ideal-graphics-card-for-gaming-or-work/"><u>A Comprehensive Guide to Selecting and Buying the Ideal Graphics Card for Gaming or Work</u></a></li>
+<li><a href="https://fox-info.techidaily.com/abletons-pathway-to-harmonious-declines/"><u>Ableton's Pathway to Harmonious Declines</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-updated-geforce-rtx-3080-driver-for-your-pc-running-windows-10-8-or-7/"><u>Get the Updated GeForce RTX 3080 Driver for Your PC Running Windows 10, 8 or 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-brother-hl-228n-dot-printer-driver-compatible-for-windows-operating-systems-including-111087/"><u>Install Brother HL-228n DOT Printer Driver - Compatible for Windows Operating Systems Including 11/10/8/7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-ai-tasks-beginning-with-auto-gpt/"><u>Streamline AI Tasks: Beginning with Auto-GPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-tutorial-how-to-get-arduino-drivers-compatible-with-windows-operating-system/"><u>Ultimate Tutorial: How to Get Arduino Drivers Compatible with Windows Operating System</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-installing-kinemaster-on-a-mac/"><u>Updated 2024 Approved The Ultimate Guide to Installing KineMaster on a Mac</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-11-compatible-realtek-rtl81cu-wifi-drivers-download-latest-version-available/"><u>Windows 11 Compatible Realtek RTL81#CU WiFi Drivers Download - Latest Version Available</u></a></li>
+</ul></div>
 
