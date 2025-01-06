@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Gaming Experience with the Latest Nvidia GeForce GTX 980 Ti Drivers - Free
-date: 2024-08-19T08:34:10.100Z
-updated: 2024-08-20T08:34:10.100Z
+date: 2024-12-31T22:44:47.705Z
+updated: 2025-01-05T16:33:58.503Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 It’s always important to**update your graphics driver to its latest version** so as to get the most out of the graphics card (like improving screen resolution, reducing lag, preventing system crashes etc.). In this post, we’re going to show you 2 easy ways to get the latest **Nvidia** **GeForce RTX 2080 Ti** driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## To update**Nvidia** **GeForce RTX 2080 Ti driver in Windows**
 
 [**Option 1 – Automatically (Recommended)**](https://www.drivereasy.com/knowledge/geforce-rtx-2080-ti-driver-download-update-for-your-better-gaming-experience/#O1) –  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
@@ -31,8 +32,9 @@ It’s always important to**update your graphics driver to its latest version** 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Update GeForce RTX 2080 Ti **driver**  automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -45,14 +47,15 @@ It’s always important to**update your graphics driver to its latest version** 
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-2.png)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -64,21 +67,22 @@ It’s always important to**update your graphics driver to its latest version** 
 
 1. Go to **[NVIDIA’s GeForce Driver Download](https://tools.techidaily.com/drivereasy/download/)**  .
 2. Under **Manual Driver Search** , select **GeForce** , **GeForce RTX 20 Series** ,   **GeForce RTX 2080 Ti**  accordingly. In the 4th drop-down menu, select your **variant of Windows operating system** (**Windows 10** , **64-bit**  in my case). Then click **START SEARCH** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd022aaae4b3.jpg)
 3. You’ll see a list of results pop up right under. Click **the first result**   to make sure you download the latest driver release.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023054e8a3.jpg)
 4. Click **DOWNLOAD** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd02334521ec.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. **Restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -95,8 +99,6 @@ It’s always important to**update your graphics driver to its latest version** 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +106,22 @@ It’s always important to**update your graphics driver to its latest version** 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[Updated] 2024 Approved Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-transferring-facebook-videos-seamlessly-across-oses/"><u>[Updated] 2024 Approved Transferring Facebook Videos Seamlessly Across OSes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977202088-asus-ac68-usb-wireless-router-driver-secure-download-links/"><u>ASUS AC68 USB Wireless Router Driver - Secure Download Links</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/can-you-use-flipbuilder-on-your-mac-explore-compatibility-details-here/"><u>Can You Use FlipBuilder on Your Mac? Explore Compatibility Details Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-troubleshooting-and-driver-update-assistance-for-dell-latitude-e6430-systems-with-windows/"><u>Comprehensive Troubleshooting and Driver Update Assistance for Dell Latitude E6430 Systems with Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-for-fresh-netgear-a6100-driver-download-and-patches-on-windows-systems/"><u>Easy Steps for Fresh Netgear A6100 Driver Download & Patches on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-to-download-and-upgrade-epson-drivers-on-a-windows-10-pc/"><u>Easy Steps to Download & Upgrade Epson Drivers on a Windows 10 PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-typing-switching-onoff-filter-keys-in-windows/"><u>Effortless Typing: Switching On/Off Filter Keys in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976404908-get-your-behringer-usb-audio-control-software-free-download-now/"><u>Get Your Behringer USB Audio Control Software - FREE Download Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harness-the-magic-of-photography-and-video-with-pixiz/"><u>Harness the Magic of Photography and Video with Pixiz</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-hashtags-todays-must-learn-tips-for-2024/"><u>Mastering #Instagram Hashtags Today's Must-Learn Tips for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/no-cost-software-upgrade-enhance-your-hp-deskjet-3050as-performance-with-latest-driver-on-windows-pc/"><u>No-Cost Software Upgrade: Enhance Your HP Deskjet 3050A's Performance with Latest Driver on Windows PC</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/strategic-enhancement-of-abbyy-x-m-files-cooperative-venture/"><u>Strategic Enhancement of ABBYY X M-Files Cooperative Venture</u></a></li>
+</ul></div>
 

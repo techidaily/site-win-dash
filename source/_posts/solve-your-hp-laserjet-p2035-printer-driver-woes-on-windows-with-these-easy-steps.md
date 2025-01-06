@@ -1,7 +1,7 @@
 ---
 title: Solve Your HP LaserJet P2035 Printer Driver Woes on Windows with These Easy Steps
-date: 2024-08-19T08:33:40.499Z
-updated: 2024-08-20T08:33:40.499Z
+date: 2024-12-31T23:12:33.224Z
+updated: 2025-01-05T18:03:08.848Z
 tags:
   - win11
   - win10
@@ -28,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Download or update the printer driver manually
 
  You can download the HP LaserJet P2035 printer driver manually from the HP website. Here’s how to do it:
@@ -38,24 +39,19 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  1) Open[HP support website](https://support.hp.com/drivers/) , select**Printers** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
  2) Type the HP printer model (**HP LaserJet P2035** ) in the**Search** box, and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a64c58678.png)
 
  3) Make sure to select the correct operating system, and click**Download** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a674f1286.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Run the downloaded file, and follow the wizard to finish.
 
@@ -81,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17ac1d8c2d7.jpg)
 
 4) After updating, restart your computer to take effect.
@@ -94,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  This is a rather easy method, isn’t it?! If this method doesn’t work for you, don’t worry. There’s one more thing to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Download or update the printer driver in Device Manager
 
@@ -107,18 +104,23 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  3) In Device Manager, double click**Printers** or**Print** **queues** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
  4) Right click on your printer (it may display as**Unknown device** ), and select**Update** **driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Windows will start searching the latest driver for your printer. Follow the prompted instructions to finish.
 
@@ -137,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +146,26 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unboxing-the-year-in-tweet-videos-complete-23-package/"><u>[New] 2024 Approved Unboxing the Year in Tweet Videos - Complete '23 Package</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-strategies-for-clearer-facebook-vids/"><u>[New] In 2024, Unveiling Strategies for Clearer Facebook Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-best-free-and-paid-video-collage-apps-for-android/"><u>[New] Top 8 Best Free and Paid Video Collage Apps for Android</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unleash-creativity-with-these-10-ae-text-setups/"><u>[New] Unleash Creativity with These 10 AE Text Setups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-entertainment-a-thousand-gaming-channels/"><u>[Updated] 2024 Approved Elevate Entertainment A Thousand Gaming Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-highest-rated-20-public-domain-pubg-combos/"><u>[Updated] Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-bring-your-presentations-to-life-with-aiseesoft-screencast-capabilities/"><u>2024 Approved Bring Your Presentations to Life with Aiseesoft Screencast Capabilities</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bilingual-edge-surpassing-monolinguals-with-6-advantages/"><u>BiLingual Edge: Surpassing Monolinguals with #6 Advantages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-hp-printer-drivers-on-windows-11-the-ultimate-guide/"><u>Download & Install HP Printer Drivers on Windows 11: The Ultimate Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-canon-pixma-mg2522-printer-drivers-complete-guide/"><u>Download and Install Canon Pixma MG2522 Printer Drivers: Complete Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-logitech-k350-keyboard-software-here/"><u>Get the Latest Logitech K350 Keyboard Software Here</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fixes-for-lenovo-external-hard-drive-drivers/"><u>Quick Fixes for Lenovo External Hard Drive Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/razer-blackwidow-drivers-a-step-by-step-guide-to-latest-updates/"><u>Razer BlackWidow Drivers: A Step-by-Step Guide to Latest Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-software-update-get-the-newest-dell-graphics-utility-tool-for-windows-directly-from-official-source/"><u>Secure Software Update: Get the Newest Dell Graphics Utility Tool for Windows Directly From Official Source</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tailoring-youtube-experience-on-the-worlds-largest-social-network/"><u>Tailoring YouTube Experience on the World's Largest Social Network</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-windows-10-how-to-fix-common-bluetooth-driver-problems/"><u>Troubleshooting Windows 10: How to Fix Common Bluetooth Driver Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-your-samsung-printers-drivers-in-windows-a-step-by-step-guide/"><u>Troubleshooting Your Samsung Printer's Drivers in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-downloading-and-updating-your-epson-et-3760-printing-devices-windows-driver/"><u>Ultimate Guide: Downloading & Updating Your Epson ET-3760 Printing Device's Windows Driver</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-14-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 14 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+</ul></div>
 

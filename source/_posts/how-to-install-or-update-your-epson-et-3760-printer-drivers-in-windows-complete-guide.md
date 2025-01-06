@@ -1,7 +1,7 @@
 ---
 title: How to Install or Update Your Epson ET-3760 Printer Drivers in Windows - Complete Guide
-date: 2024-08-19T08:33:59.983Z
-updated: 2024-08-20T08:33:59.983Z
+date: 2025-01-01T18:22:58.083Z
+updated: 2025-01-05T21:48:05.916Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Here are the two methods to try
 
  You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -32,26 +33,34 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. **[Automaticallyupdate the driver with Driver Easy (recommended)](https://www.drivereasy.com/knowledge/epson-et-3760-driver-update-and-download/#method-2)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Manually update your Epson ET-3760 driver
 
  You’ll need some computer skills and patience to update your driver this way because you need to head to the Epson official website first, download it and install it step by step.
 
 1. Go to the **[Epson ET-3760 download page](https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3760/s/SPT%5FC11CG20203)**  .
 2. After confirming the**Operating System** detected by the website matches yours, click**Drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Automatically update the driver with Driver Easy
 
@@ -61,18 +70,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
 
@@ -90,8 +91,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +98,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-10-leading-tiktok-creative-editors-for-pcs/"><u>[New] In 2024, 10 Leading TikTok Creative Editors for PCs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-leveraging-camera-roll-for-nostalgic-snaps-via-snapchat/"><u>[Updated] 2024 Approved Leveraging Camera Roll for Nostalgic Snaps via Snapchat</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-crafting-new-frontiers-with-webcam-capabilities/"><u>[Updated] In 2024, Crafting New Frontiers with Webcam Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-watch-deleted-youtube-secrets-to-accessing-lost-content-for-2024/"><u>[Updated] Watch Deleted YouTube Secrets to Accessing Lost Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-assessment-samsungs-360-degree-capture-device/"><u>2024 Approved Full Assessment Samsung's 360-Degree Capture Device</u></a></li>
+<li><a href="https://win-net.techidaily.com/7-losungen-windows-10-wie-sie-verschwundene-dateien-auf-ihrem-desktop-wiederfinden/"><u>7 Lösungen: Windows 10 - Wie Sie Verschwundene Dateien Auf Ihrem Desktop Wiederfinden</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-pce-ac56-driver-compatibility-solved-for-windows-11-8-and-7-systems/"><u>ASUS PCE-AC56 Driver Compatibility Solved for Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-instantanea-gratis-para-convertir-archivos-mkv-en-avi-usando-movavi/"><u>Conversión Instantanea Gratis Para Convertir Archivos MKV en AVI Usando Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-download-top-drivers-for-the-msi-z370-a-pro-motherboard/"><u>Get Your [Free Download]: Top Drivers for the MSI Z370-A Pro Motherboard</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-your-canon-mg3022-printer-drivers-updated-and-installed/"><u>Getting Your Canon MG3022 Printer Drivers Updated and Installed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-driver-updates-for-nvidia-geforce-gtx-1ve-xs-super-get-them-now/"><u>Latest Driver Updates for NVIDIA GeForce GTX 1Ve XS Super - Get Them Now</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/optimal-psu-selection-guide-for-graphic-cards-insights-by-yl-software-experts/"><u>Optimal PSU Selection Guide for Graphic Cards: Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-installing-webcam-drivers-on-windows-7-fast-and-simple-steps/"><u>Quick Guide: Installing Webcam Drivers on Windows 7 - Fast and Simple Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-tips-and-techniques-for-crafting-high-quality-training-videos-a-guide-by-movavi/"><u>Top Tips and Techniques for Crafting High-Quality Training Videos - A Guide by Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-installing-m-audio-fast-track-drivers-on-win-10-7-8-and-81/"><u>Ultimate Guide: Installing M-Audio Fast Track Drivers on Win 10, 7, 8 & 8.1</u></a></li>
+</ul></div>
 

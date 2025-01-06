@@ -1,7 +1,7 @@
 ---
 title: "Latest Upgrade: Installing the New Thunderbolt 3 Dock on Your ThinkPad"
-date: 2024-08-19T08:33:20.430Z
-updated: 2024-08-20T08:33:20.430Z
+date: 2025-01-04T16:07:51.402Z
+updated: 2025-01-05T22:33:10.001Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 ## Get the Newest Version of Your Dell Thunderbolt (TB1) N Docking Station's Software Here
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-51.png)
 
  If you want to make sure your Dell TB16 dock station works properly, you should definitely download**Dell TB16 drivers** and keep them updated.
@@ -25,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
  Dell Thunderbolt Dock TB16 is an all-in-one device that connects all your electronic devices to your laptop or PC flawlessly. You can access to all your external devices, including the keyboard, mouse, speakers when you connect the dock to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to update Dell TB16 drivers
 
 1. **[Download and update Dell TB16 drivers manually](https://tools.techidaily.com/drivereasy/download/)**
@@ -42,25 +40,24 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-44.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You’ll be redirected to the product support page. Click the**Drivers & downloads** tab on the left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-45.png)
 
  4) Type the keyword of the driver you want to download, make sure the detected OS is correct.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-46.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click the**Download** button next to the driver you need.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-47.png)
 
  6) Run the downloaded file, and follow the on-screen instructions to finish the process.
@@ -68,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a9
 Then you should have the latest version for your Dell TB16 drivers.
 
  If this method doesn’t work for you, don’t worry. You’ll have another method to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update Dell TB16 drivers automatically
 
@@ -81,10 +82,11 @@ Then you should have the latest version for your Dell TB16 drivers.
 
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-49.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
@@ -108,8 +110,6 @@ If you have any questions, feel free to leave us a comment.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +117,20 @@ If you have any questions, feel free to leave us a comment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screenshot-expert-evaluator-for-2024/"><u>[New] ScreenShot Expert Evaluator for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-skyline-success-on-iphone-top-landscape-shots-techniques/"><u>[New] Skyline Success on iPhone Top Landscape Shots Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-about-facetune-in-depth-user-guide-and-analysis/"><u>All About Facetune In-Depth User Guide & Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-image-impact-top-iphone-and-android-sticker-augmenting-tools-for-2024/"><u>Boost Image Impact Top iPhone and Android Sticker Augmenting Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/demystifying-mac-audio-capture-via-audacity/"><u>Demystifying Mac Audio Capture via Audacity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-sata-drivers-easily-on-your-windows-pc-step-by-step-guide/"><u>Download and Update SATA Drivers Easily on Your Windows PC: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-dell-wd19-drivers-free-download-and-tutorials/"><u>Easy Installation of Dell WD19 Drivers: Free Download & Tutorials</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-printer-running-smoothly-update-drivers-in-windows-10/"><u>Get Your Epson Printer Running Smoothly: Update Drivers in Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-linksys-ae2500-wireless-router-up-and-running-download-drivers-now/"><u>Get Your Linksys AE2500 Wireless Router Up and Running - Download Drivers Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-and-fast-internet-with-newly-downloaded-dell-wlan-driver/"><u>Secure & Fast Internet with Newly Downloaded Dell WLAN Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-optimal-handbrake-configurations-for-enhanced-video-conversion-on-various-formats/"><u>Top Optimal Handbrake Configurations for Enhanced Video Conversion on Various Formats</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-keyboard-isnt-typing/"><u>Troubleshooting Steps: What To Do When Your Keyboard Isn't Typing</u></a></li>
+</ul></div>
 
