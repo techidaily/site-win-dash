@@ -1,7 +1,7 @@
 ---
 title: How to Install the Latest USB-C Drivers on Windows 11
-date: 2024-08-19T08:43:09.199Z
-updated: 2024-08-20T08:43:09.199Z
+date: 2025-01-10T16:02:11.164Z
+updated: 2025-01-12T16:00:36.172Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 
 ## Find & Install the Latest AMD Radeon R9 360 Drivers on Windows 11: Free Downloads Inside
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b7375b8596.jpg)
   
  Gamers are surely well aware of the importance of the function of their graphics card. AMD Radeon R9 series is said to be designed “**For gamers who demand the best** “.  
@@ -34,16 +31,10 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
   
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** from the list of choice.
   
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586b799d15ed0.png)
 
  2) Locate and expand**Display adapters** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633888b815f.jpg)
 
  3) Then right click the**AMD Radeon R9 360**  display card driver that you have and choose**Update Driver Software…** .  
@@ -60,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
   
  **Windows has determined the driver software for your device is up to date.**
   
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633c3acc5d9.png)
   
  Please move on to the second method.
@@ -79,16 +67,10 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
   
  3) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633847649da.png)
 
  4) Locate and expand**Display adapters** .
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58633888b815f.jpg)
   
  5) Then right click the**AMD Radeon R9 360** display card driver that you have and choose**Uninstall** .
@@ -121,8 +103,6 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +110,26 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-video-anonymity-tips-for-blurring-private-data/"><u>[New] Video Anonymity Tips for Blurring Private Data</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-best-practices-for-livestreaming-full-spheres-on-facebook/"><u>[Updated] Best Practices for Livestreaming Full Spheres on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[Updated] Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-encompass-entire-webpage-in-view/"><u>[Updated] Encompass Entire Webpage in View</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976346720-easy-solutions-for-elgato-hd60-driver-problems-fast-results/"><u>Easy Solutions for Elgato HD60 Driver Problems | Fast Results!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-l3150-printer-driver-download-plus-update-compatible-with-windows-1087/"><u>Epson L3150 Printer Driver Download + Update: Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959820022-get-your-geforce-rtx-ebytes-for-windows-update-now/"><u>Get Your GeForce RTX Ebytes for Windows - Update Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-ensure-smooth-gaming-keeping-ati-radeon-drivers-up-to-date-on-windows/"><u>How to Ensure Smooth Gaming: Keeping ATI Radeon Drivers Up-to-Date on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-laserjet-p1006-driver-update-free-downloads/"><u>HP LaserJet P1006 Driver Update - Free Downloads</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/c-youtube-recognition-click-counter-awards/"><u>Iconic YouTube Recognition - Click Counter Awards</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-fresh-hdmi-signal-transmitter-drivers-from-usb-ports-download-guide/"><u>Install Fresh HDMI Signal Transmitter Drivers From USB Ports - Download Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-latest-amd-graphics-and-cpu-drivers-for-windows-os-versions/"><u>Installing Latest AMD Graphics and CPU Drivers for Windows OS Versions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-wlanapidll-error-a-comprehensive-guide-to-solutions/"><u>Resolving wlanAPI.dll Error: A Comprehensive Guide to Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-home-studios-apple-integrates-artificial-intelligence-band-members-into-latest-logic-pro-update-for-ipads-and-macs-gadgetguru/"><u>Revolutionizing Home Studios, Apple Integrates Artificial Intelligence Band-Members Into Latest Logic Pro Update for iPads and Macs | GadgetGuru</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/x-media-converter-desktop-version/"><u>X-Media Converter Desktop Version</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

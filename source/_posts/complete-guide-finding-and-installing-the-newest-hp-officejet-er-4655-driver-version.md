@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Finding and Installing the Newest HP Officejet Er 4655 Driver Version"
-date: 2024-08-19T08:42:28.340Z
-updated: 2024-08-20T08:42:28.340Z
+date: 2025-01-06T16:00:52.231Z
+updated: 2025-01-12T16:01:05.147Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
 ## Get the Latest HP OfficeJet Pro 8620 Drivers Installed in a Flash - Windows Edition
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f24d1dbae.jpg)
 
  This post will show you how to download or update**drivers for HP OfficeJet Pro 8620** e-All-in-One printer series.
@@ -30,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 2. [Update HP OfficeJet Pro 8620 driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 3. [Update HP OfficeJet Pro 8620 driver automatically](https://tools.techidaily.com/drivereasy/download/) (Recommended)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 1: Download HP OfficeJet Pro 8620 driver manually
 
  HP support center provides software and drivers for customers to download, so you can manually download the driver you need from the website.
@@ -42,9 +35,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  1) Go to[HP Support Center](https://support.hp.com/drivers/) , and select**Printer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
@@ -53,9 +43,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f2f35ac0c.jpg)
 
 4) Run the downloaded file, and follow the wizard to finish.
@@ -65,8 +52,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If this method doesn’t work for you, don’t worry. We have other solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update HP OfficeJet Pro 8620 driver in Device Manager
 
  You can also update the driver for HP OfficeJet 8620 printers in Device Manager. Device Manager enables you to view and manage device hardware settings and driver software on your computer. Here’s how to do it:
@@ -81,19 +69,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In Device Manager, double click**Printers** or**Print queues** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Right click on your printer (it may display as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Choose**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 
 7) Follow the on-screen instructions to finish updating the driver.
@@ -102,9 +99,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 Still no luck? OK. There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
  If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -118,6 +112,10 @@ Still no luck? OK. There’s one more thing to try.
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.
 
@@ -144,8 +142,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +149,22 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/udience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks/"><u>[New] Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplified-techniques-for-using-the-io-screener/"><u>[Updated] 2024 Approved Simplified Techniques for Using the IO Screener</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>[Updated] In 2024, Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/banish-error-code-0x80070570-a-users-ultimate-guide-to-restore-functionality/"><u>Banish Error Code 0X80070570: A User's Ultimate Guide to Restore Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beyond-illusions-examining-vrs-disadvantages-for-2024/"><u>Beyond Illusions Examining VR's Disadvantages for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-google-pixel-7a-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Google Pixel 7a</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-asus-motherboard-drivers-for-windows-a-step-by-step-guide/"><u>Download & Install ASUS Motherboard Drivers for Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-transfer-how-to-set-up-your-usb-to-serial-converter-with-windows/"><u>Effortless Transfer: How to Set Up Your USB to Serial Converter with Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-started-with-your-epson-wf-2750-free-driver-downloads-and-tutorials/"><u>Get Started with Your Epson WF-2750 - Free Driver Downloads and Tutorials</u></a></li>
+<li><a href="https://win-dash.techidaily.com/gtx-1650-super-graphics-card-driver-download-and-upgrade-guide-for-windows-11/"><u>GTX 1650 Super Graphics Card Driver Download and Upgrade Guide for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-latest-lenovo-ideapad-er-sorters-100-drivers-in-windows-11-step-by-step/"><u>Installing the Latest Lenovo IdeaPad Er-Sorters 100 Drivers in Windows 11 - Step by Step</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-downloading-latest-nvidia-quadro-rtx-8000-drivers-for-windows-systems-win-10-8-and-7/"><u>Quick Guide to Downloading Latest NVIDIA Quadro RTX 8000 Drivers for Windows Systems (Win 10, 8 & 7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-ways-to-keep-your-windows-pc-battery-drivers-up-to-date/"><u>Simple Ways to Keep Your Windows PC Battery Drivers Up-to-Date</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-document-secrets-chatgpt-and-pdf-mastery-methods/"><u>Unveiling Document Secrets: ChatGPT & PDF Mastery Methods</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-unveiling-the-most-reliable-websites-for-precision-mp3-tagging-and-organizing/"><u>Updated Unveiling the Most Reliable Websites for Precision MP3 Tagging and Organizing</u></a></li>
+</ul></div>
 

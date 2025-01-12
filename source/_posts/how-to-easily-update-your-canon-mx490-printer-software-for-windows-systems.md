@@ -1,7 +1,7 @@
 ---
 title: How to Easily Update Your Canon MX490 Printer Software for Windows Systems
-date: 2024-08-19T08:38:50.443Z
-updated: 2024-08-20T08:38:50.443Z
+date: 2025-01-11T02:29:26.584Z
+updated: 2025-01-12T07:11:25.912Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/sound-blaster-z-driver-download-windows-10/#option2)**  – This is the quickest and easiest option. It’s all done with just a few mouse clicks – super easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Option 1: Download Sound Blaster Z Driver manually
 
  You can choose to download the latest Sound Blaster Z Driver from Sound Blaster Z sound card manufacturer — CREATIVE’s official website.
@@ -38,26 +35,19 @@ Follow these:
 
  2) Click **Sound Blaster** .
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/1-27.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**click here** as Sound Blaster Z isn’t listed.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/2-26.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select **Z-Series**  on left pane. Then click **Sound Blaster Z**  on middle pane and click **Next** .
 
@@ -65,10 +55,11 @@ Follow these:
 
  5) Find**Sound Blaster Z-Series Software** under Driver category. Then click**Download** to get the latest Sound Blaster Z Driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/4-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Update Sound Blaster Z Driver Automatically (Recommended)
 
@@ -80,18 +71,20 @@ Follow these:
 
  2) Click **Scan Now** .  It will quickly detect all drivers problems of your computer. Your Sound Blaster Z driver is no exception.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc1f8e7470.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged Sound Blaster Z driver to automatically download and install the correct version of that driver (you can do this with the **[FREE version](https://tools.techidaily.com/drivereasy/download/)**  ).
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/Sound-Z.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: After updating your sound card driver, please restart your computer to make the new driver take effect.
 
@@ -105,8 +98,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +105,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/utting-edge-editors-scouting-the-ultimate-tools-for-youtube-shorts/"><u>[New] Cutting Edge Editors Scouting the Ultimate Tools for YouTube Shorts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-artistry-behind-capturing-evening-light-and-people/"><u>[New] In 2024, The Artistry Behind Capturing Evening Light and People</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-earning-insights-from-viewing-data-on-youtube/"><u>[Updated] Earning Insights From Viewing Data on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[Updated] Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-streamlabs-smoothly-with-obs-on-macbooks/"><u>2024 Approved Integrating Streamlabs Smoothly with OBS on MacBooks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-mousepad-driver-download-guide-for-windows-users/"><u>ASUS Mousepad Driver Download Guide for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-fix-for-pci-security-device-driver-malfunctions/"><u>Comprehensive Fix for PCI Security Device Driver Malfunctions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722953122301-download-and-setup-for-intel-iris-plus-gvt-640-graphics-card-latest-drivers-installed-in-a-flash/"><u>Download & Setup for Intel Iris Plus GVT 640 Graphics Card - Latest Drivers Installed in a Flash</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-asus-audio-device-software-compatible-driver-packs/"><u>Download ASUS Audio Device Software – Compatible Driver Packs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-updated-canon-mg2520-drivers-on-windows-operating-system/"><u>Easy Installation of Updated Canon MG2520 Drivers on Windows Operating System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-13-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 13 Without Passcode Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-hp-zbook-15-g3-windows-drivers-free-downloads-available-now/"><u>Get the Latest HP ZBook 15 G3 Windows Drivers – Free Downloads Available Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-g35-driver-download-for-windows-7810/"><u>Logitech G35 Driver Download for Windows 7/8/10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-how-to-effortlessly-update-your-surface-device-drivers/"><u>Step-by-Step Tutorial: How to Effortlessly Update Your Surface Device Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-leveraging-chatgpt/"><u>Step-by-Step: Leveraging ChatGPT</u></a></li>
+</ul></div>
 

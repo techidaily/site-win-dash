@@ -1,7 +1,7 @@
 ---
 title: Update Your Samsung 960 EVO Storage to New Firmware in Windows
-date: 2024-08-19T08:39:45.378Z
-updated: 2024-08-20T08:39:45.378Z
+date: 2025-01-07T16:00:26.640Z
+updated: 2025-01-12T16:00:19.306Z
 tags:
   - win11
   - win10
@@ -30,15 +30,13 @@ There are two ways to download iCUE.
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download and install iCUE through the homepage  
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
 
 ### Download iCUE from the product page
@@ -47,15 +45,22 @@ There are two ways to download iCUE.
 
 1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to do if your mouse still has issues?
 
  After reinstalling iCUE driver, if your gaming mouse still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.
@@ -68,18 +73,16 @@ There are two ways to download iCUE.
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -96,8 +99,6 @@ There are two ways to download iCUE.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +106,24 @@ There are two ways to download iCUE.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-uavs-the-basics-of-drone-operations/"><u>[New] Unveiling UAVs The Basics of Drone Operations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-in-class-iphone-and-android-video-enhancers/"><u>[Updated] Best-In-Class iPhone and Android Video Enhancers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ps2-on-ios-selecting-the-best-emulators/"><u>[Updated] PS2 on iOS Selecting the Best Emulators</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-t2x-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo T2x 5G PC | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/applecareplus-assessment-is-it-a-smart-choice/"><u>AppleCare+ Assessment: Is It a Smart Choice?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customizing-the-control-centre-in-ios-18-for-iphones-expert-strategies-and-tips-zdnet-insights/"><u>Customizing the Control Centre in iOS 18 for iPhones: Expert Strategies and Tips | ZDNet Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-intel-reliable-array-of-independent-disks-raid-drivers-for-windows-111087/"><u>Download and Update Intel Reliable Array of Independent Disks (RAID) Drivers for Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-qualcomm-atheros-ar938x-drivers-for-free-quick-and-easy-setup/"><u>Download the Latest Qualcomm Atheros AR938X Drivers for Free – Quick & Easy Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-fixes-for-dell-mouse-driver-download-issues-a-comprehensive-solution/"><u>Easy Fixes for Dell Mouse Driver Download Issues - A Comprehensive Solution</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-insights-on-ankers-powerful-usb-30-charging-solution-a-complete-review/"><u>Expert Insights on Anker's Powerful USB 3.0 Charging Solution – A Complete Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-8000-drivers-for-windows-1187-platforms/"><u>Get the Most Recent Nvidia Quadro RTX 8000 Drivers for Windows 11/8/7 Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/hacks-for-tapping-into-windows-statistics-hub-quickly/"><u>Hacks for Tapping Into Windows Statistics Hub Quickly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/immediate-fix-persistent-amd-driver-glitches/"><u>Immediate Fix: Persistent AMD Driver Glitches</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Gionee F3 Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971879998-quick-and-easy-guide-to-updating-asus-vg24qe-display-driver-on-windows-pcs-what-you-need-to-know/"><u>Quick & Easy Guide to Updating Asus VG24#qe Display Driver on Windows PCs - What You Need to Know</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973250548-step-by-step-guide-installing-your-new-intel-wireless-ac-3160-network-driver-today/"><u>Step-by-Step Guide: Installing Your New Intel Wireless AC 3160 Network Driver Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/swift-download-of-samsung-m2070fw-drivers-get-set-up-fast/"><u>Swift Download of Samsung M2070FW Drivers - Get Set Up Fast!</u></a></li>
+</ul></div>
 
