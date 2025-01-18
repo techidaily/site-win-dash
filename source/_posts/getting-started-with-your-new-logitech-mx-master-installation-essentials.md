@@ -1,7 +1,7 @@
 ---
 title: "Getting Started With Your New Logitech MX Master: Installation Essentials"
-date: 2024-08-19T08:47:52.141Z
-updated: 2024-08-20T08:47:52.141Z
+date: 2025-01-12T20:25:58.505Z
+updated: 2025-01-18T07:31:14.412Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 
 ## Unlock Full Potential of Your Logitech G402 with the Newest Software Version
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-53.jpg)
 
  If you’re using a Logitech G402 mouse and it stops working all of a sudden, it could be a driver issue. This post will show you how to download the right driver for your Logitech mouse and give you some general troubleshooting tips.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Table of contents
 
 * [How to get the correct driver?](https://tools.techidaily.com/drivereasy/download/)  
@@ -35,20 +33,22 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to get the correct driver?
 
  There are two ways you can get the right driver for your Logitech G402 mouse:
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 1 – Download and install the driver manually**
 
  Logitech keeps updating the G402 driver. To get the latest driver, you need to go to the **[Logitech official website](https://tools.techidaily.com/drivereasy/download/)**  , find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically install the Logitech G402 driver
 
@@ -62,24 +62,26 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-51.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Logitech M402 Mouse not Working Issues?
 
@@ -108,8 +110,6 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +117,21 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-efficient-ways-to-clean-your-youtube-watch-later-playlist/"><u>[New] 2024 Approved Efficient Ways to Clean Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-winning-windows-10-tools-to-record-your-display/"><u>[New] 2024 Approved Winning Windows 10 Tools to Record Your Display</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-importance-of-diversity-and-inclusion-in-market-research-samples/"><u>[Updated] The Importance of Diversity & Inclusion in Market Research Samples</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-instructions-for-logitech-m310-mouse-driver-upgrade/"><u>Easy Instructions for Logitech M310 Mouse Driver Upgrade</u></a></li>
+<li><a href="https://win-dash.techidaily.com/elgato-hd60-connection-woes-fix-it-quickly-with-these-simple-strategies/"><u>Elgato HD60 Connection Woes? Fix It Quickly with These Simple Strategies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-downloading-and-installing-toshibas-drivers-for-seamless-windows-integration/"><u>Guide to Downloading and Installing Toshiba's Drivers for Seamless Windows Integration</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-keep-your-computer-running-smoothly-update-your-motherboard-drivers-on-windows-easy-way/"><u>How To Keep Your Computer Running Smoothly – Update Your Motherboard Drivers On Windows Easy Way!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y17s-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y17s to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-unseen-factors-in-determining-a-videos-view-count-on-youtube/"><u>In 2024, The Unseen Factors in Determining a Video’s View Count on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-canon-pixma-mx345-printer-drivers-on-windows-1187-step-by-step-guide-and-download-links/"><u>Install Canon PIXMA MX345 Printer Drivers on Windows 11/8/7 - Step-by-Step Guide and Download Links</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/lost-your-snaps-master-the-art-of-windows-10-screenshot-restoration/"><u>Lost Your Snaps? Master the Art of Windows 10 Screenshot Restoration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/metaphysical-realms-of-the-metaverse-quotations-style/"><u>Metaphysical Realms of the Metaverse, Quotations Style</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004619615-red-dead-redemption-2-performance-optimized-no-more-lag-or-drops/"><u>Red Dead Redemption 2 Performance Optimized - No More Lag or Drops!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-walkthrough-setting-up-arduino-nano-software-on-your-pc-with-windows/"><u>Ultimate Walkthrough: Setting Up Arduino Nano Software on Your PC with Windows</u></a></li>
+</ul></div>
 

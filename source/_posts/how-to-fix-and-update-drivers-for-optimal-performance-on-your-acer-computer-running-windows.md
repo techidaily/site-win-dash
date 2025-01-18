@@ -1,7 +1,7 @@
 ---
 title: How to Fix and Update Drivers for Optimal Performance on Your Acer Computer Running Windows
-date: 2024-08-19T08:45:09.435Z
-updated: 2024-08-20T08:45:09.435Z
+date: 2025-01-11T21:33:11.830Z
+updated: 2025-01-18T06:40:01.653Z
 tags:
   - win11
   - win10
@@ -17,19 +17,14 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 Whether at the office or at home, we all want to have jobs done smoothly. Yet if the printer stops working while we are ready to have a productive day, that could be really annoying. One effective trick to avoid is to**have your printer driver updated to the latest version.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why should you update your Epson ET-3760 driver
 
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Here are the two methods to try
 
  You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -38,29 +33,29 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. **[Automaticallyupdate the driver with Driver Easy (recommended)](https://www.drivereasy.com/knowledge/epson-et-3760-driver-update-and-download/#method-2)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Manually update your Epson ET-3760 driver
 
  You’ll need some computer skills and patience to update your driver this way because you need to head to the Epson official website first, download it and install it step by step.
 
 1. Go to the **[Epson ET-3760 download page](https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3760/s/SPT%5FC11CG20203)**  .
 2. After confirming the**Operating System** detected by the website matches yours, click**Drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Automatically update the driver with Driver Easy
 
@@ -70,18 +65,16 @@ No advertising on the website.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com.**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -97,8 +90,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +97,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[Updated] Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-screen-ready-images-opting-for-srgb/"><u>[Updated] Screen Ready Images Opting for Srgb</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-top-10-crafting-engaging-songs-for-fb-videos/"><u>In 2024, FB Top 10 Crafting Engaging Songs for FB Videos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/loschen-des-dateiversions-verlaufs-in-windows-11-schritt-fur-schritt-anleitung/"><u>Löschen Des Dateiversions-Verlaufs in Windows 11 - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/optimize-tv-viewership-via-facebook-live-streaming-for-2024/"><u>Optimize TV Viewership via Facebook Live Streaming for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-integrating-subsmoviesclub-extension-with-kodi-on-nexusmatrix-systems/"><u>Step-by-Step Tutorial for Integrating Subsmovies.club Extension with Kodi on Nexus/Matrix Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-securely-grabbing-4k-and-hd-hevc-movies-in-multiple-file-types-for-smartphones-and-computers/"><u>Step-by-Step Tutorial on Securely Grabbing 4K & HD HEVC Movies in Multiple File Types for Smartphones and Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-13-trusted-sites-for-free-anime-subtitle-downloads/"><u>Top 13 Trusted Sites for Free Anime Subtitle Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-5-reliable-sources-to-download-memes-videos/"><u>Top 5 Reliable Sources to Download Memes Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-infinix-note-30-vip-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Infinix Note 30 VIP IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-dvd-content-scrambling-for-seamless-playback/"><u>Unlocking the Secrets of DVD Content Scrambling for Seamless Playback</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-enhancements-apple-redesigning-the-budget-friendly-watch-se-discover-the-latest-updates/"><u>Upcoming Enhancements: Apple Redesigning the Budget-Friendly Watch SE - Discover the Latest Updates!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-and-nvidia-geforce-7025-clash-resolved/"><u>Windows 11 & NVidia GeForce 7025 Clash - Resolved</u></a></li>
+</ul></div>
 

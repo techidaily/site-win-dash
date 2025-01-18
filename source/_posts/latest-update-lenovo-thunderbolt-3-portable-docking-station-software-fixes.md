@@ -1,7 +1,7 @@
 ---
 title: "Latest Update: Lenovo Thunderbolt 3 Portable Docking Station Software Fixes"
-date: 2024-08-19T08:46:11.605Z
-updated: 2024-08-20T08:46:11.605Z
+date: 2025-01-10T20:38:07.072Z
+updated: 2025-01-18T06:45:01.286Z
 tags:
   - win11
   - win10
@@ -22,17 +22,18 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  Dell Thunderbolt Dock TB16 is an all-in-one device that connects all your electronic devices to your laptop or PC flawlessly. You can access to all your external devices, including the keyboard, mouse, speakers when you connect the dock to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to update Dell TB16 drivers
 
 1. **[Download and update Dell TB16 drivers manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update Dell TB16 drivers automatically](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Download and update Dell TB16 drivers manually
 
  You can manually download the driver you need for Dell TB16 from the Dell support. We recommend this method if you’re confident with your computer skills. Here’s what you need to do:
@@ -42,6 +43,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  2) Type**Dell Thunderbolt Dock TB16** in the search box, and click**Dell Thunderbolt Dock TB16** in the drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-44.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You’ll be redirected to the product support page. Click the**Drivers & downloads** tab on the left.
 
@@ -53,9 +58,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  5) Click the**Download** button next to the driver you need.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-47.png)
 
  6) Run the downloaded file, and follow the on-screen instructions to finish the process.
@@ -65,8 +67,9 @@ Then you should have the latest version for your Dell TB16 drivers.
  If this method doesn’t work for you, don’t worry. You’ll have another method to try.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update Dell TB16 drivers automatically
 
  Manually downloading the Dell TB16 drivers requires time and patience. If you don’t have the time, patience, or computer skills, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,18 +82,16 @@ Then you should have the latest version for your Dell TB16 drivers.
 
  2) Run Driver Easy and click the Scan Now button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-49.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-50.png)
 
 4) Restart your computer to take effect.
@@ -109,8 +110,6 @@ If you have any questions, feel free to leave us a comment.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +117,20 @@ If you have any questions, feel free to leave us a comment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques/"><u>[New] In 2024, Journey to Perfect Audio Ultimate iPhone Podcast Downloading Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learn-how-to-convert-audio-clips-into-written-text-with-microsoft-words-speech-recognition-features/"><u>[New] Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-scripting-developing-a-countdown-mechanism-in-obs/"><u>2024 Approved Elite Scripting Developing a Countdown Mechanism in OBS</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/a-decade-of-consequences-microsofts-enduring-struggle-with-past-mobile-errors-insights-from-zdnet/"><u>A Decade of Consequences: Microsoft's Enduring Struggle with Past Mobile Errors - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boot-your-iphone-into-dfu-mode-and-why-you-might-need-it/"><u>How To Boot Your iPhone Into DFU Mode & Why You Might Need It</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mp4divx/"><u>MP4からDivXへのスムーズ変換: 迅速・高品質な方法とは？</u></a></li>
+<li><a href="https://win-dash.techidaily.com/offline-and-online-solutions-transforming-swf-videos-into-avi-without-cost/"><u>Offline & Online Solutions: Transforming SWF Videos Into AVI Without Cost</u></a></li>
+<li><a href="https://win-dash.techidaily.com/powerpointyoutube/"><u>PowerPointスライドへのYouTube動画部分取り込み: 設定された時間帯を使うコツ</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-easy-techniques-to-open-and-enjoy-your-ogm-media-content/"><u>Quick & Easy Techniques to Open and Enjoy Your OGM Media Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-how-to-change-avchd-video-to-mkv/"><u>Quick Guide: How to Change AVCHD Video to MKV</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-steps-for-changing-m4r-ringtones-into-mp3-audio-files/"><u>Quick Steps for Changing M4R Ringtones Into MP3 Audio Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unleashing-creativity-advanced-obs-techniques-explained-for-2024/"><u>Unleashing Creativity Advanced OBS Techniques Explained for 2024</u></a></li>
+</ul></div>
 

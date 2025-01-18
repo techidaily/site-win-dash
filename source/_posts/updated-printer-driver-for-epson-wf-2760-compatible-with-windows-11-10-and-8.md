@@ -1,7 +1,7 @@
 ---
 title: Updated Printer Driver for Epson WF-2760 - Compatible with Windows 11, 10 & 8
-date: 2024-08-19T08:44:15.879Z
-updated: 2024-08-20T08:44:15.879Z
+date: 2025-01-11T21:21:22.951Z
+updated: 2025-01-17T23:39:01.870Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Here are the two methods to try
 
  You may not need to try both. Just pick one to try depending on whether you want to do it manually or automatically.
@@ -32,29 +33,26 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. **[Automaticallyupdate the driver with Driver Easy (recommended)](https://www.drivereasy.com/knowledge/epson-et-3760-driver-update-and-download/#method-2)**
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Manually update your Epson ET-3760 driver
 
  You’ll need some computer skills and patience to update your driver this way because you need to head to the Epson official website first, download it and install it step by step.
 
 1. Go to the **[Epson ET-3760 download page](https://epson.com/Support/Printers/All-In-Ones/ET-Series/Epson-ET-3760/s/SPT%5FC11CG20203)**  .
 2. After confirming the**Operating System** detected by the website matches yours, click**Drivers** .  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
-5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Restart your computer for the changes to take effect.
+
 ### Method 2: Automatically update the driver with Driver Easy
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,16 +61,20 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com.**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -88,8 +90,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +97,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-next-level-experience-in-metaverse-with-top-8-accessories/"><u>[New] In 2024, Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://win-dash.techidaily.com/44cm44k544og44o844k644gr5yuv55s75zyn57iu44gn44gn44kl44og44kv44ol44od44kv44ks5a2m44g244cn/"><u>「スムーズに動画圧縮できるテクニックを学ぶ」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-must-have-luts-to-transform-your-lightroom-images-for-2024/"><u>10 Must-Have LUTs to Transform Your LightRoom Images for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-streamer-soundscape-the-top-5-headset-guidebook/"><u>2024 Approved Streamer Soundscape The Top 5 Headset Guidebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/4kwindows-11/"><u>4KビデオのWindows 11での再生に失敗する場合、その理由と解決方法</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726029017426-dvd-r/"><u>初心者向け DVD-R 一度きり書き取り拒否解除ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-dota-2-playability-solving-fps-drops-across-the-latest-windows-operating-systems/"><u>Boosting Dota 2 Playability: Solving FPS Drops Across the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comparing-free-vs-pro-unveiling-the-distinctions-between-flash-video-converter-factory-and-flash-video-converter-factory-pro/"><u>Comparing Free vs Pro: Unveiling the Distinctions Between Flash Video Converter Factory & Flash Video Converter Factory Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-lava-agni-2-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Lava Agni 2 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo X100 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-hone-your-image-by-removing-surroundings/"><u>In 2024, Hone Your Image by Removing Surroundings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-valheims-launch-difficulties-tips-for-a-smooth-startup/"><u>Solving Valheim's Launch Difficulties: Tips for a Smooth Startup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726030056947-windows/"><u>Windows上で効率的にビデオ切り取りテクニック</u></a></li>
+</ul></div>
 

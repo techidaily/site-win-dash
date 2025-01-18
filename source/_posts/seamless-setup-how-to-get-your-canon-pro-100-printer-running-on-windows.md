@@ -1,7 +1,7 @@
 ---
 title: "Seamless Setup: How to Get Your Canon PRO 100 Printer Running on Windows"
-date: 2024-08-19T08:44:10.214Z
-updated: 2024-08-20T08:44:10.214Z
+date: 2025-01-14T21:39:55.539Z
+updated: 2025-01-18T00:00:38.580Z
 tags:
   - win11
   - win10
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/e274a732c7d0d3f61527d48aecc65a65fbbf84ca4
 Look no further, this is your guide! ?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When should I update my **Epson** printer driver
 
  A printer driver is a tiny program that allows your printer to communicate with your computer.
@@ -42,8 +42,9 @@ Updating your printer driver can:
  So it’s**ALWAYS** recommended to update our printer driver whenever possible.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these methods
 
  Both methods below work in**Windows 10** ,**8** and**7** .  And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
@@ -51,24 +52,25 @@ Updating your printer driver can:
 1. [**Update my Epson printer driver manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update my Epson printer driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Update my Epson printer driver manually
 
 **A WORD OF WARNING** : Downloading the wrong driver or installing it incorrectly will compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril. If you’re not comfortable playing around with drivers, or worrying about any risks in the process, jump to [**Method 2**](https://tools.techidaily.com/drivereasy/download/) .
 
 Before heading to download the latest driver package from**Epson**‘s official website, we’ll first have to uninstall the older driver first. To do so:  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R** at the same time. Then copy & paste **devmgmt.msc**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Printer queues** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on**your Epson printer**  and click **Uninstall device** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now let’s get started with the manual Epson driver download & install procedure:
 
@@ -77,18 +79,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb8391737cc4.png)
 3. Click**the link for your product** among the search results.
 4. Make sure**the detected Operating System is correct** . Then click**Drivers and Utilities Combo Package** \>**Download** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb839f55c7e4.jpg)
 5. Double-click on the downloaded file and follow the instructions on the wizard to finish the install.
 6. **Restart** your computer for the changes to take effect.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Update my Epson printer driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -101,6 +97,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b09636ab48.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb83b9f0aa46.jpg)  
 You can also click **Update**  to do it for free if you like, but it’s partly manual.
 4. **Restart** your computer for the changes to take effect.
@@ -117,8 +118,6 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +125,17 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2023s-finest-zero-cost-online-broadcast-software-roundup/"><u>[Updated] 2023'S Finest Zero-Cost Online Broadcast Software Roundup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-video-calls-software-compared-side-by-side/"><u>[Updated] Top 10 Video Calls Software Compared Side by Side</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-guide-to-swift-synaptics-ps2-touchpad-driver-update/"><u>Effortless Guide to Swift Synaptics PS/2 Touchpad Driver Update</u></a></li>
+<li><a href="https://facebook.techidaily.com/evaluating-trust-in-facebooks-safety-email-securityfbcom/"><u>Evaluating Trust in Facebook's Safety Email: security@fb.com</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-multiversus-running-on-pc-expert-tips-and-solutions/"><u>Getting MultiVersus Running on PC – Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-rejuvenating-your-logitech-m310-mouse-through-driver-update/"><u>Guide to Rejuvenating Your Logitech M310 Mouse Through Driver Update</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-xs-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone XS iOS? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-metaverse-mirth-humorous-digital-world-memes-for-2024/"><u>Mastering Metaverse Mirth Humorous Digital World Memes for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-compatibility-finding-and-downloading-displaylink-drivers-for-windows-10/"><u>Seamless Compatibility: Finding & Downloading DisplayLink Drivers for Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-quote-must-be-followed-by-a-colon-and-then-seamlessly-integrated-into-the-existing-content-of-the-paragraph-without-altering-its-original-meaning/"><u>The Quote Must Be Followed by a Colon (:) and Then Seamlessly Integrated Into the Existing Content of the Paragraph without Altering Its Original Meaning</u></a></li>
+</ul></div>
 

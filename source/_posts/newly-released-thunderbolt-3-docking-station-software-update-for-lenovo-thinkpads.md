@@ -1,7 +1,7 @@
 ---
 title: Newly Released Thunderbolt 3 Docking Station Software Update for Lenovo ThinkPads
-date: 2024-08-19T08:46:12.529Z
-updated: 2024-08-20T08:46:12.529Z
+date: 2025-01-16T21:00:02.977Z
+updated: 2025-01-18T07:36:59.047Z
 tags:
   - win11
   - win10
@@ -15,28 +15,23 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ## Get the New HP Universal Printing Software for Windows Installed Today
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af2754447a63.jpg)
 
  Having an issue with your**HP universal print driver** ? Don’t worry. This article introduces two easy ways to download and install the HP Universal Print Driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Manually download the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Automatically download and install the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Manually download the HP Universal Print Driver
 
  To download the correct**HP Universal Print Driver** , you should go to the[HP website](https://support.hp.com/drivers) , find the latest version of your print driver and manually install it in your computer.
@@ -59,19 +54,21 @@ No advertising on the website.
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f1d25dbe.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your printer to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f403b2dc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -89,8 +86,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +93,17 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-add-custom-thumbnails-to-your-youtube-videos-for-2024/"><u>[New] How To Add Custom Thumbnails to Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-social-media-savvy-ig-filter-hits-for-2024/"><u>[New] Social Media Savvy IG Filter Hits for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-color-correctors-handbook-for-2024/"><u>[Updated] The Ultimate Color Corrector's Handbook for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-down-the-animation-process-a-movie-maker-approach/"><u>In 2024, Breaking Down the Animation Process A Movie Maker Approach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/refining-zoom-image-precision-proactive-measures-for-2024/"><u>Refining Zoom Image Precision Proactive Measures for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-the-dts-format-glitches-on-microsofts-media-platform-with-these-3-tips/"><u>Resolving the DTS Format Glitches on Microsoft's Media Platform with These 3 Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rmmp4mp3/"><u>RMデータを迅速に変換：MP4/MP3用ガイド</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-guide-transforming-dav-recordings-into-mp3-with-ease/"><u>Seamless Guide: Transforming DAV Recordings Into MP3 with Ease</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-the-dilemma-why-isnt-your-youtube-video-thumbnail-displayed-on-facebook/"><u>Solve the Dilemma: Why Isn't Your YouTube Video Thumbnail Displayed on Facebook?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-revenue-harnessing-video-ad-dollars-on-youtube-for-2024/"><u>Unlocking Revenue Harnessing Video Ad Dollars on YouTube for 2024</u></a></li>
+</ul></div>
 

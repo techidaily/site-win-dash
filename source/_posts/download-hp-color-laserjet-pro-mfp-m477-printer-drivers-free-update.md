@@ -1,7 +1,7 @@
 ---
 title: Download HP Color Laserjet Pro MFP M477 Printer Drivers - Free Update
-date: 2024-08-19T08:50:01.377Z
-updated: 2024-08-20T08:50:01.377Z
+date: 2025-01-10T17:33:44.817Z
+updated: 2025-01-17T21:21:52.850Z
 tags:
   - win11
   - win10
@@ -29,28 +29,18 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 [**Option 2: Update Printer Driver Manually**](https://tools.techidaily.com/drivereasy/download/)
 [**Option 3: Update Printer Driver Automatically (Recommended)**](https://www.drivereasy.com/knowledge/hp-officejet-pro-8600-printer-driver-download-for-windows/#3)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590809f687953.jpg)
 
  **Option 1: Update Printer Driver via Device Manager**
 
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5907fef252f36.png)
  2) Locate and click to expand category**Print queues** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590802e3114a1.jpg)
  3) Right click the**HP Officejet Pro 8600 printer** that you see here. Then choose**Update driver** option from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59080a9f4559f.png)
 
  4) Then choose**Search automatically for updated driver software** .
@@ -59,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
  5) Then Windows will start to help you with the search of the new driver. If you see the notification as below, which indicates that Windows cannot help you with the driver update, then you need to look for an alternative. Please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082342e5590.jpg)
 
  **Option 2: Update Printer Driver Manually**
@@ -87,18 +73,12 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082b9478bec.png)
 
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082b8eb2887.jpg)
 
 * [HP](https://tools.techidaily.com/drivereasy/download/)
@@ -110,8 +90,6 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +97,24 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creative-channel-themes-get-them-for-free/"><u>[New] In 2024, Creative Channel Themes Get Them for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-overcome-obstacles-with-these-top-10-motivation-flicks/"><u>[New] Overcome Obstacles with These Top 10 Motivation Flicks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bacterial-self-healing-involves-using-bacteria-within-the-concrete-that-produce-limestone-as-a-byproduct-when-activated-by-moisture-ingress/"><u>Bacterial Self-Healing Involves Using Bacteria Within the Concrete that Produce Limestone as a Byproduct when Activated by Moisture Ingress</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-csr-bluetooth-drivers-without-hesitation/"><u>Download the Latest CSR Bluetooth Drivers Without Hesitation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-smart-meter-communication-drivers-for-windows-7-to-11-free-download/"><u>Easy Installation: Smart Meter Communication Drivers for Windows 7 to 11 (Free Download)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2010-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2010 Files on Mac Complete Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-10t-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme 10T 5G online without jailbreak</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-an-exclusive-review-of-lgs-innovative-4k-screen-tech/"><u>In 2024, An Exclusive Review of LG's Innovative 4K Screen Tech</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Lock Screen with Notifications?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo</u></a></li>
+<li><a href="https://win-dash.techidaily.com/overcoming-graphics-driver-challenges-effective-fix-strategies-for-users/"><u>Overcoming Graphics Driver Challenges: Effective Fix Strategies for Users</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

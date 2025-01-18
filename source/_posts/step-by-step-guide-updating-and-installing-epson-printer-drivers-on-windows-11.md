@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating and Installing Epson Printer Drivers on Windows 11"
-date: 2024-08-19T08:48:55.301Z
-updated: 2024-08-20T08:48:55.301Z
+date: 2025-01-12T03:17:09.767Z
+updated: 2025-01-18T06:07:52.930Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c2e04fc7d.jpg)
 
  Want to download and update**Epson WF 3620 driver** for your printer? You’ve come to the right place! This post will show you how to download and update Epson WorkForce WF-3620 driver in Windows 10/8/7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update driver for Epson WF 3620 printer
 
@@ -36,25 +40,24 @@ Follow these steps:
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
-4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After uninstalling, you can now download the printer driver from official website.
 
 1. Go to[Epson official support website](https://epson.com/Support/Printers/) .
 2. Type**WF-3620** in the search box, and select your printer model.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c49506f41.jpg)
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
@@ -72,14 +75,13 @@ Follow these steps:
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer to take effect.
@@ -89,8 +91,9 @@ Follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When should I update Epson WF 3620 driver
 
  Printer drivers is an essential program that ensures your printer can communicate with your computer.
@@ -113,8 +116,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +123,23 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-optimal-steadicams-matched-with-dslr-cameras/"><u>[Updated] In 2024, Optimal Steadicams Matched with DSLR Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-prime-techniques-converting-visual-content-on-pinterest-to-mp3s-for-2024/"><u>[Updated] Prime Techniques Converting Visual Content on Pinterest To MP3s for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay/"><u>2024 Approved Creative Video Editing for FB Techniques of LC and BB Overlay</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-guide-for-the-canon-xc10-video-camera-system/"><u>Download & Update Guide for the Canon XC10 Video Camera System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972231894-download-nvidia-display-drivers-supported-on-windows-1078-systems-get-them-here/"><u>Download Nvidia Display Drivers: Supported on Windows 10/7/8 Systems - Get Them Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-brother-hl-expressdrive-cddvd-printer-up-and-running-in-minutes/"><u>Get Your Brother HL-eXpressDrive CD/DVD Printer Up & Running in Minutes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-iphone-audio-capture-how-to-record-calls-and-understand-the-law-across-states/"><u>Guide to iPhone Audio Capture - How to Record Calls and Understand the Law Across States</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-emulate-macos-layout-in-windows-top-5-strategies/"><u>How to Emulate macOS Layout in Windows: Top 5 Strategies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-hot-30-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Hot 30 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-lava-by-drfone-android/"><u>How to Show Wi-Fi Password on Lava</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-12-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 12</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rapid-downloads-available-compatible-drivers-for-your-samsung-c460/"><u>Rapid Downloads Available: Compatible Drivers for Your Samsung C460</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-toshiba-printer-drivers-on-your-windows-computer/"><u>Step-by-Step Guide: Installing Toshiba Printer Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/up-to-date-nvidia-rtx-2080-video-card-driver-downloads-windows-compatibility-guide/"><u>Up-to-Date NVIDIA RTX 2080 Video Card Driver Downloads: Windows Compatibility Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-acers-wireless-experience-swift-and-simple-bluetooth-drivers-at-your-fingertps/"><u>Upgrade Your Acer's Wireless Experience – Swift and Simple Bluetooth Drivers at Your Fingertps</u></a></li>
+</ul></div>
 
