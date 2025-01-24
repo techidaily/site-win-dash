@@ -1,7 +1,7 @@
 ---
 title: "Brother MFC L2690DW: Find & Install the Latest Printer Driver Today!"
-date: 2024-08-19T08:55:17.410Z
-updated: 2024-08-20T08:55:17.410Z
+date: 2025-01-22T16:56:31.542Z
+updated: 2025-01-24T09:12:38.256Z
 tags:
   - win11
   - win10
@@ -21,26 +21,26 @@ If you’re looking for the latest version of driver for your Brother MFC-L3770C
 
 [Option 2: Automatically (recommended)](https://www.drivereasy.com/knowledge/download-brother-hl-l2370dw-printer-driver/#option2) – Download, install and update your driver with just a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download and update brother hl-l8360CDW Laser Printer driver](https://images.drivereasy.com/wp-content/uploads/2021/01/brother-printer-featured-image-1200x1200.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Manually download the driver from the official website
 
  Brother keeps releasing driver updates. To get them, you need to go to the [Driver Download Center](https://www.brother-usa.com/brother-support/driver-downloads) and enter your Brother printer model number. Once you submitted your query, follow the instructions to download and install the correct driver.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/brother-printer-driver-update.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Automatically update your driver with Driver Easy (recommended)
 
  Driver updates come with bug fixes and new features. So we recommend checking for driver updates on a regular basis. But updating drivers requires some skills and patience. If you’re not familiar with computer hardware, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,19 +53,20 @@ Here’s how to update your driver with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![download and update brother hl-l2370dw driver](https://images.drivereasy.com/wp-content/uploads/2021/04/2370DW-1200x903.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Once you’ve updated your printer driver, restart your computer.
 
@@ -79,8 +80,6 @@ Hopefully, this tutorial helped you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +87,18 @@ Hopefully, this tutorial helped you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagrams-video-opposites-a-tutorial-for-2024/"><u>[New] Mastering Instagram's Video Opposites A Tutorial for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/acquistare-la-ricostruzione-rapida-di-disco-con-aomei-onekey-soluzione-on-line/"><u>Acquistare La Ricostruzione Rapida Di Disco Con AOMEI OneKey: Soluzione On-Line</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-nvidia-rtx-2060-super-drivers-for-windows-11/"><u>Download Latest NVIDIA RTX 2060 Super Drivers for Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967853959-easy-installation-of-epson-wf-2750-printer-driver-free-download-now/"><u>Easy Installation of Epson WF-2750 Printer Driver – Free Download Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 14 Plus</u></a></li>
+<li><a href="https://win-dash.techidaily.com/nexiq-usb-link-2-driver-download-and-install/"><u>NEXIQ USB-Link 2 Driver [Download & Install]</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976720614-sas-driver-updates-available-now-for-windows-users-windows-10-8-and-7-downloads-included/"><u>SAS Driver Updates Available Now for Windows Users: Windows 10, 8 & 7 Downloads Included</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-using-application-compatibility-mode-in-windows-10/"><u>Step-by-Step: Using Application Compatibility Mode in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-distinctions-between-metaverse-and-multimeva-for-2024/"><u>The Essential Distinctions Between Metaverse and Multimeva for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-apple-watch-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Apple Watch Models : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+</ul></div>
 
