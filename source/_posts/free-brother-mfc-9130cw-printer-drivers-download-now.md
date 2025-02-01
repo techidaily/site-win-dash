@@ -1,7 +1,7 @@
 ---
 title: Free Brother MFC-9130CW Printer Drivers - Download Now
-date: 2024-08-19T09:00:45.754Z
-updated: 2024-08-20T09:00:45.754Z
+date: 2025-01-30T23:23:39.470Z
+updated: 2025-01-31T19:43:30.574Z
 tags:
   - win11
   - win10
@@ -15,25 +15,23 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ## Download the HP Universal Printer Driver for Windows - Get Set Up Today
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af2754447a63.jpg)
 
  Having an issue with your**HP universal print driver** ? Don’t worry. This article introduces two easy ways to download and install the HP Universal Print Driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Manually download the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Automatically download and install the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Manually download the HP Universal Print Driver
 
  To download the correct**HP Universal Print Driver** , you should go to the[HP website](https://support.hp.com/drivers) , find the latest version of your print driver and manually install it in your computer.
@@ -56,19 +54,21 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f1d25dbe.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to your printer to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f403b2dc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,8 +86,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +93,22 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pcs-premiere-selection-of-ps3-game-simulations/"><u>[New] 2024 Approved PC's Premiere Selection of PS3 Game Simulations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-evaluating-screencast-software-the-bandicamcamtasia-comparison-for-2024/"><u>[New] Evaluating Screencast Software The Bandicam/Camtasia Comparison for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/beat-startech-driver-issues-once-and-for-all-in-windows-1187-expert-fixes-unveiled/"><u>Beat StarTech Driver Issues Once & For All in Windows 11/8/7: Expert Fixes Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-broadcom-gige-network-adapter-drivers-for-windows-11-complete-guide/"><u>Download Broadcom GigE Network Adapter Drivers for Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-dell-tb16-thunderbolt-hub-firmware-update-for-enhanced-performance/"><u>Download Latest Dell TB16 Thunderbolt Hub Firmware Update for Enhanced Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-version-of-intels-centrino-advanced-n-6205-driver-suite/"><u>Download the Latest Version of Intel's Centrino Advanced-N #6205 Driver Suite</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-spark-20-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Spark 20 Location | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-epson-perfection-v39-printers-on-windows-download-correct-drivers/"><u>Installing Epson Perfection V39 Printers on Windows: Download Correct Drivers!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-chipset-drivers-download-guide-for-microsoft-windows/"><u>Latest AMD Chipset Drivers Download Guide for Microsoft Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aging-regular-content-posts-for-enhanced-youtube-traffic/"><u>Leveraging Regular Content Posts for Enhanced YouTube Traffic</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-headache-solved-restoring-voice-communication-in-among-us/"><u>PC Gaming Headache Solved: Restoring Voice Communication in Among Us</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-guide-downloading-and-updating-canon-printer-drivers-on-windows/"><u>Quick and Simple Guide: Downloading & Updating Canon Printer Drivers on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-up-smartphone-chatgpts-android-introduction/"><u>Speak Up, Smartphone: ChatGPT's Android Introduction</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-windows-blue-screen-of-death-bsod-with-error-code-c00000e9/"><u>Troubleshooting Guide: Solving the Windows Blue Screen of Death (BSoD) with Error Code C00000e9</u></a></li>
+</ul></div>
 

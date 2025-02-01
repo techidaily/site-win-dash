@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tips for Fixing Broken Samsung Blu Ray Players
-date: 2024-08-19T09:01:27.845Z
-updated: 2024-08-20T09:01:27.845Z
+date: 2025-01-30T16:39:28.730Z
+updated: 2025-01-31T16:41:02.148Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 Couldn’t find your optical Blu-ray drive after upgrading your operating system? Try to watch a Blu-ray video but your Blu-ray Player is not recognizing discs? Don’t worry, you’re not alone and this problem should be easy to fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes for you to try. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,17 +34,15 @@ Couldn’t find your optical Blu-ray drive after upgrading your operating system
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Try another media player
 
  Sometimes it’s the media player software that causes trouble. Microsoft media player is no longer supports Blu-rays and DVDs. So if you’re using this media player to play discs, you couldn’t make it work. You can try another media player from the market. In some cases, the manufacturer of the Blu-ray player has a recommendation. You can use that one if you like.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your Blu-ray drivers
 
  Because Windows has stopped supporting DVDs and CDs, the problem could be caused by the outdated or wrong driver. Therefore, updating your Blu-ray drivers could help.
@@ -70,11 +69,13 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -89,26 +90,23 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your Blu-ray drivers
 
  If updating the driver doesn’t help, you could try to do a reinstall. This way could clear all the corrupted files and make your Blu-ray Player work like a charm.
 
 1. Press the**Windows logo** key +**R** to evoke the Run box.
 2. Type**devmgmt.msc** and press the**Enter** key to open the**Device Manager** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Right-click on the device and click**Uninstall Device** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Unplug the external Blu-ray drive.
 5. Shut down your computer completely.
 6. Wait for 30 seconds, then plug in the external Blu-ray drive.
@@ -122,9 +120,6 @@ OR
 
 1. Press the**Windows logo** key +**R** to evoke the Run box.
 2. Type**regedit** and press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press the Enter key.  
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
@@ -141,8 +136,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +143,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-masterful-text-setups-in-adobe-after-effects/"><u>[New] In 2024, Masterful Text Setups in Adobe After Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-dive-into-quality-tips-for-shooting-crystal-clear-gopro-video-below-the-surface/"><u>[Updated] Dive Into Quality Tips for Shooting Crystal Clear GoPro Video Below the Surface</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/accelerating-videos-an-easy-start-with-snapchat/"><u>Accelerating Videos An Easy Start with Snapchat</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-insignia-wireless-receiver-drivers-for-windows/"><u>Download & Update Insignia Wireless Receiver Drivers for Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-your-ft232r-usb-to-uart-bridge-driver-instantly/"><u>Download Your FT232R USB to UART Bridge Driver Instantly!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-guide-how-to-resolve-steam-games-wont-start-on-windows-11/"><u>Fix Guide: How to Resolve 'Steam Games Won't Start on Windows 11'</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-thunderbolt-drivers-for-your-windows-computer/"><u>How to Get Thunderbolt Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-resolve-xbox-controller-connection-problems-in-windows-7-8-and-11/"><u>How to Resolve Xbox Controller Connection Problems in Windows 7, 8 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nubia-red-magic-9-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nubia Red Magic 9 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-apex-of-high-res-viewing-best-4k-screens-on-macs/"><u>In 2024, The Apex of High-Res Viewing - Best 4K Screens on Macs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-latest-graphics-drivers-enhance-your-gaming-experience-with-amd-rx-6800-xt-and-compatible-windows-systems/"><u>Install the Latest Graphics Drivers: Enhance Your Gaming Experience with AMD RX 6800 XT and Compatible Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-perfect-print-driver-the-ultimate-guide-to-setting-up-the-brother-mfc-l2700dw-on-windows-systems/"><u>Installing the Perfect Print Driver: The Ultimate Guide to Setting up the Brother MFC-L2700DW on Windows Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-on-a-budget-top-software-for-32-bit-windows/"><u>New Free Video Editing on a Budget Top Software for 32-Bit Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/no-cost-updates-effortless-downloading-of-asrock-ab350-pro4-drivers-for-windows-systems/"><u>No-Cost Updates: Effortless Downloading of ASRock AB350 Pro4 Drivers for Windows Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-generic-bluetooth-adapter-software-update-compatible-with-windows-systems/"><u>Top Generic Bluetooth Adapter Software Update - Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-how-to-successfully-install-and-update-rndis-drivers-on-windows/"><u>Ultimate Guide: How to Successfully Install and Update RNDIS Drivers on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Tecno Spark 20C? | Dr.fone</u></a></li>
+</ul></div>
 

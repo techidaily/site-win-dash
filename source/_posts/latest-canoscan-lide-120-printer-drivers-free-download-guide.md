@@ -1,7 +1,7 @@
 ---
 title: Latest CanoScan LiDE 120 Printer Drivers - Free Download Guide
-date: 2024-08-19T09:00:29.465Z
-updated: 2024-08-20T09:00:29.465Z
+date: 2025-01-25T21:39:03.331Z
+updated: 2025-01-31T21:28:16.330Z
 tags:
   - win11
   - win10
@@ -22,12 +22,17 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 **Why do you need to update your printer driver?** The printer driver is the critical software that ensures your printer works flawlessly with your computer. Updating your printer driver brings you the best possible experience, and resolves many printer problems such as printer not printing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to download and update HP OfficeJet 6970 driver?
 
 1. **[Download HP OfficeJet 6970 Pro driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update HP OfficeJet 6970 Pro driver automatically](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download HP OfficeJet 6970 Pro driver manually
 
@@ -39,23 +44,22 @@ Here’s what you need to do:
 
  2) Type**OfficeJet Pro 6970** in the search box and choose**HP OfficeJet Pro 6970 All-in-One Printer series** in the drop-down list. Then the support page for this printer will open.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-263.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Software, Drivers and Firmware** on the left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-265.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You’ll see the driver download list. Click the**Download** button under the recommended driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-266.png)
 
  5) Once downloaded, double click the file and follow the on-screen instructions to finish the installation.
@@ -64,9 +68,6 @@ Here’s what you need to do:
 
  If this method doesn’t work for you, don’t worry. Move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update HP OfficeJet 6970 Pro driver automatically
 
  If you don’t have the time, patience, or computer skills, you can update your HP OfficeJet 6970 Pro driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,10 +80,11 @@ Here’s what you need to do:
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-268.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged HP printer to automatically download the correct version of this driver, then you can manually install it (you can do this with the**Free** version).
 
@@ -106,8 +108,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +115,26 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unifying-streams-simultaneous-capture-of-camplusscreen/"><u>[New] In 2024, Unifying Streams Simultaneous Capture of Cam+Screen</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-prime-video-titans-the-tweeted-and-tested-binge-masters/"><u>[Updated] In 2024, Prime Video Titans The #Tweeted and Tested Binge Masters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-zoom-meet-up-essentials-a-step-by-step-guide/"><u>2024 Approved Zoom Meet-Up Essentials A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-ryzen-5-2500u-fresh-driver-update-fast-and-simple-guide/"><u>AMD Ryzen 5 2500U: Fresh Driver Update - Fast & Simple Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-logitech-brio-webcam-software-and-downloads-for-various-windows-versions/"><u>Compatible Logitech Brio Webcam Software and Downloads for Various Windows Versions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-the-latest-asus-chipset-drivers-on-your-windows-pc/"><u>Download & Install the Latest ASUS Chipset Drivers on Your Windows PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-ricoh-mp-c3003-printer-drivers-quick-install-guide/"><u>Get the Latest Ricoh MP C3003 Printer Drivers – Quick Install Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-ultimate-gameplay-experience-with-a-34-inch-asus-tuf-monitor-for-only-250-at-amazon/"><u>Get the Ultimate Gameplay Experience with a 34-Inch Asus TUF Monitor for Only $250 at Amazon</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-pop-7-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Pop 7 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-find-download-and-update-elan-smbus-driver-on-windows-efficiently/"><u>How to Find, Download and Update ELAN SMBus Driver on Windows Efficiently</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-quickly-upgrade-and-download-updated-vga-driver-software/"><u>How to Quickly Upgrade and Download Updated VGA Driver Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-world-of-funimate-gamers-for-2024/"><u>Inside the World of Funimate Gamers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-windows-snip-and-sketch-with-one-move/"><u>Launching Windows Snip & Sketch With One Move</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/outsourcing-and-shared-service-week-abbyys-role-in-industry-discussions/"><u>Outsourcing and Shared Service Week: ABBYY's Role in Industry Discussions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-overcoming-startech-device-driver-issues-in-windows-1187-platforms/"><u>Step-by-Step Guide: Overcoming StarTech Device Driver Issues in Windows 11/8/7 Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-updating-your-brother-mfc-7360n-on-modern-windows-operating-systems/"><u>Step-by-Step Instructions for Updating Your Brother MFC-7360N on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-d3derr-not-available-issues/"><u>Troubleshooting Tips for Overcoming 'D3DERR Not Available' Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-headphone-face-off-comparing-the-best-in-class-samsung-galaxy-buds-2-pro-google-pixel-buds-pro-vs-apples-airpods-pro/"><u>Ultimate Headphone Face-Off: Comparing the Best in Class – Samsung Galaxy Buds 2 Pro, Google Pixel Buds Pro Vs. Apple's AirPods Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-compatible-logitech-hd-webcam-c525-drivers-and-installation-steps/"><u>Windows Compatible Logitech HD Webcam (C525) Drivers and Installation Steps</u></a></li>
+</ul></div>
 

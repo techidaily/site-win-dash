@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Updating Microsoft Sculpt Ergonomic Keyboard Drivers"
-date: 2024-08-19T09:00:17.195Z
-updated: 2024-08-20T09:00:17.195Z
+date: 2025-01-26T18:44:04.968Z
+updated: 2025-01-31T17:18:35.593Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found the function keys and specialty keys didn’t work, you may need to update the driver to fix it. Don’t worry, this post is going to show you how to update driver and set up as you want.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why you need Microsoft Ergonomic keyboard 4000 drivers?
 
  Drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
@@ -29,8 +30,9 @@ If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found th
  That’s why when you meet problems, you need to download the related driver to solve it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to download Microsoft Ergonomic keyboard 4000 drivers?
 
  There are two ways you can update your driver: manually and automatically.
@@ -46,10 +48,11 @@ OR
  You need to go to[Microsoft official website](https://www.microsoft.com/accessories/en-ca/d/natural-ergonomic-keyboard-4000) to search for the model.  
  Select the operating system you’re using and download the correct driver for your keyboard. Download and install it manually.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/4000.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update drivers**
 
@@ -61,17 +64,20 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd1-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/400.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -86,8 +92,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +99,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/oosting-engagement-on-youtube-edit-update-and-enhance-metadata-for-2024/"><u>[New] Boosting Engagement on YouTube Edit, Update & Enhance Metadata for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-roadmap-to-increasing-traffic-top-techniques-for-fb-video-ads/"><u>[New] The Roadmap to Increasing Traffic Top Techniques for FB Video Ads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-gear-choosing-cameras-for-live-dynamic-music-visuals-in-hd/"><u>[Updated] 2024 Approved Best Gear Choosing Cameras for Live, Dynamic Music Visuals in HD</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevate-your-pc-skills-must-know-windows-tips-for-2024/"><u>[Updated] Elevate Your PC Skills Must-Know Windows Tips for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-maximizing-iphone-to-mac-file-transfer-for-large-videos-for-2024/"><u>[Updated] Maximizing iPhone-to-Mac File Transfer for Large Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-sign-into-onedrive-on-windows-try-these-fixes/"><u>Can't Sign Into OneDrive on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-perfect-compatibility-with-canon-mf82amo-c-drivers-for-windows-7-81-and-10-users/"><u>Ensure Perfect Compatibility with Canon MF82amo C Drivers for Windows 7, 8.1 & 10 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-and-installation-instructions-for-soundmax-drivers-in-windows-environment/"><u>Free Download & Installation Instructions for SoundMAX Drivers in Windows Environment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-ankers-superspeed-30-usb-hub-your-key-to-expanded-power/"><u>In-Depth Evaluation of Anker's SuperSpeed 3.0 USB Hub: Your Key to Expanded Power</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-new-intel-hard-drive-controller-and-system-driver-updates-on-your-pc-running-any-version-of-windows/"><u>Install New Intel Hard Drive Controller & System Driver Updates on Your PC Running Any Version of Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sky-dominance-top-5-fpv-glasses-for-pilots/"><u>Sky Dominance Top 5 FPV Glasses for Pilots</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-download-of-pioneer-djs-ddj-sx2-controller-software-awaits-you/"><u>Speedy Download of Pioneer DJ's DDJ-SX2 Controller Software Awaits You</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mpeg-video-union-top-5-recommended-tools-for-2024/"><u>Updated Free MPEG Video Union Top 5 Recommended Tools for 2024</u></a></li>
+</ul></div>
 

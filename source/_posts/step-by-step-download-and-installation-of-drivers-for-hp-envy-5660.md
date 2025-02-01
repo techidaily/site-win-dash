@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Download & Installation of Drivers for HP ENVY 5660
-date: 2024-08-19T08:57:56.254Z
-updated: 2024-08-20T08:57:56.254Z
+date: 2025-01-28T16:31:55.868Z
+updated: 2025-01-31T23:27:16.716Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/3cdd3221236d54f354b9655c53899223c63a3525e
 
  If you’re seeking compatible drivers for your **[ASUS ROG STRIX Z370-E Gaming Motherboard](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-E-GAMING/)**  , then this post is written for you. No matter what components you have on the motherboard, you’ll be able to find the correct drivers for them with a few simple steps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to update your ASUS Z370-E drivers
 
  First of all, you should know that there’s no particular driver for a motherboard, but there are drivers for motherboard devices. For more details of what motherboard is and how to update motherboard drivers, you may take a look at **[this post](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -38,24 +35,29 @@ Here we recommend you two ways to update the drivers.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Update the drivers manually
 
  ASUS keeps updating drivers for the ASUS ROG STRIX Z370-E gaming motherboard. To get them, you need to visit the **[download website of ASUS](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-E-GAMING/HelpDesk%5FDownload/)**  , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the drivers manually. Here’s what you’re supposed to do:
 
 1. Go to the **[download webpage](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-E-GAMING/HelpDesk%5FDownload/)**  of ASUS ROG STRIX Z370-E gaming motherboard.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 2. On the pop-up page, click the**down arrow button** to the right of**Please select OS** to expand its drop-down list, as illustrated below. Then select your version of the Windows operating system.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-272.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Then you’ll be presented with a list of drivers available for download.**Note** that not all of them are drivers; some are just useful pieces of software which you may download as well.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-275.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. When you decide to download a certain kind of driver, say the audio driver, simply click the**DOWNLOAD** button next to it. You can find more versions (if there’s any) of the desired driver by clicking**See All Downloads** . Then choose one of them to download based on your own situations.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-274.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. **Reboot** your computer for the changes to take effect even if you’re not asked to.
 
  Repeat Step 1 through Step 6 until you finish downloading and installing all the drivers you need. This may seem a bit time-consuming and error-prone, though. If you’re interested in the benefits of updating drivers automatically with a driver updater tool, read on and find out how.
@@ -71,15 +73,18 @@ Here we recommend you two ways to update the drivers.
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-276.png)
 3. Click the**Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-277.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here if we can help.
 
@@ -96,8 +101,6 @@ Here we recommend you two ways to update the drivers.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +108,24 @@ Here we recommend you two ways to update the drivers.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-detailed-video-capture-using-videoleap-tools/"><u>[New] 2024 Approved Detailed Video Capture Using Videoleap Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-legal-tunes-collection-top-10-free-music-for-mindfulness/"><u>[New] 2024 Approved Legal Tunes Collection – Top 10 Free Music for Mindfulness</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-earning-stream-start-small-see-big-on-youtube/"><u>[New] Earning Stream Start Small, See Big on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate/"><u>[New] In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[Updated] 2024 Approved The Role of Creative Commons in YouTube Content Sharing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-humorous-haven-gratuitous-meme-makers/"><u>[Updated] Humorous Haven Gratuitous Meme Makers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/advanced-research-in-wpc-technology-includes-the-development-of-nanocomposites-with-enhanced-properties-using-nanocellulose-or-other-nanofillers-to-further-83/"><u>Advanced Research in WPC Technology Includes the Development of Nanocomposites with Enhanced Properties Using Nanocellulose or Other Nanofillers to Further Improve Performance Characteristics</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-to-installing-your-hp-scanner-on-a-windows-machine-fast-and-simple/"><u>Complete Guide to Installing Your HP Scanner on a Windows Machine - Fast & Simple</u></a></li>
+<li><a href="https://win-dash.techidaily.com/downloadable-xbox-360-driving-game-with-compatible-controllers/"><u>Downloadable Xbox 360 Driving Game with Compatible Controllers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fix-guide-addressing-compatibility-and-functionality-flaws-of-the-realtek-rtl8723be-driver/"><u>Fix Guide: Addressing Compatibility and Functionality Flaws of the Realtek RTL8723BE Driver</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722163917901-gpt-imposters-alert-guard-against-illicit-data-access/"><u>GPT Imposters Alert: Guard Against Illicit Data Access!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/high-tensile-strength-does-not-guarantee-high-toughness-materials-can-be-brittle-yet-strong/"><u>High Tensile Strength Does Not Guarantee High Toughness; Materials Can Be Brittle yet Strong.</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-redmi-note-13-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi Redmi Note 13 5G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-tecno-spark-10-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Tecno Spark 10 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-new-software-steelseries-engine-update-for-your-keyboard/"><u>Install New Software: SteelSeries Engine Update for Your Keyboard</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-guide-download-the-right-keyboard-driver-for-your-windows-7-pc/"><u>Quick and Simple Guide: Download the Right Keyboard Driver for Your Windows 7 PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-update-wifi-card-software-on-windows-11-or-10-systems/"><u>Step-by-Step Tutorial: Update WiFi Card Software on Windows 11 or 10 Systems</u></a></li>
+</ul></div>
 
