@@ -1,7 +1,7 @@
 ---
 title: "Effortless Configuration: Setting Up Your Intel Dual Band AC 3160 WiFi Driver Today"
-date: 2024-08-19T09:10:34.318Z
-updated: 2024-08-20T09:10:34.318Z
+date: 2025-02-13T16:19:13.086Z
+updated: 2025-02-14T16:05:43.446Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 ## Quick Guide to Updating Your Intel Dual Band Wireless AC 3100/3160 Chip - Drivers Released
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-648.png)
 
  Are you looking to download and install the latest driver for**Intel Dual Band Wireless-AC 3160** ? If the answer is “yes,” then you’ve come to the right place. Here we’ll show you how to update the driver step by step.
@@ -53,11 +50,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the Intel Dual Band Wireless-AC 3160 driver to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-649.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -71,25 +76,23 @@ OR
 
  3) Run Driver Easy and click**Tools** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-658.png)
 
  4) Click**Offline Scan** . On the right panel, select**Offline Scan (on the computer without Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click **OK** .
 
@@ -111,10 +114,6 @@ No advertising on the website.
 
  11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
 
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
@@ -123,17 +122,10 @@ No advertising on the website.
 
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
 
 Wait for the download process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-672.png)
 
  14) Save your downloaded driver file in a USB flash drive and transfer it to your computer that has no Internet access. Then you should install the driver on that computer manually.
@@ -144,6 +136,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -152,24 +148,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  2) On the pop-up page, click **Intel® PROSet/Wireless Software and Drivers for Intel® Dual Band Wireless-AC 3160.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**I accept the terms in the license agreement** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
@@ -193,8 +183,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +190,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-from-iphone-images-jpeg-png-guided-conversion-to-pdfs-for-2024/"><u>[New] From iPhone Images (JPEG, PNG) - Guided Conversion to PDFs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-thors-fury-legends-of-the-ragnarok-for-2024/"><u>[New] Thor's Fury Legends of the Ragnarök for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-10-basic-blocks-house-concepts-for-mc-players/"><u>[Updated] 10 Basic Blocks House Concepts for MC Players</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/6-essential-scandinavian-flicks-for-danish-learning/"><u>6 Essential Scandinavian Flicks for Danish Learning</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-usb-c-drivers-to-enhance-windows-10-performance/"><u>Download Updated USB-C Drivers to Enhance Windows 10 Performance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-methods-to-address-complete-cpu-usage-by-the-disk-in-windows-11-systems/"><u>Effective Methods to Address Complete CPU Usage by the Disk in Windows 11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/experience-crystal-clear-audio-reviving-your-logitech-g4-cufflink-mic/"><u>Experience Crystal Clear Audio: Reviving Your Logitech G4 Cufflink Mic</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-tips-for-successful-installation-of-toshiba-printer-drivers-in-windows-os/"><u>Expert Tips for Successful Installation of Toshiba Printer Drivers in Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-tips-finding-and-applying-new-driver-updates-for-wireless-devices-in-windows-11-and-10/"><u>Expert Tips: Finding and Applying New Driver Updates for Wireless Devices in Windows 11 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722954880105-get-your-dell-latitude-e6420-drivers-in-a-flash-download-now/"><u>Get Your Dell Latitude E6420 Drivers in a Flash - Download Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/grab-fast-the-definitive-guide-to-hp-envy-5055-driver-downloads/"><u>Grab Fast: The Definitive Guide to HP Envy 5055 Driver Downloads</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-negative-playback-on-your-instagram-feed/"><u>Mastering Negative Playback on Your Instagram Feed</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-xml-file-creation-and-management-for-beginners/"><u>Mastering XML File Creation and Management for Beginners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unpacking-facebooks-freshest-features-in-top-vids-for-2024/"><u>Unpacking Facebook's Freshest Features in Top Vids for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-cut-trim-and-polish-the-best-free-online-video-editors/"><u>Updated 2024 Approved Cut, Trim, and Polish The Best Free Online Video Editors</u></a></li>
+</ul></div>
 

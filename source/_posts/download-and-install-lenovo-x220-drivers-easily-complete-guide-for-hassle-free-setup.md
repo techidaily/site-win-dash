@@ -1,7 +1,7 @@
 ---
 title: "Download & Install Lenovo X220 Drivers Easily: Complete Guide for Hassle-Free Setup"
-date: 2024-08-19T09:08:01.415Z
-updated: 2024-08-20T09:08:01.415Z
+date: 2025-02-11T00:55:31.474Z
+updated: 2025-02-14T18:05:49.349Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a08ed497d8.jpg)It’s always important to update the driver for your **HP ENVY 5660** printer so as to keep it in tip-top shape and prevent all kinds of unexpected computer issues (like system crashes).  In this post, we’re showing you 2 easy ways to get the latest **HP ENVY 5660**  drivers. Check them out…
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 options to update **HP ENVY 5660 drivers**
 
  Both methods below work in**Windows 10** ,**8.1**  and**7** . And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
@@ -28,39 +29,42 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
 
 If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the **[FREE](https://tools.techidaily.com/drivereasy/download/)** or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -75,8 +79,6 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +86,18 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-frontier-gadgets-galore-top-10-vr-accessories/"><u>[New] In 2024, Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-steps-for-modifying-your-social-network-cover-pictorial/"><u>[New] Steps for Modifying Your Social Network Cover Pictorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968774584-amd-vega-driver-update-made-effortless-for-gamers-start-here/"><u>AMD Vega Driver Update Made Effortless for Gamers – Start Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-guide-for-logitech-k350-mouse-and-keyboard-drivers-download-now/"><u>Effortless Installation Guide for Logitech K350 Mouse & Keyboard Drivers – Download Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-a18-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo A18 Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-hp-officejet-3830-windows-printer-software/"><u>Get Your Free HP OfficeJet 3830 Windows Printer Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-get-your-hp-bluetooth-keyboard-back-online-a-step-by-step-solution/"><u>How To Get Your HP Bluetooth Keyboard Back Online – A Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-cleaning-solutions-reviewed-the-autonomous-switchbot-s10-can-empty-and-refuel-solo/"><u>Innovative Cleaning Solutions Reviewed - The Autonomous Switchbot S10 Can Empty and Refuel Solo</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-your-corsair-mouse-with-this-easy-to-use-program/"><u>Install Your Corsair Mouse with This Easy-to-Use Program</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-standards-for-comedic-posts-at-facebook/"><u>New Standards for Comedic Posts at Facebook</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-to-new-nvidia-geforce-rtx-980-ti-drivers-for-enhanced-performance-download/"><u>Upgrade to New NVIDIA GEFORCE RTX 980 Ti Drivers for Enhanced Performance [Download]</u></a></li>
+</ul></div>
 

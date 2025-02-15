@@ -1,7 +1,7 @@
 ---
 title: "Easy Installation Guide: Canon PIXMA TR8520 Printer Drivers for Windows Machines"
-date: 2024-08-19T09:07:08.946Z
-updated: 2024-08-20T09:07:08.946Z
+date: 2025-02-09T18:55:00.393Z
+updated: 2025-02-14T17:56:52.878Z
 tags:
   - win11
   - win10
@@ -15,18 +15,6 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
 ## Get the Newest Canon PIXMA MX490 Driver Version for Windows PCs - Easy Steps Inside
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-122.png)
 
  This post will show you how to download or update the printer**driver for your Canon PIXMA MX490 printer** .
@@ -35,13 +23,14 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes to update Canon MX490 driver
 
 1. [Download and update the Canon MX490 printer driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Download and update the Canon MX490 printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download and update the Canon MX490 printer driver manually
 
@@ -51,29 +40,28 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
  2) In the search box, type “**MX490** “, and click**PIXMA MX490** in the search result, then click**Go** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-130.png)
 
  3) Click**Drivers & Downloads** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-132.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Under the**Recommended Driver(s)** section, click**Select** , then click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-133.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Run the downloaded file, and follow the on-screen instructions to finish the installation.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Download and update the Canon MX490 printer driver automatically
 
  Manually downloading and installing the Canon MX490 driver requires time and computer skills. If you don’t have patience, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -88,14 +76,19 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-129.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -113,8 +106,6 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +113,18 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-entry-level-mic-tips-for-youtube-voice-talents/"><u>[New] In 2024, Entry-Level Mic Tips for YouTube Voice Talents</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-blueprint-for-viral-video-mastery-for-2024/"><u>[Updated] The Blueprint for Viral Video Mastery for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/can-a-social-media-platform-shape-our-local-commerce-landscape/"><u>Can a Social Media Platform Shape Our Local Commerce Landscape?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-intel-usb-30-drivers-for-optimal-functionality-in-windows-11/"><u>Download Updated Intel USB 3.0 Drivers for Optimal Functionality in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-updating-amd-graphics-card-drivers-for-windows-versions/"><u>Guide: Updating AMD Graphics Card Drivers for Windows Versions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-updated-hd-graphics-drivers-from-amd-for-windows/"><u>How to Get and Install Updated HD Graphics Drivers From AMD for Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rhythm-ringtone-converting-tamil-music-into-phone-chimes/"><u>In 2024, Rhythm Ringtone Converting Tamil Music Into Phone Chimes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-official-epson-ds-30-printer-software-for-windows-1187-users/"><u>Installing the Official Epson DS 30 Printer Software for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-right-driver-for-your-epson-xp-330/"><u>Installing the Right Driver for Your Epson XP-330</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-ftd2xxdll-file-not-found-a-comprehensive-guide/"><u>Solving ftd2xx.dll File Not Found: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-15-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 15 Pro? 5 Tips You Must Know</u></a></li>
+</ul></div>
 
