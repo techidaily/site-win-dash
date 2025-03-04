@@ -1,7 +1,7 @@
 ---
 title: Streamlined Steps for a Speedy Synaptics PS/2 Port TouchPad Driver Refresh
-date: 2024-08-19T09:13:56.149Z
-updated: 2024-08-20T09:13:56.149Z
+date: 2025-03-02T23:52:41.107Z
+updated: 2025-03-03T19:59:58.063Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-226.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-226.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Synaptics PS/2 Port Touchpad driver for now, simply click the**Update** button next to it.
@@ -66,10 +63,6 @@ OR
 
  Synaptics have made an announcement on their official website that the corresponding drivers for TouchPad devices are “customized and supported by notebook manufacturers to meet specific driver requirements for their individual products.” So if you want to download the driver from official websites and then install it by yourself, you’ll need to visit the site of your notebook manufacturer. For instance, if you’re using a Dell laptop, you should go directly to Dell’s website and download the driver from it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Update your driver via Device Manager
 
  One of the most commonly used methods to update your driver is downloading and installing it from Device Manager. However, you should note that sometimes Windows may **fail to detect the latest (and even necessary) driver for your device** . In this way, you’ll have to search for the correct driver online or simply turn to[**Option 1**](https://tools.techidaily.com/drivereasy/download/) .
@@ -78,24 +71,14 @@ Here’re the steps to update your driver via Device Manager:
 
  1) Press the**Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Then type **devmgmt.msc**  and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13.png)
 
  2) Here comes the window of**Device Manager** . Double-click on the**Mice and other pointing devices** category to expand its drop-down list. Then right-click**Synaptics PS/2 Port Touchpad** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-230.png)
 
  3) In the context menu of Synaptics PS/2 Port Touchpad, select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-231.png)
 
  4) Click**Search automatically for updated driver software** .
@@ -106,9 +89,6 @@ Here’re the steps to update your driver via Device Manager:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-233.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-234.png)
 
  6) Click **Close** when it’s all done.
@@ -128,8 +108,6 @@ Here’re the steps to update your driver via Device Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +115,22 @@ Here’re the steps to update your driver via Device Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/best-free-software-tools-top-5-pick-to-divide-wmv-videos-without-cost/"><u>Best Free Software Tools: Top 5 Pick to Divide WMV Videos Without Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/cyberpunk-2077-analysis-a-game-of-imperfections-and-untapped-potential/"><u>Cyberpunk 2077 Analysis: A Game of Imperfections and Untapped Potential</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-flaw-rectified-for-peak-performance-gains/"><u>Direct3D Flaw Rectified for Peak Performance Gains</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-latest-nvidia-geforce-mx150-graphics-card-drivers-on-windows/"><u>Download & Install Latest Nvidia GeForce MX150 Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-perfect-compatibility-with-canon-mf82amo-c-drivers-for-windows-7-81-and-10-users/"><u>Ensure Perfect Compatibility with Canon MF82amo C Drivers for Windows 7, 8.1 & 10 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/express-gratitude-free-endings-and-premium-exclusives/"><u>Express Gratitude Free Endings & Premium Exclusives</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-and-installation-instructions-for-soundmax-drivers-in-windows-environment/"><u>Free Download & Installation Instructions for SoundMAX Drivers in Windows Environment</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-new-intel-hard-drive-controller-and-system-driver-updates-on-your-pc-running-any-version-of-windows/"><u>Install New Intel Hard Drive Controller & System Driver Updates on Your PC Running Any Version of Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-xp-pen-running-like-new-learn-how-to-download-and-refresh-its-essential-drivers/"><u>Keep Your XP-Pen Running Like New - Learn How to Download and Refresh Its Essential Drivers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-boring-to-brilliant-best-video-dubbing-apps-for-comedy-and-fun-for-2024/"><u>New From Boring to Brilliant Best Video Dubbing Apps for Comedy & Fun for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/replace-the-current-usb-cable-with-an-official-apple-lightning-to-usb-cable-for-iphones-or-a-certified-usb-cable-for-newer-ipads-you-can-purchase-them-from-25/"><u>Replace the Current USB Cable with an Official Apple Lightning to USB Cable (for iPhones) or a Certified USB Cable (for Newer iPads). You Can Purchase Them From Apple Store or Authorized Resellers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-download-of-pioneer-djs-ddj-sx2-controller-software-awaits-you/"><u>Speedy Download of Pioneer DJ's DDJ-SX2 Controller Software Awaits You</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-power-of-pacing-keeping-your-audience-glued-to-the-screen-for-2024/"><u>The Power of Pacing Keeping Your Audience Glued to the Screen for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-msi-graphics-card-driver-on-windows-10-and-7-easily/"><u>Update MSI Graphics Card Driver on Windows 10 & 7. Easily!</u></a></li>
+</ul></div>
 

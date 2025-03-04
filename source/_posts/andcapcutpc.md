@@ -1,7 +1,7 @@
 ---
 title: 動画のきれいなカット&トリミング：CapCutをPCで使う方法
-date: 2025-02-14T01:40:51.327Z
-updated: 2025-02-14T16:58:17.929Z
+date: 2025-03-03T04:51:50.377Z
+updated: 2025-03-03T17:51:19.247Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbce4953c66b51cbd30def1721.jpg
@@ -44,10 +44,6 @@ Click the "Start" button and scroll down to find and open the "**Video Editor**"
 
 ![Open Video Editor](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-12.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2\. Edit the Video as You Wish
 
 **Trim Video:** Click on the "**Trim**" button, and then move the two sliders to select a portion of the video. Click "**Done**" to save the change.
@@ -60,19 +56,11 @@ For more video editing functions, you just need to press the related icon to ope
 
 ![Edit Videos on Windows 10](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-13.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3\. Export Edited Video
 
 Once finished editing, you can click "**Finish video**", choose a video quality, and click "**Export**" to export the edited video.
 
 ![Export Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-14.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, the Microsoft Photos app only supports a few video formats and often crashes when processing large videos. So I'm here to introduce a third-party free video editing tool for Windows 10 and 11\. It is powerful and user-friendly and allows you to easily edit videos with simple clicks. The next part will show you how to edit videos on Windows 10 for free. Just read on!
 
@@ -81,10 +69,6 @@ However, the Microsoft Photos app only supports a few video formats and often cr
 WonderFox Free HD Video Converter Factory is the best free video editor for Windows 10/11\. It can meet almost all your video editing requirements and enables you to edit videos in a handy and effortless way. Just download it now!
 
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Video Editor fot Windows 10/11
 
@@ -98,19 +82,11 @@ Just install this Windows video editor on your PC and learn how to edit a video 
 
 ## \---How to Edit Videos with the Free Video Editor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Add the Source Video into the Program
 
 Launch _**Free HD Video Converter Factory**_ after installing it on your PC. Open the **Converter** window and click the **\+ Add Files** button in the upper right of the interface to import the video you want to edit. Alternatively, you can also hit the center **+** button or drag and drop the video file into the software.
 
 ![How to Edit Videos on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-1.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Edit Videos with Different Tools
 
@@ -149,10 +125,6 @@ _**#5\. Add Effects/Filter to Video**_
 Hit on the **Magic Wand** icon to open the **Effect** window and [add effects to the video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). There are 18 predefined filters available for you to choose from. Meanwhile, you can also adjust the **Brightness**, **Contrast**, **Saturation**, and **Hue** of the added effect. Then hit **OK** to return to the main interface.
 
 ![How to Edit Videos on Windows 10 for Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-6.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _**#6\. Add Watermark to Video**_
 
@@ -196,15 +168,7 @@ Apart from the video editing and conversion features, Free HD Video Converter al
 
 Above is all I want to share with you about how to edit videos on Windows 10 for free. Despite the Photos and some online video editors being capable of video editing on Windows 10/11, they also have some drawbacks like format restrictions, usually crashes, limited video size and length, etc. Therefore, **Free HD Video Converter Factory** is definitely the best choice to edit videos on Windows. Just [**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) it to edit your videos free, handily, and effortlessly. Thanks for reading!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs about Windows 10 Built-in Video Editor
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q1\. Does Windows 10 have a video editing program?
 
@@ -215,10 +179,6 @@ Yes, the video editor is a function in the Microsoft Photos application. It is a
 Actually, Windows Media Player doesn't come with any video editing features. But you can trim videos in Windows Media Player with a smart plug-in (SolveigMM WMP Trimmer Plugin) installed.
 
 See how to trim video with Windows Media Player: [How to Cut Video in Windows Media Player](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How do I crop a video in Windows 10?
 
@@ -259,19 +219,24 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-best-ios-video-editing-cameo-vs-filmorago/"><u>[New] Best iOS Video Editing Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unleash-potential-ps5-writable-and-readable-extras/"><u>[New] Unleash Potential PS5' Writable & Readable Extras</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-logitechs-official-g27-racing-gamepad-drivers-supporting-windows-1110-and-7-systems/"><u>Easy Guide to Downloading Logitech's Official G27 Racing Gamepad Drivers: Supporting Windows 11/10 & 7 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ecu-control-modern-engines-use-electronic-control-units-that-adjust-ignition-timing-in-real-time-based-on-various-engine-parameters-resulting-in-optimized-p39/"><u>ECU Control: Modern Engines Use Electronic Control Units that Adjust Ignition Timing in Real-Time Based on Various Engine Parameters, Resulting in Optimized Performance and Reduced Emissions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722965469194-effortlessly-install-intels-latest-wireless-ac-3160-driver-quick-tips/"><u>Effortlessly Install Intel's Latest Wireless AC 3160 Driver - Quick Tips!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortlessly-upgrade-your-sataahci-controller-firmware-today/"><u>Effortlessly Upgrade Your SATA/AHCI Controller Firmware Today!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-official-hp-color-laserjet-pro-mfp-m477-software-drivers-here/"><u>Get the Official HP Color Laserjet Pro MFP M477 Software Drivers Here!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-edge-40-neo-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Edge 40 Neo Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-small-scale-startups-guide-to-trustworthy-video-tools/"><u>In 2024, Small-Scale Startups' Guide to Trustworthy Video Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-and-free-download-optimal-hp-spectre-x360-drivers-for-windows-systems/"><u>Secure & Free Download: Optimal HP Spectre X360 Drivers for Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-integrating-slack-with-your-apple-watch-for-instant-updates-tips/"><u>Step-by-Step Guide: Integrating Slack with Your Apple Watch for Instant Updates - Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-with-avatars-new-area-a-comprehensive-fix-for-pandoras-edge-not-loading/"><u>Trouble with Avatar's New Area? A Comprehensive Fix for Pandora's Edge Not Loading</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unlocking-the-secrets-bypassing-region-code-limits-on-dvd-player-r3/"><u>Unlocking the Secrets: Bypassing Region Code Limits on DVD Player R3</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-compact-cinematic-story-guide/"><u>[New] 2024 Approved Compact Cinematic Story Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-scopesight-appraisal-review/"><u>[Updated] ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-sourav-joshis-income-tactics-the-future-of-monetizing-content/"><u>2024 Approved Sourav Joshi's Income Tactics The Future of Monetizing Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-wave-goodbye-to-breakups-keep-your-streak-going/"><u>2024 Approved Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-how-to-install-samsung-adb-drivers-for-root-access-and-troubleshooting/"><u>Easy Guide: How to Install Samsung ADB Drivers for Root Access and Troubleshooting</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-installation-of-usb-camera-drivers-get-your-webcam-up-and-running/"><u>Effortless Installation of USB Camera Drivers: Get Your Webcam Up and Running</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-sound-clarity-new-audio-drivers-in-win7-release/"><u>Enhanced Sound Clarity: New Audio Drivers in Win7 Release</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-compatible-microsoft-audio-drivers-for-windows-1087/"><u>Find & Install Compatible Microsoft Audio Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-download-and-set-up-kyocera-printer-drivers-a-step-by-step-tutorial-for-windows-operating-system/"><u>Find, Download & Set Up KYOCERA Printer Drivers: A Step-by-Step Tutorial for Windows Operating System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-fresh-installation-of-epson-printer-drivers-in-windows-10-system/"><u>Guide to Fresh Installation of Epson Printer Drivers in Windows 10 System</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-10-best-online-vimeo-video-downloaders/"><u>In 2024, 10 Best Online Vimeo Video Downloaders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-amplify-your-audience-engagement-with-strategic-instagram-videos/"><u>In 2024, Amplify Your Audience Engagement with Strategic Instagram Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-c65-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco C65 Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-hp-officejet-pro-e8610-printer-driver-seamless-printing-on-win11-win10-win7xp/"><u>Install HP Officejet Pro E8610 Printer Driver: Seamless Printing on Win11, Win10, Win7/XP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-image-editing-mastering-photo-cropping-tools-for-2024/"><u>IPhone Image Editing Mastering Photo Cropping Tools for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-updates-for-your-epson-wf-3520-windows-printer-driver-free-download/"><u>Latest Updates for Your Epson WF-3520 Windows Printer Driver - Free Download</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970231187-optimize-system-storage-download-updated-intel-rapid-storage-technology-drivers-now/"><u>Optimize System Storage - Download Updated Intel Rapid Storage Technology Drivers Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-issue-getting-the-amd-radeon-driver-to-launch-successfully/"><u>Solving Your Issue: Getting the AMD Radeon Driver to Launch Successfully</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-canon-mx49er-driver-for-pcs/"><u>Step-by-Step Guide: Updating Your Canon MX49er Driver for PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Fixing Windows Compatibility Errors for the HP LaserJet P2e,p2035 Printer
-date: 2024-08-19T09:14:28.000Z
-updated: 2024-08-20T09:14:28.000Z
+date: 2025-03-01T00:30:52.792Z
+updated: 2025-03-03T21:56:49.587Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 
 **1)** Go to **[HP support website](https://support.hp.com/us-en/drivers)**  . Select**Printer** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1.jpg)
 
 **2)** Type**HP DeskJet 2652** in the search box, and click**Submit** .
@@ -65,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/3.jpg)
 
 **3)** Click the**Update** button next to the HP DeskJet 2600 series driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -87,18 +80,12 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Option 3 – Update your HP DeskJet 2652 driver using Device Manager
 
  Apart from the above two methods, you could also update the printer driver using Device Manager, a Windows built-in tool to control your hardware. Simply take the following steps:
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/5.jpg)
 
 **2)** Double-click**Printers** to see the devices under this category.
@@ -107,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 
 **3)** Right-click**HP DeskJet 2652** , and click**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/7.jpg)
 
 **4)** Select**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/8.jpg)
 
  If there is any new update, Windows will directly download and install it. Then, reboot your computer for the changes to take effect. Otherwise, it will show you that the best drivers for your device are already installed.
@@ -134,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +122,26 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/download-amd-ryzen-3-2200g-drivers/"><u>[Download] AMD Ryzen 3 2200G Drivers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-demystifying-the-powerhouse-behind-youtube-creator-hub/"><u>[New] In 2024, Demystifying the Powerhouse Behind YouTube Creator Hub</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-journey-through-the-past-with-these-leading-gba-console-emulators-for-windows-computers/"><u>[Updated] Journey Through the Past With These Leading GBA Console Emulators for Windows Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976816928-download-the-ftdi-ft232r-usb-to-uart-bridge-chip-drivers-fast/"><u>Download the FTDI FT232R USB-to-UART Bridge Chip Drivers Fast!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-methods-to-refresh-and-update-your-audio-technica-drivers-today/"><u>Easy Methods to Refresh and Update Your Audio Technica Drivers Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-internet-speed-with-updated-drivers-for-killer-e2500-gigabit-adapters-download-here/"><u>Enhance Your Internet Speed with Updated Drivers for Killer E2500 Gigabit Adapters (Download Here)</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-memory-capacity-of-ipads-how-many-gb-are-included-and-is-it-significant/"><u>Exploring the Memory Capacity of iPads – How Many GB Are Included and Is It Significant?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-insignia-bluetooth-devices-drivers-in-windows/"><u>How to Update Your Insignia Bluetooth Device's Drivers in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improved-experience-with-the-latest-version-of-logitech-extreme-3d-driver/"><u>Improved Experience with the Latest Version of Logitech Extreme 3D Driver</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-v30-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo V30 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-emojis-explained-more-than-meets-the-eye/"><u>In 2024, Snapchat Emojis Explained More Than Meets the Eye</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-install-hp-envy-5055-drivers-downloaded-in-a-snap-secure-your-printer-today/"><u>Instant Install: HP ENVY 5055 Drivers Downloaded in a Snap | Secure Your Printer Today!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/picture-fusion-at-your-desktop-online/"><u>Picture Fusion at Your Desktop, Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-controlling-ps4-possible-or-not/"><u>PS5 Controlling PS4: Possible or Not?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/qualcomm-atheros-bluetooth-drivers-failing-on-windows-10-easy-fixes-that-work/"><u>Qualcomm Atheros Bluetooth Drivers Failing on Windows 10: Easy Fixes That Work</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-your-audio-experience-downloading-the-latest-sound-blaster-z-drivers-for-windows-10/"><u>Secure Your Audio Experience: Downloading the Latest Sound Blaster Z Drivers for Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-downloading-and-updating-the-epson-et-3760-printer-drivers-on-a-windows-machine-expert-tips/"><u>Step-by-Step Instructions: Downloading and Updating the Epson ET-3760 Printer Drivers on a Windows Machine | Expert Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-recorders-bible-for-clear-conversations/"><u>The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-design-potential-with-craft-the-exceptional-document-software-for-macos-a-comprehensive-tutorial/"><u>Unleash Your Design Potential with Craft, the Exceptional Document Software for macOS - A Comprehensive Tutorial</u></a></li>
+</ul></div>
 

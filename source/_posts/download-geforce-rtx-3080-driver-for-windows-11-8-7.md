@@ -1,7 +1,7 @@
 ---
 title: "[Download] GeForce RTX 3080 Driver | For Windows 11 / 8 / 7"
-date: 2024-08-19T09:16:25.816Z
-updated: 2024-08-20T09:16:25.816Z
+date: 2025-02-27T06:29:47.312Z
+updated: 2025-03-03T20:45:44.264Z
 tags:
   - win11
   - win10
@@ -21,18 +21,12 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
  Besides, always using the latest graphics driver offers more than just a performance boost. It also keeps your GPU in good condition.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -41,24 +35,14 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Option 2: Install/Update your RTX 3080 driver manually
 
  If you’re familiar with computer hardware, you can install or update your RTX 3080 driver manually.
@@ -68,9 +52,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. First go to the[NVIDIA drivers download page](https://tools.techidaily.com/drivereasy/download/) .
 2. Under the**NVIDIA Driver Downloads** section, search for your graphics card. Be sure to select the correct operating system. Then click**SEARCH** .  
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
@@ -85,8 +66,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +73,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/erfect-plating-guided-path-to-home-cooking-videos/"><u>[New] Perfect Plating Guided Path to Home Cooking Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-streamline-your-music-movement-between-services/"><u>[Updated] Streamline Your Music Movement Between Services</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-edits-with-finalcut-pro/"><u>2024 Approved Mastering YouTube Video Edits with FinalCut Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-transform-itunes-library-to-mp3-format-with-no-cost-compatible-with-both-windows-and-mac-os/"><u>Download and Transform iTunes Library to MP3 Format with No Cost, Compatible with Both Windows and Mac OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-hp-deskjet-inkjet-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download HP Deskjet Inkjet Printer Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/dvd-wav/"><u>DVDからオーディオ抽出: WAV形式に簡単な変換法</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-method-transform-your-mp4-files-into-clear-sound-wav-format-utilizing-ffmpeg/"><u>Easy Method] Transform Your MP4 Files Into Clear Sound WAV Format Utilizing FFmpeg</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-video-combining-tutorial-for-windows-11-users/"><u>Easy Video Combining Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-ways-to-convert-rar-files-into-high-quality-mp3-audio-bid-farewell-to-compatibility-headaches/"><u>Effortless Ways to Convert RAR Files Into High-Quality MP3 Audio - Bid Farewell to Compatibility Headaches!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-windows-dvd-ripping-with-ripit-a-step-by-step-tutorial-for-speed-and-simplicity/"><u>Effortless Windows DVD Ripping with Ripit - A Step-by-Step Tutorial for Speed and Simplicity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-techniques-for-amateur-video-editors/"><u>Essential Techniques for Amateur Video Editors</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y36i-by-drfone-android/"><u>How to Bypass FRP on Vivo Y36i?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-revolutionizing-your-viewing-the-zoom-effectiveness/"><u>In 2024, Revolutionizing Your Viewing The Zoom Effectiveness</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/journey-through-the-best-7-nft-creation-applications-for-2024/"><u>Journey Through the Best 7 NFT Creation Applications for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/quick-lingua-norvegica-grasp-10-mins-a-day/"><u>Quick Lingua Norvegica Grasp, 10-Mins A Day!</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/troubleshooting-a-non-responsive-scanner-steps-and-solutions-yl-tech-support/"><u>Troubleshooting a Non-Responsive Scanner: Steps and Solutions - YL Tech Support</u></a></li>
+</ul></div>
 

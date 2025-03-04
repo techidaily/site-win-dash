@@ -1,7 +1,7 @@
 ---
 title: Windows 10/11用MP4ファイルの効率的なMOVへの変換手順
-date: 2025-02-10T16:46:58.054Z
-updated: 2025-02-14T18:17:19.496Z
+date: 2025-02-25T07:01:52.331Z
+updated: 2025-03-04T00:55:49.825Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/95b8d87ab463f7ac2adc7d19611917fbcf5034fba80cc910d2cfc1667a896a93.jpg
@@ -43,10 +43,6 @@ Now, **[free download](https://tools.techidaily.com/videoconverterfactory/hd-vid
 **Step 2.** Click “Add Files” to import videos you want to mute. Then, choose an output format and folder.
 
 ![Add Source Files](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-1.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3.** There are two ways to mute the video.
 
@@ -97,17 +93,9 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 3\. Right-click the clip and select Delete from the menu.  
 4\. Go to Share > File to export your video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Mute a Video on iPhone and Android?
 
 Here, we provide two ways to remove audio from a video on your Android or iOS device: Google Photos and InShot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### • Google Photos
 
@@ -121,10 +109,6 @@ How to mute audio in a video in Google Photos:
 **Step 4.** You can do additional edits like cropping and adjusting the video. Then, press “Save copy” to save the video without audio.
 
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### • InShot
 
@@ -155,10 +139,6 @@ Many online video editors can help you remove background sound from a video. How
 
 ## 4 Common Ways to Mute a Video
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### • Clipchamp
 
 Clipchamp is a free non-linear video editor that allows users to mute, trim, combine, add stickers and effects to videos, etc. It makes video creation easy for everyone, even those without prior experience. You can get started with Clipchamp in the browser instantly, download the Windows app, or create on the go with your mobile.
@@ -176,10 +156,6 @@ You can try Adobe Premiere Pro for free for 7 days and then purchase a subscript
 
 ![Remove Audio from Video Premiere Pro](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-10.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### • VLC Media Player
 
 VLC is a well-known multimedia player for almost all platforms. It can help you clean up video audio when converting the video. With VLC’s Convert/Save feature, you can remove the original audio track and alter other video settings, such as encoding parameters, resolution, filters, subtitles, and de-interlace.
@@ -196,23 +172,11 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Remove Audio from Video FAQs
 
 ### Q1\. Can I remove the audio from an iPhone video?
 
 Yes. There are many ways to [remove sound from iPhone videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), such as using the Photos app, iMovie, an online video editor, or a third-party audio remover.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q2\. How do I remove a specific audio track from a video?
 
@@ -222,10 +186,6 @@ Firstly, import your video into the editing software and separate the audio from
  Check the complete guide on [how to remove certain audio from video >>](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q3\. How to mute a video on different apps?
 
@@ -270,21 +230,22 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-g2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo G2 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/artists-essential-tools-top-tier-canvas-tablets-of-the-new-era/"><u>Artist's Essential Tools: Top-Tier Canvas Tablets of the New Era</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-imyfone-d-back-overview-tips-benefits-and-user-experience/"><u>Complete IMyFone D-Back Overview – Tips, Benefits, & User Experience</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/digital-genius-david-flynn-and-his-signature-software-at-digiarty/"><u>Digital Genius: David Flynn & His Signature Software at Digiarty</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-different-web-browsing-options-for-your-samsung-smart-tv-here/"><u>Discover Different Web Browsing Options for Your Samsung Smart TV Here</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-hp-wireless-network-drivers-for-windows-pcs/"><u>Download the Latest HP Wireless Network Drivers for Windows PCs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-fixes-for-non-functional-gpu-modules-on-your-device/"><u>Expert Fixes for Non-Functional GPU Modules on Your Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-driver-software-update-for-windows-to-enhance-your-hp-officejet-pro-4650-printer-functionality/"><u>Free Driver Software Update for Windows to Enhance Your HP Officejet Pro 4650 Printer Functionality</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-installing-corsair-void-pro-drivers-seamlessly-with-windows-os/"><u>Guide to Installing Corsair Void Pro Drivers Seamlessly with Windows OS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-archive-storing-your-iphone-images-and-videos/"><u>In 2024, Instagram Archive Storing Your iPhone Images and Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/newest-wacom-graphic-tablet-drivers-released-download-and-install-now/"><u>Newest Wacom Graphic Tablet Drivers Released: Download & Install Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/proven-winner-keyboards-for-the-new-year-in-depth-analysis-and-ratings-pcmag/"><u>Proven Winner Keyboards for the New Year: In-Depth Analysis and Ratings | PCMag</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-simple-download-the-pioneer-dj-ddj-sx2-control-app-driver-now/"><u>Quick & Simple: Download the Pioneer DJ DDJ-SX2 Control App Driver Now</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/scrutinizing-free2x-tech-for-optimal-webcam-use/"><u>Scrutinizing Free2X Tech for Optimal Webcam Use</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-bang-for-your-buck-an-expert-review-of-the-oneplus-nord-n100-device/"><u>The Best Bang for Your Buck: An Expert Review of the OnePlus Nord N100 Device</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722965897219-xbox-accessory-driver-troubles-heres-how-you-can-fix-it-in-windows-1187-systems/"><u>Xbox Accessory Driver Troubles? Here's How You Can Fix It in Windows 11/8/7 Systems!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-beyond-boundaries-channel-youtube-for-exciting-green-screens/"><u>[New] In 2024, Beyond Boundaries Channel Youtube for Exciting Green Screens</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-virtual-scenes-enhancing-zoomgoogle-experience-for-2024/"><u>[New] Perfect Virtual Scenes Enhancing Zoom/Google Experience for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-vuephoto-ai-powered-editing/"><u>[Updated] 2024 Approved VuePhoto AI-Powered Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-and-lightroom-review-a-full-examination/"><u>Android & Lightroom Review A Full Examination</u></a></li>
+<li><a href="https://solve-help.techidaily.com/comparaison-dvd-blu-ray-et-fichier-numerique-quel-format-offre-le-meilleur-rapport-qualiteprix/"><u>Comparaison DVD, Blu-Ray Et Fichier Numérique : Quel Format Offre Le Meilleur Rapport Qualité/Prix?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-guide-lenovo-thinkpad-driver-downloads-and-updates-secure-and-easy/"><u>Complete Guide: Lenovo ThinkPad Driver Downloads and Updates – Secure & Easy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-nvidia-graphics-drivers-on-your-microsoft-surface-book/"><u>Download & Install NVIDIA Graphics Drivers on Your Microsoft Surface Book</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-netgear-a6100-drivers-on-windows-latest-updates/"><u>Download and Install Netgear A6100 Drivers on Windows - Latest Updates</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-imageclass-mf8200c-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon ImageCLASS MF8200C Printer Drivers: Compatible with Windows 7, 8.1, and 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-official-samsung-m220-drivers-now/"><u>Download the Official Samsung M2#20-Drivers Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967895550-ensure-your-epson-wf-2630-printer-works-on-windows-download-the-right-driver-today/"><u>Ensure Your Epson WF-2630 Printer Works on Windows - Download the Right Driver Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-textbooks-to-tech-how-students-can-score-big-savings-on-lenovo-devices/"><u>From Textbooks to Tech: How Students Can Score Big Savings on Lenovo Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolved-pci-cryptographic-engine-driver-compatibility-problems/"><u>Resolved: PCI Cryptographic Engine Driver Compatibility Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-how-to-download-and-install-samsung-m2020-driver-software/"><u>Step-by-Step: How to Download & Install Samsung M2020 Driver Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-real-time-sharing-streaming-old-video-to-facebook-audiences/"><u>Unlocking Real-Time Sharing Streaming Old Video to Facebook Audiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unmatched-mounting-premier-photos-tripods/"><u>Unmatched Mounting Premier Photos Tripods</u></a></li>
 </ul></div>
 

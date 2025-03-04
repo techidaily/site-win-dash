@@ -1,7 +1,7 @@
 ---
 title: Successfully Update to MBox 2 Drivers for Windows - A Step-by-Step Guide
-date: 2024-08-19T09:17:15.229Z
-updated: 2024-08-20T09:17:15.229Z
+date: 2025-02-26T18:36:41.687Z
+updated: 2025-03-04T11:31:49.160Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 
 ## How to Successfully Install the Canon PRO 100 Drivers for Windows - No Hassle
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-107.png)
 
  If you have a Canon PIXMA Professional Inkjet printer: PIXMA PRO-100, you should install a driver for your printer to work flawlessly in your Windows computer. This post shows you how to download and install**Canon PIXMA Pro 100 drivers** for Windows 10, Windows 7 and Windows 8.1.
@@ -38,9 +35,6 @@ OR
 
  1) Go to the **[Canon Support center](https://www.usa.canon.com/internet/portal/us/home)**  , and click**Support** \>**Drivers & Downloads** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
@@ -49,9 +43,6 @@ OR
 
  3) On the product page, click the**Drivers & Downloads** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
 
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
@@ -60,9 +51,6 @@ OR
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Option 2 – Automatically update the driver
 
  If you don’t have the time, patience, or computer skills to update the Canon PIXMA Pro 100 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,16 +63,10 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
 Note: you can do it for free if you like, but it’s partly manual.
@@ -103,8 +85,6 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +92,22 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>[New] 2024 Approved Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effortless-video-capturing-on-win11-os/"><u>[New] Effortless Video Capturing on Win11 OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-vsdc-capture-expert-analysis-and-top-replacements-for-2024/"><u>[New] VSDC Capture Expert Analysis & Top Replacements for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-a-complete-list-of-creative-and-catchy-youtube-channel-titles-for-modern-blogging-maximum-length-156-characters/"><u>[Updated] In 2024, A Complete List of Creative and Catchy YouTube Channel Titles for Modern Blogging (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/spotify/"><u>「Spotify音楽と画面を簡単にキャプチャして安全にストアするための新技術」</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726227169434-avi3gp-movavi/"><u>線上無限制自由轉換AVI成3GP影片 - Movavi 專業解決方案</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enrich-projects-with-melodies-in-adobe-premiere-pro/"><u>Enrich Projects With Melodies In Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fixing-face-to-face-freeze-in-fir-chrome-safari-9-essential-tricks-for-2024/"><u>Fixing Face-to-Face Freeze in Fir, Chrome, Safari – 9 Essential Tricks for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-c53-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme C53</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-guide-transforming-dav-recordings-into-mp3-with-ease/"><u>Seamless Guide: Transforming DAV Recordings Into MP3 with Ease</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solve-the-dilemma-why-isnt-your-youtube-video-thumbnail-displayed-on-facebook/"><u>Solve the Dilemma: Why Isn't Your YouTube Video Thumbnail Displayed on Facebook?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-the-mkv-sound-issue-on-your-roku-device-a-step-by-step-guide/"><u>Solving the MKV Sound Issue on Your Roku Device – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-accessing-and-acquiring-video-game-osts-legally/"><u>Step-by-Step Guide to Accessing and Acquiring Video Game OSTs Legally</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-bulk-transformation-from-wav-to-lossless-flac-audio-files/"><u>Step-by-Step Guide: Bulk Transformation From WAV to Lossless FLAC Audio Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphones-screen-keep-getting-darker-understanding-10-triggers/"><u>Why Does My iPhone's Screen Keep Getting Darker? Understanding 10 Triggers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MP4への変換: HandBrakeを使ってTSファイルを効率良く変換する手引き"
-date: 2025-02-09T17:08:33.672Z
-updated: 2025-02-14T16:39:41.221Z
+date: 2025-02-25T01:34:04.731Z
+updated: 2025-03-04T08:46:22.986Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea52210199eb42f08b362eadc3328953.jpg
@@ -25,10 +25,6 @@ Get the recommended free video editor for Windows 10 to have a try now!
 
 [FAQs about Windows 10 Built-in Video Editor](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Edit Videos with Windows 10 Built-in Video Editor
 
 Windows 10 has a hidden video editor that is built into the Microsoft Photos app. With it, you can:
@@ -41,10 +37,6 @@ Adjust the playback speed
 Add background music or custom audio
 
 Let's see how to use Microsoft Photos to edit videos on Windows 10.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1\. Import the Video
 
@@ -71,10 +63,6 @@ Once finished editing, you can click "**Finish video**", choose a video quality,
 ![Export Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-14.webp) 
 
 However, the Microsoft Photos app only supports a few video formats and often crashes when processing large videos. So I'm here to introduce a third-party free video editing tool for Windows 10 and 11\. It is powerful and user-friendly and allows you to easily edit videos with simple clicks. The next part will show you how to edit videos on Windows 10 for free. Just read on!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Free Video Editor for Windows
 
@@ -109,10 +97,6 @@ _**#1\. Merge the Videos**_
 To [merge videos into one file](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), you first need to import at least 2 or more video files into the program. Click the **Merge** button on the top menu bar and you will see the videos under the **Video List**. Select the videos and click the **middle Merge** button to save the videos in **Pack 1**. You can adjust the video order in the video pack. You can also repeat the step to create multiple packs. Finally, click the **bottom Merge** button to save the changes.
 
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-2.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Also See:** [Free Video Merger without Watermark](https://tools.techidaily.com/videoconverterfactory/video-watermark/) | [Join Videos without Re-encoding](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
@@ -168,23 +152,11 @@ Tips: Open the **Parameter settings** window, and you'll be able to modify the v
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-10.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 4: Start Exporting the Edited Video
 
 When everything is OK, specify a destination folder to save the output video by pressing the **inverted triangle** button on the bottom. Finally, hit the **Run** button to start exporting the video.
 
 ![How to Edit a Video on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-11.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Multi-functional Free Video Editor
 
@@ -197,10 +169,6 @@ Apart from the video editing and conversion features, Free HD Video Converter al
 Above is all I want to share with you about how to edit videos on Windows 10 for free. Despite the Photos and some online video editors being capable of video editing on Windows 10/11, they also have some drawbacks like format restrictions, usually crashes, limited video size and length, etc. Therefore, **Free HD Video Converter Factory** is definitely the best choice to edit videos on Windows. Just [**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) it to edit your videos free, handily, and effortlessly. Thanks for reading!
 
 ## FAQs about Windows 10 Built-in Video Editor
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q1\. Does Windows 10 have a video editing program?
 
@@ -224,10 +192,6 @@ How to Edit DVD Videos on Windows PC?
 
 ![WonderFox DVD Ripper Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-ripperpro.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **WonderFox DVD Ripper Pro**
 
 The professional DVD ripping software—WonderFox DVD Ripper Pro can bypass all DVD protection and capture videos from homemade and copy-protected DVDs. It enables you to trim, rotate, crop, and add effects to DVD videos with simple clicks and convert DVD videos to 300+ digital video formats and devices. You can also use it to compress DVDs to small sizes with high-quality preserved. Just download it now to digitize and edit your DVD videos now!
@@ -239,10 +203,6 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 [Free Download](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -259,24 +219,19 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-cutting-edge-6-urban-designs-in-mc/"><u>[New] Cutting-Edge 6 Urban Designs in MC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/boost-your-gaming-experience-secure-your-latest-steelseries-keyboard-driver-today/"><u>Boost Your Gaming Experience - Secure Your Latest SteelSeries Keyboard Driver Today!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-wacom-intuos-3-graphics-tablet-drivers-windows-version-100-working/"><u>Complete Guide to Downloading Wacom Intuos 3 Graphics Tablet Drivers - Windows Version [100% Working]</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-prolific-usb-to-serial-driver-on-windows-the-easy-way/"><u>Download Prolific Usb to Serial Driver on Windows — The Easy Way</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-installing-atheros-device-driver-software-for-windows-systems/"><u>Easy Guide: Installing Atheros Device Driver Software for Windows Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/efficient-and-troubleshooting-guide-installing-new-drivers-on-your-lenovo-t450/"><u>Efficient & Troubleshooting Guide: Installing New Drivers on Your Lenovo T450</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-your-perfect-match-logitech-g402-driver-downloads-for-seamless-experience/"><u>Find Your Perfect Match: Logitech G402 Driver Downloads for Seamless Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-focusrite-scarlett-2i2-audio-interface-software-for-pc/"><u>Free Download: Focusrite Scarlett 2I2 Audio Interface Software for PC</u></a></li>
-<li><a href="https://win-top.techidaily.com/free-online-converter-change-flv-to-lossless-flac-format-with-movavi/"><u>Free Online Converter: Change FLV to Lossless FLAC Format with Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fresh-lenovo-t430-driver-installation-for-modern-users-with-windows-11-8-and-7-operating-systems/"><u>Fresh Lenovo T430 Driver Installation for Modern Users with Windows 11, 8 & 7 Operating Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Lock Screen Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-gradual-audio-lowering-with-lumafusion-for-2024/"><u>In-Depth Analysis of Gradual Audio Lowering with Lumafusion for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendo-switchs-future-value-in-online-expansion/"><u>Nintendo Switch's Future: Value in Online Expansion?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/path-of-exile-2024-connection-issues-solved-a-comprehensive-instance-setup-guide/"><u>Path of Exile 2024 Connection Issues Solved: A Comprehensive Instance Setup Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/perfect-ways-to-refresh-dell-webcam-drivers-without-errors/"><u>Perfect Ways to Refresh Dell Webcam Drivers Without Errors</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/simple-guide-transferring-your-iphone-photos-to-snapchat-with-ease/"><u>Simple Guide: Transferring Your iPhone Photos to Snapchat with Ease</u></a></li>
-<li><a href="https://discover-data.techidaily.com/solve-your-printing-woes-with-ease-cleaning-techniques-for-blocked-printer-nozzles-by-yl-software-experts/"><u>Solve Your Printing Woes with Ease: Cleaning Techniques for Blocked Printer Nozzles by YL Software Experts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-f15-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy F15 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-explore-the-potential-of-slow-motion-video-for-different-industries-read-this-guide-and-choose-the-best-slow-motion-camera-app-to-crea/"><u>Updated 2024 Approved Explore the Potential of Slow-Motion Video for Different Industries. Read This Guide and Choose the Best Slow-Motion Camera App to Create Stunning Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iral-video-vault-top-10-most-viewed-in-a-day/"><u>[New] Viral Video Vault Top 10 Most Viewed in a Day</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-hit-tiktok-recipes-viral-culinary-delights/"><u>[Updated] 2024 Approved Hit TikTok Recipes Viral Culinary Delights</u></a></li>
+<li><a href="https://discover-data.techidaily.com/amplify-your-projects-now-with-get-sht-done-pro-elite-premade-bootstrap-ui-packages-from-creative-tim/"><u>Amplify Your Projects Now with Get SHT DONE PRO: Elite Premade Bootstrap UI Packages From Creative Tim</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001555810-cracking-the-code-on-ue4s-back-4-blood-gobi-fatality-fix-your-game-now/"><u>Cracking the Code on UE4's Back 4 Blood 'Gobi' Fatality - Fix Your Game Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-driver-download-for-creative-sound-blaster-z-speakers-windows-11-edition/"><u>Easy Driver Download for Creative Sound Blaster Z Speakers – Windows 11 Edition</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-steps-for-fresh-netgear-a6100-driver-download-and-patches-on-windows-systems/"><u>Easy Steps for Fresh Netgear A6100 Driver Download & Patches on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/experience-improved-performance-fetch-msis-x4eusnce-gaming-plus-driver-update-now/"><u>Experience Improved Performance - Fetch MSI's X4eusnce Gaming Plus Driver Update Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972129628-find-and-install-the-latest-amd-radeon-r9-360-drivers-on-windows-11-free-downloads-inside/"><u>Find & Install the Latest AMD Radeon R9 360 Drivers on Windows 11: Free Downloads Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968684462-hp-840-g3-driver-update-a-simple-guide-for-smooth-performance/"><u>HP 840 G3 Driver Update: A Simple Guide for Smooth Performance.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-25-essential-hashtags-for-increased-instagram-engagement/"><u>In 2024, 25 Essential Hashtags for Increased Instagram Engagement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-masterful-content-creation-with-these-top-editing-tools/"><u>In 2024, Masterful Content Creation with These Top Editing Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reening-youtube-footage-illegal-for-2024/"><u>Is Screening YouTube Footage Illegal for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/no-cost-software-upgrade-enhance-your-hp-deskjet-3050as-performance-with-latest-driver-on-windows-pc/"><u>No-Cost Software Upgrade: Enhance Your HP Deskjet 3050A's Performance with Latest Driver on Windows PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-reasons-why-sticking-with-iphone-14-beats-the-upgrade-to-iphone-16-pro-insights/"><u>Top 4 Reasons Why Sticking with iPhone 14 Beats the Upgrade to iPhone 16 Pro - Insights</u></a></li>
 </ul></div>
 
